@@ -11,10 +11,23 @@ Countdown;Countdown;Countdown;Countdown;cuenta atrás;Cuenta regresiva;Compte à
 MothersDay;Mother's Day;Mother's Day;Muttertag;Día de la Madre;Día de la Madre;Fête des mères;Fête des mères;Festa della mamma;Moederdag;母亲节;母親節;母の日;어머니날;День матери
 FathersDay;Father's Day;Father's Day;Vatertag;Día del Padre;Día del Padre;Fête des pères;Fête des pères;Festa del papà;Vaderdag;父亲节;世界父親節;父の日;아버지날;День отца
 WorldChild;International Children's Day;International Children's Day;Weltweiter Tag der Kinder;Día de la Infancia;Día de la Infancia;Jour mondial des enfants;Jour mondial des enfants;Giorno mondiale dei bambini;Internationale Kinderdag;国际儿童节;國際兒童節;国際こどもの日;국제 어린이날;Всемирный день детей
-SummerSolstice;Summer Solstice;Summer Solstice;Sommersonnenwende;Solsticio de verano;Solsticio de verano;Solstice d'été;Solstice d'été;Solstizio d'estate;Midzomer;夏至祭典;夏至祭典;夏至祭;하지 축제;Праздник лета
-WinterSolstice;Winter Solstice;Winter Solstice;Wintersonnenwende;Solsticio de invierno;Solsticio de invierno;Solstice d'hiver;Solstice d'hiver;Solstizio d'inverno;Midwinter;冬至祭典;冬至祭典;冬至祭;동지 축제;Праздник зимы
+SummerSolstice;Summer Solstice;Summer Solstice;Mittsommer;Solsticio de verano;Solsticio de verano;Solstice d'été;Solstice d'été;Solstizio d'estate;Midzomer;夏至;夏至;夏至;하지;Летнее солнцестояние
+SouthernMidwinter;Summer Solstice;Summer Solstice;Mittsommer;Solsticio de verano;Solsticio de verano;Solstice d'été;Solstice d'été;Solstizio d'estate;Midzomer;夏至;夏至;夏至;하지;Летнее солнцестояние
+WinterSolstice;Winter Solstice;Winter Solstice;Mittwinter;Solsticio de invierno;Solsticio de invierno;Solstice d'hiver;Solstice d'hiver;Solstizio d'inverno;Midwinter;冬至;冬至;冬至;동지;Зимнее солнцестояние
+Midwinter;Winter Solstice;Winter Solstice;Mittwinter;Solsticio de invierno;Solsticio de invierno;Solstice d'hiver;Solstice d'hiver;Solstizio d'inverno;Midwinter;冬至;冬至;冬至;동지;Зимнее солнцестояние
 Tanabata;Tanabata;Tanabata;Tanabata;Tanabata;Tanabata;Tanabata;Tanabata;Tanabata;Tanabata;日本七夕;日本七夕;七夕;다나바타;Фестиваль звезд
 GyurouSyokujyo;Cowherd & Weaver Girl Day;Cowherd & Weaver Girl Day;Kuhhirte-und-Weberin-Tag;El pastor y la tejedora;El pastor y la tejedora;Le bouvier et la tisserande;Le bouvier et la tisserande;Il pastore e la filatrice;Veehoeder-en-weefsterdag;七夕;七夕;牛郎織女の日;칠석;День пастуха и ткачихи
 GrapeHarvestFestival;Grape Harvest Festival;Grape Harvest Festival;Traubenlese-Festival;La vendimia;La vendimia;Festival du raisin;Festival du raisin;Festival della vendemmia;Druivenoogstfestival;葡萄丰收节;葡萄豐收節;ブドウの収穫祭;포도 수확제;День сбора винограда
 CowBoyFestival;Cowboy Festival;Cowboy Festival;Cowboy-Festival;Festival de los vaqueros;Festival de los vaqueros;Festival des cow-boys;Festival des cowboys;Festival cowboy;Cowboyfestival;牛仔节;牛仔節;カウボーイ祭り;카우보이 축제;Фестиваль ковбоев
 MidAutumnFestival;Moon-Viewing Day;Moon-Viewing Day;Mondfest;Celebración de la Luna;Celebración de la Luna;Fête de la lune;Fête de la Lune;Festa della luna;Maanfeest;中秋节;中秋節;お月見;추석;День луны
+Oomisoka;Ōmisoka;Ōmisoka;Ōmisoka;Ōmisoka;Ōmisoka;Ōmisoka;Ōmisoka;Ōmisoka;Ōmisoka;跨年夜;跨年夜;大晦日;오미소카;Омисока
+NewYearsEveGermany;Silvester;Silvester;Silvester;Silvester;Silvester;Silvester;Silvester;Silvester;Silvester;New Year's Eve;New Year's Eve;New Year's Eve;질베스터;Сильвестр
+NewYearsEveSpain;Nochevieja;Nochevieja;Nochevieja;Nochevieja;Nochevieja;Nochevieja;Nochevieja;Nochevieja;Nochevieja;New Year's Eve;New Year's Eve;New Year's Eve;노체 비에하;Ночевьеха
+NewYearsEveWorld;New Year's Eve;New Year's Eve;Neujahrsabend;Fin de año;Fin de año;Réveillon du nouvel an;Réveillon du Nouvel An;Ultimo dell'anno;Oudejaarsavond;New Year's Eve;New Year's Eve;New Year's Eve;새해 전야;Канун Нового года
+RegionNewYear;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;新年;新年;正月;새해;Сёгацу
+RegionNewYear2;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;新年;新年;正月;새해;Сёгацу
+RegionNewYear3;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;Shōgatsu;新年;新年;正月;새해;Сёгацу
+RoshiaNewYear;New Year's Day;New Year's Day;Neujahr;Año Nuevo;Año Nuevo;Jour de l'an;Jour de l'An;Capodanno;Nieuwjaarsdag;New Year;New Year;New Year;새해;Новый год
+WorldNewYear;New Year's Day;New Year's Day;Neujahr;Año Nuevo;Año Nuevo;Jour de l'an;Jour de l'An;Capodanno;Nieuwjaarsdag;New Year;New Year;New Year;새해;Новый год
+KoreaNewYear;New Year's Day;New Year's Day;Neujahr;Año Nuevo;Año Nuevo;Jour de l'an;Jour de l'An;Capodanno;Nieuwjaarsdag;新年;新年;正月;새해;Новый год
+ChinaNewYear;New Year's Day;New Year's Day;Neujahr;Año Nuevo;Año Nuevo;Jour de l'an;Jour de l'An;Capodanno;Nieuwjaarsdag;新年;新年;正月;새해;Новый год
