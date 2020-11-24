@@ -16,8 +16,11 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1148_Accessory_09654;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 1182_Accessory_12128;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 1183_Accessory_12129;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
+1225_Accessory_12662;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
+1226_Accessory_12663;Hair Color;Hair Color;Haarfarbe;Color del pelo;Color del pelo;Couleur de cheveux;Couleur de cheveux;Colore dei capelli;Haarkleur;发色;頭髮顏色;ヘアカラー;헤어 컬러;Цвет волос
+1300_Accessory_13215;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 184_Accessory_03549;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-185_Accessory_03550;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
+185_Accessory_03550;Hair Color;Hair Color;Haarfarbe;Color del pelo;Color del pelo;Couleur de cheveux;Couleur de cheveux;Colore dei capelli;Haarkleur;发色;頭髮顏色;ヘアカラー;헤어 컬러;Цвет волос
 257_Accessory_04235;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 257_Accessory_11184;Gold;Gold;Gold;Dorado;Dorado;Or;Or;Dorato;Goud;金色;金色;ゴールド;골드;Золотой
 257_Accessory_11185;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
@@ -133,6 +136,12 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 418_Accessory_04513;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 418_Accessory_11008;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 418_Accessory_11009;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
+432_Accessory_04551;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
+432_Accessory_11493;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
+432_Accessory_11494;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
+432_Accessory_11495;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
+432_Accessory_11496;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
+432_Accessory_11497;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 433_Accessory_04552;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 433_Accessory_11498;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 433_Accessory_11499;Silver;Silver;Silber;Plateado;Plateado;Argent;Argent;Argentato;Zilver;银色;銀色;シルバー;실버;Серебряный
@@ -180,14 +189,14 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 496_Accessory_04669;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 496_Accessory_11093;Dark brown;Dark brown;Dunkelbraun;Marrón oscuro;Marrón oscuro;Brun foncé;Brun foncé;Marrone scuro;Donkerbruin;深棕色;深棕色;ダークブラウン;다크 브라운;Темно-коричневый
 497_Accessory_04671;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
-498_Accessory_04672;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
-502_Accessory_04676;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
+498_Accessory_04672;Hair Color;Hair Color;Haarfarbe;Color del pelo;Color del pelo;Couleur de cheveux;Couleur de cheveux;Colore dei capelli;Haarkleur;发色;頭髮顏色;ヘアカラー;헤어 컬러;Цвет волос
+502_Accessory_04676;Hair Color;Hair Color;Haarfarbe;Color del pelo;Color del pelo;Couleur de cheveux;Couleur de cheveux;Colore dei capelli;Haarkleur;发色;頭髮顏色;ヘアカラー;헤어 컬러;Цвет волос
 503_Accessory_04677;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
 504_Accessory_04678;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 504_Accessory_11166;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 504_Accessory_11167;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 504_Accessory_11168;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
-505_Accessory_04679;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
+505_Accessory_04679;Hair Color;Hair Color;Haarfarbe;Color del pelo;Color del pelo;Couleur de cheveux;Couleur de cheveux;Colore dei capelli;Haarkleur;发色;頭髮顏色;ヘアカラー;헤어 컬러;Цвет волос
 508_Accessory_04682;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 509_Accessory_04683;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 509_Accessory_11226;Ochre;Ochre;Ocker;Ocre;Ocre;Ocre;Ocre;Ocra;Okergeel;红褐色;土黃色;オーカー;황토색;Охряный

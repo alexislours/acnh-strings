@@ -10,7 +10,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 030;tropical muumuu;tropical muumuu;Ananas-Strandkleid;vestido aloha piñas;vestido aloha piñas;muumuu tropical;muumuu tropical;vestito tropicale;ananas-mu⁠ʻ⁠umu⁠ʻ⁠u;凤梨图案夏威夷连身裙;鳳梨圖案夏威夷連身裙;パインがらムームー;파인애플 원피스;тропическое муу-муу
 031;academy uniform;academy uniform;Sonntagskleid;vestido serio;vestido serio;tenue académique;tenue académique;vestito da istitutrice;kostschooluniform;端庄洋装;端莊洋裝;よそいきなふく;나들이 원피스;школьная форма
 032;retro dress;retro dress;Vintage-Kleid;vestido retro sin mangas;vestido retro sin mangas;robe droite rétro;robe droite rétro;vestito vintage;retrojurk met ceintuur;复古直筒连身裙;復古直筒連身裙;レトロボックスワンピース;복고풍 박스 원피스;платье-ретро
-038;dazed dress;dazed dress;Wohlfühlkleid;vestido rombos;vestido rombos;robe losange;robe losange;vestito a quadri rosa;ruitenjurk;梦幻色系格子连身裙;夢幻色系格子連身裙;ゆめいろこうしワンピース;꿈색 체크무늬 원피스;платье с ромбами
+038;dazed dress;dazed dress;Wohlfühlkleid;vestido rombos;vestido rombos;robe losange;robe losange;vestito a quadri;ruitenjurk;梦幻色系格子连身裙;夢幻色系格子連身裙;ゆめいろこうしワンピース;꿈색 체크무늬 원피스;платье с ромбами
 039;prim outfit;prim outfit;Adrett-Kleid;vestido recatado;vestido recatado;ensemble soigné;ensemble soigné;completo sobrio;keurige outfit;气质套装;氣質套裝;せいそなアンサンブル;청순한 원피스;аккуратный костюм
 041;belted dotted dress;belted dotted dress;Tupfen-Kleid;vestido lunares y cinturón;vestido a lunares y cinturón;robe cintrée à pois;robe cintrée à pois;vestito a pois con cintura;stippeljurk met ceintuur;附腰带圆点连身裙;圓點腰帶連身裙;ベルトつきみずたまワンピース;물방울 벨트 원피스;платье в горошек на поясе
 045;blossom dress;blossom dress;Blütenkleid;vestido florido;vestido florido;robe d'été fleurie;robe d'été fleurie;vestito floreale;gebloemde jurk;花朵连身裙;花紋連身裙;はながらワンピース;꽃무늬 원피스;платье в цветочек
@@ -68,7 +68,11 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1209;sky-egg outfit;sky-egg outfit;Luft-Glücksei-Outfit;traje de huevo celeste;traje de huevo celeste;tenue œuf aérien;tenue œuf aérien;abito a uovo celeste;luchtei-outfit;飞天蛋衣服;飛天蛋衣服;そらとぶたまごのふく;하늘을 나는 달걀 옷;наряд «Небесное яйцо»
 1210;water-egg outfit;water-egg outfit;Wasser-Glücksei-Outfit;traje de huevo acuático;traje de huevo acuático;tenue œuf aquatique;tenue œuf aquatique;abito a uovo acquatico;waterei-outfit;鱼儿蛋衣服;魚兒蛋衣服;サカナのたまごのふく;물고기 달걀 옷;наряд «Водяное яйцо»
 1219;wedding tuxedo;wedding tuxedo;Hochzeits-Smoking;esmoquin nupcial;esmoquin nupcial;smoking de mariage;habit de mariage;smoking nuziale;trouwsmoking;纯白晚礼服;純白晚禮服;じゅんぱくのタキシード;순백 턱시도;свадебный смокинг
-141;cake dress;cake dress;Brautkleid;vestido nupcial;vestido nupcial;robe de mariée;robe de mariée;vestito da sposa;bruidsjurk;纯白洋装;純白洋裝;じゅんぱくのドレス;순백 드레스;свадебное платье
+1230;pirate-treasure robe;pirate-treasure robe;Piratenschatzgewand;casaca del tesoro pirata;casaca del tesoro pirata;tunique de butin pirate;tunique trésor pirate;costume tesoro pirata;piratenjas;海盗宝物长袍;海盜寶物長袍;かいぞくのおたからローブ;호화로운 해적 로브;пиратский камзол
+1231;pirate outfit;pirate outfit;Piraten-Outfit;traje de pirata;traje de pirata;tenue de pirate;tenue de pirate;costume da mozzo pirata;piratenoutfit;海盗服;海盜服;かいぞくのふく;해적 옷;пиратский наряд
+1244;mermaid fishy dress;mermaid fishy dress;Nixen-Fischkleid;vestido cola de sirena;vestido cola de sirena;robe océane de sirène;robe océane de sirène;abito a scaglie sirena;meerminnenjurk;人鱼鱼儿洋装;人魚魚兒洋裝;マーメイドなおさかなドレス;머메이드 물고기 드레스;платье русалки «Рыбка»
+1245;mermaid princess dress;mermaid princess dress;Nixen-Prinzessinnenkleid;vestido princesa sirena;vestido princesa sirena;robe de princesse sirène;robe de princesse sirène;abito principessa sirena;meerminprinsessenjurk;人鱼公主洋装;人魚公主洋裝;マーメイドなプリンセスドレス;머메이드 공주 드레스;платье русалки «Царевна»
+141;wedding dress;wedding dress;Brautkleid;vestido nupcial;vestido nupcial;robe de mariée;robe de mariée;vestito da sposa;trouwjurk;纯白洋装;純白洋裝;じゅんぱくのドレス;순백 드레스;свадебное платье
 146;nurse's dress uniform;nurse's dress uniform;Schwesternkittel;bata auxiliar de clínica;bata auxiliar de clínica;blouse d'infirmière;tenue d'infirmière;uniforme da infermiera;verpleegstersuniform;护士连身裙;護士連身裙;かんごしのワンピース;간호사 원피스;форма медсестры
 150;PJ outfit;PJ outfit;Pyjama;pijama de dos piezas;pijama de dos piezas;pyjama;pyjama;pigiama;pyjama;睡衣;睡衣;パジャマ;파자마;пижама
 153;ruffled dress;ruffled dress;Korsettkleid;vestido con corsé;vestido con corsé;robe à corset;robe à corset;vestito pieghettato;victoriaanse jurk;束腰洋装;馬甲洋裝;コルセットドレス;코르셋 드레스;платье со шнуровкой
@@ -116,7 +120,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 221;sailor-collar dress;sailor-collar dress;Matrosenkragenkleid;vestido marinero;vestido marinero;robe à col marin;robe à col marin;vestito alla marinara;matrozenjurkje;海军风连身裙;海軍風連身裙;マリンルックワンピース;마린 원피스;платье морячки
 226;sari;sari;Sari;sari;sari;sari;sari;sari;sari;印度传统服装;印度傳統服裝;サリー;사리;сари
 227;adventure dress;adventure dress;Wunderlandkleid;vestido maravilloso;vestido maravilloso;robe des merveilles;robe des merveilles;vestito meraviglioso;wonderlijke jurk;梦游仙境连身裙;夢遊仙境連身裙;ふしぎなワンピース;이상한 원피스;чудесное платье
-232;sweetheart dress;sweetheart dress;Trägermaxikleid;vestido largo sin mangas;vestido largo sin mangas;robe à col en cœur;robe à col en cœur;vestito con scollo a cuore;overgooier met trui;马甲连身裙;馬甲連身裙;ビスチェワンピース;뷔스티에 원피스;платье макси на бретелях
+232;sweetheart dress;sweetheart dress;Trägermaxikleid;vestido largo sin mangas;vestido largo con mangas;robe à col en cœur;robe à col en cœur;vestito con scollo a cuore;overgooier met trui;马甲连身裙;馬甲連身裙;ビスチェワンピース;뷔스티에 원피스;платье макси на бретелях
 235;fairy dress;fairy dress;Feenkleid;vestido de hada;vestido de hada;robe de fée;robe de fée;vestito da fata;elfenjurk;妖精裙;妖精服;ようせいのふく;요정의 옷;платье феи
 239;suspender outfit;suspender outfit;Hosenträger-Outfit;conjunto con tirantes;conjunto con tirantes;costume à bretelles;costume à bretelles;completo con bretelle;outfit met bretels;背带裤装;吊帶服;サスペンダーなふく;멜빵 의상;наряд с подтяжками
 247;sprite costume;sprite costume;Wichtelkostüm;disfraz de duende;disfraz de duende;costume de lutin;costume de lutin;costume da folletto;woudkostuum;小矮人装;小矮人服;こびとのふく;노움 옷;костюм эльфа
@@ -127,6 +131,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 282;wizard's robe;wizard's robe;Zaubererumhang;túnica de mago;túnica de mago;tenue de magicien;tenue de magicien;tunica da mago;tovenaarsmantel;魔术师长袍;魔術師長袍;まじゅつしのローブ;마법사 로브;мантия волшебника
 291;striped halter dress;striped halter dress;Streifenträgerkleid;vestido a rayas sin mangas;vestido a rayas sin mangas;robe rayée sans manches;robe rayée sans manches;vestito a righe smanicato;mouwloze gestreepte jurk;绕颈连身裙;繞頸連身裙;ホルターネックのワンピース;홀터넥 원피스;платье с лямкой на шее
 293;miko attire;miko attire;Miko-Outfit;uniforme de sacerdotisa;uniforme de sacerdotisa;tenue de miko;tenue de miko;tenuta da miko;miko-outfit;巫女服;巫女服;みこしょうぞく;무녀 의상;наряд мико
+294;pirate dress;pirate dress;Piratenkleid;vestido de pirata;vestido de pirata;robe de pirate;robe de pirate;vestito da pirata;piratenjurk;海盗连身裙;海盜連身裙;かいぞくのワンピース;해적 원피스;платье пиратки
 297;retro sleeveless dress;retro sleeveless dress;Charlestonkleid;vestido de día retro;vestido de día retro;robe années folles;robe années folles;vestito rétro smanicato;mouwloze retrojurk;摩登少女连身裙;摩登少女連身裙;モガなワンピース;복고풍 민소매 원피스;ретро-платье без рукавов
 302;hakama;hakama;Hakama;hakama;hakama;hakama;hakama;hakama;hakama;和服袴;和服褶裙;はかま;하카마;хакама
 304;full-body tights;full-body tights;Neoprenanzug;traje térmico;traje térmico;collant intégral;collant intégral;tuta aderente;stretchpak;全身紧身衣;全身緊身衣;ぜんしんタイツ;전신 타이츠;облегающий комбинезон
@@ -199,7 +204,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 578;wrestling singlet;wrestling singlet;Ringer-Anzug;maillot de lucha deportiva;maillot de lucha deportiva;combinaison de lutte;combinaison de lutte;tuta da wrestling;worstelpakje;摔角手制服;摔角制服;レスリングのユニフォーム;레슬링 유니폼;трико для борьбы
 582;sleeveless silk dress;sleeveless silk dress;Asia-Kleid;vestido de seda sin mangas;vestido de seda sin mangas;qipao sans manches;qipao sans manches;vestito di seta smanicato;mouwloze zijden jurk;旗袍;旗袍;チャイナドレス;차이나 드레스;шелковое платье
 586;astro dress;astro dress;Astro-Kleid;vestido corto futurista;vestido corto futurista;robe astro;robe astro;vestito futuristico;astrojurk;未来感连身裙;太空連身裙;スペースワンピース;우주 원피스;космическое платье
-650;hot-dog costume;hot-dog costume;Hotdogkostüm;disfraz de perrito caliente;disfraz de perrito caliente;costume de hot dog;costume de hot dog;costume hot-dog;hotdogpak;热狗装;熱狗服;ホットドッグなふく;핫도그 의상;костюм «Хот-дог»
+650;hot-dog costume;hot-dog costume;Hotdogkostüm;disfraz de perrito caliente;disfraz de perrito caliente;costume de hot-dog;costume de hot-dog;costume hot-dog;hotdogpak;热狗装;熱狗服;ホットドッグなふく;핫도그 의상;костюм «Хот-дог»
 651;coveralls with arm covers;coveralls with arm covers;Stulpenoverall;mono con protectores;overol con protectores;combinaison de ferme;combinaison de ferme;tuta con maniche rinforzate;boerenoverall;附袖套连体工作服;連身工作服搭袖套;うでカバーつきつなぎ;토시가 있는 작업복;рабочий комбинезон
 695;stylish jumpsuit;stylish jumpsuit;Hosenanzug;vestido pantalón elegante;vestido pantalón elegante;combinaison élégante;combinaison élégante;tuta elegante;modieuze jumpsuit;连身裤;連身褲;オールインワン;올인원;стильный комбинезон
 703;instant-muscles suit;instant-muscles suit;Muskelanzug;disfraz de musculitos;traje con músculos;costume effet gonflette;costume effet gonflette;costume muscoloso;spierballenpak;肌肉装;肌肉裝;マッスルスーツ;근육 슈트;костюм с мышцами

@@ -1003,13 +1003,13 @@ Ftr_01913_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_01913_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_01913_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_01913_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_01913_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_01913_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_01929_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_01929_1;Natural wood;Natural wood;Naturholz;Madera natural;Madera natural;Bois naturel;Bois naturel;Legno naturale;Naturel hout;自然木色;自然木色;ナチュラルウッド;내추럴 우드;Натуральное дерево
 Ftr_01929_2;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois foncé;Bois foncé;Legno scuro;Donker hout;深木色;黑木色;ダークウッド;다크 우드;Темное дерево
 Ftr_02010_0;Basketball;Basketball;Basketball;Baloncesto;Básquetbol;Basket;Basketball;Pallacanestro;Basketbal;篮球;籃球;バスケットボール;농구공;Баскетбольный мяч
 Ftr_02010_1;Soccer ball;Soccer ball;Fußball;Fútbol;Fútbol;Foot;Ballon de soccer;Calcio;Voetbal;足球;足球;サッカーボール;축구공;Футбольный мяч
-Ftr_02010_2;Volleyball;Volleyball;Volleyball;Voleibol;Voleibol;Volley;Volleyball;Pallavolo;Volleybal;排球;排球;バレーボール;배구봉;Волейбольный мяч
+Ftr_02010_2;Volleyball;Volleyball;Volleyball;Voleibol;Voleibol;Volley;Volleyball;Pallavolo;Volleybal;排球;排球;バレーボール;배구공;Волейбольный мяч
 Ftr_02010_3;Dodgeball;Dodgeball;Völkerball;Balón prisionero;Quemados;Ballon-prisonnier;Ballon-chasseur;Palla avvelenata;Trefbal;躲避球;躲避球;ドッジボール;피구공;Мяч для доджбола
 Ftr_02012_0;Blank;Blank;Leer;En blanco;En blanco;Aucune;Aucune;Vuota;Leeg;无图案;無圖案;無地;무지;Чистая
 Ftr_02012_1;After school;After school;Nach der Schule;Después de clase;Después de clase;Parapluie « ai-ai gasa »;Parapluie « ai-ai gasa »;Doposcuola;Na schooltijd;放学后;放學後;放課後;방과후;После урока
@@ -1080,7 +1080,7 @@ Ftr_02560_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_02560_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_02560_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_02560_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_02560_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_02560_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_02561_0;Natural;Natural;Natur;Natural;Natural;Bois naturel;Bois naturel;Naturale;Naturel;自然色;自然色;ナチュラル;내추럴;Натуральный
 Ftr_02561_1;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_02561_2;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
@@ -1102,7 +1102,7 @@ Ftr_02605_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_02605_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_02605_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_02605_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_02605_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_02605_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_02614_0;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_02614_1;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_02614_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
@@ -1341,7 +1341,7 @@ Ftr_03436_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_03436_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03436_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_03436_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_03436_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_03436_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_03438_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_03438_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
 Ftr_03438_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
@@ -1349,7 +1349,7 @@ Ftr_03438_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_03438_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03438_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_03438_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_03438_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_03438_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_03439_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_03439_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
 Ftr_03439_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
@@ -1357,7 +1357,7 @@ Ftr_03439_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_03439_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03439_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_03439_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_03439_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_03439_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_03442_0;Natural;Natural;Natur;Natural;Natural;Naturel;Naturel;Naturale;Naturel;自然色;自然色;ナチュラル;내추럴;Натуральный
 Ftr_03442_1;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03442_2;Dark brown;Dark brown;Dunkelbraun;Marrón oscuro;Marrón oscuro;Brun foncé;Brun foncé;Marrone scuro;Donkerbruin;深棕色;深棕色;ダークブラウン;다크 브라운;Темно-коричневый
@@ -1386,7 +1386,7 @@ Ftr_03449_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_03449_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03449_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_03449_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_03449_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_03449_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_03467_0;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_03467_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_03467_2;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -1508,7 +1508,7 @@ Ftr_03582_3;Textbook;Textbook;Lehrbuch;Libro de texto;Libro de texto;Manuel scol
 Ftr_03583_0;Nintenmaru - Big Catch;Nintenmaru - Big Catch;Nintenmaru – Großer Fang;Gran pesca;Gran pesca;Nintenmaru - Belle prise;Nintenmaru - Belle prise;Grossa preda;Grote vangst;渔业丰收;漁貨豐收;大漁;풍어;Большой улов
 Ftr_03583_1;Tsurukamemaru - Longevity;Tsurukamemaru - Longevity;Tsurukamemaru – Langlebig;Longevidad;Longevidad;Tsurukamemaru - Longévité;Tsurukamemaru - Longévité;Longevità;Lang leven;鹤龟号;鶴龜號;鶴亀丸;학과 거북;Долговечность
 Ftr_03583_2;Marufukumaru - Bounty;Marufukumaru - Bounty;Marufukumaru – Guter Fang;Abundancia;Abundancia;Marufukumaru - Abondance;Marufukumaru - Abondance;Abbondanza;Overvloed;丸福号;丸福號;丸福丸;복;Изобилие
-Ftr_03583_3;Uomasamaru III - Launch;Uomasamaru III - Launch;Uomasamaru III – Stapellauf;Inauguración;Inauguración;Uomasamaru III - Baptême;Uomasamaru III - Baptême;Varo;Behouden vaart;鱼政号;魚政丸;魚政丸;물고기;Первое плавание
+Ftr_03583_3;Uomasamaru III - Launch;Uomasamaru III - Launch;Uomasamaru III – Stapellauf;Inauguración;Inauguración;Uomasamaru III - Baptême;Uomasamaru III - Baptême;Varo;Behouden vaart;鱼政号;魚政號;魚政丸;물고기;Первое плавание
 Ftr_03584_0;Alphabet;Alphabet;Alphabet;Alfabeto;Alfabeto;Alphabet;Alphabet;Alfabeto;Alfabet;英文字母;英文字母;アルファベット;알파벳;Алфавит
 Ftr_03584_1;Multiplication tables;Multiplication tables;Einmaleins;Tablas de multiplicar;Tablas de multiplicar;Tables de multiplication;Tables de multiplication;Tabelline;Vermenigvuldigingstafels;九九乘法表;九九乘法表;九九;구구단;Таблица умножения
 Ftr_03584_2;Periodic table;Periodic table;Periodensystem;Tabla periódica;Tabla periódica;Tableau périodique;Tableau périodique;Tavola periodica;Periodiek systeem;元素周期表;元素符號表;元素記号;원소 기호;Периодическая таблица
@@ -1572,7 +1572,7 @@ Ftr_03617_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピン
 Ftr_03617_5;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_03617_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_03617_7;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
-Ftr_03618_0;No finish;No finish;Natur;Sin barnizar;Sin barnizar;Bois nu;Bois nu;Non rifinito;Ongelakt;无涂装;無塗裝;無塗装;미완성;Без покрытия
+Ftr_03618_0;No finish;No finish;Unbehandelt;Sin barnizar;Sin barnizar;Bois nu;Bois nu;Non rifinito;Ongelakt;无涂装;無塗裝;無塗装;미완성;Без покрытия
 Ftr_03618_1;Cherry brown;Cherry brown;Kirschholz;Roble;Roble;Merisier;Merisier;Marrone;Bruin kersenhout;樱桃棕;櫻桃棕;チェリーブラウン;체리 브라운;Вишневое дерево
 Ftr_03618_2;Dark;Dark;Dunkel;Nogal;Nogal;Sombre;Sombre;Scuro;Donker;暗木色;啞光黑;ダーク;다크;Темное дерево
 Ftr_03618_3;Natural;Natural;Natur;Natural;Natural;Naturel;Naturel;Naturale;Naturel;自然色;自然色;ナチュラル;내추럴;Натуральный
@@ -2596,7 +2596,7 @@ Ftr_07132_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_07132_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_07132_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_07132_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_07132_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_07132_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_07133_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_07133_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
 Ftr_07133_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
@@ -2604,7 +2604,7 @@ Ftr_07133_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_07133_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_07133_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_07133_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_07133_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_07133_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_07134_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_07134_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
 Ftr_07134_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
@@ -2612,7 +2612,7 @@ Ftr_07134_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_07134_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_07134_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_07134_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_07134_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_07134_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_07135_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_07135_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Ftr_07135_2;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -2633,7 +2633,7 @@ Ftr_07137_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_07137_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_07137_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_07137_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_07137_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_07137_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_07138_0;Patterned;Patterned;Gemustert;Florecitas;Florecitas;À motif;À motif;Motivo stampato;Patroon;图案;圖案;パターン;패턴;С узором
 Ftr_07138_1;Green & white;Green & white;Grün-weiß;Oveja;Oveja;Mouton;Mouton;Verde e bianco;Groen-wit;动物;動物;アニマル;애니멀;Зеленый с белым
 Ftr_07138_2;Floral;Floral;Blumen;Ramo de flores;Ramo de flores;Fleurs;Fleurs;Floreale;Gebloemd;花朵;花朵;フラワー;플라워;Цветочный
@@ -2812,7 +2812,7 @@ Ftr_07317_0;White granite;White granite;Weißer Granit;Granito blanco;Granito bl
 Ftr_07317_1;Andesite;Andesite;Andesit;Andesita;Andesita;Andésite;Andésite;Andesite;Andesiet;本小松石;本小松石;本小松石;안산암;Андезит
 Ftr_07317_2;Black granite;Black granite;Schwarzer Granit;Granito negro;Granito negro;Granit noir;Granit noir;Granito nero;Zwart graniet;黑色花岗岩;黑大理石;黒御影石;검은색 화강암;Черный гранит
 Ftr_07317_3;Brown granite;Brown granite;Brauner Granit;Granito marrón;Granito marrón;Granit rose;Granit rose;Granito marrone;Bruin graniet;花岗岩;花岡岩;草水石;붉은색 화강암;Коричневый гранит
-Ftr_07317_4;Mossy stone;Mossy stone;Bemooster Stein;Con musgo;Con musgo;Pierre moussue;Pierre moussue;Pietra muschiosa;Mossige steen;烂掉的石头;爛掉的石頭;朽ちた石;부스러진 돌;Замшелый камень
+Ftr_07317_4;Mossy stone;Mossy stone;Bemooster Stein;Con musgo;Con musgo;Pierre moussue;Pierre moussue;Pietra muschiosa;Mossige steen;烂掉的石头;爛掉的石頭;朽ちた石;이끼 낀 돌;Замшелый камень
 Ftr_07379_0;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_07379_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_07390_0;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
@@ -2928,7 +2928,7 @@ Ftr_07845_3;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_07865_0;Cranes;Cranes;Kraniche;Grullas;Grullas;Grues;Grues;Gru;Kraanvogels;鹤;鶴;鶴;학;Журавли
 Ftr_07865_1;Tree peonies;Tree peonies;Pfingstrosen;Peonías;Peonías;Pivoine arbustive;Pivoine arbustive;Peonia;Pioenrozen;牡丹;牡丹;牡丹;모란;Пионы
 Ftr_07865_2;Wisteria;Wisteria;Wisteria;Glicina;Glicina;Glycine;Glycine;Glicine;Blauweregen;紫藤;紫藤花;藤;등나무;Глициния
-Ftr_07865_3;Balls;Balls;Bälle;Bolas;Bolas;Balles;Balles;Palle;Bollen;刺果;手鞠;毬;색실 공;Шары
+Ftr_07865_3;Balls;Balls;Bälle;Bolas;Bolas;Balles;Balles;Palle;Bollen;手鞠;手鞠;毬;색실 공;Шары
 Ftr_07865_4;Hawk;Hawk;Falke;Halcón;Halcón;Faucon;Faucon;Falco;Havik;鹰;鷹;鷹;매;Сокол
 Ftr_07867_0;Home;Home;Zuhause;Residencia;Residencia;Maison;Maison;Casa;Thuis;自己家;自己家;お家;집;Дом
 Ftr_07867_1;Forest;Forest;Wald;Bosque;Bosque;Forêt;Forêt;Foresta;Bos;森林;森林;森;숲;Лес
@@ -2992,7 +2992,7 @@ Ftr_08826_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois so
 Ftr_08826_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_08826_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
 Ftr_08826_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий цвет
-Ftr_08826_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
+Ftr_08826_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_09502_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_09502_1;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_09502_2;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый

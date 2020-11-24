@@ -41,6 +41,9 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1202;egg party hat;egg party hat;Glücksei-Partyhut;sombrero de fiesta huevo;sombrero de fiesta huevo;chapeau festif œuf;chapeau festif œuf;cappello uova da sera;eierfeesthoed;蛋派对帽;蛋派對帽;たまごのパーティーハット;달걀 파티 모자;шляпка на День зайцев
 1221;handmade crown;handmade crown;Bastelkrone;corona hecha a mano;corona hecha a mano;coiffe bricolée;coiffe bricolée;corona fatta a mano;knutselkroon;手工王冠;手作王冠;てづくりのおうかん;수제 왕관;самодельная корона
 1222;summer-solstice crown;summer-solstice crown;Sommersonnenwendekrone;corona de girasoles;tiara de girasoles;coiffe solstice d'été;coiffe solstice d'été;corona solstizio d'estate;midzomerbloemenkroon;夏至花冠;夏至花冠;げしさいのはなかんむり;하지 화관;корона к Празднику лета
+1224;mermaid tiara;mermaid tiara;Nixen-Diadem;tiara de sirena;tiara de sirena;tiare de sirène;tiare de sirène;tiara sirena;meerminnentiara;人鱼头冠;人魚頭冠;マーメイドなティアラ;머메이드 티아라;диадема русалки
+1229;pirate bandanna;pirate bandanna;Piratenkopftuch;pañuelo de pirata;pañuelo de pirata;bandeau de pirate;bandeau de pirate;bandana da pirata;piratenbandana;海盗头巾;海盜頭巾;かいぞくのバンダナ;해적 반다나;пиратская бандана
+1255;pirate-treasure crown;pirate-treasure crown;Piratenschatzkrone;corona del tesoro pirata;corona del tesoro pirata;coiffe de butin pirate;coiffe trésor pirate;corona tesoro pirata;piratenkroon;海盗宝物王冠;海盜寶物王冠;かいぞくのおたからおうかん;호화로운 해적 왕관;пиратская корона
 533;school hat;school hat;Schülerhut;gorra de colegio;gorra de colegio;chapeau d'écolier;chapeau d'écolier;cappello da scolaro;Japans schoolhoedje;上学帽;上學帽;つうがくぼう;유치원생 모자;школьная шапочка
 550;New Year's hat;New Year's hat;Neujahrshut;gorro de Año Nuevo;gorro de Año Nuevo;chapeau de nouvel an;chapeau de Nouvel An;cappello di Capodanno;nieuwjaarshoedje;新年帽;新年帽;ニューイヤーハット;새해 모자;новогодняя шапочка
 551;birthday hat;birthday hat;Geburtstagshut;sombrero de cumpleaños;sombrero de cumpleaños;chapeau anniversaire;chapeau de fête;cappello di compleanno;verjaardagshoed;生日帽;生日帽;バースデーハット;생일 모자;именинная шапка
@@ -76,10 +79,11 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 590;safety helmet;safety helmet;Baustellenhelm;casco de obra;casco de obra;casque de chantier;casque de chantier;elmetto protettivo;veiligheidshelm;安全帽;安全帽;あんぜんヘルメット;안전모;каска строителя
 591;chef's hat;chef's hat;Kochmütze;gorro de chef;gorro de chef;toque;toque;cappello da cuoco;koksmuts;厨师帽;廚師帽;コックさんのぼうし;요리사 모자;колпак повара
 592;police cap;police cap;Polizeimütze;gorra de policía;gorra de policía;casquette de police;casquette de police;cappello da poliziotto;politiepet;警官帽;警官帽;けいかんのぼうし;경찰모;фуражка полицейского
+593;pirate's hat;pirate's hat;Piratenhut;sombrero pirata;sombrero pirata;chapeau de pirate;chapeau de pirate;cappello da pirata;piratenhoed;海盗帽子;海盜帽子;かいぞくのぼうし;해적 모자;пиратская двууголка
 594;bamboo hat;bamboo hat;Bambushut;gorro de bambú cónico;gorro de bambú cónico;nón lá;nón lá;cappello di bambù;bamboehoed;斗笠;斗笠;かさぼうし;삼각 삿갓;бамбуковая шапочка
 595;faux-fur hat;faux-fur hat;Kunstfellhut;gorro de pelo sintético;gorro de piel sintética;bonnet en fausse fourrure;bonnet en fausse fourrure;cappello di ecopelliccia;muts van imitatiebont;仿毛皮帽;仿毛皮帽;フェイクファーハット;인조털 모자;шапка «под мех»
 596;do-rag;do-rag;Bandana;pañuelo anudado;pañuelo anudado;bandana triangle;bandana triangle;bandana a quadri;Japanse hoofddoek;三角巾;三角巾;さんかくきん;삼각 두건;косынка
-597;knit hat;knit hat;Strickmütze;gorro de punto;gorro tejido;bonnet tricoté;tuque;cappello di maglia;gebreide muts;针织帽;針織帽;ニットキャップ;니트캡;вязаная шапочка
+597;knit hat;knit hat;Strickmütze;gorro de punto;gorro tejido;bonnet tricoté;tuque;cappello di maglia;gebreide muts;针织帽;針織帽;ニットキャップ;털모자;вязаная шапочка
 598;paperboy cap;paperboy cap;Botenmütze;gorra de granujilla;gorra travesura;casquette de livreur;casquette de livreur;coppola;golfpet;狩猎帽;狩獵帽;ハンチング;헌팅캡;кепка газетчика
 599;plain cap;plain cap;Schirmmütze;gorra sencilla;gorra sencilla;casquette militaire;casquette;berretto militare;eenvoudige pet;军帽;軍帽;ワークキャップ;워크캡;простая кепка
 617;sailor's hat;sailor's hat;Matrosenmütze;gorro marinero;gorro marinero;bonnet marin;bonnet de matelot;cappello da marinaio;matrozenpet;水手帽;水手帽;ふなのりのぼうし;선원 모자;шапочка моряка

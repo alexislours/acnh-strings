@@ -8,7 +8,7 @@ Ftr_00109;moss ball;moss ball;Moosgesteck;bola de musgo;bola de musgo;boule de m
 Ftr_00131;lucky cat;lucky cat;Glückskatze;gato de la suerte;gato de la suerte;chat fétiche;chat fétiche;gatto della fortuna;gelukskat;招财猫;招財貓;まねきねこ;복고양이;кот удачи
 Ftr_00132;succulent plant;succulent plant;Sukkulente;aloe pequeño;aloe pequeño;pot de succulentes;pot de succulentes;pianta grassa;vetplant;多肉植物;多肉植物;たにくしょくぶつ;다육 식물;суккуленты
 Ftr_00144;manhole cover;manhole cover;Kanaldeckel;tapa de cloaca;tapa de cloaca;plaque d'égout;plaque d'égout;tombino;putdeksel;人孔盖;人孔蓋;マンホール;맨홀;крышка люка
-Ftr_00146;cone;cone;Absperrhütchen;cono;cono;cône orange;cône;cono;verkeerskegel;三角锥;三角錐;パイロン;칼라콘;конус
+Ftr_00146;cone;cone;Absperrhütchen;cono;cono;cône;cône;cono;verkeerskegel;三角锥;三角錐;パイロン;칼라콘;конус
 Ftr_00287;exercise bike;exercise bike;Fahrradergometer;bicicleta estática;bicicleta estática;vélo d'appartement;vélo d'appartement;cyclette;hometrainer;健身脚踏车;健身腳踏車;エクササイズバイク;자전거 머신;велосипед-тренажер
 Ftr_00290;treadmill;treadmill;Laufband;cinta de correr;cinta de correr;tapis roulant;tapis roulant;tapis roulant;loopband;跑步机;跑步機;ランニングマシン;러닝 머신;беговая дорожка
 Ftr_00330;barbecue;barbecue;Grill;barbacoa;parrilla;barbecue;barbecue;barbecue;barbecue;烤肉炉;烤肉爐;バーベキューグリル;바비큐 그릴;гриль
@@ -48,7 +48,7 @@ Ftr_00724;kettle;kettle;Wasserkessel;tetera;tetera;bouilloire;bouilloire;bollito
 Ftr_00725;paper lantern;paper lantern;Papierlaterne;farolillo;farolito;lampion;lampion;lanterna di carta;papieren lantaarn;方形纸罩座灯;方形紙罩座燈;あんどん;사방등;бумажный фонарь
 Ftr_00729;garden rock;garden rock;Gartenstein;roca gruesa;roca gruesa;petit rocher jardin;petit rocher jardin;pietra da giardino;rots;常见庭院石;常見庭園石;よくあるにわいし;평범한 정원 돌;валун
 Ftr_00730;tall garden rock;tall garden rock;Gartenfels;roca alta;roca alta;grand rocher jardin;grand rocher jardin;pietra da giardino alta;rotsenduo;高耸庭院石;高聳庭園石;たかいにわいし;키가 큰 정원 돌;высокий валун
-Ftr_00739;tea table;tea table;Teetischchen;mesita;mesita;table à thé;table à thé;tavolo da tè;theetafel;茶几;茶几;ちゃぶだい;낮은 밥상;чайный стол
+Ftr_00739;tea table;tea table;Teetischchen;mesita;mesa redonda;table à thé;table à thé;tavolo da tè;theetafel;茶几;茶几;ちゃぶだい;낮은 밥상;чайный стол
 Ftr_00742;fireplace;fireplace;Kamin;chimenea;chimenea;cheminée;cheminée;caminetto;open haard;壁炉;壁爐;だんろ;난로;камин
 Ftr_00787;tape deck;tape deck;Radiorekorder;radiocasete;radiocasetera;cassettophone;magnétocassette;radio;cassettespeler;磁带录音机;卡帶收音機;ラジカセ;카세트라디오;магнитофон
 Ftr_00790;hi-fi stereo;hi-fi stereo;Hi-Fi-Anlage;cadena hi-fi;estéreo hi-fi;chaîne hi-fi;stéréo de pointe;stereo hi-fi;hifi-installatie;高级音响;高級音響;こうきゅうコンポ;고급 오디오;стереосистема Hi-Fi
@@ -108,7 +108,7 @@ Ftr_01092;popcorn machine;popcorn machine;Popcorn-Maschine;máquina de palomitas
 Ftr_01103;rocking chair;rocking chair;Schaukelstuhl;mecedora;mecedora;rocking-chair;chaise berçante;sedia a dondolo;schommelstoel;摇椅;搖椅;ロッキングチェア;흔들의자;кресло-качалка
 Ftr_01111;outdoor bath;outdoor bath;Freiluftbad;baño termal;baño termal;bain extérieur;bain extérieur;bagno termale;warmwaterbron;露天池;露天池;ろてんぶろ;노천온천;садовый пруд
 Ftr_01112;colorful wheel;colorful wheel;Zahlenrad;ruleta colorida;ruleta colorida;roue colorée;roue colorée;ruota colorata;kleurenwiel;转盘;轉盤;ルーレット;룰렛;разноцветное колесо
-Ftr_01116;sandbox;sandbox;Sandkasten;caja de arena;caja de arena;bac à sable;bac à sable;recinto per sabbia;zandbak;沙坑;沙坑;すなば;모래사장;песочница
+Ftr_01116;sandbox;sandbox;Sandkasten;caja de arena;caja de arena;bac à sable;bac à sable;recinto per sabbia;zandbak;沙坑;沙坑;すなば;모래 놀이 세트;песочница
 Ftr_01117;sand castle;sand castle;Sandburg;castillo de arena;castillo de arena;château de sable;château de sable;castello di sabbia;zandkasteel;沙堆城堡;沙堆城堡;すなのしろ;모래성;песочный замок
 Ftr_01120;scarecrow;scarecrow;Vogelscheuche;espantapájaros;espantapájaros;épouvantail;épouvantail;spaventapasseri;vogelverschrikker;稻草人;稻草人;かかし;허수아비;пугало
 Ftr_01124;sea globe;sea globe;Aquariumkugel;globo de acuario;globo de acuario;boule aquarium;boule aquarium;boccia acquario;aquariumglobe;海洋水晶球;海洋水晶球;シーグローブ;해저볼;морской шар
@@ -128,6 +128,7 @@ Ftr_01170;swinging bench;swinging bench;Schwingschaukel;balancín de jardín;mec
 Ftr_01171;synthesizer;synthesizer;Synthesizer;sintetizador;sintetizador;synthétiseur;synthétiseur;sintetizzatore;synthesizer;电子琴;電子琴;シンセサイザー;신시사이저;синтезатор
 Ftr_01177;foosball table;foosball table;Kickertisch;futbolín;fútbol de mesa;baby-foot;baby-foot;biliardino;tafelvoetbalspel;桌型足球台;桌型足球台;テーブルサッカー;테이블 축구;настольный футбол
 Ftr_01181;tennis table;tennis table;Tischtennisset;tenis de mesa;tenis de mesa;set tennis de table;set tennis de table;tavolo tennis da tavolo;tafeltennistafel;乒乓球桌;乒乓球桌;たっきゅうだい;탁구대;теннисный стол
+Ftr_01182;bamboo grass;bamboo grass;Tanabata-Bambus;caña de bambú;caña de bambú;bambou à vœux;bambou à vœux;pianta tradizionale;bamboe;七夕竹;七夕竹;たなばたのささ;소원성취 대나무;ветвь бамбука
 Ftr_01185;phone box;phone box;Telefonzelle;cabina telefónica;cabina telefónica;cabine téléphonique;cabine téléphonique;cabina del telefono;telefooncel;电话亭;電話亭;でんわボックス;공중전화 부스;телефонная будка
 Ftr_01186;telescope;telescope;Teleskop;telescopio;telescopio;télescope;télescope;telescopio;telescoop;望远镜;望遠鏡;ぼうえんきょう;망원경;телескоп
 Ftr_01189;tire stack;tire stack;Reifenstapel;pila de neumáticos;pila de llantas;pile de pneus;pile de pneus;pila di pneumatici;stapel autobanden;轮胎堆;輪胎堆;つまれたタイヤ;쌓인 타이어;стопка покрышек
@@ -149,6 +150,8 @@ Ftr_01241;DIY workbench;DIY workbench;Werkbank;banco de bricolaje;mesa de taller
 Ftr_01243;flashy-flower sign;flashy-flower sign;Blumengesteck;cartel florido;adorno florido;panneau fleuri;panneau fleuri;decorazione inaugurale;bloemenbord;花环;花環;はなわ;화환;яркий знак-цветок
 Ftr_01263;pear wardrobe;pear wardrobe;Birnenschrank;armario pera;armario pera;armoire poire;armoire poire;armadio pera;perenkast;梨子衣柜;梨子衣櫃;ナシのクロゼット;배 옷장;шкаф-груша
 Ftr_01266;barrel;barrel;Fass;tonel;tonel;tonneau;tonneau;barile;vat;木桶;木桶;たる;나무통;бочка
+Ftr_01268;pirate-ship cannon;pirate-ship cannon;Piratenschiffskanone;cañón de barco pirata;cañón de barco pirata;canon de bateau pirate;canon de bateau pirate;cannone pirata;piratenscheepskanon;海盗大炮;海盜大砲;かいぞくのたいほう;해적 대포;пиратская пушка
+Ftr_01273;pirate-ship helm;pirate-ship helm;Piratenschiffssteuerrad;timón de barco pirata;timón de barco pirata;barre de bateau pirate;barre de bateau pirate;timone pirata;piratenroer;海盗船舵;海盜船舵;かいぞくのかじ;해적 방향키;пиратский штурвал
 Ftr_01277;cacao tree;cacao tree;Kakaobaum;planta de cacao;planta de cacao;cacaoyer;cacaoyer;pianta di cacao;cacaoboom;可可树;可可樹;カカオ;카카오;шоколадное дерево
 Ftr_01288;fan palm;fan palm;Fächerpalme;palmera;palmera;palmier d'Arec;palmier d'Arec;palma cinese;dypsis;黄椰子;黃椰子;ヤマドリヤシ;아레카야자;веерная пальма
 Ftr_01308;school chair;school chair;Schulstuhl;silla escolar;silla escolar;chaise d'écolier;chaise d'écolier;sedia da scuola;schoolstoel;课椅;學校椅子;がっこうのイス;학교 의자;ученический стул
@@ -187,7 +190,7 @@ Ftr_01509;robot hero;robot hero;Heldenroboter;robot gigante;robot gigante;robot 
 Ftr_01557;wooden-block bed;wooden-block bed;Bauklotzbett;cama construcciones;cama construcciones;lit blocs de bois;lit blocs de bois;letto blocchi di legno;houtblokbed;积木床铺;積木床鋪;つみきベッド;나무블록 침대;кровать из дерев. блоков
 Ftr_01558;wooden-block bookshelf;wooden-block bookshelf;Bauklotzbücherregal;estantería construcciones;estantería construcciones;bibliothèque blocs de bois;bibliothèque blocs de bois;libreria blocchi di legno;houtblokboekenkast;积木书柜;積木書櫃;つみきブックシェルフ;나무블록 북 쉘프;стеллаж из дерев. блоков
 Ftr_01559;wooden-block bench;wooden-block bench;Bauklotzbank;banco construcciones;banco construcciones;banc blocs de bois;banc blocs de bois;panca blocchi di legno;houtblokbank;积木长凳;積木長椅;つみきベンチ;나무블록 벤치;лавка из дерев. блоков
-Ftr_01561;wooden-block chest;wooden-block chest;Bauklotzregal;cómoda construcciones;cómoda construcciones;commode blocs de bois;commode blocs de bois;comò blocchi di legno;houtblokladekast;积木矮柜;積木矮櫃;つみきチェスト;나무블록 수납장;комод из дерев. блоков
+Ftr_01561;wooden-block chest;wooden-block chest;Bauklotzkommode;cómoda construcciones;cómoda construcciones;commode blocs de bois;commode blocs de bois;comò blocchi di legno;houtblokladekast;积木矮柜;積木矮櫃;つみきチェスト;나무블록 수납장;комод из дерев. блоков
 Ftr_01565;wooden-block table;wooden-block table;Bauklotztisch;mesa construcciones;mesa construcciones;table blocs de bois;table blocs de bois;tavolo blocchi di legno;houtbloktafel;积木桌;積木桌;つみきテーブル;나무블록 테이블;стол из дерев. блоков
 Ftr_01567;oil barrel;oil barrel;Ölfass;barril de petróleo;barril de petróleo;baril de pétrole;baril de pétrole;fusto di petrolio;olievat;汽油桶;汽油桶;ドラムかん;드럼통;нефтяная бочка
 Ftr_01598;exercise ball;exercise ball;Gymnastikball;pelota de ejercicios;pelota de ejercicios;ballon de gymnastique;ballon de gymnastique;palla da pilates;gymnastiekbal;瑜伽球;瑜伽球;バランスボール;짐 볼;фитбол
@@ -221,7 +224,7 @@ Ftr_01802;drink machine;drink machine;Getränkeautomat;máquina de refrescos;má
 Ftr_01803;drum set;drum set;Schlagzeug;batería;batería;batterie classique;batterie classique;batteria;drumstel;爵士鼓组合;爵士鼓組合;ドラムセット;드럼;ударная установка
 Ftr_01804;electric bass;electric bass;E-Bass;bajo eléctrico;bajo eléctrico;basse électrique;basse électrique;basso elettrico;elektrische basgitaar;电贝司;電貝斯;エレキベース;일렉트릭 베이스 기타;бас-гитара
 Ftr_01816;changing room;changing room;Umkleide;probador;probador;cabine d'essayage;cabine d'essayage;cabina di prova;kleedruimte;试衣间;試衣間;しちゃくしつ;피팅 룸;примерочная
-Ftr_01823;trash bags;trash bags;Müll;basura;basura;duo de sacs poubelle;duo de sacs poubelle;spazzatura;vuilniszakken;垃圾袋;垃圾袋;ゴミぶくろ;쓰레기봉투;мешки с мусором
+Ftr_01823;trash bags;trash bags;Müllsack-Set;par de bolsas de basura;par de bolsas de basura;duo de sacs poubelle;duo de sacs poubelle;set sacchi per la spazzatura;vuilniszakken;垃圾袋;垃圾袋;ゴミぶくろ;쓰레기봉투;мешки с мусором
 Ftr_01829;cypress plant;cypress plant;Zypresse;ciprés;ciprés;cyprès;cyprès;cipresso in vaso;cipres;黄金柏;黃金柏;ゴールドクレスト;율마;кипарис
 Ftr_01836;humidifier;humidifier;Luftbefeuchter;humidificador;humidificador;humidificateur;humidificateur;umidificatore;verstuiver;加湿器;加濕器;かしつき;가습기;увлажнитель
 Ftr_01838;ironing set;ironing set;Bügelset;plancha a vapor;plancha a vapor;set de repassage;table à repasser;asse e ferro da stiro;strijkbout;烫衣组合;燙衣組合;アイロン;다리미;комплект для утюжки
@@ -241,7 +244,7 @@ Ftr_01881;plastic canister;plastic canister;Kanister;bidón de gasolina;bidón d
 Ftr_01888;rice cooker;rice cooker;Reiskocher;hervidor de arroz;arrocera;cuiseur de riz;cuiseur de riz;cuociriso;rijstkoker;电饭锅;電飯鍋;すいはんき;전기밥솥;рисоварка
 Ftr_01889;ring;ring;Verlobungsring;anillo de compromiso;anillo de compromiso;bague en diamant;bague en diamant;anello con diamante;ring;戒指;戒指;ゆびわ;반지;кольцо
 Ftr_01892;hourglass;hourglass;Sanduhr;reloj de arena;reloj de arena;sablier;sablier;clessidra;zandloper;沙漏;沙漏;すなどけい;모래시계;песочные часы
-Ftr_01899;autograph cards;autograph cards;Kalligrafie-Deko;set de autógrafos;set de autógrafos;série d'autographes;série d'autographes;set di calligrafie;handtekeningenset;签名板;簽名板;しきし;두꺼운 종이;автографы
+Ftr_01899;autograph cards;autograph cards;Kalligrafie-Deko;set de autógrafos;set de autógrafos;série d'autographes;série d'autographes;set di calligrafie;handtekeningenset;签名板;簽名板;しきし;사인지;автографы
 Ftr_01913;wooden chair;wooden chair;Holzstuhl;silla de madera;silla de madera;chaise en bois;chaise en bois;sedia di legno;houten stoel;木制椅;木製椅;もくせいチェア;목제 체어;деревянный стул
 Ftr_01929;toilet;toilet;Toilette;inodoro;inodoro;WC;toilette;water;toiletpot;马桶;馬桶;ようしきトイレ;양변기;унитаз
 Ftr_02010;ball;ball;Ball;balón;balón;ballon;ballon;pallone;bal;球;球;ボール;볼;мяч
@@ -261,7 +264,7 @@ Ftr_02555;garbage can;garbage can;Mülltonne;cubo de basura;bote de basura;poube
 Ftr_02556;garbage pail;garbage pail;Abfalltonne;cubo de desechos;bote de desechos;conteneur à ordures;conteneur à ordures;secchio dei rifiuti;plastic vuilnisemmer;塑胶桶;塑膠桶;ペール;뚜껑 쓰레기통;мусорное ведро
 Ftr_02558;wooden-block chair;wooden-block chair;Bauklotzstuhl;silla construcciones;silla construcciones;chaise blocs de bois;chaise blocs de bois;sedia blocchi di legno;houtblokstoel;积木椅;積木椅;つみきチェア;나무블록 체어;стул из дерев. блоков
 Ftr_02559;pot;pot;Topf;vasija;vasija;pot;pot;vaso;pot;瓦罐;甕;かめ;항아리;горшок
-Ftr_02560;wooden chest;wooden chest;Holzkommode;cómoda de madera;cómoda de madera;commode en bois;coffre en bois;comò di legno;houten ladekast;木制矮柜;木製矮櫃;もくせいチェスト;목제 수납장;деревянный комод
+Ftr_02560;wooden chest;wooden chest;Holzkommode;cómoda de madera;cómoda de madera;commode en bois;commode en bois;comò di legno;houten ladekast;木制矮柜;木製矮櫃;もくせいチェスト;목제 수납장;деревянный комод
 Ftr_02561;floor lamp;floor lamp;Stehlampe;lámpara de pie;lámpara de pie;lampe à pied;lampe à pied;lampada a stelo;staande lamp;落地灯;落地燈;フロアランプ;플로어 스탠드;торшер
 Ftr_02562;candle;candle;Kerze;vela;vela;bougeoir;bougeoir;candela;kaars;蜡烛;蠟燭;キャンドル;양초;свеча
 Ftr_02586;natural garden chair;natural garden chair;Funktional-Gartenstuhl;silla de madera natural;silla de madera natural;chaise de jardin naturelle;chaise de jardin naturelle;sedia naturale da giardino;natuurlijke tuinstoel;自然风花园椅;自然風花園椅;ナチュラルなガーデンチェア;내추럴 가든 체어;обычный садовый стул
@@ -364,7 +367,7 @@ Ftr_03580;bonsai shelf;bonsai shelf;Bonsai-Tisch;banco de bonsáis;banco de bons
 Ftr_03581;fish-drying rack;fish-drying rack;Dörrfisch;rejilla para secar pescado;rejilla para secar pescado;séchoir à poissons;séchoir à poissons;essiccatore per pesci;droogrek voor vis;鱼干;魚乾;ひもの;생선 건조대;сушеная рыба
 Ftr_03582;book;book;Buch;libro;libro;livre;livre;libro;boek;书;書;ほん;책;книга
 Ftr_03583;fishing-boat flag;fishing-boat flag;Fischerbootflagge;bandera barco pesquero;bandera barco pesquero;drapeau de pêche;drapeau de pêche;bandiera pesca fortunata;vissersbootvlag;大渔旗;大漁旗;たいりょうき;풍어기;флаг рыбацкого судна
-Ftr_03584;writing poster;writing poster;Lern-Poster;cartel aprendizaje;póster de aprendizaje;poster d'études;poster d'études;poster da studio;huiswerkposter;儿童认知海报;兒童認知海報;がくしゅうポスター;공부 포스터;постер «Юный писарь»
+Ftr_03584;study poster;study poster;Lern-Poster;cartel aprendizaje;póster de aprendizaje;poster d'études;poster d'études;poster da studio;huiswerkposter;儿童认知海报;兒童認知海報;がくしゅうポスター;공부 포스터;постер «Всегда учись»
 Ftr_03586;magazine;magazine;Magazin;revista;revista;magazine;magazine;rivista;tijdschrift;杂志;雜誌;ざっし;잡지;журнал
 Ftr_03587;fishing-rod stand;fishing-rod stand;Angelrutenhalter;soporte para cañas;soporte para cañas;présentoir cannes à pêche;présentoir cannes à pêche;rastrelliera da pesca;hengelrek;钓竿架;釣竿架;ロッドスタンド;낚싯대 스탠드;стойка для удочек
 Ftr_03588;signpost;signpost;Wegweiser;poste indicador;poste indicador;panneau de direction;panneau de direction;segnale direzionale;wegwijzer;路标;路標;みちしるべ;이정표;столбик с указателем
@@ -387,17 +390,17 @@ Ftr_03623;toy box;toy box;Spielzeugkiste;cajón de los juguetes;cajón de los ju
 Ftr_03624;cute bed;cute bed;Bonbon-Bett;cama cuqui;cama adorable;lit mimi;lit cute;letto grazioso;schattig bed;可爱床铺;可愛床鋪;キュートなベッド;큐트 침대;милая кровать
 Ftr_03654;oil lamp;oil lamp;Spirituslampe;lámpara de aceite;lámpara de aceite;lampe à pétrole;lampe à l'huile;lampada ad alcool;olielamp;酒精灯;酒精燈;アルコールランプ;알코올램프;масляная лампа
 Ftr_03658;bamboo basket;bamboo basket;Bambuskorb;cesta de bambú;cesta de bambú;corbeille en bambou;corbeille en bambou;canestro di bambù;bamboemand;竹篮;竹籃;たけのかご;대나무 바구니;корзина из бамбука
-Ftr_03672;cardboard box;cardboard box;Karton;caja de cartón;caja de cartón;boîte en carton;boîte en carton;scatolone;kartonnen doos;纸箱;紙箱;ダンボール;종이 상자;картонная коробка
+Ftr_03672;cardboard box;cardboard box;Karton;caja de cartón;caja de cartón;boîte en carton;boîte en carton;scatolone;kartonnen doos;纸箱;紙箱;ダンボール;종이 박스;картонная коробка
 Ftr_03675;hay bed;hay bed;Strohbett;colchón de heno;colchón de heno;lit de paille;lit de paille;pagliericcio;strobed;干草床铺;乾草床鋪;ほしくさのベッド;건초 침대;постель из сена
 Ftr_03681;piano bench;piano bench;Klavierbank;banco de piano;banco de piano;banquette de piano;banquette de piano;panca da pianoforte;pianokruk;钢琴琴凳;鋼琴椅子;ピアノのイス;피아노 의자;банкетка для фортепиано
 Ftr_03683;plain sink;plain sink;Holzwaschtisch;lavabo sencillo;fregadero sencillo;lavabo simple;lavabo simple;lavandino grezzo;eenvoudige wasbak;朴素洗脸台;樸素洗臉台;そぼくなせんめんだい;소박한 세면대;простой умывальник
 Ftr_03684;coconut juice;coconut juice;Kokosnusswasser;zumo de coco;jugo de coco;jus de coco;jus de noix de coco;acqua di cocco;drinkkokosnoot;椰子水;椰子水;ココナッツジュース;코코넛 주스;кокосовый сок
-Ftr_03689;sauna heater;sauna heater;Saunaofen;estufa de sauna;calentador de sauna;poêle de sauna;poêle de sauna;stufa da sauna;saunaoven;三温暖电暖炉;三溫暖電暖爐;サウナストーブ;사우나 히터;печь для сауны
+Ftr_03689;sauna heater;sauna heater;Saunaofen;estufa de sauna;calentador de sauna;poêle de sauna;poêle de sauna;stufa da sauna;saunaoven;三温暖暖炉;三溫暖暖爐;サウナストーブ;사우나 히터;печь для сауны
 Ftr_03692;plain wooden shop sign;plain wooden shop sign;Holzschild;cartel sencillo de madera;letrero de madera;pancarte;pancarte;cartello informativo;eenvoudig bordje;朴素木制招牌;樸素木製招牌;そぼくなもくせいかんばん;소박한 목제 간판;простая дерев. вывеска
 Ftr_03697;portable radio;portable radio;Taschenradio;radio portátil;radio portátil;radio portable;radio portable;radio portatile;draagbare radio;携带型收音机;攜帶型收音機;けいたいラジオ;휴대용 라디오;портативное радио
 Ftr_03699;fish print;fish print;Fisch-Abklatschdruck;grabado de pez;grabado de pez;ichtyogramme;ichtyogramme;stampa di pesce;visposter;鱼拓;魚拓;ぎょたく;어탁;оттиск рыбы
-Ftr_03701;writing desk;writing desk;Lern-Schreibtisch;escritorio aprendizaje;escritorio de aprendizaje;bureau d'études;bureau d'études;scrivania da studio;huiswerkbureau;学习书桌;學習書桌;がくしゅうデスク;공부 책상;письменный стол
-Ftr_03702;writing chair;writing chair;Lern-Stuhl;silla aprendizaje;silla de aprendizaje;chaise d'études;chaise d'études;sedia da studio;huiswerkstoel;学习椅;學習椅;がくしゅうチェア;공부 의자;стул для письм. стола
+Ftr_03701;study desk;study desk;Lern-Schreibtisch;escritorio aprendizaje;escritorio de aprendizaje;bureau d'études;bureau d'études;scrivania da studio;huiswerkbureau;学习书桌;學習書桌;がくしゅうデスク;공부 책상;стол для учебы
+Ftr_03702;study chair;study chair;Lern-Stuhl;silla aprendizaje;silla de aprendizaje;chaise d'études;chaise d'études;sedia da studio;huiswerkstoel;学习椅;學習椅;がくしゅうチェア;공부 의자;стул для учебы
 Ftr_03772;golden candlestick;golden candlestick;Goldkerzenhalter;candelabro dorado;candelabro dorado;chandelier d'or;chandelier d'or;candelabro dorato;gouden kandelaar;黄金烛台;黃金燭台;おうごんのしょくだい;황금 촛대;золотой подсвечник
 Ftr_03773;terrarium;terrarium;Terrarium;terrario botánico;terrario botánico;terrarium;terrarium;terrario;terrarium;玻璃盆栽;玻璃盆栽;テラリウム;테라리움;террариум
 Ftr_03774;Libra scale;Libra scale;Balkenwaage;balanza Libra;balanza Libra;Balance à plateaux;Balance à plateaux;pesa oggetti Bilancia;Weegschaal-bascule;天秤;天秤;リブラのてんびん;천칭자리 저울;рычажные весы
@@ -422,7 +425,7 @@ Ftr_03943;ironwood DIY workbench;ironwood DIY workbench;Eisen-Holz-Werkbank;banc
 Ftr_03946;outdoor table;outdoor table;Campingtisch;mesa plegable de pícnic;mesa plegable de pícnic;table d'extérieur;table d'extérieur;tavolo pieghevole da picnic;kampeertafel;户外桌;戶外桌;アウトドアテーブル;아웃도어 테이블;стол для кемпинга
 Ftr_03947;outdoor bench;outdoor bench;Campingbank;banco plegable de pícnic;banco plegable de pícnic;banquette d'extérieur;banquette d'extérieur;panca pieghevole da picnic;kampeerbank;户外长凳;戶外長椅;アウトドアベンチ;아웃도어 벤치;скамья для кемпинга
 Ftr_03948;accessories stand;accessories stand;Schmuckstand;expositor de complementos;expositor de accesorios;présentoir à bijoux;présentoir à bijoux;porta accessori;sieradenrekje;饰品架;飾品架;アクセサリースタンド;액세서리 스탠드;стоечка для украшений
-Ftr_03949;anthurium plant;anthurium plant;Flamingoblume;flor del flamenco;planta de calas rojas;anthurium;anthurium;pianta di anturio;aronskelk;火鹤花;火鶴花;アンスリウム;안수리움;антурия
+Ftr_03949;anthurium plant;anthurium plant;Flamingoblume;flor del flamenco;planta de calas;anthurium;anthurium;pianta di anturio;aronskelk;火鹤花;火鶴花;アンスリウム;안수리움;антурия
 Ftr_03950;antique chair;antique chair;Antikstuhl;silla antigua;silla antigua;chaise ancienne;chaise ancienne;vecchia sedia;antieke stoel;古董椅子;古董椅子;アンティークなイス;앤티크 의자;антикварный стул
 Ftr_03951;antique console table;antique console table;Antikschreibtisch;consola antigua;consola antigua;console ancienne;console ancienne;vecchia consolle;antieke wandtafel;古董玄关桌;古董玄關桌;アンティークなコンソール;앤티크 콘솔 테이블;антикварный столик
 Ftr_03952;antique table;antique table;Antiktisch;mesa de comedor antigua;mesa de comedor antigua;table ancienne;table ancienne;vecchio tavolo;antieke tafel;古董桌;古董桌;アンティークなテーブル;앤티크 테이블;антикварный стол
@@ -578,7 +581,7 @@ Ftr_04308;unfinished puzzle;unfinished puzzle;Puzzle-Rest;puzle a medias;rompeca
 Ftr_04309;destinations signpost;destinations signpost;Weltwegweiser;poste cruce de caminos;poste cruce de caminos;poteau indicateur;poteau indicateur;palo segnaletico;wereldwegwijzer;世界的路标;世界的路標;せかいのみちしるべ;섬 이정표;указатель направлений
 Ftr_04338;portable record player;portable record player;Kofferplattenspieler;tocadiscos portátil;tocadiscos portátil;tourne-disque portable;tourne-disque portable;giradischi portatile;draagbare platenspeler;手提唱片播放机;手提唱片播放機;ポータブルレコードプレーヤー;휴대용 레코드플레이어;электрофон
 Ftr_04379;springy ride-on;springy ride-on;Federwippe;balancín de muelle;balancín de resorte;animal sur ressort;animal sur ressort;cavallo a molla;veertoestel;弹簧游乐器材;彈簧遊樂器材;スプリングゆうぐ;스프링 놀이 기구;лошадка на пружине
-Ftr_04381;football;football;Football;balón de fútbol americano;balón de fútbol americano;ballon de foot américain;ballon de football;palla da football;Americanfootball-bal;美式足球;美式足球;アメフトボール;럭비공;бейсбольный мяч
+Ftr_04381;football;football;Football;balón de fútbol americano;balón de fútbol americano;ballon de foot américain;ballon de football;palla da football;Americanfootball-bal;美式足球;美式足球;アメフトボール;럭비공;мяч для регби
 Ftr_04392;magic kit;magic kit;Taschenspieler-Set;kit de magia;kit de magia;set de magie;ensemble de magie;kit da prestidigitazione;goochelset;魔术组合;魔術組合;てじなセット;마술 세트;набор иллюзиониста
 Ftr_04393;old-fashioned washtub;old-fashioned washtub;Waschbottich;palangana tradicional;palangana tradicional;baquet à lessive;baquet à lessive;tinozza da bucato;wastobbe;洗衣盆;洗衣盆;せんたくおけ;빨랫대야;чан для стирки
 Ftr_04412;cotton-candy stall;cotton-candy stall;Zuckerwattestand;puesto algodón de azúcar;puesto algodón de azúcar;stand de barbe à papa;stand de barbe à papa;carretto zucchero filato;suikerspinkraampje;棉花糖小吃摊;棉花糖小吃攤;わたあめのやたい;솜사탕 노점;лоток с сахарной ватой
@@ -622,7 +625,7 @@ Ftr_05961;Taurus bathtub;Taurus bathtub;Stier-Badewanne;bañera Tauro;bañera Ta
 Ftr_05962;Scorpio lamp;Scorpio lamp;Skorpion-Lampe;lámpara Escorpio;lámpara Escorpio;lampe Scorpion;lampe Scorpion;lampada Scorpione;Schorpioen-lamp;天蝎座灯;天蠍座燈;スコーピオのランプ;전갈자리 램프;лампа-Скорпион
 Ftr_05963;Pisces lamp;Pisces lamp;Fische-Lampe;lámpara Piscis;lámpara Piscis;lampe Poissons;lampe Poissons;lampada Pesci;Vissen-lamp;双鱼座灯;雙魚座燈;ピスケスのランプ;물고기자리 램프;лампа с Рыбами
 Ftr_05964;Leo sculpture;Leo sculpture;Löwe-Wandschmuck;escultura Leo;escultura Leo;sculpture Lion;sculpture Lion;scultura Leone;Leeuw-beeld;狮子座雕塑;獅子座雕塑;レオのちょうこく;사자자리 벽걸이 장식;барельеф Льва
-Ftr_05970;firewood;firewood;Feuerholz;pila de leña;leña;tas de bûches;tas de bûches;legna da ardere;stapel brandhout;柴火;柴火;まき;장작;дрова
+Ftr_05970;firewood;firewood;Feuerholz;pila de leña;pila de leña;tas de bûches;tas de bûches;legna da ardere;stapel brandhout;柴火;柴火;まき;장작;дрова
 Ftr_05972;wild log bench;wild log bench;Rohholzbank;tronco para sentarse;tronco para sentarse;banc bûche;banc bûche;tronco ruvido da seduta;boomstambankje;野外圆木长凳;野外圓木長椅;ワイルドなまるたのベンチ;와일드 통나무 벤치;бревно-лавка
 Ftr_05973;log stakes;log stakes;Baumstammpfahl-Set;lote de estacas;set de estacas;lot de piquets tronc;lot de piquets tronc;set di paletti tronco;boomstampalenset;圆木桩;圓木樁;まるたのくい;통나무 말뚝;колья
 Ftr_05975;traditional balancing toy;traditional balancing toy;Fingerschaukel;muñeco equilibrista;muñeco equilibrista;jeu d'équilibre traditionnel;jeu d'équilibre traditionnel;gioco d'equilibrio;traditioneel balansfiguurtje;平衡玩具;平衡玩具;やじろべえ;균형 잡기 장난감;игрушка-балансир
@@ -676,7 +679,7 @@ Ftr_07147;Mom's plushie;Mom's plushie;Kuscheltier von Mama;peluche de mamá;pelu
 Ftr_07148;life ring;life ring;Rettungsring;salvavidas;salvavidas;bouée de sauvetage;bouée de sauvetage;salvagente;reddingsboei;泳圈;泳圈;うきわ;튜브;спасательный круг
 Ftr_07150;blue corner;blue corner;Ecke (blau);esquina azul;esquina azul;coin bleu;coin bleu;angolo blu;blauwe hoek;蓝色转角;藍色轉角;あおコーナー;파란색 링 모서리;синий угол
 Ftr_07151;red corner;red corner;Ecke (rot);esquina roja;esquina roja;coin rouge;coin rouge;angolo rosso;rode hoek;红色转角;紅色轉角;あかコーナー;빨간색 링 모서리;красный угол
-Ftr_07152;neutral corner;neutral corner;Ecke (neutral);esquina neutral;esquina neutral;coin neutre;coin neutre;angolo neutrale;neutrale hoek;中性色转角;中性色轉角;ニュートラルコーナー;뉴트럴 링 모서리;нейтральный угол
+Ftr_07152;neutral corner;neutral corner;Ecke (neutral);esquina neutral;esquina neutral;coin neutre;coin neutre;angolo neutrale;neutrale hoek;中立转角;中立轉角;ニュートラルコーナー;뉴트럴 링 모서리;нейтральный угол
 Ftr_07153;cypress bathtub;cypress bathtub;Zypressenbad;bañera de ciprés;bañera de ciprés;baignoire en cyprès;baignoire en cyprès;vasca da bagno in cipresso;cipreshouten badkuip;桧木泡澡桶;檜木泡澡桶;ひのきぶろ;노송나무 욕조;ванна из кипариса
 Ftr_07159;cardboard sofa;cardboard sofa;Kartonsofa;sofá de cartón;sofá de cartón;canapé en carton;canapé en carton;sofà scatolone;kartonnen sofa;纸箱沙发;紙箱沙發;ダンボールソファ;박스 소파;картонный диван
 Ftr_07160;cardboard table;cardboard table;Kartontisch;mesa de cartón;mesa de cartón;table en carton;table en carton;tavolo scatolone;kartonnen tafel;纸箱桌;紙箱桌;ダンボールテーブル;박스 테이블;картонный стол
@@ -720,7 +723,7 @@ Ftr_07453;aluminum briefcase;aluminum briefcase;Alukoffer;maletín de aluminio;m
 Ftr_07454;wooden toolbox;wooden toolbox;Holz-Werkzeugkasten;caja herramientas madera;caja herramientas madera;caisse à outils en bois;caisse à outils en bois;portautensili di legno;houten gereedschapskist;木制工具箱;木製工具箱;もくせいのこうぐばこ;목제 공구 상자;ящик с инструментами
 Ftr_07525;tool shelf;tool shelf;Werkzeugregal;estantería metálica;estantería metálica;étagère à outils;étagère à outils;scaffale attrezzi;gereedschapsrek;工具架;工具架;こうぐだな;공구 선반;полка для инструментов
 Ftr_07526;outdoor generator;outdoor generator;Generator;generador portátil;generador portátil;générateur d'extérieur;générateur d'extérieur;generatore portatile;kampeergenerator;户外发电机;戶外發電機;アウトドアはつでんき;아웃도어 캠핑용 발전기;наружный генератор
-Ftr_07527;flower stand;flower stand;Blumenständer;arreglo floral con pie;arreglo floral con pie;stand de fleurs;stand de fleurs;portafiori;bloemenstaander;立花篮;高架花籃;スタンドフラワー;플라워 스탠드;подставка для цветов
+Ftr_07527;flower stand;flower stand;Blumenständer;arreglo floral con pie;arreglo floral con pie;support de fleurs;support de fleurs;portafiori;bloemenstaander;立花篮;高架花籃;スタンドフラワー;플라워 스탠드;подставка для цветов
 Ftr_07528;tool cart;tool cart;Werkzeugwagen;carro de herramientas;carro de herramientas;servante d'atelier;servante d'atelier;carrello degli attrezzi;gereedschapswagen;工具推车;工具推車;ツールカート;도구 카트;тележка для инструментов
 Ftr_07529;folding chair;folding chair;Klappstuhl;silla de tijera;silla plegable;chaise pliante;chaise pliante;sedia pieghevole;klapstoel;折叠椅;摺疊椅;パイプイス;강당 의자;складной стул
 Ftr_07531;ironing board;ironing board;Bügelbrett;tabla de planchar;tabla de planchar;planche à repasser;planche à repasser;asse da stiro;strijkplank;熨衣板;燙衣板;アイロンだい;다리미판;гладильная доска
@@ -738,10 +741,10 @@ Ftr_07797;imperial dining chair;imperial dining chair;Asia-Restaurant-Stuhl;sill
 Ftr_07800;protein shaker bottle;protein shaker bottle;Proteinshake-Set;batido de proteínas;batido de proteínas;milk-shake protéiné;secoueur protéiné;set per frullati proteici;eiwitshakerset;乳清蛋白摇摇杯;乳清蛋白搖搖杯;プロテインシェイカー;단백질 보충제;шейкер для коктейлей
 Ftr_07801;pet food bowl;pet food bowl;Kombi-Futternapf;comedero para mascotas;plato para comida mascotas;gamelle;bol pour animaux;set ciotole per animali;dierenvoerbak;宠物鲜食;寵物鮮食;ペットのごはん;반려동물 사료 그릇;кормушка для питомца
 Ftr_07802;pet bed;pet bed;Katzenkörbchen;cama para mascotas;cama para mascotas;panier pour animal;panier pour animal;lettino per animali;hondenmand;宠物床;寵物床;ペットのベッド;반려동물 침대;корзинка для питомца
-Ftr_07803;kitty litter box;kitty litter box;Katzenklo;inodoro para mascotas;inodoro para mascotas;bac à litière;bac à litière;lettiera per gatti;kattenbak;猫便盆;貓便盆;ネコのトイレ;고양이용 화장실;кошачий туалет
+Ftr_07803;kitty litter box;kitty litter box;Katzenklo;inodoro para mascotas;caja de arena;bac à litière;bac à litière;lettiera per gatti;kattenbak;猫便盆;貓便盆;ネコのトイレ;고양이용 화장실;кошачий туалет
 Ftr_07804;knife block;knife block;Messerblock;taco de cuchillos;bloque con cuchillos;bloc à couteaux;bloc à couteaux;ceppo portacoltelli;messenblok;菜刀架;菜刀架;ほうちょうスタンド;칼꽂이;подставка для ножей
 Ftr_07805;butter churn;butter churn;Butterfass;mantequera;mantequera;baratte;baratte;zangola;karnton;奶油搅拌器;奶油攪拌器;バターかくはんき;버터 교반기;маслобойка
-Ftr_07838;fresh cooler;fresh cooler;Yo-Kühlbox;nevera viajera;hielera portátil;glacière décorée;glacière décorée;frigo portatile;bestickerde koelbox;鱿鱼型保冷箱;魷型保冷箱;イカすクーラーボックス;멋진 아이스박스;термоконтейнер
+Ftr_07838;fresh cooler;fresh cooler;Yo-Kühlbox;nevera viajera;hielera portátil;glacière décorée;glacière décorée;frigo portatile;bestickerde koelbox;有型保冷箱;有型保冷箱;イカすクーラーボックス;멋진 아이스박스;термоконтейнер
 Ftr_07839;artisanal bug cage;artisanal bug cage;Hobby-Insektenkäfig;jaula para bichos artesanal;jaula de insectos artesanal;cage à insectes artisanale;cage à insectes artisanale;gabbia insetti artigianale;ambachtelijke insectenkooi;蚂蚁观察箱;螞蟻觀察箱;アリがたいムシかご;원목 채집통;самодельный террариум
 Ftr_07845;pull-up-bar stand;pull-up-bar stand;Klimmzugstation;estación para pesas;estación para pesas;barre de traction;barre de traction;barra da trazioni;optrekrek;单杠架;單槓架;けんすいスタンド;철봉;спорткомплекс
 Ftr_07865;elaborate kimono stand;elaborate kimono stand;Prunk-Kimonostand;expositor de kimonos lujoso;expositor de kimonos lujoso;porte-kimono élaboré;porte-kimono élaboré;portakimono elaborato;luxe kimonorek;豪华和服架;豪華和服架;ごうかなきものスタンド;호화로운 기모노 걸이;вешалка для кимоно люкс
@@ -758,7 +761,7 @@ Ftr_08298;bunk bed;bunk bed;Etagenbett;litera;litera;lit superposé;lit superpos
 Ftr_08415;imperial dining lantern;imperial dining lantern;Asia-Restaurant-Laterne;farol restaurante oriental;farol imperial;lanterne restaurant chinois;lanterne restaur. impériale;lanterna ristorante cinese;keizerlijke eettafellantaarn;中式灯笼;中式燈籠;ちゅうかなランタン;중국풍 랜턴;азиатский обед. фонарь
 Ftr_08417;wall-mounted tool board;wall-mounted tool board;Werkzeugbrett;panel de herramientas;panel de herramientas;panneau mural porte-outils;panneau mural porte-outils;pannello degli attrezzi;gereedschapswand;壁挂式工具挂钩;壁掛式工具掛勾;かべかけツールハンガー;공구 걸이 판;панель для инструментов
 Ftr_08418;fragrance diffuser;fragrance diffuser;Duftspender;difusor de aromas;difusor de fragancias;diffuseur d'ambiance;diffuseur d'ambiance;diffusore di fragranza;geurverspreider;香氛机;香氛機;アロマディフューザー;아로마 디퓨저;аромадиффузор
-Ftr_08419;garden wagon;garden wagon;Blumen-Bollerwagen;carro de flores;carro de flores;brouette décorative;brouette décorative;carretto con fiori;handkar vol bloemen;园艺推车;園藝推車;えんげいワゴン;원예 왜건;садовая тележка
+Ftr_08419;garden wagon;garden wagon;Blumen-Bollerwagen;carro de flores;carreta de flores;brouette décorative;brouette décorative;carretto con fiori;handkar vol bloemen;园艺推车;園藝推車;えんげいワゴン;원예 왜건;садовая тележка
 Ftr_08464;Newton's cradle;Newton's cradle;Tischspielzeug;péndulo de Newton;péndulo de Newton;pendule de Newton;pendule de Newton;pendolo di Newton;newtonpendel;牛顿摆;牛頓球;ニュートンのゆりかご;뉴턴의 요람;маятник Ньютона
 Ftr_08465;velvet stool;velvet stool;Klavierhocker;taburete de terciopelo;taburete de terciopelo;tabouret en velours;tabouret en velours;sgabello di velluto;fluwelen kruk;钢琴圆凳;鋼琴圓椅;ピアノのまるいす;피아노 둥근 의자;бархатный табурет
 Ftr_08608;pyramid;pyramid;Pyramide;pirámide;pirámide;pyramide;pyramide;piramide;piramide;金字塔;金字塔;ピラミッド;피라미드;пирамида
@@ -839,10 +842,24 @@ Ftr_12438;Bunny Day basket;Bunny Day basket;Häschentag-Korb;cesta Caza del Huev
 Ftr_12470;thank-you Mom mug;thank-you Mom mug;Muttertag-Tasse;taza gracias mamá;taza gracias mamá;tasse Merci Maman;tasse Merci Maman;tazza grazie mamma;moederdagmok;母亲节感谢马克杯;母親節感恩馬克杯;ははのひサンキューマグカップ;어머니날 감사 머그컵;кружка «Спасибо, мама!»
 Ftr_12471;thank-you Dad mug;thank-you Dad mug;Vatertag-Tasse;taza gracias papá;taza gracias papá;tasse Merci Papa;tasse Merci Papa;tazza grazie papà;vaderdagmok;父亲节感谢马克杯;世界父親節感恩馬克杯;ちちのひサンキューマグカップ;아버지날 감사 머그컵;кружка «Спасибо, папа!»
 Ftr_12472;Rover's briefcase;Rover's briefcase;Koffer von Olli;maleta de Fran;maleta de Fran;mallette de Charly;mallette de Charly;valigia di Girolamo;koffer van Rover;陌陌的包包;陌陌的包包;みしらぬネコのかばん;낯선고양이 가방;чемоданчик Ровера
-Ftr_12484;fossil plaque;fossil plaque;Fossilienwandschmuck;placa dorada de fósil;placa dorada de fósil;plaque ornementale fossile;plaque ornementale fossile;placca fossile;fossielenplaket;化石挂饰;化石壁飾;カセキのかべかざり;화석 벽장식;доска «Окаменелости»
+Ftr_12484;fossil plaque;fossil plaque;Fossilienwandschmuck;placa dorada de fósil;placa dorada de fósil;plaque ornementale fossile;plaque ornementale fossile;placca fossile;fossielenplaket;化石挂饰;化石壁飾;かせきのかべかざり;화석 벽장식;доска «Окаменелости»
 Ftr_12485;bug plaque;bug plaque;Insektenwandschmuck;placa dorada de bicho;placa dorada de insecto;plaque ornementale insecte;plaque ornementale insecte;placca insetto;beestjesplaket;虫儿挂饰;蟲子壁飾;ムシのかべかざり;곤충 벽장식;доска «Насекомые»
 Ftr_12486;fish plaque;fish plaque;Fischwandschmuck;placa dorada de pez;placa dorada de pez;plaque ornementale poisson;plaque ornementale poisson;placca pesce;vissenplaket;鱼儿挂饰;魚兒壁飾;サカナのかべかざり;물고기 벽장식;доска «Рыбы»
 Ftr_12543;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;Nintendo Switch;консоль Nintendo Switch
+Ftr_12552;mermaid table;mermaid table;Nixentisch;mesa sirena;mesa sirena;table sirène;table sirène;tavolo sirena;meerminnentafel;人鱼桌;人魚桌;マーメイドなテーブル;머메이드 테이블;стол русалки
+Ftr_12553;mermaid shelf;mermaid shelf;Nixenregal;estantería sirena;estantería sirena;étagère sirène;étagère sirène;scaffale sirena;meerminnenkastje;人鱼架子;人魚架子;マーメイドなシェルフ;머메이드 쉘프;стеллаж русалки
+Ftr_12554;mermaid vanity;mermaid vanity;Nixenspiegel;tocador sirena;tocador sirena;coiffeuse sirène;coiffeuse sirène;toletta sirena;meerminnenmake-uptafel;人鱼梳妆台;人魚梳妝台;マーメイドなドレッサー;머메이드 화장대;трюмо русалки
+Ftr_12555;mermaid screen;mermaid screen;Nixenraumtrenner;biombo sirena;biombo sirena;paravent sirène;paravent sirène;separé sirena;meerminnenscherm;人鱼屏风;人魚屏風;マーメイドなスクリーン;머메이드 파티션;ширма русалки
+Ftr_12556;mermaid lamp;mermaid lamp;Nixenlampe;lámpara sirena;lámpara sirena;lampe sirène;lampe sirène;lampada sirena;meerminnenlamp;人鱼灯;人魚燈;マーメイドなランプ;머메이드 램프;торшер русалки
+Ftr_12557;mermaid wall clock;mermaid wall clock;Nixenwanduhr;reloj de pared sirena;reloj de pared sirena;horloge murale sirène;horloge murale sirène;orologio a muro sirena;meerminnenhangklok;人鱼壁钟;人魚壁鐘;マーメイドなウォールクロック;머메이드 벽시계;настенные часы русалки
+Ftr_12558;mermaid bed;mermaid bed;Nixenbett;cama sirena;cama sirena;lit sirène;lit sirène;letto sirena;meerminnenbed;人鱼床铺;人魚床鋪;マーメイドなベッド;머메이드 침대;кровать русалки
+Ftr_12559;mermaid closet;mermaid closet;Nixenschrank;armario sirena;armario sirena;armoire sirène;armoire sirène;armadio sirena;meerminnenkledingkast;人鱼衣柜;人魚衣櫃;マーメイドなクロゼット;머메이드 옷장;шкаф русалки
+Ftr_12560;mermaid sofa;mermaid sofa;Nixensofa;sofá sirena;sofá sirena;canapé sirène;canapé sirène;sofà sirena;meerminnenbank;人鱼沙发;人魚沙發;マーメイドなソファ;머메이드 소파;диван русалки
+Ftr_12561;mermaid dresser;mermaid dresser;Nixenkommode;cómoda sirena;cómoda sirena;commode sirène;commode sirène;comò sirena;meerminnenladekast;人鱼矮柜;人魚矮櫃;マーメイドなチェスト;머메이드 수납장;комод русалки
+Ftr_12562;mermaid chair;mermaid chair;Nixenstuhl;silla sirena;silla sirena;chaise sirène;chaise sirène;sedia sirena;meerminnenstoel;人鱼椅;人魚椅;マーメイドなチェア;머메이드 체어;стул русалки
 Ftr_12565;Reese & Cyrus photo plate;Reese & Cyrus photo plate;Foto von Rosina und Björn;foto de Al y Paca;foto de Al y Paca;assiette Risette & Serge;assiette Risette & Serge;piatto Alpaca e Merino;bordje van Reese en Cyrus;莉咏和健兆的彩绘碟;莉詠與健兆的彩繪盤子;リサとカイゾーのえざら;리사와 리포 그림 그릇;тарелка «Риз и Сайрус»
+Ftr_12572;sideways pirate barrel;sideways pirate barrel;Piratenfass (liegend);tonel pirata tumbado;tonel pirata tumbado;tonneau pirate couché;tonneau pirate couché;barile pirata in orizzontale;liggend piratenvat;横向海盗木桶;橫向海盜木桶;よこむきのかいぞくのたる;넘어진 해적 나무통;пиратская бочка на боку
+Ftr_12573;pirate-treasure chest;pirate-treasure chest;Piratenschatzkiste;cofre del tesoro pirata;cofre del tesoro pirata;coffre de butin pirate;coffre trésor pirate;forziere pirata;piratenschatkist;海盗宝箱;海盜寶箱;かいぞくのたからばこ;해적 보물 상자;пиратский сундук
+Ftr_12574;pirate barrel;pirate barrel;Piratenfass;tonel pirata;tonel pirata;tonneau pirate;tonneau pirate;barile pirata in verticale;piratenvat;海盗木桶;海盜木桶;かいぞくのたる;해적 나무통;пиратская бочка
 Ftr_12579;ACNH Nintendo Switch;ACNH Nintendo Switch;Nintendo Switch (ACNH);Nintendo Switch ACNH;Nintendo Switch ACNH;Nintendo Switch ACNH;Nintendo Switch ACNH;Nintendo Switch ACNH;Nintendo Switch van ACNH;动物森友会Nintendo Switch;動物森友會Nintendo Switch;どうぶつのもりのSwitch;동물의 숲 Nintendo Switch;ACNH Nintendo Switch
 Ftr_12741;world map;world map;Weltkarte;mapamundi;mapamundi;mappemonde;carte du monde;planisfero;wereldkaart;世界地图;世界地圖;せかいちず;세계 지도;карта мира

@@ -20,6 +20,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 056;graduation gown;graduation gown;Uni-Robe;túnica graduación;túnica graduación;tenue remise de diplôme;tenue remise de diplôme;toga da laurea;afstudeertoga;学士服;學士服;がくしのふく;학사 가운;одеяние магистра
 059;short-sleeve dress shirt;short-sleeve dress shirt;Kurzarmhemd;camisa de manga corta;camisa de manga corta;chemisette habillée;chemisette habillée;camicia a maniche corte;kortemouwenoverhemd;短袖衬衫;短袖襯衫;はんそでワイシャツ;반팔 와이셔츠;легкая рубашка
 060;sleeveless dress shirt;sleeveless dress shirt;Sommeranzughemd;camisa sin mangas;camisa sin mangas;chemise sans manches;chemise sans manches;camicia smanicata;mouwloos overhemd;无袖有领衬衫;無袖有領襯衫;ノースリーブえりつきシャツ;민소매 셔츠;безрукавка
+062;sea captain's coat;sea captain's coat;Piratenmantel;casaca pirata;casaca pirata;manteau de pirate;manteau de pirate;giaccone da pirata;kapiteinsjas;海盗大衣;海盜大衣;かいぞくのコート;해적 코트;сюртук капитана
 064;hanten jacket;hanten jacket;Hanten-Jacke;bata de invierno gruesa;bata de invierno gruesa;veste hanten;gilet hanten;giacca hanten;hanten-jas;和服外套;日式棉襖外套;はんてん;방한복;куртка хантен
 070;raincoat;raincoat;Regenmantel;impermeable;impermeable;imperméable;imperméable;impermeabile;regenjas;雨衣;雨衣;レインコート;우비;дождевик
 071;noble coat;noble coat;Adelsrobe;casaca nobiliaria;casaca nobiliaria;redingote;redingote;redingote;aristocratenjas;贵族大衣;貴族大衣;きぞくのコート;귀족 코트;сюртук вельможи
@@ -124,7 +125,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1180;DAL apron;DAL apron;DAL-Schürze;delantal de DAL;delantal de DAL;tablier Dodo Airlines;tablier Dodo Airlines;grembiule DAL;DAL-schort;DAL围裙;DAL圍裙;ＤＡＬエプロン;DAL 앞치마;фартук DAL
 1181;DAL pilot jacket;DAL pilot jacket;DAL-Pilotenjacke;chaqueta de piloto de DAL;chamarra comandante DAL;bomber Dodo Airlines;bomber Dodo Airlines;bomber da pilota DAL;DAL-pilotenjasje;DAL MA-1;DAL MA-1飛行外套;ＤＡＬのＭＡ‐１;DAL MA-1;бомбер DAL
 1193;OK Motors jacket;OK Motors jacket;OK-Motors-Shirt;camisa de OK Motors;camisa de OK Motors;uniforme OK Motors;chemisette OK Motors;giacchetta OK Motors;OK Motors-overhemd;OK车业夹克;OK車業外套;OKモータースジャケット;OK 모터즈 재킷;рубашка OK Motors
-1194;camper tee;camper tee;Camper-Shirt;camiseta de campista;camiseta de campista;t-shirt camping-car;t-shirt camping-car;maglietta da camperista;⁠kampeer-T-⁠shirt;露营车T恤;露營者T恤;キャンパーのTシャツ;캠퍼 티셔츠;футболка туриста
+1194;camper tee;camper tee;Camper-Shirt;camiseta de campista;camiseta de campista;t-shirt camping-car;t-shirt camping-car;maglietta da camperista;⁠kampeer-T-⁠shirt;露营者T恤;露營者T恤;キャンパーのTシャツ;캠퍼 티셔츠;футболка туриста
 1220;handmade cape;handmade cape;Bastelumhang;capa hecha a mano;capa hecha a mano;cape bricolée;cape bricolée;mantello fatto a mano;knutselcape;手工斗篷;手作斗篷;てづくりのマント;수제 망토;самодельная накидка
 1246;winter-solstice sweater;winter-solstice sweater;Wintersonnenwendepulli;jersey solsticio de invierno;suéter solsticio de invierno;pull solstice d'hiver;pull solstice d'hiver;maglione solstizio d'inverno;midwintertrui;冬至毛衣;冬至毛衣;とうじのセーター;동지 스웨터;свитер к Празднику зимы
 1256;coral Nook Inc. aloha shirt;coral Nook Inc. aloha shirt;Nook-Inc.-Korallenhemd;cam. aloha Nook Inc. coral;cam. aloha Nook Inc. coral;chemis. Hawaï N. Inc. corail;chemis. Hawaï N. Inc. corail;cam. aloha Nook Inc. rosa;roze Nook Inc.-shirt;Nook Inc.夏威夷衬衫·珊瑚红;Nook Inc.珊瑚紅夏威夷襯衫;たぬきかいはつアロハ・コーラル;Nook Inc. 알로하 코럴;коралл. гавайка Nook Inc.

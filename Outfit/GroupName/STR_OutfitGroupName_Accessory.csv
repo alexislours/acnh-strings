@@ -4,6 +4,9 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1148;Nook Inc. eye mask;Nook Inc. eye mask;Nook-Inc.-Augenmaske;antifaz dormir de Nook Inc.;antifaz dormir de Nook Inc.;masque repos Nook Inc.;masque repos Nook Inc.;copriocchi Nook Inc.;Nook Inc.-slaapmasker;Nook Inc.眼罩;Nook Inc.眼罩;たぬきかいはつアイマスク;Nook Inc. 안대;маска для сна Nook Inc.
 1182;DAL eye mask;DAL eye mask;DAL-Augenmaske;antifaz para dormir de DAL;antifaz para dormir de DAL;masque repos DAL;masque repos DAL;copriocchi DAL;DAL-slaapmasker;DAL眼罩;DAL眼罩;ＤＡＬアイマスク;DAL 안대;маска для сна DAL
 1183;DAL sunglasses;DAL sunglasses;DAL-Sonnenbrille;gafa de sol de DAL;par de lentes de sol DAL;monture solaire DAL;monture solaire DAL;montatura da sole DAL;DAL-zonnebril;DAL墨镜;DAL墨鏡;ＤＡＬサングラス;DAL 선글라스;солнечные очки DAL
+1225;pirate eye patch;pirate eye patch;Piratenaugenklappe;parche pirata;parche pirata;cache-œil de pirate;cache-œil de pirate;benda piratesca;piratenooglapje;海盗眼罩;海盜眼罩;かいぞくのアイパッチ;해적 안대;пиратская повязка
+1226;pirate beard;pirate beard;Piratenbart;barba de pirata;barba de pirata;barbe de pirate;barbe de pirate;barba da pirata;piratenbaard;海盗胡子;海盜鬍子;かいぞくのひげ;해적 수염;пиратская борода
+1300;Nook Inc. snorkel;Nook Inc. snorkel;Nook-Inc.-Schnorchel;gafa de buceo Nook Inc.;visor de buceo Nook Inc.;masque avec tuba Nook Inc.;masque avec tuba Nook Inc.;maschera mare Nook Inc.;Nook Inc.-duikbril;Nook Inc.潜水镜附呼吸管;Nook Inc.潛水鏡附呼吸管;たぬきかいはつシュノーケル;Nook Inc. 스노클;подводная маска Nook Inc.
 184;beak;beak;Schnabel;pico;pico;bec;bec;becco;snavel;鸭嘴道具;鴨嘴道具;くちばし;부리;клюв
 185;handlebar mustache;handlebar mustache;Zwirbelbart;bigote inglés;bigote artista;moustache en guidon;moustache en guidon;baffo a manubrio;klassieke snor;八字翘胡;八字翹鬍;カイゼルひげ;콧수염;большие усы
 257;rimmed glasses;rimmed glasses;Laborbrille;gafa redonda;par de lentes redondos;monture intello;monture intello;montatura rotonda;ronde bril;圆框眼镜;圓框眼鏡;まるめがね;동글 안경;очки в роговой оправе
@@ -23,7 +26,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 377;ski goggles;ski goggles;Skibrille;gafa de esquí;visor esquí;masque de ski;lunettes de skis;maschera da sci;skibril;滑雪风镜;滑雪風鏡;スキーゴーグル;스키 고글;лыжные очки
 378;goggles;goggles;Schwimmbrille;gafa para piscina;visor de natación;monture piscine;monture piscine;paio di occhialini da nuoto;zwembril;泳镜;泳鏡;すいえいゴーグル;물안경;очки для плавания
 379;retro shades;retro shades;Retro-Sonnenbrille;gafa retro;par de lentes retro;monture rétro irisée;monture rétro irisée;montatura rétro;retrozonnebril;复古墨镜;復古墨鏡;レトロなサングラス;레트로 선글라스;солнечные ретро-очки
-380;eye patch;eye patch;Augenklappe;parche;parche;cache-œil;cache-œil;benda da pirata;ooglapje;单眼眼罩;單眼眼罩;アイパッチ;검정 안대;глазная повязка
+380;eye patch;eye patch;Augenklappe;parche;parche;cache-œil;cache-œil;benda per occhio;ooglapje;单眼眼罩;單眼眼罩;アイパッチ;검정 안대;глазная повязка
 381;sporty shades;sporty shades;Sportbrille;gafa de sol esquí;par de lentes sol esquí;monture sport;monture sport;montatura sportiva;sportieve zonnebril;运动墨镜;運動墨鏡;スポーツサングラス;스포츠 선글라스;спортивные очки
 382;pilot shades;pilot shades;Pilotenbrille;gafa de sol piloto;par de lentes sol piloto;monture pilote;monture pilote;montatura a goccia;pilotenzonnebril;飞行员墨镜;飛行員墨鏡;パイロットサングラス;파일럿 선글라스;авиаторы
 383;tortoise specs;tortoise specs;Kunststoffbrille;gafa de carey;par de lentes de carey;monture tortue;monture tortue;montatura tartarugata;bril met schildpadmontuur;琥珀眼镜;琥珀眼鏡;べっこうめがね;거북이 등껍질 안경;черепаховые очки
@@ -38,6 +41,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 415;birthday shades;birthday shades;Geburtstagsbrille;gafa de cumpleaños;par de lentes cumpleaños;monture anniversaire;monture de fête;montatura da compleanno;verjaardagszonnebril;生日眼镜;生日墨鏡;バースデーサングラス;생일 선글라스;именинные очки
 417;facial mask;facial mask;Kosmetikmaske;mascarilla facial;mascarilla facial;masque de beauté;masque de beauté;maschera idratante;gezichtsmasker;面膜;面膜;パック;팩;косметическая маска
 418;funny glasses;funny glasses;Scherzbrille;gafa graciosa;par de lentes graciosos;monture farceuse;monture farceuse;montatura simpatica;fopbril;搞笑眼镜;搞笑眼鏡;をかしなめがね;코믹한 안경;забавные очки
+432;snorkel mask;snorkel mask;Taucherbrille;gafa de buceo;visor de buceo;masque plongée;masque de plongée;maschera con boccaglio;duikbril;潜水镜附呼吸管;潛水鏡附呼吸管;シュノーケル;스노클;маска для ныряния
 433;cyber shades;cyber shades;Cyberbrille;cibergafa;par de ciberlentes;monture futuriste;monture futuriste;visore da ciberspazio;cyberzonnebril;太空墨镜;太空墨鏡;サイバーサングラス;사이버 선글라스;киберочки
 463;bottom-rimmed glasses;bottom-rimmed glasses;Halbrandbrille;gafa montura inferior;par de lentes armazón bajo;monture demi-lune;monture demi-lune;montatura a mezzaluna;bril zonder bovenrand;下半框眼镜;下半框眼鏡;アンダーリムめがね;역반무테 안경;очки-половинки
 466;bunny nose;bunny nose;Hasenschnauze;hocico de conejito;hocico de conejito;museau de lapin;museau de lapin;naso da coniglio;konijnensnuit;兔鼻子道具;兔鼻子道具;ウサギのつけばな;토끼 코;мордочка зайки

@@ -18,7 +18,7 @@ RoomWall_04816;pink-crown wall;pink-crown wall;Rosakronenwand;pared realeza rosa
 RoomWall_04817;beige art-deco wall;beige art-deco wall;Beige-Art-déco-Tapete;pared art déco beis;pared art déco beige;mur Art déco beige;mur Art déco beige;muro art déco beige;beige art-decowand;米色装饰线板墙;米色裝飾線板壁紙;ベージュのアールデコかべがみ;베이지 아르데코풍 벽;бежевая стена ар-деко
 RoomWall_04818;red art-deco wall;red art-deco wall;Rot-Art-déco-Tapete;pared art déco burdeos;pared art déco bermellón;mur Art déco pourpre;mur Art déco pourpre;muro art déco rosso;rode art-decowand;红色装饰线板墙;紅色裝飾線板壁紙;レッドのアールデコかべがみ;레드 아르데코풍 벽;красная стена ар-деко
 RoomWall_04819;screen wall;screen wall;Schiebetürtapete;pared bruma oriental;pared bruma oriental;mur paravent en papier;mur paravent en papier;muro porta scorrevole;scherm;日式拉门;日式拉門;ふすま;미닫이 문 벽;стена-ширма
-RoomWall_04820;gold-screen wall;gold-screen wall;Goldtürtapete;pared oriental;pared oriental;mur paravent;mur paravent;muro porta scorrevole d'oro;gouden scherm;金箔日式拉门;金箔日式拉門;きんぱくのふすま;황금 미닫이 문 벽;золотая стена-ширма
+RoomWall_04820;gold-screen wall;gold-screen wall;Goldtürtapete;pared oriental;pared oriental;mur paravent;mur paravent d'or;muro porta scorrevole d'oro;gouden scherm;金箔日式拉门;金箔日式拉門;きんぱくのふすま;황금 미닫이 문 벽;золотая стена-ширма
 RoomWall_04821;circuit-board wall;circuit-board wall;Leiterplattentapete;pared circuito integrado;pared circuito integrado;mur circuit imprimé;mur circuit imprimé;muro circuito stampato;printplaatwand;主机板墙;主機板牆;きばんのかべ;전자 회로 벽;стена-микросхема
 RoomWall_04825;shutter wall;shutter wall;Rollladenwand;pared persiana;pared persiana;mur volet roulant;mur volet roulant;muro saracinesca;rolluikwand;铁卷门墙;鐵捲門牆;シャッターのかべ;닫힌 셔터 벽;стена-жалюзи
 RoomWall_04826;white botanical-tile wall;white botanical-tile wall;Weiß-Relieffliesenwand;pared cerámica blanca;pared cerámica blanca;mur botanique blanc;mur botanique blanc;muro bassorilievo bianco;witte patroontegelwand;白色植物图案砖墙;白色植物圖案磚牆;しろいボタニカルタイルのかべ;화이트 보태니컬 타일 벽;белая кафельная стена
@@ -142,7 +142,7 @@ RoomWall_04949;green painted-wood wall;green painted-wood wall;Grünholzwand;pan
 RoomWall_05164;mush wall;mush wall;Waldpilztapete;pared hongo;pared hongo;mur champi;mur champi;muro funghetti;paddenstoelenwand;蘑菇壁纸;蘑菇壁紙;キノコのかべがみ;버섯 벽지;стена с грибами
 RoomWall_05215;mortar wall;mortar wall;Steinfundamentwand;muro piedra;muro piedra;mur mortier;mur mortier;muro malta;gepleisterde stenen wand;灰泥矮墙;灰泥矮牆;しっくいのへい;기와 돌담 벽;мурованная стена
 RoomWall_05216;stone wall;stone wall;Steinwand;pared piedra;pared piedra;mur de pierre;mur de pierre;muro pietra;stenen wand;石板墙;石板牆;いしのかべ;돌담 벽;каменная стена
-RoomWall_05217;straw wall;straw wall;Strohwand;pared cáñamo;pared cáñamo;mur paillasse;mur paillasse;muro paglia;strowand;吸管墙;吸管牆;ストローなかべ;밀짚 벽;соломенная стена
+RoomWall_05217;straw wall;straw wall;Strohwand;pared cáñamo;pared cáñamo;mur paillasse;mur paillasse;muro paglia;strowand;麦秆墙;麥稈牆;ストローなかべ;밀짚 벽;соломенная стена
 RoomWall_05218;office wall;office wall;Fenstertapete;pared oficina;pared oficina;mur pro;mur pro;muro ufficio;kantoorwand;办公室墙;辦公室牆;オフィスのかべ;오피스 벽;офисная стена
 RoomWall_05221;street-art wall;street-art wall;Graffitiwand;pared arte urbano;pared arte urbano;mur street art;mur art de rue;muro arte urbana;graffitiwand;街头艺术墙;街頭藝術牆;ストリートアートのかべ;그래피티 벽;стена с граффити
 RoomWall_05222;dig-site wall;dig-site wall;Fossilientapete;pared yacimiento;pared yacimiento;mur fossiles;mur fossiles;muro archeologico;opgravingswand;地层壁纸;地層壁紙;ちそうのかべがみ;지층 벽;стена «Раскоп»
@@ -246,3 +246,5 @@ RoomWall_12461;wedding-party wall;wedding-party wall;Hochzeitsfeiertapete;pared 
 RoomWall_12466;white wedding wall;white wedding wall;Weiß-Hochzeitstapete;pared de boda blanca;pared de boda blanca;mur mariage blanc;mur mariage blanc;muro nuziale bianco;witte trouwwand;白色婚礼墙;白色婚禮牆;ウェディングなかべ・ホワイト;하얀 웨딩 벽;белая свадебная стена
 RoomWall_12468;brown wedding wall;brown wedding wall;Braun-Hochzeitstapete;pared de boda marrón;pared de boda marrón;mur mariage brun;mur mariage brun;muro nuziale marrone;bruine trouwwand;茶色婚礼墙;棕色婚禮牆;ウェディングなかべ・ブラウン;갈색 웨딩 벽;коричн. свадебная стена
 RoomWall_12469;green wedding wall;green wedding wall;Grün-Hochzeitstapete;pared de boda verde;pared de boda verde;mur mariage vert;mur mariage vert;muro nuziale verde;groene trouwwand;绿色婚礼墙;綠色婚禮牆;ウェディングなかべ・グリーン;초록 웨딩 벽;зеленая свадебная стена
+RoomWall_12566;mermaid wall;mermaid wall;Nixentapete;pared sirena;pared sirena;mur sirène;mur sirène;muro sirena;meerminnenwand;人鱼壁纸;人魚壁紙;マーメイドなかべがみ;머메이드 벽지;стена русалки
+RoomWall_12567;pirate wall;pirate wall;Piratentapete;pared pirata;pared pirata;mur pirate;mur pirate;muro pirata;piratenwand;海盗壁纸;海盜壁紙;かいぞくのかべがみ;해적 벽지;пиратская стена
