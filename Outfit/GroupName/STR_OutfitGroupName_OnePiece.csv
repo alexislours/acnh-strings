@@ -50,7 +50,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1128;Labelle dress;Labelle dress;Samthea-Kleid;vestido Trini;vestido Trini;robe Maria;robe Maria;vestito Bice;Labelle-jurk;凯丝的套装;凱絲連身裙;ケイトのワンピース;케이트의 원피스;платье «Лэйблеск»
 113;strawberry dress;strawberry dress;Erdbeerkleid;vestido fresa;vestido fresa;robe fraise;robe fraise;vestito fragola;aardbei-jurk;草莓服;草莓服;イチゴのふく;딸기 옷;платье «Клубника»
 114;watermelon dress;watermelon dress;Wassermelonenkleid;vestido sandía;vestido sandía;robe pastèque;robe melon d'eau;vestito anguria;watermeloenjurk;西瓜服;西瓜服;スイカのふく;수박 옷;платье «Арбуз»
-115;orange dress;orange dress;Orangenkleid;vestido naranja;vestido naranja;robe orange;robe orange;vestito arancia;sinaasappeljurk;橘子服;夏蜜柑服;オレンジのふく;오렌지 옷;платье «Апельсин»
+115;orange dress;orange dress;Orangenkleid;vestido naranja;vestido naranja;robe orange;robe orange;vestito arancia;sinaasappeljurk;橘子服;橘子服;オレンジのふく;오렌지 옷;платье «Апельсин»
 1155;pajama dress;pajama dress;Pyjamakleid;camisola pijama;camisola pijama;robe pyjama;robe pyjama;vestito pigiama;pyjamajurk;睡袍;睡衣連身裙;パジャマワンピ;파자마 원피스;платье-пижама
 1156;visual-punk dress;visual-punk dress;Visual-Kei-Kleid;vestido punk;vestido punk;robe visual kei;robe visual kei;vestito visual kei;Japanse punkjurk;视觉系连身裙;視覺系洋裝;ヴィジュアルけいドレス;고딕풍 드레스;панковское платье
 1157;bekasab robe;bekasab robe;Bekasab-Gewand;túnica bekasab;túnica bekasab;robe bekasab;robe bekasab;tunica uzbeka;bekasab;乌兹别克传统服装;烏茲別克服;ウズベクなふく;우즈베키스탄풍 옷;чапан
@@ -72,6 +72,8 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1231;pirate outfit;pirate outfit;Piraten-Outfit;traje de pirata;traje de pirata;tenue de pirate;tenue de pirate;costume da mozzo pirata;piratenoutfit;海盗服;海盜服;かいぞくのふく;해적 옷;пиратский наряд
 1244;mermaid fishy dress;mermaid fishy dress;Nixen-Fischkleid;vestido cola de sirena;vestido cola de sirena;robe océane de sirène;robe océane de sirène;abito a scaglie sirena;meerminnenjurk;人鱼鱼儿洋装;人魚魚兒洋裝;マーメイドなおさかなドレス;머메이드 물고기 드레스;платье русалки «Рыбка»
 1245;mermaid princess dress;mermaid princess dress;Nixen-Prinzessinnenkleid;vestido princesa sirena;vestido princesa sirena;robe de princesse sirène;robe de princesse sirène;abito principessa sirena;meerminprinsessenjurk;人鱼公主洋装;人魚公主洋裝;マーメイドなプリンセスドレス;머메이드 공주 드레스;платье русалки «Царевна»
+1301;Orihime outfit;Orihime outfit;Orihime-Outfit;atuendo de Orihime;atuendo de Orihime;tenue d'Orihime;tenue d'Orihime;vestito Orihime;Orihime-kostuum;织女服;織女服;おりひめのふく;직녀 옷;наряд Орихимэ
+1302;Hikoboshi outfit;Hikoboshi outfit;Hikoboshi-Outfit;atuendo de Hikoboshi;atuendo de Hikoboshi;tenue d'Hikoboshi;tenue d'Hikoboshi;vestito Hikoboshi;Hikoboshi-kostuum;牛郎服;牛郎服;ひこぼしのふく;견우 옷;наряд Хикобоси
 141;wedding dress;wedding dress;Brautkleid;vestido nupcial;vestido nupcial;robe de mariée;robe de mariée;vestito da sposa;trouwjurk;纯白洋装;純白洋裝;じゅんぱくのドレス;순백 드레스;свадебное платье
 146;nurse's dress uniform;nurse's dress uniform;Schwesternkittel;bata auxiliar de clínica;bata auxiliar de clínica;blouse d'infirmière;tenue d'infirmière;uniforme da infermiera;verpleegstersuniform;护士连身裙;護士連身裙;かんごしのワンピース;간호사 원피스;форма медсестры
 150;PJ outfit;PJ outfit;Pyjama;pijama de dos piezas;pijama de dos piezas;pyjama;pyjama;pigiama;pyjama;睡衣;睡衣;パジャマ;파자마;пижама

@@ -6,7 +6,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1183;DAL sunglasses;DAL sunglasses;DAL-Sonnenbrille;gafa de sol de DAL;par de lentes de sol DAL;monture solaire DAL;monture solaire DAL;montatura da sole DAL;DAL-zonnebril;DAL墨镜;DAL墨鏡;ＤＡＬサングラス;DAL 선글라스;солнечные очки DAL
 1225;pirate eye patch;pirate eye patch;Piratenaugenklappe;parche pirata;parche pirata;cache-œil de pirate;cache-œil de pirate;benda piratesca;piratenooglapje;海盗眼罩;海盜眼罩;かいぞくのアイパッチ;해적 안대;пиратская повязка
 1226;pirate beard;pirate beard;Piratenbart;barba de pirata;barba de pirata;barbe de pirate;barbe de pirate;barba da pirata;piratenbaard;海盗胡子;海盜鬍子;かいぞくのひげ;해적 수염;пиратская борода
-1300;Nook Inc. snorkel;Nook Inc. snorkel;Nook-Inc.-Schnorchel;gafa de buceo Nook Inc.;visor de buceo Nook Inc.;masque avec tuba Nook Inc.;masque avec tuba Nook Inc.;maschera mare Nook Inc.;Nook Inc.-duikbril;Nook Inc.潜水镜附呼吸管;Nook Inc.潛水鏡附呼吸管;たぬきかいはつシュノーケル;Nook Inc. 스노클;подводная маска Nook Inc.
+1300;Nook Inc. snorkel;Nook Inc. snorkel;Nook-Inc.-Taucherbrille;gafa de buceo Nook Inc.;visor de buceo Nook Inc.;masque avec tuba Nook Inc.;masque avec tuba Nook Inc.;maschera mare Nook Inc.;Nook Inc.-duikbril;Nook Inc.潜水镜附呼吸管;Nook Inc.潛水鏡附呼吸管;たぬきかいはつシュノーケル;Nook Inc. 스노클;подводная маска Nook Inc.
 184;beak;beak;Schnabel;pico;pico;bec;bec;becco;snavel;鸭嘴道具;鴨嘴道具;くちばし;부리;клюв
 185;handlebar mustache;handlebar mustache;Zwirbelbart;bigote inglés;bigote artista;moustache en guidon;moustache en guidon;baffo a manubrio;klassieke snor;八字翘胡;八字翹鬍;カイゼルひげ;콧수염;большие усы
 257;rimmed glasses;rimmed glasses;Laborbrille;gafa redonda;par de lentes redondos;monture intello;monture intello;montatura rotonda;ronde bril;圆框眼镜;圓框眼鏡;まるめがね;동글 안경;очки в роговой оправе
@@ -52,7 +52,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 485;pig nose;pig nose;Schweinsnase;hocico de cerdo;hocico de cerdo;groin de cochon;nez de cochon;naso da maialino;varkenssnuit;猪鼻子道具;豬鼻子道具;ブタのつけばな;돼지 코;свиной пятачок
 487;gas mask;gas mask;Gasmaske;máscara de gas;máscara de gas;masque à gaz;masque à gaz;maschera antigas;gasmasker;防毒面具;防毒面具;ガスマスク;가스 마스크;противогаз
 489;sticky rice;sticky rice;Reisrest;resto de arroz;resto de arroz;reste de riz;reste de riz;riso appiccicoso;rijstkorrels;饭粒;飯粒;ごはんつぶ;밥풀;зернышки риса
-494;masquerade mask;masquerade mask;Ballmaske;antifaz de carnaval;antifaz de carnaval;loup;masque mascarade;mascherina fucsia;elegant balmasker;威尼斯面具;威尼斯面具;ベネチアンマスク;베네치안 마스크;маскарадная маска
+494;masquerade mask;masquerade mask;Ballmaske;antifaz de carnaval;antifaz de carnaval;loup;masque mascarade;mascherina festosa;elegant balmasker;威尼斯面具;威尼斯面具;ベネチアンマスク;베네치안 마스크;маскарадная маска
 496;wooden-frame glasses;wooden-frame glasses;Holzbrille;montura de madera;par de lentes madera;demi-monture en bois;demi-monture en bois;montatura di legno;bril met houten montuur;木框眼镜;木框眼鏡;ウッドフレームめがね;나무 프레임 안경;очки в дерев. оправе
 497;privacy mask;privacy mask;Inkognito-Maske;máscara anonimato;máscara anonimato;masque d'anonymat;masque d'anonymat;mascherina da incognito;mondmasker;折叠口罩;黑色口罩;カラスマスク;블랙 마스크;маска анонимности
 498;curly mustache;curly mustache;Schnauzbart;bigote de artista;bigote de artista;moustache élégante;moustache élégante;baffo arricciato;krulsnor;翘胡子;翹鬍子;まきヒゲ;꼬부랑 수염;закрученные усы
@@ -62,7 +62,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 505;rounded beard;rounded beard;Rundbart;barba perfilada;barba perfilada;collier de barbe;collier de barbe;barba rifinita;ringbaard;络腮胡;絡腮鬍;ラウンドひげ;둥근 수염;борода «Короб»
 508;leaf;leaf;Blatt;hoja;hoja;feuille;feuille;foglia;blaadje;叶子;葉子;はっぱ;나뭇잎;листик
 509;rhinestone shades;rhinestone shades;Strassbrille;gafa de sol con bisutería;par de lentes diva;monture strass;monture strass;montatura con strass;straszonnebril;水钻眼镜;水鑽眼鏡;ラインストーンめがね;라인스톤 안경;очки со стразами
-510;superhero mask;superhero mask;Superheldenmaske;antifaz;antifaz;masque de héros;masque de héros;maschera nera;superheldenmasker;英雄面具;英雄面具;ヒーローマスク;히어로 마스크;маска супергероя
+510;superhero mask;superhero mask;Superheldenmaske;antifaz;antifaz;masque de héros;masque de héros;maschera da eroe;superheldenmasker;英雄面具;英雄面具;ヒーローマスク;히어로 마스크;маска супергероя
 511;steampunk glasses;steampunk glasses;Steampunkbrille;gafa steampunk;par de lentes steampunk;monture steampunk;monture steampunk;montatura steampunk;steampunkbril;蒸汽庞克护目镜;蒸汽龐克護目鏡;スチームパンクなゴーグル;스팀펑크 안경;очки «Стимпанк»
 614;HMD;HMD;Cyberhelm;visor 3D;visor 3D;visiocasque;visiocasque;visore;V⁠R-⁠bril;虚拟实境头戴式显示器;虛擬實境頭戴式顯示器;HMD;HMD;цифровой шлем
 615;night-vision goggles;night-vision goggles;Nachtsichtbrille;gafa de visión nocturna;visor nocturno;paire de jumelles IR;lunettes de vision de nuit;visore notturno;nachtkijker;夜视镜;夜視鏡;ナイトビジョン;나이트 비전 고글;очки ночного видения

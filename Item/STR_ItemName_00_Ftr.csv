@@ -403,7 +403,7 @@ Ftr_03701;study desk;study desk;Lern-Schreibtisch;escritorio aprendizaje;escrito
 Ftr_03702;study chair;study chair;Lern-Stuhl;silla aprendizaje;silla de aprendizaje;chaise d'études;chaise d'études;sedia da studio;huiswerkstoel;学习椅;學習椅;がくしゅうチェア;공부 의자;стул для учебы
 Ftr_03772;golden candlestick;golden candlestick;Goldkerzenhalter;candelabro dorado;candelabro dorado;chandelier d'or;chandelier d'or;candelabro dorato;gouden kandelaar;黄金烛台;黃金燭台;おうごんのしょくだい;황금 촛대;золотой подсвечник
 Ftr_03773;terrarium;terrarium;Terrarium;terrario botánico;terrario botánico;terrarium;terrarium;terrario;terrarium;玻璃盆栽;玻璃盆栽;テラリウム;테라리움;террариум
-Ftr_03774;Libra scale;Libra scale;Balkenwaage;balanza Libra;balanza Libra;Balance à plateaux;Balance à plateaux;pesa oggetti Bilancia;Weegschaal-bascule;天秤;天秤;リブラのてんびん;천칭자리 저울;рычажные весы
+Ftr_03774;Libra scale;Libra scale;Balkenwaage;balanza Libra;balanza Libra;Balance à plateaux;Balance à plateaux;pesa oggetti Bilancia;Weegschaal-bascule;天秤;天秤座天平;リブラのてんびん;천칭자리 저울;рычажные весы
 Ftr_03775;hanging terrarium;hanging terrarium;Hänge-Terrarium;terrario botánico colgante;terrario botánico colgante;terrarium suspendu;terrarium suspendu;terrario sospeso;hangend terrarium;垂吊玻璃盆栽;垂吊玻璃盆栽;ハンギングテラリウム;행잉 테라리움;подвесной террариум
 Ftr_03776;brick well;brick well;Ziegelsteinbrunnen;pozo de obra;pozo de ladrillos;puits en briques;puits en briques;pozzo di mattoni;bakstenen put;砖块水井;磚塊水井;レンガのいど;벽돌 우물;кирпичный колодец
 Ftr_03783;den desk;den desk;Studierzimmertisch;escritorio de notario;escritorio de escribano;bureau ministre;bureau ministre;scrivania da presidente;notarisbureau;书房桌子;書房桌子;しょさいのつくえ;서재 책상;кабинетный стол
@@ -427,7 +427,7 @@ Ftr_03947;outdoor bench;outdoor bench;Campingbank;banco plegable de pícnic;banc
 Ftr_03948;accessories stand;accessories stand;Schmuckstand;expositor de complementos;expositor de accesorios;présentoir à bijoux;présentoir à bijoux;porta accessori;sieradenrekje;饰品架;飾品架;アクセサリースタンド;액세서리 스탠드;стоечка для украшений
 Ftr_03949;anthurium plant;anthurium plant;Flamingoblume;flor del flamenco;planta de calas;anthurium;anthurium;pianta di anturio;aronskelk;火鹤花;火鶴花;アンスリウム;안수리움;антурия
 Ftr_03950;antique chair;antique chair;Antikstuhl;silla antigua;silla antigua;chaise ancienne;chaise ancienne;vecchia sedia;antieke stoel;古董椅子;古董椅子;アンティークなイス;앤티크 의자;антикварный стул
-Ftr_03951;antique console table;antique console table;Antikschreibtisch;consola antigua;consola antigua;console ancienne;console ancienne;vecchia consolle;antieke wandtafel;古董玄关桌;古董玄關桌;アンティークなコンソール;앤티크 콘솔 테이블;антикварный столик
+Ftr_03951;antique console table;antique console table;Antikschreibtisch;consola antigua;mesa consola antigua;console ancienne;console ancienne;vecchia consolle;antieke wandtafel;古董玄关桌;古董玄關桌;アンティークなコンソール;앤티크 콘솔 테이블;антикварный столик
 Ftr_03952;antique table;antique table;Antiktisch;mesa de comedor antigua;mesa de comedor antigua;table ancienne;table ancienne;vecchio tavolo;antieke tafel;古董桌;古董桌;アンティークなテーブル;앤티크 테이블;антикварный стол
 Ftr_03953;antique phone;antique phone;Antiktelefon;teléfono de pared antiguo;teléfono de pared antiguo;téléphone ancien;téléphone ancien;vecchio telefono;antieke telefoon;古董电话;古董電話;アンティークなでんわ;앤티크 전화기;антикварный телефон
 Ftr_03954;antique clock;antique clock;Antikstanduhr;reloj antiguo;reloj antiguo;horloge ancienne;horloge ancienne;vecchio orologio;antieke klok;古董时钟;古董時鐘;アンティークなとけい;앤티크 시계;антикварные часы
@@ -863,3 +863,5 @@ Ftr_12573;pirate-treasure chest;pirate-treasure chest;Piratenschatzkiste;cofre d
 Ftr_12574;pirate barrel;pirate barrel;Piratenfass;tonel pirata;tonel pirata;tonneau pirate;tonneau pirate;barile pirata in verticale;piratenvat;海盗木桶;海盜木桶;かいぞくのたる;해적 나무통;пиратская бочка
 Ftr_12579;ACNH Nintendo Switch;ACNH Nintendo Switch;Nintendo Switch (ACNH);Nintendo Switch ACNH;Nintendo Switch ACNH;Nintendo Switch ACNH;Nintendo Switch ACNH;Nintendo Switch ACNH;Nintendo Switch van ACNH;动物森友会Nintendo Switch;動物森友會Nintendo Switch;どうぶつのもりのSwitch;동물의 숲 Nintendo Switch;ACNH Nintendo Switch
 Ftr_12741;world map;world map;Weltkarte;mapamundi;mapamundi;mappemonde;carte du monde;planisfero;wereldkaart;世界地图;世界地圖;せかいちず;세계 지도;карта мира
+Ftr_12921;rodeo-style springy ride-on;rodeo-style springy ride-on;Rodeo-Federwippe;balancín de muelle vaquero;balancín de resorte vaquero;animal de ranch sur ressort;animal de ranch sur ressort;cavallo a molla cowboy;cowboy-veertoestel;牛仔竞技风弹簧游乐器材;牛仔競技風彈簧遊樂器材;ロデオふうスプリングゆうぐ;로데오풍 스프링 놀이 기구;родео-тренажер скакун
+Ftr_13221;Luna's bed;Luna's bed;Serenada-Bett;cama de Alakama;cama de Alakama;lit de Serena;lit de Serena;letto di Sonia;bed van Luna;梦美的床铺;夢美的床鋪;ゆめみのベッド;몽셰르의 침대;кровать Луны

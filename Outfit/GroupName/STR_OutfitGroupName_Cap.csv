@@ -10,6 +10,9 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1105;floral hairpin;floral hairpin;Blumenhaarspange;clip flor;clip flor;épingle fleurie;épingle fleurie;molletta floreale;bloemenhaarspeld;花朵发夹;花朵髮夾;おはなのヘアピン;꽃 머리핀;шпилька с цветком
 1106;heart hairpin;heart hairpin;Herzhaarnadel;clip corazón;clip corazón;épingle cœur;épingle cœur;molletta cuore;hartenhaarspeld;爱心发夹;愛心髮飾;ハートのかみかざり;하트 머리핀;шпилька с сердечком
 1107;star hairpin;star hairpin;Sternhaarnadel;clip estrella;clip estrella;épingle étoile;épingle étoile;molletta stella;sterrenhaarspeld;星星发夹;星星髮飾;ほしのかみかざり;별 머리핀;шпилька со звездой
+1108;bulb bopper;bulb bopper;Leuchtkugelreif;diadema luciérnagas;diadema luciérnagas;serre-tête lumières;serre-tête lumières;paio antenne fluo;gloeilampendiadeem;发光球头饰;發光球頭飾;ひかるボールアクセサリー;빛나는 볼 액세서리;ободок с лампочками
+1109;flower bopper;flower bopper;Leuchtblumenreif;diadema florecillas;diadema florecitas;serre-tête fleurs;serre-tête fleurs;paio antenne fiori;bloemendiadeem;发光花朵头饰;發光花朵頭飾;ひかるはなのアクセサリー;빛나는 꽃 액세서리;ободок с цветками
+1110;heart bopper;heart bopper;Leuchtherzchenreif;diadema corazones;diadema corazones;serre-tête cœurs;serre-tête cœurs;paio antenne cuori;hartendiadeem;发光爱心头饰;發光愛心頭飾;ひかるハートアクセサリー;빛나는 하트 액세서리;ободок с сердечками
 1111;barrette;barrette;Haarspange;pasador;pasador;barrette;barrette;barretta per capelli;haarspeldje;发夹;髮夾;バレッタ;바레트;цветочная заколка
 1112;giant ribbon;giant ribbon;Riesenschleifchen;maxilazo;maxilazo;ruban géant;ruban géant;fiocco gigante;grote strik;大蝴蝶结;大蝴蝶結;おおきなリボン;커다란 리본;огромный бант
 1114;skateboarding helmet;skateboarding helmet;Skateboard-Helm;casco para patinete;casco de skateboard;casque de skateboard;casque de skateboard;casco da skateboard;skatehelm;滑板头盔;滑板安全帽;スケボーヘルメット;스케이트 보드 헬멧;шлем для скейтбординга
@@ -23,6 +26,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1125;peach hat;peach hat;Pfirsichhut;gorro melocotón;gorro durazno;chapeau pêche;chapeau pêche;berretto pesca;perzikmuts;桃子帽子;桃子帽子;モモのぼうし;복숭아 모자;шапка-персик
 1131;Labelle cap;Labelle cap;Samthea-Mütze;gorra Trini;gorra Trini;casquette Maria;casquette Maria;berretto Bice;Labelle-pet;凯丝的棒球帽;凱絲鴨舌帽;ケイトのキャップ;케이트의 야구 모자;кепка «Лэйблеск»
 1132;Labelle hat;Labelle hat;Samthea-Hut;pamela Trini;sombrero Trini;chapeau Maria;chapeau Maria;cappello Bice;Labelle-hoed;凯丝的帽子;凱絲帽子;ケイトのぼうし;케이트의 모자;шляпа «Лэйблеск»
+1139;star bopper;star bopper;Leuchtsternreif;diadema estrellas;diadema estrellas;serre-tête étoiles;serre-tête étoiles;paio antenne stelle;sterrenhoofdband;发光星星头饰;發光星星頭飾;ひかるスターアクセサリー;빛나는 별 액세서리;звездный ободок
 1142;Nook Inc. cap;Nook Inc. cap;Nook-Inc.-Kappe;gorra de Nook Inc.;gorra de Nook Inc.;casquette Nook Inc.;casquette Nook Inc.;cappello Nook Inc.;Nook Inc.-pet;Nook Inc.帽子;Nook Inc.帽;たぬきかいはつキャップ;Nook Inc. 야구 모자;кепка Nook Inc.
 1143;Nook Inc. bandanna;Nook Inc. bandanna;Nook-Inc.-Kopftuch;pañuelo de Nook Inc.;pañuelo de Nook Inc.;bandana Nook Inc.;bandana Nook Inc.;bandana Nook Inc.;Nook Inc.-bandana;Nook Inc.头巾;Nook Inc.頭巾;たぬきかいはつバンダナ;Nook Inc. 반다나;бандана Nook Inc.
 1147;rain hat;rain hat;Regen-Schülerhut;gorro impermeable;gorro impermeable;chapeau de pluie;chapeau de pluie;cappello da pioggia;regenhoed;雨帽;雨衣帽;レインハット;우비 모자;дождевая шапка
@@ -94,7 +98,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 634;outdoor hat;outdoor hat;Outdoor-Hut;sombrero de paseo;sombrero de paseo;chapeau de randonnée;chapeau de randonnée;cappello parasole;kampeerhoed;户外登山帽;戶外登山帽;アウトドアハット;아웃도어 모자;походная шляпа
 635;straw boater;straw boater;Kreissäge;canotier;canotier;canotier;canotier;paglietta;gondeliershoed;平顶草帽;平頂草帽;カンカンぼう;캉캉 모자;шляпка канотье
 636;beret;beret;Barett;boina;boina;béret;béret;basco;baret;贝雷帽;貝雷帽;ベレーぼう;베레모;берет
-637;orange hat;orange hat;Orangenhut;gorro naranja;gorro naranja;chapeau orange;chapeau orange;cappello arancia;sinaasappelmuts;橘子帽子;夏蜜柑帽子;オレンジのぼうし;귤 모자;шапка-апельсин
+637;orange hat;orange hat;Orangenhut;gorro naranja;gorro naranja;chapeau orange;chapeau orange;cappello arancia;sinaasappelmuts;橘子帽子;橘子帽子;オレンジのぼうし;귤 모자;шапка-апельсин
 638;kiwi hat;kiwi hat;Kiwihut;gorro kiwi;gorro kiwi;chapeau kiwi;chapeau kiwi;cappello kiwi;kiwimuts;奇异果帽子;奇異果帽子;キウイのぼうし;키위 모자;шапка-киви
 639;strawberry hat;strawberry hat;Erdbeerhut;gorro fresa;gorro fresa;chapeau fraise;chapeau fraise;cappello fragola;aardbeimuts;草莓帽子;草莓帽子;いちごのぼうし;딸기 모자;шапка-клубника
 640;grape hat;grape hat;Traubenhut;gorro uva;gorro uva;chapeau raisin;chapeau raisin;cappello uva;druivenmuts;葡萄帽子;葡萄帽子;ぶどうのぼうし;포도 모자;шапка-виноград

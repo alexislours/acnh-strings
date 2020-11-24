@@ -1,4 +1,11 @@
 label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);Italian;Dutch;Chinese;Chinese (Traditional);Japanese;Korean;Russian
+Balloon_07869;blue balloon;blue balloon;Ballon (blau);globo azul;globo azul;ballon de baudruche bleu;ballon bleu;palloncino blu;blauwe ballon;蓝色气球;藍色氣球;あおいふうせん;파란색 풍선;синий шарик
+Balloon_13123;red balloon;red balloon;Ballon (rot);globo rojo;globo rojo;ballon de baudruche rouge;ballon rouge;palloncino rosso;rode ballon;红色气球;紅色氣球;あかいふうせん;빨간색 풍선;красный шарик
+Balloon_13124;yellow balloon;yellow balloon;Ballon (gelb);globo amarillo;globo amarillo;ballon de baudruche jaune;ballon jaune;palloncino giallo;gele ballon;黄色气球;黃色氣球;きいろのふうせん;노란색 풍선;желтый шарик
+Balloon_13125;green balloon;green balloon;Ballon (grün);globo verde;globo verde;ballon de baudruche vert;ballon vert;palloncino verde;groene ballon;绿色气球;綠色氣球;みどりのふうせん;초록색 풍선;зеленый шарик
+Balloon_13126;pink balloon;pink balloon;Ballon (rosa);globo rosa;globo rosa;ballon de baudruche rose;ballon rose;palloncino rosa;roze ballon;粉红色气球;粉紅色氣球;ピンクのふうせん;핑크색 풍선;розовый шарик
+BlowBubble_04386;bubble blower;bubble blower;Seifenblasenset;lanzapompas;lanzaburbujas;lance-bulles;lance-bulles;sparabolle;flesje bellenblaas;肥皂泡;肥皂泡;シャボンだま;비눗방울;набор для пузырей
+BlowBubble_04386_pl;bubble blowers;bubble blowers;Seifenblasensets;lanzapompas;lanzaburbujas;lance-bulles;lance-bulles;sparabolle;flesjes bellenblaas;肥皂泡;肥皂泡;シャボンだま;비눗방울;наборы для пузырей
 DummyCardboard_04645;delivery;delivery;Lieferung;paquete;paquete;livraison;livraison;consegna;pakketje;包裹;包裹;おとどけもの;소포;посылка
 DummyDIYRecipe_09046;Vaulting Pole Recipe;Vaulting Pole Recipe;Anleitung (Sprungstab);proyecto pértiga;proyecto garrocha;plan de perche;plan de perche;schema asta da salto;polsstokplan;撑杆跳竿子的DIY手册;撐竿跳竿子的DIY方程式;たかとびぼうのDIYレシピ;높이뛰기 장대 DIY 레시피;инструкция: шест
 DummyDIYRecipe_09047;Flimsy Shovel Recipe;Flimsy Shovel Recipe;Anleitung (Wackelschaufel);proyecto pala endeble;proyecto pala frágil;plan de pelle rudimentaire;plan de pelle rudimentaire;schema pala fragile;breekbare-schep-plan;简陋铲子的DIY手册;簡陋鏟子的DIY方程式;ショボいスコップのDIYレシピ;엉성한 삽 DIY 레시피;инструкция: непр. лопата
@@ -35,8 +42,14 @@ DummyWrapping_07711;present;present;Geschenk;regalo;regalo;cadeau;cadeau;regalo;
 DummyWrapping_07712;present;present;Geschenk;regalo;regalo;cadeau;cadeau;regalo;cadeau;礼物;禮物;プレゼント;선물;подарок
 DummyWrapping_07713;present;present;Geschenk;regalo;regalo;cadeau;cadeau;regalo;cadeau;礼物;禮物;プレゼント;선물;подарок
 DummyWrapping_07714;present;present;Geschenk;regalo;regalo;cadeau;cadeau;regalo;cadeau;礼物;禮物;プレゼント;선물;подарок
+FierworkHand_05743;red sparkler;red sparkler;Rot-Wunderkerze;bengala roja;bengala roja;cierge magique rouge;bougie magique rouge;stella filante rossa; rood sterretje;红色烟花棒;紅色仙女棒;あかいてもちはなび;빨간색 스파클러;красн. бенгальский огонь
+FierworkHand_05743_pl;red sparklers;red sparklers;Rot-Wunderkerzen;bengalas rojas;bengalas rojas;cierges magiques rouges;bougies magiques rouges;stelle filanti rosse; rode sterretjes;红色烟花棒;紅色仙女棒;あかいてもちはなび;빨간색 스파클러;красн. бенгальские огни
+FierworkHand_12974;blue sparkler;blue sparkler;Blau-Wunderkerze;bengala azul;bengala azul;cierge magique bleu;bougie magique bleue;stella filante blu; blauw sterretje;蓝色烟花棒;藍色仙女棒;あおいてもちはなび;파란색 스파클러;син. бенгальский огонь
+FierworkHand_12974_pl;blue sparklers;blue sparklers;Blau-Wunderkerzen;bengalas azules;bengalas azules;cierges magiques bleus;bougies magiques bleues;stelle filanti blu; blauwe sterretjes;蓝色烟花棒;藍色仙女棒;あおいてもちはなび;파란색 스파클러;синие бенгальские огни
+FireworkM_13106;fountain firework;fountain firework;Fontäne;bengala de tubo;bengala de tubo;feu d'artifice fontaine;feu d'artifice fontaine;fuoco d'artificio;sterretjesfontein;地面烟花筒;地面煙火筒;おきはなび;분수 불꽃;фейерверк-фонтан
 FishBait_04549;fish bait;fish bait;Köder;cebo;cebo;appât;appât;esca;aas;鱼饲料;魚飼料;サカナのまきエサ;물고기 떡밥;наживка
 FishBait_04549_pl;fish bait;fish bait;Köder;cebos;cebos;appâts;appâts;esche;aas;鱼饲料;魚飼料;サカナのまきエサ;물고기 떡밥;наживки
+HandheldPennant_13128;Nook Inc. handheld pennant;Nook Inc. handheld pennant;Nook-Inc.-Fähnchen;banderín Nook Inc. portátil;banderín Nook Inc. portátil;fanion portable Nook Inc.;fanion portable Nook Inc.;gagliardetto Nook Inc.;Nook Inc.-vlaggetje;Nook Inc.手持三角旗;Nook Inc.手持三角旗;たぬきかいはつのてもちペナント;Nook Inc. 손 깃발;флажок Nook Inc.
 Honeycomb_03263;wasp nest;wasp nest;Wespennest;avispero;avispero;nid de guêpes;nid de guêpes;vespaio;wespennest;蜂巢;蜂巢;ハチのす;벌집;осиное гнездо
 Honeycomb_03263_pl;wasp nests;wasp nests;Wespennester;avisperos;avisperos;nids de guêpes;nids de guêpes;vespai;wespennesten;蜂巢;蜂巢;ハチのす;벌집;осиные гнезда
 HousingKit_02750;tent;tent;Zelt;tienda de campaña;tienda de campaña;tente;tente;tenda;tent;帐篷;帳篷;テント;텐트;палатка
@@ -76,8 +89,11 @@ MilePlaneTicket_05851;Nook Miles Ticket;Nook Miles Ticket;Meilenticket;cupón de
 MilePlaneTicket_05851_pl;Nook Miles Tickets;Nook Miles Tickets;Meilentickets;cupones de millas;cupones de millas;tickets Miles Nook;tickets points Nook;coupon miglia di Nook;Nook-miles-bonnen;里数旅行券;哩數旅行券;マイルりょこうけん;마일 여행권;билеты за мили Нука
 MilePlaneTicket_09964;Bell voucher;Bell voucher;Sterni-Coupon;cupón de bayas;cupón de bayas;ticket clochettes;ticket clochettes;coupon stelline;klingelbon;铃钱兑换券;鈴錢兌換券;ベルひきかえけん;벨 교환권;ваучер на дини
 MilePlaneTicket_09964_pl;Bell vouchers;Bell vouchers;Sterni-Coupons;cupones de bayas;cupones de bayas;tickets clochettes;tickets clochettes;coupon stelline;klingelbonnen;铃钱兑换券;鈴錢兌換券;ベルひきかえけん;벨 교환권;ваучеры на дини
+MilePlaneTicket_13228;Dream Bell exchange ticket;Dream Bell exchange ticket;Traumsterni-Coupon;cupón de bayas onírico;cupón de bayas onírico;ticket rêve de clochettes ;ticket rêve de clochettes ;coupon onirico;droomklingelbon;梦境铃钱兑换券;夢境鈴錢兌換券;ゆめのベルひきかえけん;꿈의 벨 교환권;чек за сон
+MilePlaneTicket_13228_pl;Dream Bell exchange tickets;Dream Bell exchange tickets;Traumsterni-Coupons;cupones de bayas oníricos;cupones de bayas oníricos;tickets rêve de clochettes;tickets rêve de clochettes;coupon onirici;droomklingelbonnen;梦境铃钱兑换券;夢境鈴錢兌換券;ゆめのベルひきかえけん;꿈의 벨 교환권;чеки за сон
 Ocarina_05320;ocarina;ocarina;Okarina;ocarina;ocarina;ocarina;ocarina;ocarina;ocarina;陶笛;陶笛;オカリナ;오카리나;окарина
 Panflute_05517;pan flute;pan flute;Panflöte;sicu;sicu;flûte de pan;flûte de pan;flauto di Pan;panfluit;排笛;排笛;パンフルート;팬파이프;многоствольная флейта
+Partyhorn_05742;tweeter;tweeter;Tröte;matasuegras;espantasuegras;sans-gêne;sifflet déroulant;trombetta di Capodanno;roltong;派对吹笛;派對吹笛;ふきもどし;코끼리 피리;пищалка
 PartyPopper_02753;party popper;party popper;Partyknaller;cañón de confeti;cañón de confeti;pétard;pétard;sparacoriandoli;confettiknaller;拉炮;拉炮;クラッカー;파티용 폭죽;хлопушка
 PartyPopper_02753_pl;party poppers;party poppers;Partyknaller;cañones de confeti;cañones de confeti;pétards;pétards;sparacoriandoli;confettiknallers;拉炮;拉炮;クラッカー;파티용 폭죽;хлопушки
 PitFallSeed_02578;pitfall seed;pitfall seed;Falle;trampa;trampa;piège;piège;trappola;valkuilzaadje;陷阱种子;陷阱種子;おとしあなのタネ;함정 씨앗;западня
@@ -88,7 +104,10 @@ Tambourine_05430;tambourine;tambourine;Tamburin;pandereta;pandereta;tambourin;ta
 Trash_03466;empty can;empty can;Dose;chatarra;chatarra;boîte vide;boîte vide;lattina vuota;leeg blikje;空罐;空罐;あきカン;빈 통조림 캔;консервная банка
 Trash_03469;boot;boot;Stiefel;bota;bota;godasse;vieux soulier;scarpone;laars;长靴;長靴;ながぐつ;장화;башмак
 Trash_03470;old tire;old tire;Reifen;neumático;neumático;vieux pneu;vieux pneu;copertone;oude band;轮胎;輪胎;タイヤ;타이어;старая покрышка
+Trash_13107;used fountain firework;used fountain firework;Fontäne (abgebrannt);bengala de tubo usada;bengala de tubo usada;feu d'artifice fontaine usagé;feu d'artifice fontaine usagé;fuoco d'artificio esaurito;gebruikte sterretjesfontein;地面烟花筒的灰烬;地面煙火筒灰燼;おきはなびのもえかす;분수 불꽃의 재;б/у фейерверк-фонтан
+Uchiwa_05319;uchiwa fan;uchiwa fan;Uchiwa-Fächer;paipay;abanico paipay;éventail uchiwa;éventail uchiwa;ventaglio uchiwa;uchiwa-waaier;扇子;扇子;うちわ;둥글부채;веер утива
 Uchiwa_09762;Nook Inc. uchiwa fan;Nook Inc. uchiwa fan;Nook-Inc.-Uchiwa-Fächer;paipay de Nook Inc.;abanico paipay de Nook Inc.;éventail uchiwa Nook Inc.;éventail uchiwa Nook Inc.;ventaglio uchiwa Nook Inc.;Nook Inc.-uchiwa-waaier;Nook Inc.团扇;Nook Inc.扇子;たぬきかいはつうちわ;Nook Inc. 둥글부채;веер утива Nook Inc.
+Windmill_05744;pinwheel;pinwheel;Windrädchen;molinete;molinito;moulin;moulin;girandola;windmolentje;纸风车;紙風車;かざぐるま;바람개비;вертушка
 WrappingPaper_07683;yellow wrapping paper;yellow wrapping paper;Gelb-Geschenkpapier;papel de regalo amarillo;papel de regalo amarillo;papier cadeau jaune;papier cadeau jaune;carta da regalo gialla;geel cadeaupapier;黄色包装纸;黃色包裝紙;きいろいラッピングペーパー;노란색 포장지;желтая обертка
 WrappingPaper_07683_pl;yellow wrapping paper;yellow wrapping paper;Gelb-Geschenkpapier;papel de regalo amarillo;papel de regalo amarillo;papiers cadeau jaunes;papiers cadeau jaunes;carta da regalo gialla;geel cadeaupapier;黄色包装纸;黃色包裝紙;きいろいラッピングペーパー;노란색 포장지;желтые обертки
 WrappingPaper_07684;pink wrapping paper;pink wrapping paper;Pink-Geschenkpapier;papel de regalo rosa;papel de regalo rosa;papier cadeau rose;papier cadeau rose;carta da regalo rosa;roze cadeaupapier;粉红色包装纸;粉紅色包裝紙;ピンクのラッピングペーパー;핑크색 포장지;розовая обертка
