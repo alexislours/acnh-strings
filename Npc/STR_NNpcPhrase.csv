@@ -1,0 +1,392 @@
+label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);Italian;Dutch;Chinese;Chinese (Traditional);Japanese;Korean;Russian
+ant00;ah-CHOO;ah-CHOO;schneuf;achús;achús;ATCHOUM;ATCHOUM;ett-CCIÙ;ha-TSJOE;有的;有的;でごわす;임돠;апчхи
+ant01;honk;honk;schlürrrf;fufuf;fufuf;pouet;pouet;honk;snuit;真诚;真誠;ホントに;진짜로;го-го-го
+ant02;snooooof;snooooof;schnieef;snuf-snuf;snuf-snuf;pouuuuuf;pouuuuuf;snuuf;snufffff;希希;希希;だっしー;라지요;снуф-снуф
+ant03;snorty;snorty;puuust;esnoink;fa-fiú;grognon;grognon;snorty;snork;真的假的;真的假的;マジでー;정말;хрум-хрум
+ant06;sniffff;sniffff;schnuff;sniff;sniff;snif snif;snif snif;sniffff;snuifff;麻烦了;麻煩了;たもれ;추릅;шмыг
+ant08;gumdrop;gumdrop;schnüffel;nubecillas;snifffi;tap tap;tap tap;chic;dropje;优雅;優雅;をかし;하양하양;жуй-жуй
+ant09;whiffa;whiffa;mwahaaa;fruf;fruf;tartarin;yesss;swish;toet;欧啦;歐啦;ムーチョ;무쵸;уф-уф
+bea00;grooof;grooof;gruff;gruuuf;gruuuf;grrrrrr;grrrrrr;gruf;grommm;太好了;太好了;ですたい;입네다;быр-быр
+bea01;wah;wah;schätzchen;terronillo;guah;ouah;ouah;cubetto;wauw;哇喔;哇喔;わぉ;와;ну и ну
+bea02;fuzzball;fuzzball;grumml;oye;gromp;bouboule;bouboule;grrroan;brombeer;嗯唔;嗯唔;ウム;음;махрово
+bea03;aiya;aiya;hiijaa;ándale-oso;grinchu;lala;lala;ehilà;kiai;有喔;有喔;アルヨ;그럼;ай-яй
+bea05;yawwwn;yawwwn;gäähn;uuaaaah;uuaaaah;baaîîîllle;baaîîîllle;yauuun;gaaaap;嗯是;嗯是;んだ;힘내;спа-а-ать
+bea06;grumble;grumble;brummel;jorrr;jorrr;grou-gnon;grou-gnon;grum grum;brom;哇哇;哇哇;ワォー;어쩌라구;бур-бур
+bea07;twinkles;twinkles;hooonig;fisflash;fisflash;pic pic;pic pic;gnifa;honingbij;加油;加油;ファイト;사르르;ме-е-ед
+bea08;grooomph;grooomph;brumbrum;grumf;grumf;groumpf;groumpf;gruuunf;oemf;呀呐;呀吶;やーねぇ;그라지;гррум
+bea09;grrr;grrr;grrr;tostón;grrre;canaillou;canaillou;grrr;grrr...;熊熊;熊熊;だクマ;냅둬;грр
+bea10;yodelay;yodelay;bralala;borobó;borobó;léchouille;tourlou;bah;jodelie;耶呼;耶呼;ヤッホー;야호야호;йодль
+bea11;roadie;roadie;brrruah;tornillos;grurrr;pot d'miel;pot d'miel;sgrugno;ja denk;施主;施主;ボウズ;터프;гарр-сон
+bea12;urgh;urgh;bärbär;comolooyes;urrrgh;verlue;chacha;sbuff;pff;唷咻;唷咻;よいしょ;으랏차차;ого-го
+bea13;whiskers;whiskers;brrroho;bigotre;bigotre;poilodos;ciao;andale;snorhaar;咳咳;咳咳;オッホン;오홍홍;усы мои
+bea14;strudel;strudel;gruaaa;ricitos;achurf;achtung;achtung;bailar;strudel;Over;Over;オパー;라저;штрудель
+bea15;sundae;sundae;lollipop;tutifruti;tutifruti;berlingot;berlingot;sucré;lolly;舔舔;舔舔;ぺろ;낼름;сладенько
+brd00;heeeeeyy;heeeeeyy;hiiiijjj;heeey;eeey;maaaaaais;maaaaaais;cipinci;heeeeeyy;呢喃;呢喃;でおます;그쵸;хей-хей
+brd01;la-di-da;la-di-da;ladida;picatoste;larará;ta-di-da;ta-di-da;yuppidù;lalala;喳;喳;さ;글쎄;ля-ля-ля
+brd02;chuurp;chuurp;tschurp;piu-piu;piu-piu;muf-muf;muf-muf;ciripì;tsjiiirp;如斯;如斯;でシ;이어라;чик-чирик
+brd03;cheepers;cheepers;zwirtschi;tirití;tirití;coolos;coolos;ciiip;fwieeet;叽;嘰;ッピ;크;тю-вить
+brd04;bzzert;bzzert;zischhh;pío-pío;pío-pío;bouerk;bouerk;bzzert;tjulp;诺诺;諾諾;だニョ;삼바;бзе-е-ерт
+brd05;chickadee;chickadee;tschikadii;chupiyá;chupiyá;puic puic;puic puic;cocoricò;tjiep tjiep;山雀;山雀;けどー;허나;чики-чик
+brd06;aye aye;aye aye;oh, ja;avechucho;piuc-piuc;cornichon;cornichon;cipissi;yep yep;贯彻;貫徹;ってか;오예;чиф-чиф
+brd08;tweedledee;tweedledee;twitiriti;arrurrú;arrurrú;loulou;loulou;firulì;kwetter;脸红;臉紅;キョン;핑그르르;тви-тви
+brd11;ya feel;ya feel;tirilü;pelusilla;chiurp;asticô;asticô;ciiipito;snappie;话说;話說;っつーの;그거야;чуррп
+brd15;cacaw;cacaw;mauser;picopico;pío;yaaaah;yaaaah;lorito;kakauw;嘎;嘎;カァー;까아악;кар-ко
+brd16;zut alors;zut alors;piepiep;chapó;chapó;ploc ploc;why not;pio pio;zut alors;唷唷唷;唷唷唷;チェケラ;체키라웃;фу ты
+brd17;crunch;crunch;flatter;muy fuerte;cachirp;poupousse;poupousse;sprint;wasbordje;噗噗;噗噗;ブン;츠츠츠;тук-тук
+brd18;like whoa;like whoa;birtz;gorrión;chirpi;piaaaaf;piaaaaf;adiós;wreed;啁啁;啁啁;だチュン;섭섭;так-так
+bul00;macmoo;macmoo;brrruzzl;cuernos;bufff;meuh meuh;meuh meuh;macmoo;denderund;呼呼;呼呼;ふふ;후후;макму-у-у
+bul01;chaps;chaps;oléolé;olé;olé;crac;olé;oléolé;cowboy;了不起;了不起;さすがに;디용;ковбой
+bul03;mrooooo;mrooooo;muhuhu;olé y olé;olé y olé;meuh quoi;meuh quoi;ciaumù;boe-jend;奔驰;奔馳;だなっす;알것소;му-у
+bul05;moocher;moocher;hhmmuuuhh;muooola;muuuchi;vachte;mes cornes;muuusica;moehoe;是呗;是唄;だっぺ;워메에;бычок
+bul07;stubble;stubble;schnoff;chacho;chacho;mon cou;bétail;oooh issa;stoppel;胡渣;鬍渣;ジョリッ;땅땅;раз-два
+bul08;cud;cud;grumpf;muuubién;brufff;moumoul;moumoul;trullalà;kauw;哞;哞;モイ;뭐임;полундра
+cat00;pthhpth;pthhpth;psssps;zarpas;fishfish;pfioupf;pfioupf;baffo;poekie;猫猫;貓貓;ネコ;고양이;кх-кх-кх
+cat01;mew;mew;muh;misi-misi;misi-misi;meeeeeh;meeeeeh;miao;mieuw;喵;喵;ニャー;야～옹;мяу-мяу
+cat02;silly;silly;flöt;miaaau;miaaau;flûte;flûte;tontolon;gekkie;看看;看看;チェキ;헤이;рыбка
+cat03;purrr;purrr;schnurr;raspas;michimiau;rrrrrrrrr;rrrrrrrrr;purrr;prrrrrr;什么;什麼;なんやん;머냐;мур-мяу
+cat04;kitty cat;kitty cat;miausi;galletita;michifiú;chti minou;chti minou;mieaoo;poesjemauw;酱酱;醬醬;だニ;뭐라지요;кисуля
+cat05;reeeeOWR;reeeeOWR;grraul;mandarinas;mirriau;roooaR;roooaR;miiiiaOU;sinas;蜜柑;蜜柑;みかん;귤귤;фруктик
+cat06;mrmpht;mrmpht;mrmpft;arenque;gruuuah;blébléblé;mimine;maramao;plof;晃晃;晃晃;だのら;노라줘;отдыхаем
+cat07;kitten;kitten;kätzchen;tontaina;michimiu;chaton;chaton;micetto;kitten;嗯嗯;嗯嗯;ふんっ;냠;кис-кис
+cat08;myawn;myawn;schluchz;grrrroou;grrrroou;miou;miou;myawn;geeuweldig;呐;吶;な;그치;мяу-а-а-а
+cat09;meooo-OH;meooo-OH;miiiau;imikimono;imikimono;mia-ouh;mia-ouh;meooo-OH;mie-auw;咦唷;咦唷;ぃよぉー;꺄;мя-я-яу
+cat10;psst;psst;maunz;soldado;psst;psst;psst;psst;psst;喝;喝;とぉっ;얍;шш
+cat11;pffffft;pffffft;mrrrrrrr;ronrón;ronrón;pffffft;pffffft;miaù;pffffft;嗯哼;嗯哼;ウフーン;우;фи-фи
+cat12;me-WOW;me-WOW;mrriau;animiaul;animiaul;mi-AOUUH;mi-AOUUH;meOW;mi-WAUW;喵吼;喵吼;にゃは;삐뽀;мя-ого
+cat13;GAAHHH;GAAHHH;fauchch;marramiau;marramiau;miaoum;miaoum;GAAHHH;BAH;打啊;打啊;ダァーッ;아뵤;фу-у-у
+cat14;mrowrr;mrowrr;miezmiez;cascabel;miaul;miaaaouh;miaaaouh;fusolo;giechel;古古;古古;フフ;자갸;мр-мр-мр
+cat15;me-YOWZA;me-YOWZA;fauch;miooou;miooou;mistigri;mistigri;mi-IAO;miauw moe;切;切;ナックル;쳇;мя-я-яоза
+cat16;mweee;mweee;prrrrr;michifú;michifú;miou-mi;miou-mi;pffffft;mi-jippie;喵嗯;喵嗯;にゃん;냥냥;мяуи-и-и
+cat17;mimimi;mimimi;mauzi;miauito;miauito;chatounet;chatounet;meeeow;mimimi;哪;哪;ね;우앙;ми-ми-ми
+cat18;bonbon;bonbon;kratz;purrrr;purrrr;ron-ron;ron-ron;purrrr;zuurtje;娜个;娜個;あのね;퐁퐁;конфетка
+cat19;me meow;me meow;mi-miau;marramius;marramius;mi-i-i-ouh;mi-i-i-ouh;miao miao;sfinx;尼罗;尼羅;クフフ;파트라;ми-мяу
+cat20;mush;mush;katzaaa;cachusco;cachusco;alatienne;mouah;ron ron;robijn;之类的;之類的;とかナ;그러거나;шмяк
+cat21;purrty;purrty;zischel;salmonete;purrrs;miaouille;miaouille;fffz;prrrachtig;掰掰;掰掰;じゃね;휘리릭;хор-р-рошо
+cat23;crisp;crisp;weeßte;atilda;atilda;panache;panache;rrricooo;netjes;正经;正經;キリッ;우쭐;стильненько
+cbr00;peach;peach;früchtchen;cielito;melí-melá;prune;prune;pepè;perzik;怦怦;怦怦;キュン;두근;персик
+cbr01;honey;honey;darling;caramelito;mielmiel;chouchou;chouchou;miele;zoeterd;熊仔;熊仔;だベア;저기요;лапушка
+cbr02;li'l bear;li'l bear;bärli;bolita;pruah;nounours;nounours;babà;beertje;萌;萌;モン;몽;медвежонок
+cbr03;pudgy;pudgy;griesgram;rebollos;bruah;louloute;louloute;pulcino;mollig;真是的;真是的;んもう;아이참;карапуз
+cbr04;grah grah;grah grah;okeydokey;mola;graaau;grih grih;grih grih;oki-doki;okidoki;精神;精神;のこころ;나는나야;гррр
+cbr05;stuffin';stuffin';brummm;peluche;paguahhh;ou bien;ou bien;ohilà;pluche;玩玩;玩玩;なのれす;그런거죠;плюш-плюш
+cbr06;nyet;nyet;nastrovje;nyet;nyet;niet;niet;nyet;njet;唉唷;唉唷;やんけ;참말로;ну не-е-ет
+cbr07;malarkey;malarkey;liebelein;pelusita;heee;canaille;fait que;grizzel;spruit;罢了;罷了;ですばい;샐리;товарищ
+cbr09;sweet pea;sweet pea;honigtopf;panalito;panipof;trognon;trognon;fagiolino;honingkelkje;马克杯;馬克杯;マグ;오잉;милашка
+cbr10;tralala;tralala;tralala;tralará;tralará;tralala;tralala;trallalà;tralala;说说的;說說的;なんてね;어쩜이래;тра-ля-ля
+cbr13;rainbow;rainbow;schönheit;cielo;lurilá;cacou;cacou;grrande;wolkje;有耶;有耶;アルネ;있죠;радуга-дуга
+cbr14;bud;bud;flüster;pitiminí;pitiminí;linou;linou;purrrimba;bloempje;佳佳;佳佳;チャ;띵호아;цветочек
+cbr15;rookie;rookie;baaambus;ahivá;ahivá;pla-pla;pla-pla;brupp;bamboe;竹子;竹子;だバンブ;부끄;бамбук
+cbr16;cubby;cubby;mwuuu;apurri;apurri;dodododu;dodododu;babalù;welpje;算了;算了;いっそ;아니그냥;берлога
+cbr17;ya heard;ya heard;bossi;tararí;tararí;grifouille;grifouille;ohè;weet je;竟然说;竟然說;だってサ;차라리;понимаешь
+cbr19;myohmy;myohmy;träum;qué cosas;uyuyuy;oh là là;oh là là;misu misu;nee maar;哎呀;哎呀;あらら;어머머;охохонюшки
+chn00;buh-kay;buh-kay;buaa-ka-ka;caracol;bukááá;bouyaka;bouyaka;cucù;toktok;咕咕;咕咕;だコケ;키득;ко-кей
+chn01;uh-hoo;uh-hoo;putputtt;cocorico;cocorico;oh oh;oh oh;uh-hoo;eitje;好棒;好棒;ウヒョー;우힛;о-ко-ко
+chn02;doodle-duh;doodle-duh;duudle-du;kikirikí;kikirikí;di di dou;di di dou;du du du;kukelejus;很优;很優;だヨ;짜잔;кукареку
+chn05;beaker;beaker;biiika;piquito;kikiú;cô-cômment;cô-cômment;sbecsbec;snavel;是唷;是唷;のよぉ;그랬대요;клювик
+chn09;chicklet;chicklet;bokbok;cucurrús;cucurrús;côôôôt;côôôôt;coccoricò;kuiken;哈雷路亚;哈雷路亞;ハレルヤ;도레미;модненько
+chn10;chicky-poo;chicky-poo;hühnermist;tesorito;corocó;galine;galine;zampoli;kippetje;泰泰;泰泰;どうだい;그게어때;щип-щип
+chn11;cluckling;cluckling;knusprig;mazorca;cocorocó;ra-ta-tak;ra-ta-tak;uovole;nestei;等待;等待;せいッ;하앗;короко
+chn12;cluckadoo;cluckadoo;eieiei;pitas;kiriquicó;mon œuf;mon œuf;ovodè;kakel;咯咯;咯咯;ケッコー;오싹오싹;ки-ки-ки
+chn13;no doubt;no doubt;gockgock;kirrí;kirrí;pôt pôt;chicken;quiriqui;eiteraard;骨鸡;骨雞;コッケイ;깜깜;это точно
+cow00;how-now;how-now;muuhna;muuuu;muuuu;allez;oui oui;truuulà;koebeest;哞;牟;だモー;음메;му-му
+cow01;pushy;pushy;dingdong;cuernitos;muamuuu;choupette;choupette;sì sì sì;boelala;牛奶;牛奶;ミルミル;우유우유;теленок
+cow06;hoof hoo;hoof hoo;muuuhi;mu-mu;mu-mu;meuh nan;meuh nan;mu muuu;boehoe;微笑;微笑;うふ;에헤;до-ре-му
+cow07;moolah;moolah;joggi;merengue;mumumu;pistouille;merengue;moumou;loei;这样很好;這樣很好;セボーン;메르시;муля
+crd00;it'sa me;it'sa me;ahhhrg;ñam-ñam;ñam-ñam;moi moi;moi moi;proprio;it⁠'⁠sa me;鳄泥;鱷泥;だワニ;나아거;это я
+crd01;graaagh;graaagh;graaach;lagartija;muamú;graaagh;graaagh;graaag;graaach;鳄鱼皮;鱷魚皮;どすえ;얘야;гра-а-а
+crd02;munchie;munchie;schmatzi;crococroco;crococroco;mariolle;miam miam;gnammi;smikkel;跳;跳;だぴょん;만세;кусь
+crd04;gronk;gronk;happ;chomp;chomp;clap;clap;chomp;gronk;噗咻;噗咻;プシュー;처얼썩;щелк
+crd06;hoo-rah;hoo-rah;schnapp;capón;smack;repos;repos;ciaf;ingerukt;唰唰;唰唰;カサコソ;부스럭;ура-а-а
+crd07;snacky;snacky;zähni;corazón;smuack;croquignou;croc-croc;désolée;snackje;鳄莉;鱷莉;ワニャン;아거얌;перекус
+crd08;burrrn;burrrn;hömpf;quemarrr;ñami;ducroc;ducroc;tic tac;puf;然后;然後;えーと;띠용띠용;огонь
+der00;dearie;dearie;bimbam;puchu;puchu;toudoux;toudoux;vule vu;do ree mi;小鹿;小鹿;でしか;파샵파샵;олешек
+der01;kablang;kablang;weihweih;galilla;caplúúú;têtedebois;têtedebois;hop hop;gaffel;梅花;梅花;ナラね;슉슉;скок-скок
+der02;pronk;pronk;sproing;bambín;bambín;wapiti;wapiti;arriba;gazellig;鹿营;鹿營;たしかに;슴사사;прыг-прыг
+der03;gruff;gruff;röööhr;aquesí;aquesí;nunul;ouain;uauwaii;burl;福鹿寿;福鹿壽;しかしな;아비옹;забияка
+der04;whatevs;whatevs;tripptripp;rumiante;uatever;pan;pan;babam;nou ja;随便啦;隨便啦;まいっか;됐고;как-то так
+der05;badoom;badoom;bocko;trisca;trisca;jaunisse;you bet;sdleng;bokje;变了;變了;がぜん;엣헴;бубух
+der06;precious;precious;zick;braaaam;braaaam;rosace;frambou;cervilà;meid;西卡;西卡;なんしか;핑크크;зазноба
+der07;saltlick;saltlick;knospel;babum;babum;feufeuille;feufeuille;gnam gnam;zoutsteen;怎么办;怎麼辦;おろおろ;우왕;соль-соль
+der08;no doy;no doy;kitz;braaavo;nonuá;bichouchou;bichouchou;mamy;joh;是吧;是吧;でしょ;라니까;еще бы
+der09;chow down;chow down;hirschl;ñume-ñume;ñume-ñume;breuh;breuh;relax;schorsie;鹿鹿;鹿鹿;しかじか;뚜비뚜바;ем мох
+dog00;woof;woof;wuff;guau-guau;guau-guau;ouaf;ouaf;wuf wuf;woef;汪;汪;ワン;왈왈;тяв
+dog01;ROOOOOWF;ROOOOOWF;GRRUFF;gruf-gruf;gruf-gruf;WROOOOUF;WROOOOUF;ROOOOOF;BROEEEF;侬;儂;ノン;아니;ррр-гав
+dog02;rrr-owch;rrr-owch;rrr-awau;guuuuAY;guuuuf;graaaouch;graaaouch;ossorrr;www-⁠au;大概;大概;らしいよ;그렇대;ррр-ой-ой
+dog03;dawg;dawg;kläff;guau;guau;clair;clair;brrranco;makker;狗狗;狗狗;だイヌ;멍멍;пр-риятяв
+dog04;yip yip;yip yip;hechel;yip yip;yip yip;yip yip;yip yip;yip yip;snuf snuf;对吧;對吧;ネッ;옙;тяв-тяв
+dog05;ruffian;ruffian;frechi;ruf-ruf;ruf-ruf;brute;brute;ronfietto;keffer;屋屋;屋屋;フンッ;흥;тяв-ряв
+dog06;wuh;wuh;wafff;huesitos;guuu-ah;ouh;ouh;wuff;waf;咆;咆;バウ;컹컹;ау-у
+dog07;bow-WOW;bow-WOW;wauwau;guaay;guaucito;mon chou;mon chou;bau WOW;hazewind;对不对;對不對;だよね;그렇죠;тяв-ого
+dog08;arfer;arfer;nuffnuff;fresita;can;woufi;woufi;bubabù;kwispel;琳琳;琳琳;プリリン;초롱초롱;гав-гав
+dog09;yippee;yippee;hurra;chupi;reguau;youp;youpi;yuuuppii;jippie;一二;一二;ワンツー;달코미;ур-ра
+dog10;bingo;bingo;bingo;huesín;gufi-guf;mon chaton;mon chaton;bingo;bingo;宾果;賓果;グー;쫀득;динго
+dog14;woo woof;woo woof;bellbell;frusky;frusky;babines;babines;arfidenti;woewoef;摘;摘;モグ;우물우물;ау-у-гав
+dog15;non;non;tusch;colmillos;nenonó;miaouf;miaouf;snif snif;mais non;什么字;什麼字;なんじゃ;하옵소서;ау-уи
+dog16;alrighty;alrighty;winsel;tirirí;tirirí;croquettes;croquettes;bauuau;oké dan;那么那么;那麼那麼;ではでは;그럼그럼;пор-рядок
+dog17;what what;what what;wedel;guauchi;guauchi;niniche;niniche;arf arf;wat jij;听说娜;聽說娜;だってネ;그냥저냥;что-что
+dog18;baa baa baa;baa baa baa;heffheff;tufos;grrruau;pedigree;pedigree;guau guau;schapie;汪想想;汪想想;ワンダー;안보여;бр-р-разер
+duk00;quacko;quacko;quako;cuaco;cuaco;choupichou;choupichou;quaquo;kwaker;蛋是啊;蛋是啊;だね;탕;кряко
+duk01;bleeeeeck;bleeeeeck;tschiiirp;uac-uac;uac-uac;beeeuuuurk;beeeuuuurk;squack;kèèèk;鸭鸭;鴨鴨;でヤンス;그래유;кряк
+duk02;quackle;quackle;quaak;cuaqui;cuaqui;coin coin;coin coin;quackquack;kwakel;呜呜;嗚嗚;メソメソ;아잉;кряки-кряк
+duk03;duckling;duckling;entchen;perla;plumi-piú;canardou;canardou;paperotto;pulletje;叹;嘆;ふぅ;우아;желторотик
+duk04;woowoo;woowoo;juhuu;miguita;yiuju;youhou;youhou;quiproquò;joehoe;球球;毬毬;マル;우우;кря-кря
+duk05;rah rah;rah rah;krah;sinplumas;ra-rá;rah rah;rah rah;quoquiquà;hup hup;裴裴;裴裴;だっピ;다삐;крякушки
+duk06;quackpth;quackpth;quackpss;recuac;recuac;coinpff;coinpff;quackplà;kwaks;八十八;八十八;ヨネ;모모;кряк-фи
+duk07;ducky;ducky;schnatter;cui-cuá;cui-cuá;poussin;poussin;qua qua;eendje;鱼鱼;魚魚;ぎょぎょ;물물;утенок
+duk08;derrrr;derrrr;krook;cuato;cuato;derrrr;derrrr;quaccolo;ergo;喂！妈妈;喂！媽媽;ね！ママ;엄마;кррря
+duk09;quacko;quacko;schnabbl;polluelo;cui-cuac;canard;ben couac;quaqua;snabbel;或许鸭;或許鴨;かもね;어쩌면;кра-а
+duk10;zip zoom;zip zoom;flitzer;zapizum;zapizum;zak zak;zak zak;zip zoom;broem;呱呱;呱呱;グワッ;꾸왁;брум-брум
+duk11;quaa;quaa;quaa;cuaa-cuaa;cuaa-cuaa;plumeau;plumeau;quaaa;kwaaah;唧唧;唧唧;ピヨ;꽥꽥;кря-а
+duk12;quackulous;quackulous;brotbrot;cua-cuá;cua-cuá;couac;couac;quaquao;kwektakel;怎么回事;怎麼回事;なにさ;괜찮아;покрясающе
+duk13;bitty;bitty;pullilol;cuic-cuic;cuic-cuic;plouf;plouf;quaraquack;tomaatje;噗吱;噗吱;プチ;찌익;покрякушка
+duk15;quacker;quacker;nerv;picodoro;picodoro;kwakos;kwakos;quacchio;kwebbel;相反;相反;ぎゃくに;유～후;не кряк ли
+duk16;quackidee;quackidee;krümel;deverdá;cuáquidi;canénette;canénette;coin coin;topper;说不定鸭;說不定鴨;そうかも;그럴지도;крякульки
+duk17;ridukulous;ridukulous;pluster;verdoncho;cuacoac;arrêêêête;arrêêêête;cua cua;smient;说真的;說真的;マジかよ;리얼리;шу-утка
+elp00;snoot;snoot;tröööt;flip-flop;flip-flop;gropif;gropif;snoob;snoet;勇;勇;ヨン;땡;хобот
+elp01;woo-oo;woo-oo;taraaaa;naricita;wuuulá;woutchou;woutchou;ullà;trompet;象象;象象;だゾウ;휴휴;тру-ру
+elp02;villain;villain;truuu;mutante;duuud;vipère;vipère;furfante;boef;哈啊;哈啊;うりゃー;으랏차;хитрюга
+elp03;tooooot;tooooot;tuutuuuu;orejillas;fruuuf;tooouut;tooouut;nappole;pwèèèèèp;鲁鲁;魯魯;ルン;훨훨;тру-тут
+elp04;tootie;tootie;trampl;flaqui;fiuf-fiuf;toutie;toutie;tootie;pwèèpie;莎啦啦;莎啦啦;シャララ;샬랄라;тру-у-ти
+elp05;pal;pal;pruuust;amigante;pruuuf;fanfan;fanfan;pistaaaa;gabber;保罗;保羅;パオロ;파오;друг
+elp06;WHONK;WHONK;TUUUUT;ankagua;ankagua;splaf;splaf;SBONK;PWAAP;嘻嘻;嘻嘻;でゴンス;히힛;потрубим
+elp07;li'l one;li'l one;polter;trompi;fi-fiú;sacrelotte;sacrelotte;caromé;dreumes;啦啷;啦啷;ララン;트랄라;кроха
+elp09;fuzzers;fuzzers;puuuuuh;purupú;purupú;mammouth;mammouth;barrir;pluisie;毛毛;毛毛;もじゃ;뿌뿌;бивень
+elp10;teacup;teacup;huiuiui;snuuuf;snuuuf;énoooorme;énoooorme;parbleu;kopje thee;呼;呼;ホッ;따끈따끈;чайку-у
+elp12;rockin';rockin';hau;rocanrol;rocanrol;bastringue;barda;rocking;mieters;摇滚;搖滾;ウス;피스;рок-н-ролл
+flg00;toady;toady;kröti;mosquita;riiibit;watich';zzrrbbitt;gragragra;padje;雨雨;雨雨;でちゅ;그래요;ква
+flg01;zzrrbbitt;zzrrbbitt;quarrrk;crobit;crobit;croac;croac;cracrà;kwwwrrrk;机器;機器;だロボ;오버;квак-дзынь
+flg02;fribbit;fribbit;quäääk;anquitas;fribit;breup;breup;fribbit;fffwaak;咕噜;咕嚕;クルリ;객울;квак
+flg03;ten-hut;ten-hut;quak-quak;recluta;croooa;taïaut;kaki;attacroak;geef acht;喂;喂;わい;와이;шагом-квак
+flg04;dribbit;dribbit;quak;colega;dribit;braaaa;braaaa;girin;gozer;聒聒;嘓嘓;ゲロゲロ;개굴개굴;бро
+flg05;grr-ribbit;grr-ribbit;grupap;grroac;grroac;croa-croa;croa-croa;cracragnam;brulkikker;山山;山山;だぎゃ;므흣;ква-ква
+flg06;splish;splish;platschi;esplís;esplís;splufff;splufff;splash;plons;石头;石頭;っちゃ;그랬쪄;плюх
+flg07;nee-deep;nee-deep;nidip;croc-croc;croc-croc;brooap;brooap;fri fri;rikkekik;嚼嚼;嚼嚼;にゃむ;딩동댕;буль-буль
+flg09;sluuuurp;sluuuurp;schlürpf;zump;zump;nénuf;nénuf;sluuuurp;sluuuurp;蝌蚪;蝌蚪;だよん;흐압;жабррр
+flg10;oui oui;oui oui;oui, oui;oui oui;oui oui;bidule;bidule;et voilà;oui oui;不客气;不客氣;のことよ;라이라이;уи-уи
+flg11;hopper;hopper;hops;grillito;ajop;nouille;nouille;hophop;hophop;喝喝;喝喝;とかー;싸우자;скок
+flg12;burrup;burrup;gurp;buuurp;buuurp;boiiiiing;boiiiiing;berp;blurp;是的;是的;ですだ;이리오슈;квак-квак
+flg13;croak-kay;croak-kay;quaacki;croac;croac;quoi;quoi;crok-ok;inderkwaak;是蛙;是蛙;ですわよ;쪼오옥;кво-кей
+flg15;aaach—;aaach—;tatü;croaqui;croaqui;kroah;kroah;rrruuuak;kraah;哈啾;哈啾;へくしっ;콜록;ах-ох
+flg16;ribbette;ribbette;quaki;trebolito;croá-croá;crôazou;crôazou;gurghigù;kwaakette;宝贝;寶貝;ベイビィ;베이비;квакет
+flg17;as if;as if;schleck;yastá;yastá;crapoupou;ouaoua;umpf;ja dááág;子曰;子曰;しからば;툴툴;вроде того
+flg18;ya know;ya know;platsch;crocró;crocró;cuicuisse;cuicuisse;crabum;jeweetwel;蛤;蛤;ハーン;흐응;знаешь
+flg19;snoozit;snoozit;quappi;cruacruá;cruacruá;pustule;kôwa;croac;snurkwaak;滴咕;滴咕;むにゃ;음냐음냐;ква-храп
+goa00;la baa;la baa;määääh;beee-beee;beee-beee;la baa;la baa;beeello;la mèè;呗;唄;っぺ;맞아유;ле ме-е-е
+goa01;kid;kid;mekker;peque;bibi-bee;fromage;fromage;bimbi;geitje;书;書;っしょ;그랬슈;козленок
+goa02;dagnaabit;dagnaabit;o-o-ja-a-a;fenómeno;beerree;eh bââlèze;bêê quoi;sorbeeelli;nôh;唷喏;唷喏;よのう;알아줘;такие-сякие
+goa04;bleh eh eh;bleh eh eh;mähmääh;zampoña;meeeh;hé bêêê;hé bêêê;bleh eh;mekker;耶;耶;イェーイ;예이예;ме-хе-хе
+goa06;blih;blih;mecker;veráaas-tú;verááás-tú;tu vois;tu vois;blip;meh;起立;起立;ザーマス;똑바로해;ме-е-е
+goa07;wut;wut;mehehe;ein;ein;mouhai;mouhai;balido;watte;啊;啊;はぁ～;웁스;так
+goa08;kidders;kidders;heckmeck;muy bieeen;ne-eh;mon moulin;mon moulin;embeeeh;bokkig;或许芭;或許芭;かな;그러게;козлятки
+goa09;bawwww;bawwww;schlummer;bostezzz;bostezzz;bââââille;bââââille;beeewn;oefff;轻飘;輕飄;ふわぁ;흐아앙;мемеша
+gor00;highness;highness;hoheit;monigote;ejeeem;brutus;brutus;dado;hoogheid;拍胸脯;拍胸脯;ウホウホ;우갸우갸;высочество
+gor01;li'l bitty baby;li'l bitty baby;zwerg;cani;cani;gadget;gadget;baaanane;dwerg;高高;高高;ガオ;겉멋;мелкота
+gor02;baboom;baboom;ugh;angaua;angaua;ma noix;ma noix;baboom;bavi-AAN;这家伙;這傢伙;ウルトラ;야임마;бабум
+gor04;hoo hoo ha;hoo hoo ha;ugh-ugh;gorilérico;gorilérico;tonneau;tonneau;bum bum;oe-oe-ah;钢钢;鋼鋼;コング;하압;ух-ух-ах
+gor05;uh-oh;uh-oh;äffäff;unga;unga;pelage;pelage;bam bam;oh-oh;喔喔;喔喔;おうおう;오우오우;ух-ох
+gor07;sweetie;sweetie;auauauu;canapé;uh-uh;gong;gong;tump tump;lieverd;唉呀;唉呀;アイヤ;에그머닛;сластена
+gor08;ayyyeee;ayyyeee;uga-uga;chocolate;juju-já;ouba-oub;ouba-oub;bananao;aiaiai;呜呼;嗚呼;ウヒョッ;부락;ух-ух-ух
+gor09;vroom;vroom;brahaha;uga-uga;uga-uga;patouche;patouche;uhatà;vroem;煞啊;煞啊;そりゃっ;끼얍;на взлет
+gor10;groovy;groovy;kongkong;cungagún;cungagún;tût tût;tût tût;entonces;groovy;同意;同意;いえてる;알만하다;респект
+ham00;hammie;hammie;twirps;chucufá;chucufá;chicots;chicots;puff pant;hammie;火腿;火腿;ハム;햄햄;хомячок
+ham01;cheekers;cheekers;fiep;do-re-mi;do-re-mi;bibille;bibille;triplo uau;wangetjes;转转;轉轉;キュルン;큐룽;щечки
+ham02;indeed;indeed;hähäm;ñisqui;ñisqui;au pif;au pif;paella;inderdaad;就是这样;就是這樣;ですぞ;그렇다고;резонно
+ham03;le ham;le ham;mjamjam;adoya;adoya;caries;yes sir;flop;le ham;咻咻;咻咻;ヒュー;휴우;ле хом
+ham04;tarnation;tarnation;hümpf;moflete;ñiqui-ñú;gnognotte;ciel;vriiin;korenwolf;相信我;相信我;だってば;파샤샤;о-хо-хо
+ham05;thump;thump;backi;tucu-tucu;tucu-tucu;pindépice;pindépice;popomf;boink;忐忑不安;忐忑不安;どきどき;둥게둥게;стук-стук
+ham06;powderpuff;powderpuff;millimilli;nomnom;nomnom;abajoujou;abajoujou;fondue;donsbal;对啊;對啊;なのです;뽀드득;пушистик
+ham07;snort;snort;squiep;andaquenó;noquenó;balivernes;gna gna;spatapumf;snuifsnuif;怒;怒;カーッ;카악;фырк
+hip00;hippie;hippie;pfffft;batracio;hiponó;babi;babi;ipper;hippo;觉得是啦;覺得是啦;だぎゃー;그러마;гиппи
+hip02;hipster;hipster;blupper;hippie;glop-glop;hip hop là;hip hop là;hiippy;hipster;是是;是是;でガンス;히포포;хипстер
+hip03;bloop;bloop;blubber;glub-glub;glub-glub;rololol;gloups;blup;blubber;没错;沒錯;そうです;맞습니다;бултых
+hip04;squirt;squirt;skwiirt;hipo-pipo;hipo-pipo;hips hips;hips hips;squirt;spetter;因为;因為;じゃけん;오도독;малек
+hip05;my dear;my dear;mei o mei;corassón;hipopop;joli cœur;joli cœur;bibù;liefje;哔哔;嗶嗶;だピー;쩝쩝;дорогуша
+hip08;beach bum;beach bum;höhöhö;algas;ho-hop;mille;mille;uhuhuh;strandgast;世世;世世;でっせ;냉큼오슈;лежебока
+hip09;natch;natch;hipphipp;chofchof;chofchof;tam-tam;tam-tam;vale;tuurlijk;Yes;Yes;イェス;예스;естессно
+hrs00;pardner;pardner;wiehie;zanahoria;jopop;taty;howdy;cowboy;draver;搞笑;搞笑;なんちて;농담;партнер
+hrs01;sugar cube;sugar cube;gimazuka;terroncito;clic-cloc;susucre;susucre;zolletta;klontje;走哦;走囉;いくわよ;달리자;сахарок
+hrs02;y'all;y'all;wichichi;azucarillo;azuquita;wimbowé;wimbowé;hip hip;pony;说到;說到;ってば;맞아요;и все
+hrs03;tenderfoot;tenderfoot;anfänger;pezuñitas;hop-uah;mouuuuiii;mouuuuiii;pinopino;jonkie;酥酥;酥酥;だヒヒン;히히힝;жеребенок
+hrs04;nay;nay;galoppp;bípedo;ñiii;shérif;shérif;nay;nihihiet;布鲁鲁;布魯魯;ブルル;부르르;не-е-ет
+hrs05;hay-OK;hay-OK;heu-ja;okeimakei;okeimakei;youp là;youp là;biadina;knol;嘶嘶;嘶嘶;みゃあ;당근당근;тык-дык
+hrs06;greenhorn;greenhorn;greenhorn;jo-joy;jo-joy;tagada;tagada;pirulì;ju;不是啦;不是啦;じゃない;게슴츠레;новичок
+hrs07;sugar;sugar;plätzchen;bomboncito;hop-puá;beauté;beauté;dolcetto;snoepje;游游;遊遊;あそばせ;훗훗;рафинад
+hrs08;neighbor;neighbor;nachbar;niiiih;niiiih;mustang;mustang;oh mamma;hinnik;蹦;蹦;だポン;몰라요;соседушка
+hrs09;nipper;nipper;mausezahn;criatura;nih-nah;galapia;hippique;palio;veulen;舒服;舒服;サヴァ;봉쥬르;кусь-кусь
+hrs10;clip clawp;clip clawp;schauder;troteras;clip-clop;mouh-ouh;mouh-ouh;clop clop;klipklop;吹卷卷;吹捲捲;ぴろぴろ;다그닥;цок-цок
+hrs11;check it;check it;hamham;jia;jia;hue hue;hue hue;hiii;hortsik;请看;請看;ごらんよ;이거봐;глянь
+hrs12;haaay;haaay;nichja;quepassa;cli-cló;en selle;en selle;clip clop;hooooi;听说是;聽說是;だっけ;그런가;се-е-ено
+hrs13;glitter;glitter;wihihihi;pinchito;trotót;trottoune;western;vamos;glitter;喂！你;喂！你;ね、キミ;그대여;блеск
+hrs16;ayup yup;ayup yup;tada;alehop;juááá;crincrin;crincrin;hiii-op;uhuh;哼;哼;スン;쉬익;но-но
+kal00;tsk tsk;tsk tsk;grins;pues;tsé tsé;tss tss;tss tss;tsé tsé;tss tss;啊啦;啊啦;アラ;어맛;ц-ц
+kal01;guvnor;guvnor;schnarchhh;tú;eucaliup;chef;chef;tesorino;chef;晶亮;晶亮;キラリ;반짝;лидер
+kal02;toasty;toasty;zubba;tesoro;pichú;pêchou;pêchou;toasty;toastje;不得了;不得了;とっても;정말로요;хрустяшка
+kal03;sunshine;sunshine;sternchen;súper;calipto;mon trésor;mon trésor;calipto;zonnetje;无尾熊;無尾熊;だコアラ;발그레;солнышко
+kal04;mate;mate;partner;jorf-jorf;jorf-jorf;galopin;calyptus;dinamite;partner;钱钱;錢錢;だがや;버텨;напарник
+kal05;ol' bear;ol' bear;altes Haus;osete;koahhh;koa là là;koa là là;ulabadula;ouwe beer;颗颗;顆顆;ククッ;큐큐;медведище
+kal08;nuh uh;nuh uh;kolala;kolalá;koalalá;zyva;zyva;eurekalì;echnie;咦;咦～;え～;어어;ох-хо
+kal09;chips;chips;liptus;trololó;tralalá;sandwich;sandwich;ponzipò;chips;哇;哇～;わ～い;우와;ничего
+kal10;yeah buddy;yeah buddy;yeah;ouyeah;ouyeah;yapaphoto;oh yeah;koahola;yeah;喂喂;喂喂;おいおい;야야야;приятель
+kgr00;child;child;kindchen;mi alma;chiquichí;gamin;gamin;cucciolo;kind;补补;補補;ッポン;폴짝;детка
+kgr01;wee baby;wee baby;knirps;peso mosca;ala-rorro;riquiqui;riquiqui;oplà;ukkepuk;嘿;嘿;ッハ;응;малютка
+kgr02;little one;little one;beutel;bebé;arrorró;poupon;mon pit;gnegné;kleine;亲亲;親親;だフン;오롤로;дитятко
+kgr05;my pet;my pet;schmusi;mascotita;brillabrí;mon étoile;mon étoile;fagotto;troetel;庞克;龐克;だパンク;뭘봐;лапочка
+kgr06;boing;boing;flottflott;púgil;do-doing;d'la balle;d'la balle;saltolà;boing;对耶;對耶;よねー;이자슥;прыг
+kgr08;pockets;pockets;boingboing;boing;boing;popoche;popoche;boing;zakkies;别装了;別裝了;じゃのう;어험;карманчик
+kgr09;punches;punches;bonk;chimpón;chimpón;savate;savate;balz balz;boks;做就对了;做就對了;やるぜ;아자;хук
+kgr10;pouches;pouches;hüpf;nainoná;nainoná;wallaby;wallaby;me oui;buidels;好唷;好唷;いいのよ;조아요;кармашек
+lon00;shredded;shredded;kumpel;sabes;grrrau;m'pote;mon man;ruggi;maaaan;男人;男人;メ～ン;요～맨;че-е-ел
+lon01;unh-hunh;unh-hunh;grolll;groar;groar;bébé;bébé;unh-hunh;aloha;听懂吧;聽懂吧;ダロガ;안그냐;буги-вуги
+lon02;cool cat;cool cat;coolcat;melenas;grrreh;lionceau;lionceau;grrringo;coole kat;狮狮;獅獅;だオン;티라이온;спокойно
+lon04;lion cub;lion cub;löwieh;fiera;gro-grau;minus;minus;sonré;jong;上课了;上課了;よな;졸지마;левушка
+lon06;cagey;cagey;gröhl;sapristi;sapristi;grif-grif;grif-grif;groarrivo;rrrrrauw;哈哈哈;哈哈哈;ハハハ;하하하;зоосад
+lon07;capital;capital;graaah;ticotaco;ticotaco;criniou;excellent;roar;koninklijk;哪哈;哪哈;ナハッ;크릉;капитально
+lon08;precisely;precisely;grrroooh;picoplás;picoplás;papatte;papatte;ahora;exact;正确;正確;まさしく;옳거니;честь имею
+mnk01;po po;po po;spitzi;monada;ukiú;po po;po po;po po;banaan;唔唔;唔唔;ウキャ;끼끼;пу-пу
+mnk02;zzzook;zzzook;bannabanna;chimpa;chimpa;zzziik;zzziik;zzzook;zzzoeh oeh;猿猿;猿猿;でござる;하옵니다;дружок
+mnk03;chimpy;chimpy;agaga;uki-uki;uki-uki;booof;booof;scimmietta;chimpie;哇呜;哇嗚;ワオ;와우;шимпатяга
+mnk04;g'tang;g'tang;abbo;uuuuh-ah;uuuuh-ah;l'outang;l'outang;g'tang;orang;香蕉;香蕉;バナーナ;바나나;ух-эх
+mnk05;puh-lease;puh-lease;strebstreb;ricura;uh-lalá;steup;steup;per favore;kom op zeg;孟孟;孟孟;だモン;몽몽;само собой
+mnk06;rerack;rerack;kikiki;afuá;afuá;oh hisse;oh hisse;clap clap;oe-⁠a-⁠a;差不多;差不多;どっこい;빠샤;у-у-у
+mnk07;cheeky;cheeky;makimaki;tunante;babuí;tavu;tavu;babbuh;brutaaltje;呜吱吱;嗚吱吱;ウキキ;우끼네;щекасто
+mnk08;monch;monch;miekmiek;millón;ñim-ñim;liaaaane;liaaaane;panzé;smak;去吧;去吧;だぜ;흠냐리;чавк-чавк
+mus00;squeaky;squeaky;quieek;cuiqui;cuiqui;tatouille;coui-coui;squiksquik;pieperig;美吧;美吧;だべ;찍찍;пип-пип
+mus01;squinky;squinky;pfiffikus;caramba;scroch;scriiich;scriiich;squick;piepsels;非也;非也;てやんで;긍가벼;фью-фью
+mus02;eeks;eeks;visavisa;petisú;petisú;hiiiii;hiiiii;eeks;ieps;嘎哈;嘎哈;ギャハッ;캬학;пип
+mus03;cheeseball;cheeseball;kicher;orejas;quesuá;boulette;boulette;formaggino;kaaskoekje;说说的;說說的;なーんて;글치머;сы-ы-ыр
+mus04;pipsqueak;pipsqueak;pieeeps;flojeras;escuác;scouic;scouic;pisquak;piepklein;吱;吱;チュー;쪽;ревушка
+mus05;ace;ace;boa-ey;quesito;chopchop;tip top;tip top;flapflap;toppie;厉害;厲害;すっげぇ;무진장;мастерски
+mus08;sweetie;sweetie;schatzi;yogurín;escuic;claquos;claquos;squitto;zoetje;滑滑;滑滑;ですワ;달짝지근;сладость
+mus09;squee;squee;fieps;ñiiiik;ñiiiik;nouik;nouik;squiii;piephoi;蹑蹑;躡躡;がってん;힐끔힐끔;пи-и-и
+mus10;cannoli;cannoli;piepser;cloricló;cloricló;dis donc;dis donc;cippoli;cannoli;开心;開心;ルンルン;룰룰;канноли
+mus12;eat it;eat it;knabba;dientes;flinflán;flim-flam;flim-flam;squikko;smakelijk;微微;微微;ピコ;앗차;ням-ням
+mus14;shorty;shorty;käääse;atiza;atiza;bééléé;bééléé;quink;kleintje;可恶;可惡;にゃろ;짜샤;коротышка
+mus15;eekers;eekers;achja;piruleta;escui-cui;skouik-ik;skouik-ik;zink zink;piepers;就说吧;就說吧;ですよね;내말이요;пи-пи-пи
+mus16;yelp;yelp;nagnag;bocadito;ñiñi-ñiá;téma;hiiiii;rattaplan;piepzak;呵呵呵;呵呵呵;おほほ;오호호;писк
+mus17;oh bow;oh bow;bling;migas;brillilí;grugru;grugru;cheeese;strikje;啾啾;啾啾;でちゅの;그러찍;бантик
+mus18;fromage;fromage;hoho;fundifún;fundifún;frometon;cheese;iiik;cheese;也是啦;也是啦;まあね;꼬리꼬리;сырок
+ocp00;sucker;sucker;schling;chupatinta;glop-glop;chenapan;chenapan;perdindi;zuignap;章鱼;章魚;タコ;쭉쭉;все пропало
+ocp01;blurp;blurp;blubblub;dospatas;bliup;beurp;beurp;blurp;blorp;咔;咔;きゃ;캬캬;хлюп
+ocp02;bloop;bloop;saug;churubú;churubú;sploush;sploush;blub;bloep;认同;認同;せやねん;약히;буль
+ost00;chicken;chicken;hühnchen;gallina;plumifá;poupoule;poupoule;polpetta;kippie;果然;果然;やっぱし;역시;цыпленок
+ost01;stretch;stretch;ajajajjj;plumillas;plumiplú;codêt;codêt;stretch;en strek;千岁;千歲;ですの;그렇지라;растяжка
+ost02;speedy;speedy;flottilda;fiuuun;fiuuun;euh quoi;euh quoi;vruum;raprap;鸵鸟;鴕鳥;だチョー;그렇다조;быстро
+ost03;zort;zort;affenzahn;chiuuun;chiuuun;pik pik;pik pik;niiun;klik-kluk;机械;機械;だメカ;치지직;дзынь
+ost05;dahling;dahling;püh;churri;churri;trutruche;trutruche;blaaah;schatje;吼唷;吼唷;やだわね;어머몰라;дарлинг
+ost06;sweatband;sweatband;happahappa;gruqui;gruqui;omelette;omelette;boa;zweetband;哎呀呀;哎呀呀;およよ;오요용;не потей
+ost07;hurk;hurk;zwoing;jurk;jurk;bécot;bécot;tambien;struis;轰隆隆;轟隆隆;ホロロ;호롤로;хех
+ost08;quite so;quite so;flaum;goticas;igh-igh;viiiite;viiiite;bien sur;juist ja;是嘛;是嘛;ですのね;그랬구나;вот так
+ost09;pinky;pinky;flappflapp;croqui;croqui;guiboles;rosi rosa;sivuplé;roze;红鹤;紅鶴;だミン;밍고밍고;розочка
+ost10;sparky;sparky;pieks;equilicuá;equilicuá;chanmé;chanmé;behmù;vonkje;好热;好熱;アツイわ;아뜨뜨;искорка
+pbr00;pah;pah;ahhh;rapaz;rapahhh;trraaaa;trraaaa;pah;poeh;唔咿;唔咿;だワイ;다꿇어;пф-ф
+pbr01;cuz;cuz;adlerauge;chinchilla;cro-ah;croooa;croooa;mini mini;broeder;卡拉卡拉;卡拉卡拉;カラカラ;엄멈머;вот
+pbr02;hawkeye;hawkeye;schwinge;aguililla;aguilííí;œil agile;tout vu;pronti via;arendsoog;啪沙啪沙;啪沙啪沙;バサバサ;퍼덕퍼덕;глаз-алмаз
+pbr03;captain;captain;käpten;cadete;capííí;flap flap;flap flap;capo;kaptein;继继;繼繼;ッキーッ;짜란～;капитан
+pbr05;skree-haw;skree-haw;flapp;grrraak;grrraak;phélès;grrraak;gawk;kra-hoe;溜溜;溜溜;アリョイ;내놔;курлы
+pbr06;crushy;crushy;kriiieck;vulanico;vulanico;maaaarre;maaaarre;rapaciao;pletter;多谢;多謝;ダンケ;크헐;красава
+pbr07;skraaaaw;skraaaaw;krahkrah;mancuernas;escróóó;kaputt;kaputt;chicchirò;havik;呀啊;呀啊;やあッ;호옷;клекот
+pbr08;wingo;wingo;kiiiiiih;flopflop;flopflop;royaaaal;royaaaal;baila;vleugels;是;是;でーッス;수리수리;крыло
+pbr09;feathers;feathers;kraaack;plumis;plumí;bebec;bebec;ah bon;pluimpje;是呢;是呢;そうね;그래맞아;перышко
+pgn00;b-b-baby;b-b-baby;b-bestens;pescadito;pescadí;b-b-bébé;b-b-bébé;b-b-baby;b-b-baby;若;若;だジョー;랄라;к-к-крошка
+pgn01;b-b-buddy;b-b-buddy;k-k-kumpel;titirito;titirito;pépépère;pépépère;br-br-brr;m-m-maatje;企鹅;企鵝;だペン;팽팽;д-дружище
+pgn02;brainfreeze;brainfreeze;d-d-dude;waap;waap;cococopain;cococopain;brivido;k-k-kerel;十字;十字;ペンペン;땡땡;ч-чубрик
+pgn03;slushie;slushie;slaschi;esploch;esploch;manette;manette;sguish;ĳsje;禅;禪;ちぅねん;아따;ледок
+pgn04;brrrmph;brrrmph;grrmpf;heladito;urfff;bourfff;bourfff;brrrumf;brrrhmpf;滑溜溜;滑溜溜;ツルルン;으쓱;брр-хм
+pgn05;h-h-h-hon;h-h-h-hon;sssweetie;crustáceo;ki-ki-kiú;h-h-h-hon;h-h-h-hon;a-a-amor;d-d-duifje;唔呼呼;唔呼呼;ウフフ;우훗훗;м-милашка
+pgn06;brrrrrrrrr;brrrrrrrrr;brrrrrrrrr;sardinilla;brrr-uah;brrrrrrrrr;brrrrrrrrr;brrrrrrrrr;brrrrrrrrr;候补;候補;さぶー;엣취;брр
+pgn09;so it goes;so it goes;wackel;personaje;espoink;blanbec;blanbec;uhiii uuuh;zo is 't;所以啦;所以啦;だからね;뒤집어;вот так вот
+pgn10;human;human;menschlein;humanoide;glaciux;boudiou;humanoïde;glacius;mens;轧轧;軋軋;ツーツツ;에헴헴;человек
+pgn11;waddler;waddler;plitsch;chirpi;chirpi;zozio;zozio;tubi tubi;waggelaar;卷卷;捲捲;クルクル;펭글펭글;ластошлеп
+pgn12;picante;picante;watschl;siclaro;siclaro;gla gla;gla gla;frio;picante;宝宝;寶寶;ベイベッ;베이베;огонек
+pgn13;cha;cha;flatsch;fresqui;fresqui;golri;frigogo;iglù;duh;这样唷;這樣唷;じゃんよ;맞잖아;чхи
+pgn14;frappe;frappe;bibib;esmoquin;frapé;mon glaçon;mon glaçon;unz unz;frappé;凉爽;涼爽;ヒヤリ;꽁꽁;пенка
+pig00;nyoink;nyoink;oinkoink;ñoink;ñoink;coink;coink;niooink;hupsaknor;感谢;感謝;どもども;꿀꿀;хряк-бряк
+pig01;snoutie;snoutie;schnauzie;oink-oink;oink-oink;jambon;jambon;ficcanaso;snuiter;哇赛;哇賽;だわさ;거라예;хрюша
+pig02;swine;swine;gronk;porcino;esnoink;porcelet;porcelet;snoooink;big;万年;萬年;まんねん;꾸엑;хряк
+pig03;snortle;snortle;schniff;groink;groink;cuick;cuick;snort;snuif;懒懒;懶懶;とかね;아님말구;хрюк-хрюк
+pig04;snoooink;snoooink;schnoink;cochín;cochín;groingroin;groingroin;snoink;knorrie;唷;唷;よぅ;예예;хрю-ю-ю
+pig05;snork;snork;grunz;pork;pork;diantre;diantre;snork;snurk;噗;噗;だブー;꼬르륵;хрю
+pig08;hot dog;hot dog;würstel;saperlipop;saperlipop;andouille;andouille;salsicce;knakker;公亩;公畝;でアール;이노라;сосиска
+pig09;schnort;schnort;quiek;oink;oink;minot;minot;sgrunf;oink;噗嘻;噗嘻;ブヒッ;쌀;хрю-хряк
+pig10;schep;schep;kringel;girasol;oinki;grouik;grouik;sissì;knor-knor;嗯;嗯;うん;유후;хрюля
+pig11;shweetie;shweetie;glotz;trufita;trufits;fleur;fleur;oink;knorrelief;弹弹;彈彈;ぷるる;아앙;хрюмпатяга
+pig13;snortie;snortie;lächel;chanchi;chanchi;tigroin;tigroin;gruffeffè;snufferd;当啷;噹啷;ちゃりん;땡그랑;хрюк
+pig14;zoink;zoink;borsti;zoink;zoink;lardon;lardon;oinc;moddervet;豚;豚;だトン;떼끼에로;хряк-с
+pig15;weeweewee;weeweewee;quiiiek;bidoink;bidoink;toutébon;toutébon;boink;ieieieie;比利比利;比利比利;ウリウリ;냠냠;уи-и-и
+pig16;sooey;sooey;grubbel;morrito;cuinoink;sabots;sabots;grufidù;kom kom;讨厌啦;討厭啦;やだも～;어우야;хрюшка
+pig17;snuffle;snuffle;schnorrz;dindoink;dindoink;sauciflard;sauciflard;splosh;snuffelaar;噗呼呼;噗呼呼;ブフフ;꿀꾸루;хрю-хрю
+rbt00;tee-hee;tee-hee;tiihii;oy-oy-oy;oy-oy-oy;hé hé hé;hé hé hé;tiptap;hihi;好像喔;好像喔;みたいな;그렇지뭐;хи-хи
+rbt01;wee one;wee one;uiui;trompis;toini;lapinou;lapinou;caroté;lamprei;啷;啷;ラン;룰루랄라;малыш
+rbt02;doyoing;doyoing;hoppsa;toin-toin;toin-toin;touloulou;touloulou;evviva;bojoing;土俑;土俑;はにょ;삐용;прыг-скок
+rbt03;bunyip;bunyip;hopplahopp;boin-boing;boin-boing;mon lapin;mon lapin;bun bun;ninja;忍忍;忍忍;ニンニン;닌닌;заяссс
+rbt04;mon chou;mon chou;herzblatt;mon chou;mon chou;cahuète;cahuète;cherie;mon amour;唔贺;唔賀;ムホッ;쿨럭;мон зайшу
+rbt05;honeybun;honeybun;liebling;mari;reboing;mon lièvre;mon lièvre;mielito;honnepon;琪他;琪他;だっち;꺄오;зайчик мой
+rbt06;li'l hare;li'l hare;hihi;pipita;requeboing;ti’ lièvre;ti’ lièvre;gnaf;haasje;就这样啦;就這樣啦;なのサ;울랄라;зайчишка
+rbt07;bunbun;bunbun;öhrchen;pompón;toin-lalá;pinpin;pinpin;bunbun;knijnelijn;我说呀;我說呀;ってさ;라던데;зайчонок
+rbt08;otaku;otaku;goseimas;otaku;otaku;otaku;otaku;otaku;otaku;臣;臣;まろ;땡글;отаку
+rbt09;li'l ears;li'l ears;paffpaff;orejitas;orejí;n'oreille;n'oreille;orecchine;hangoor;普通;普通;フツーに;보통이지;ушки
+rbt10;old bunny;old bunny;hasi;y tal;bingboing;morbleu;tout bleu;soufflé;ouwe reus;是啦;是啦;ですね;그렇잖아;зайчище
+rbt11;hopalong;hopalong;hüpfauf;hópala;hópala;sans rire;sans rire;hoppela;hopsala;酸酸;酸酸;ぶいぶい;아으셔;скок-поскок
+rbt12;karat;karat;hey man;kaninchen;kaninchen;carotte;carotte;lulalà;wortels;噜啦啦;嚕啦啦;ルララ;쇼봉;морковка
+rbt13;sparkles;sparkles;knuddl;mimomimo;mimomimo;hop;hop;lilalà;sprankel;哩啦啦;哩啦啦;リララ;샤방;золотце
+rbt14;thumper;thumper;puschel;vida extra;fiiiiú;pfui;pfui;siiigh;stamper;风;風;ぷぅ;뿌우;топ-топ
+rbt15;amigo;amigo;amigo;tralarí;tralarí;pécaïre;amigo;aquesí;amigo;朋友;朋友;アミーゴ;아미고;амиго
+rbt16;nougat;nougat;langohr;arcoíris;nufinuf;pinou-nou;nougat;gnuf gnuf;noga;真的;真的;まじで;진짜진짜;карамелька
+rbt17;deelish;deelish;hüppi;oh lalá;oh lalá;nananère;nananère;hurrah;heer-lijk;不妙;不妙;ヤバッ;어뜨케;вкусняшка
+rbt18;coooooool;coooooool;mümml;muyayo;muyayo;chaaauuud;chaaauuud;niglio;gaaast;就是如此;就是如此;そうさね;나도나도;зайчелло
+rbt19;cottontail;cottontail;jahopp;muesli;hep-hep;auch auch;zip zip;baffoplà;staartje;月球;月球;だムーン;거봐라;зайцехвост
+rhn00;kerPOW;kerPOW;rumpel;tapumba;tapumba;kaboum;kaboum;zamperù;klaBAM;犀犀;犀犀;ですサイ;아뿔소;бабах
+rhn01;bigfoot;bigfoot;stampf;jip-jip;jip-jip;grand pied;grand pied;piedone;grootvoet;嗯噗;嗯噗;ンフ;훗;босс
+rhn02;punk;punk;punk;granuja;papúm;saperlotte;groumph;pachi;schelm;混混;混混;でヤンキ;빠직;бродяга
+rhn04;schnozzle;schnozzle;schneuzel;narigón;kaplut;euh;euh;splush;sneuzel;念念;念念;のネン;뿔뿔;шнобель
+rhn07;shortcake;shortcake;trarapp;fresitas;fruti;ma fraise;confiture;rien;schuimpje;糖糖;糖糖;でシュガ;베리베리;кексик
+rhn08;yo yo yo;yo yo yo;bomm;purrum;purrum;badaboum;badaboum;stomp;yo yo yo;超强;超強;パネェ;킁킁;йоу
+shp00;baaaffo;baaaffo;bäääh;beeeibi;beeeibi;pupull;foulââârd;beeeby;bèèè;就这样呀;就這樣呀;なのね;쩝;бе-е
+shp01;daahling;daahling;däääää;peeelusa;peluuusas;chêêêri;chêêêri;breeezza;schaaaapje;一二三;一二三;アンドゥ;앤쥬;мила-ашка
+shp02;lambchop;lambchop;la-a-amm;veeenga;yupitiii;bêbêêêêh;bêbêêêêh;laaagna;krulletje;咩;咩;メェー;메에에;ребрышко
+shp03;baa-dabing;baa-dabing;badabing;no veeeas;baa-bii;mon agneau;mon agneau;beeene;mèèèh;羊毛;羊毛;ウール;울;бэ-дабинь
+shp04;baaaby;baaaby;bäääby;peeeque;baaa-buá;bêllissime;bêllissime;beensì;bè-⁠ste;爱;愛;ありんす;포근포근;бэ-эби
+shp07;bo peep;bo peep;blö-ö-ök;babeeebí;babeeebí;tourni;tourni;babeeebí;wollebol;是的唷;是的唷;ですのよ;됐거든;пасемся
+shp08;shearly;shearly;zottel;lanitas;laaaná;toison;toison;hermoso;scheerlijk;北鼻;北鼻;ベイビー;자기야;завитушка
+shp09;lambkins;lambkins;wuschel;joyita;bee-biis;bê-bê-bê;bê-bê-bê;beee-ehi;lammetje;一丝丝;一絲絲;イシシ;꺄르르;овечка
+shp10;pine nut;pine nut;bwäääh;yalovéees;yalovééés;barbiche;barbiche;pecoramè;denappel;等啊;等啊;まつわ;달려;сосенка
+shp11;oh ewe;oh ewe;knuddel;berebé;berebé;mouêêê;mouêêê;beee la la;ooi zeg;薯薯;薯薯;だポテ;포테토;мутончик
+shp12;nightshade;nightshade;knuffi;lanas;lanavá;tricoti;tricoti;lanadà;nachtvacht;辛苦了;辛苦了;おつかれ;수고;травинка
+shp13;honk honk;honk honk;helau;moquimoqui;moquimoqui;bamboche;hahaha;peco peco;alaaf;丑丑;丑丑;グフフ;므흐흐;бе-бе
+shp15;indeedaroo;indeedaroo;jau;diiigo yo;digoyó;broutille;broutille;veronò;precies;哇耶;哇耶;ふんふん;뿜뿜;точно-точно
+squ00;slacker;slacker;faulenzer;almendrita;esñik;noisette;noisette;sgronch;luilak;就是唷;就是唷;なのよ;거얌;лень
+squ01;nutlet;nutlet;knack;bayita;ñicuá;coquille;coquille;scrick;notendop;哼哼;哼哼;ふふん;헤헤헤;крошка
+squ02;bucko;bucko;manno;guirlache;guirlache;gogo;gogo;gnic gnic;vent;是哦;是囉;でしゅ;예용;дружище
+squ03;chipmunk;chipmunk;spatzl;piñoncito;piñoní;fouloulou;fouloulou;cipì;eekhoorn;正经;正經;つんっ;쯧쯧;бурундук
+squ04;niblet;niblet;knusper;bellotita;trocitrí;nunuche;grignotte;truciolo;knabbel;咯吱咯吱;咯吱咯吱;ガジガジ;송송;орешек
+squ05;sidekick;sidekick;strampl;piñita;hai-ááá;poto;haï-ya;spalla;sidekick;嘿唷;嘿唷;せいやっ;흠냐;коллега
+squ06;hulaaaa;hulaaaa;hulaaaa;ulaaaa;ulaaaa;houlaaaa;houlaaaa;ehilaaà;hoelaaa;你;你;ユー;휴;уа-а-а
+squ07;nutmeg;nutmeg;muskat;ramita;raminí;tac;tac;nocciolina;muskaatje;要是;要是;ったら;까꿍;мускатик
+squ08;krzzt;krzzt;krazz;avería;kreee;krzzt;krzzt;sguscio;bliksems;闪闪;閃閃;ピカッ;콰광;вж-ж-ж
+squ09;ahhhhhh;ahhhhhh;knabber;bichito;bellotuá;ahhhhhh;ahhhhhh;squercia;ahhhhhh;喔哼;喔哼;うっふん;우훗;ах-ах
+squ10;nutcase;nutcase;knorz;cáscaras;crac-crac;dingo;dingo;nocciola;mafnoot;炯炯;炯炯;キッ;사각사각;арахис
+squ11;WHEE;WHEE;huiii;macadamia;ñip-ñip;yeeeees;cacahuète;SCRUNCH;cashew;啦啦;啦啦;ララー;랄랄라;ух ты
+squ13;nice nice;nice nice;tjaja;pincel;bi-buá;ptigri;ptigri;munch;jaja;做得好;做得好;やるわね;굿굿;ладно
+squ14;hubbub;hubbub;jammi;caldito;yupip;grignote;grignote;sgranocc;jammie;咻;咻;ひゅん;퓨우;хрум
+squ15;nutty;nutty;nussi;albricias;nutinú;scratchy;abajoue;squittole;nootje;甜甜;甜甜;デス;도톨도톨;чок-чок
+squ16;cardio;cardio;hoppi;zasca;zasca;toutouffe;noisette;flash;topfit;鼓栗鼓栗;鼓栗鼓栗;クリクリ;땡글땡글;треники
+squ17;sulky;sulky;huschhusch;tecuén;tecuén;nanache;carpe diem;ardillà;knorrepot;不管怎样;不管怎樣;あながち;어차피;тихоня
+squ18;uni-wow;uni-wow;kekeke;castaña;tac-tac;tac tac;tac tac;blink;brauw;当然哦;當然囉;だもんね;알아알아;фундук
+tig00;grrrolf;grrrolf;brüll;grooorf;grooorf;grrrufff;grrrufff;grrrolf;grrrolf;王;王;だガー;근데;гр-р-рольф
+tig01;mango;mango;mango;turista;gurruf;banane;banane;mango;mango;完全;完全;まったく;내참;манго
+tig02;grrrRAH;grrrRAH;grrrummel;bengala;raaarruf;grouaaah;grouaaah;grrrRAH;brrrrulll;虎虎;虎虎;だトラ;으르렁;р-рык
+tig03;growf;growf;schnurf;mi vida;gri-gruá;ma souris;ma souris;grouf;grommf;是喔;是喔;なのぉー;쪼옥쪽;р-р-рф
+tig04;flexin';flexin';krrrrrr;macoque;macoque;rebelote;mes abdos;joggingrrr;flex;但是;但是;じゃが;어흥;р-разминка
+tig05;ooh la la;ooh la la;kchhh;mindundi;mindundi;grou grou;grou grou;smack;olala;啊哈;啊哈;アハ～ン;잇힝;о-ля-ля
+tig06;glimmer;glimmer;prrr;guiñito;ruarri;croky;la vie;yeppa;witje;雪豹;雪豹;でヒョウ;그래호;хлоп-хлоп
+wol00;harrumph;harrumph;harrumff;ejem;ejem;mmmph;mmmph;arrrgh;huil;不是嘛;不是嘛;やんか;그렇잖여;фыр-р-рф
+wol01;ah-rooooo;ah-rooooo;auuuuuu;auuuh;auuuh;ah rooooo;ah rooooo;etchuuuu;aooooeee;不然呢;不然呢;だぜよ;봐봐;ау-у-у
+wol02;snarrrl;snarrrl;knurrr;grauuuh;grauuuh;snurffff;snurffff;zanna;snauw;罗罗;羅羅;のな;거봐;ау-рр
+wol03;snappy;snappy;jaulll;auf-auf;auf-auf;sbam;bing bang;snappy;hap;漂亮;漂亮;ステキね;멋져;цап
+wol04;ohmmm;ohmmm;heuuul;ooomm;ooomm;peuchère;loudonc;gnams;eh;咳呵;咳呵;ゴホゴホ;음음;ом-м-м...
+wol05;uff da;uff da;ähmmm;auuuff;auuuff;mon loulou;mon loulou;uuuff;fjord;就是说哇;就是說哇;なのだわ;유행이야;хрусть
+wol06;cha-chomp;cha-chomp;braul;en-ñac;en-ñac;sagouin;sagouin;fabuuula;knauw;这倒是;這倒是;ですダス;콜록콜록;грызь
+wol08;piffle;piffle;scholli;aú-aú;aú-aú;crocroque;crocroque;arruuu;nonsens;喔呵呵;喔呵呵;だわよ;그러하다;вздор
+wol09;airmail;airmail;ahiii;auuu;auuu;mumuseau;mumuseau;uuuhlalà;luchtpost;花花;花花;フワワ;후와와;пилот
+wol10;alpha;alpha;ahuuu;aujujú;aujujú;garooouuu;garooouuu;sgnack;alfa;喔耶;喔耶;オゥイェ;오우예;вожак
+wol12;foxtrot;foxtrot;foxtrott;maravilla;ulalilá;trottine;trottine;foxtrot;foxtrot;呀哈;呀哈;アハッ;아하핫;фокстрот
