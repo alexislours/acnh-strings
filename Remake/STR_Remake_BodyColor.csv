@@ -110,7 +110,7 @@ FishingRod_08472_4;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;�
 FishingRod_08472_5;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 FishingRod_08472_6;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 FishingRod_08472_7;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
-FishingRod_08473_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+FishingRod_08473_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 FishingRod_08473_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 FishingRod_08473_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 FishingRod_08473_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -465,7 +465,7 @@ Ftr_01043_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色
 Ftr_01043_1;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_01043_2;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_01043_3;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
-Ftr_01050_0;Tomatoes;Tomatoes;Tomaten;Tomates;Tomates;Tomates;Tomates;Pomodori;Tomaten;土豆;番茄;トマト;토마토;Помидоры
+Ftr_01050_0;Tomatoes;Tomatoes;Tomaten;Tomates;Tomates;Tomates;Tomates;Pomodori;Tomaten;番茄;番茄;トマト;토마토;Помидоры
 Ftr_01050_1;Green smoothie;Green smoothie;Grüner Smoothie;Verduras;Verduras;Smoothie vert;Smoothie vert;Frullato verde;Groene smoothie;青汁;青汁;青汁;녹즙;Зеленый коктейль
 Ftr_01050_2;Carrots;Carrots;Karotten;Zanahorias;Zanahorias;Carottes;Carottes;Carote;Wortels;胡萝卜;胡蘿蔔;キャロット;당근;Морковь
 Ftr_01050_3;Oranges;Oranges;Orangen;Naranjas;Naranjas;Oranges;Oranges;Arance;Sinaasappels;橘子;橘子;オレンジ;오렌지;Апельсины
@@ -1783,7 +1783,7 @@ Ftr_03960_0;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_03960_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_03960_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_03960_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_03960_4;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Ftr_03960_4;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Ftr_03960_5;Plaid;Plaid;Karomuster;Cuadros;Cuadros;Écossais;Écossais;Plaid;Geruit;格子图案;格子圖案;チェック柄;체크무늬;В клетку
 Ftr_03961_0;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_03961_1;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
@@ -2834,7 +2834,7 @@ Ftr_07453_1;Gold bars;Gold bars;Goldbarren;Lingotes de oro;Lingotes de oro;Lingo
 Ftr_07454_0;Natural;Natural;Natur;Natural;Natural;Naturel;Naturel;Naturale;Naturel;自然色;自然色;ナチュラル;내추럴;Натуральный
 Ftr_07454_1;Dark brown;Dark brown;Dunkelbraun;Marrón oscuro;Marrón oscuro;Brun foncé;Brun foncé;Marrone scuro;Donkerbruin;深棕色;深棕色;ダークブラウン;다크 브라운;Темно-коричневый
 Ftr_07454_2;Pastel;Pastel;Pastell;Tonos pastel;Pastel;Pastel;Pastel;Pastello;Pastel;粉嫩色;粉嫩色;パステル;파스텔;Пастельный
-Ftr_07454_3;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Ftr_07454_3;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Ftr_07525_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_07525_1;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_07525_2;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
@@ -3070,8 +3070,43 @@ Ftr_12373_2;Patched together;Patched together;Flickwerk;Remaches;Remaches;Tôle 
 Ftr_12373_3;Painter's palette;Painter's palette;Pastelltraum;Tonos pastel;Tonos pastel;Pastel;Pastel;Pastello;Schilderspalet;粉嫩;粉嫩;パステル;파스텔;Палитра художника
 Ftr_12373_4;Retro ride;Retro ride;Retro;Años 70;Años 70;Rétro;Rétro;Motivo vintage;Retroritje;复古图案;復古圖案;レトロパターン;레트로 패턴;Ретро
 Ftr_12373_5;Southwestern flair;Southwestern flair;Kelim;Textil;Textil;Kilim;Désert;Kilim;Tapijtkunst;基里姆;基里姆;キリム;킬림;Кантри
+Ftr_12401_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12401_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12401_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12402_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12402_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12402_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12403_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12403_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12403_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12404_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12404_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12404_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12405_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12405_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12405_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12406_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12406_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12406_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12407_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12407_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12407_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12408_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12408_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12408_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12409_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
+Ftr_12409_1;Dark brown;Dark brown;Dunkelbraun;Marrón oscuro;Marrón oscuro;Brun foncé;Brun foncé;Marrone scuro;Donkerbruin;深棕色;深棕色;ダークブラウン;다크 브라운;Темно-коричневый
+Ftr_12409_2;Natural;Natural;Natur;Natural;Natural;Naturel;Naturel;Naturale;Naturel;自然色;自然色;ナチュラル;내추럴;Натуральный
+Ftr_12410_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12410_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12410_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
+Ftr_12411_0;Cute;Cute;Niedlich;Adorable;Adorable;Mignon;Mignon;Adorabile;Schattig;可爱;可愛;キュート;큐트;Прелесть
+Ftr_12411_1;Chic;Chic;Edel;Chic;Chic;Chic;Chic;Chic;Chic;典雅;典雅;シック;시크;Шик
+Ftr_12411_2;Garden;Garden;Garten;Jardín;Jardín;Jardin;Jardin;Giardino;Tuin;花园;花園;ガーデン;가든;Сад
 Ftr_12543_0;Neon blue & neon red;Neon blue & neon red;Neon-blau/neon-rot;Rojo neón / azul néon;Rojo neón y azul néon;Bleu néon et rouge néon;Bleu néon et rouge néon;Blu neon/rosso neon;Neonblauw-neonrood;电光蓝·电光红;電光藍‧電光紅;ネオンブルー・ネオンレッド;네온 블루&네온 레드;Неон. синий и красный
 Ftr_12543_1;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
+Ftr_12741_0;Pacific Ocean;Pacific Ocean;Pazifischer Ozean;Océano Pacífico;Océano Pacífico;Océan Pacifique;Océan Pacifique;Oceano Pacifico;Grote Oceaan;太平洋;太平洋;太平洋;태평양;Тихий океан
+Ftr_12741_1;Atlantic Ocean;Atlantic Ocean;Atlantischer Ozean;Océano Atlántico;Océano Atlántico;Océan Atlantique;Océan Atlantique;Oceano Atlantico;Atlantische Oceaan;大西洋;大西洋;大西洋;대서양;Атлантический океан
 Net_05784_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Net_05784_1;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Net_05784_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
@@ -3096,7 +3131,7 @@ Net_08177_4;Green & blue;Green & blue;Grün-blau;Verde y azul;Verde y azul;Vert 
 Net_08177_5;Purple & pink;Purple & pink;Lila-rosa;Morado y rosa;Morado y rosa;Violet et rose;Mauve et rose;Viola e rosa;Paars-roze;紫色×粉红色;紫色×粉紅色;パープル×ピンク;퍼플×핑크;Фиолетово-розовый
 Net_08177_6;White & blue;White & blue;Weiß-blau;Blanco y azul;Blanco y azul;Blanc et bleu;Blanc et bleu;Bianco e blu;Wit-blauw;白色×蓝色;白色×藍色;ホワイト×ブルー;화이트×블루;Бело-синий
 Net_08177_7;Gray & green;Gray & green;Grau-grün;Gris y verde;Gris y verde;Gris et vert;Gris et vert;Grigio e verde;Grijs-groen;灰色×绿色;灰色×綠色;グレー×グリーン;그레이×그린;Серо-зеленый
-Net_08178_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Net_08178_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Net_08178_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Net_08178_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Net_08178_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -3112,7 +3147,7 @@ Shovel_02099_4;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫�
 Shovel_02099_5;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Shovel_02099_6;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Shovel_02099_7;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
-Shovel_08575_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Shovel_08575_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Shovel_08575_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Shovel_08575_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Shovel_08575_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -3144,7 +3179,7 @@ Slingshot_02822_4;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;�
 Slingshot_02822_5;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Slingshot_02822_6;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Slingshot_02822_7;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
-Slingshot_08579_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Slingshot_08579_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Slingshot_08579_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Slingshot_08579_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Slingshot_08579_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -3184,7 +3219,7 @@ Watering_08535_4;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レ�
 Watering_08535_5;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Watering_08535_6;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Watering_08535_7;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
-Watering_08536_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Watering_08536_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Watering_08536_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Watering_08536_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Watering_08536_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный

@@ -128,6 +128,8 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1200_Cap_12444;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 1201_Cap_12445;Colorful;Colorful;Bunt;Multicolor;Multicolor;Multicolore;Multicolore;Variopinto;Veelkleurig;彩色;彩色;カラフル;컬러풀;Яркий
 1202_Cap_12446;Colorful;Colorful;Bunt;Multicolor;Multicolor;Multicolore;Multicolore;Variopinto;Veelkleurig;彩色;彩色;カラフル;컬러풀;Яркий
+1221_Cap_12576;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
+1222_Cap_12577;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 533_Cap_04739;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 533_Cap_10867;Navy blue;Navy blue;Marineblau;Azul marino;Azul marino;Bleu marine;Bleu marine;Blu marino;Marineblauw;海军蓝;海軍藍;ネイビー;네이비;Черно-синий
 550_Cap_04799;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -179,7 +181,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 580_Cap_11036;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 580_Cap_11037;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 587_Cap_05136;Camel;Camel;Kamelfarben;Pardo;Pardo;Sable;Sable;Cammello;Kameelbruin;驼色;駝色;キャメル;캐멀;Светло-коричневый
-587_Cap_11809;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+587_Cap_11809;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 587_Cap_11810;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
 587_Cap_11811;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 588_Cap_05137;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -361,11 +363,11 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 669_Cap_10771;Berry red;Berry red;Weinrot;Burdeos;Granate;Bordeaux;Bordeaux;Rosso lampone;Bessenrood;酒红色;酒紅色;ワインレッド;와인 레드;Ягодно-красный
 670_Cap_05315;Chestnut;Chestnut;Kastanienbraun;Castaña;Castaño;Châtaigne;Châtaigne;Castagna;Kastanjebruin;栗子色;栗色;マロン;마론;Каштановый
 670_Cap_10933;Mustard;Mustard;Senfgelb;Mostaza;Mostaza;Jaune moutarde;Jaune moutarde;Senape;Mosterdgeel;芥末黄;芥末黃;マスタード;머스터드;Горчичный
-670_Cap_10934;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+670_Cap_10934;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 670_Cap_10935;Berry red;Berry red;Weinrot;Burdeos;Granate;Bordeaux;Bordeaux;Rosso lampone;Bessenrood;酒红色;酒紅色;ワインレッド;와인 레드;Ягодно-красный
 670_Cap_10936;Navy blue;Navy blue;Marineblau;Azul marino;Azul marino;Bleu marine;Bleu marine;Blu marino;Marineblauw;海军蓝;海軍藍;ネイビー;네이비;Черно-синий
 670_Cap_10937;Cream;Cream;Cremefarben;Crema;Crema;Crème;Crème;Crema;Crème;奶油色;奶油色;クリーム;크림;Кремовый
-671_Cap_05316;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+671_Cap_05316;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 671_Cap_10226;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 681_Cap_05329;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 681_Cap_10938;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый

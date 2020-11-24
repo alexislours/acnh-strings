@@ -228,6 +228,8 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1208_OnePiece_12452;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 1209_OnePiece_12453;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 1210_OnePiece_12454;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
+1219_OnePiece_12497;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
+141_OnePiece_03336;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 146_OnePiece_03347;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 146_OnePiece_07792;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 146_OnePiece_07793;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
@@ -262,7 +264,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 164_OnePiece_09455;Flame orange;Flame orange;Feurig;Rojo;Rojo;Flamme;Flamme;Arancione fiamma;Vlammend oranje;火红色;火紅色;ファイアーカラー;파이어 컬러;Огненно-красный
 164_OnePiece_09456;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 164_OnePiece_09457;Lime yellow;Lime yellow;Gelbgrün;Verde lima;Verde claro;Citron vert;Lime;Giallo limetta;Limoengeel;莱姆黄;萊姆黃;ライムイエロー;라임 옐로;Лимонно-желтый
-164_OnePiece_09458;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+164_OnePiece_09458;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 165_OnePiece_03421;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 165_OnePiece_09631;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 165_OnePiece_09632;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -393,7 +395,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 219_OnePiece_03668;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 219_OnePiece_09469;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 219_OnePiece_09470;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
-219_OnePiece_09471;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+219_OnePiece_09471;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 219_OnePiece_09472;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 219_OnePiece_09473;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 219_OnePiece_09474;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -473,7 +475,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 304_OnePiece_08644;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 304_OnePiece_08645;Gold;Gold;Gold;Dorado;Dorado;Or;Or;Dorato;Goud;金色;金色;ゴールド;골드;Золотой
 304_OnePiece_08646;Silver;Silver;Silber;Plateado;Plateado;Argent;Argent;Argentato;Zilver;银色;銀色;シルバー;실버;Серебряный
-307_OnePiece_04328;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+307_OnePiece_04328;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 307_OnePiece_08628;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 307_OnePiece_08629;Navy blue;Navy blue;Marineblau;Azul marino;Azul marino;Bleu marine;Bleu marine;Blu marino;Marineblauw;海军蓝;海軍藍;ネイビー;네이비;Черно-синий
 307_OnePiece_08630;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
@@ -673,7 +675,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 470_OnePiece_07981;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 470_OnePiece_07982;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
 470_OnePiece_07983;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
-472_OnePiece_04606;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+472_OnePiece_04606;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 472_OnePiece_09306;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
 472_OnePiece_09307;Navy blue;Navy blue;Marineblau;Azul marino;Azul marino;Bleu marine;Bleu marine;Blu marino;Marineblauw;海军蓝;海軍藍;ネイビー;네이비;Черно-синий
 477_OnePiece_04611;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
@@ -760,7 +762,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 695_OnePiece_05350;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 695_OnePiece_09039;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
 695_OnePiece_09040;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
-695_OnePiece_09041;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+695_OnePiece_09041;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 695_OnePiece_09042;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 703_OnePiece_05387;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 703_OnePiece_08651;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
@@ -829,7 +831,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 806_OnePiece_09528;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 806_OnePiece_09529;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 810_OnePiece_05653;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
-810_OnePiece_07569;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+810_OnePiece_07569;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 810_OnePiece_07570;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 810_OnePiece_07571;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
 872_OnePiece_05796;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый

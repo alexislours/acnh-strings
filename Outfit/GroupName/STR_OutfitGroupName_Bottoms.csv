@@ -1,5 +1,5 @@
 label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);Italian;Dutch;Chinese;Chinese (Traditional);Japanese;Korean;Russian
-014;chino pants;chino pants;Chino;pantalón chino;pantalón beige;pantalon en toile;pantalon en toile;pantalone beige;chino;卡其裤;卡其褲;チノパン;치노 팬츠;брюки из хлопка
+014;chino pants;chino pants;Chino;pantalón chino;pantalón de gabardina;pantalon en toile;pantalon en toile;pantalone chino;chino;卡其裤;卡其褲;チノパン;치노 팬츠;брюки из хлопка
 015;two-tone pants;two-tone pants;Zweifarbhose;pantalón bicolor;pantalón bicolor;pantalon bicolore;pantalon bicolore;pantalone bicolore;tweekleurige broek;口袋撞色裤;撞色褲;ツートンなズボン;투톤 바지;двухцветные брюки
 016;gingham picnic skirt;gingham picnic skirt;Karorock;falda vichy;falda vichy;jupe vichy;jupe vichy;gonna a quadri;picknickrokje;嘉顿格纹裙子;嘉頓格紋裙;ギンガムチェックのスカート;깅엄 체크 치마;клетчатая юбка
 017;denim pants;denim pants;Jeans;pantalón tejano;pantalón de jean;jean;jean;paio di jeans ranch;jeans;牛仔裤;牛仔褲;デニムパンツ;데님 바지;джинсы
@@ -39,9 +39,9 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 272;hickory-stripe pants;hickory-stripe pants;Hickory-Streifen-Hose;pantalón raya fina;pantalón raya fina;pantalon de travail;pantalon de travail;pantalone a righine;gestreepte jeans;条纹工作裤;條紋油漆工褲;ヒッコリーのペインターパンツ;히코리 페인터 팬츠;брюки в полоску
 273;chain pants;chain pants;Kettenhose;pantalón cadena y hebilla;pantalón cadena y hebilla;pantalon à chaîne;pantalon à chaîne;pantalone con catena;broek met ketting;链条裤;鏈條褲;チェーンつきパンツ;체인 바지;брюки с цепочкой
 274;down pants;down pants;Thermohose;pantalón acolchado;pantalón acolchado;pantalon doudoune;pantalon doudoune;pantalone imbottito;gewatteerde broek;羽绒裤;羽絨褲;ダウンパンツ;패딩 바지;штаны на пуху
-275;long chino skirt;long chino skirt;Maxi-Chinorock;falda chino;falda beige;jupe longue chino;jupe longue chino;gonna lunga beige;lange chinorok;卡其长裙;卡其長裙;ロングチノスカート;롱 치노 스커트;длинная юбка из хлопка
+275;long chino skirt;long chino skirt;Maxi-Chinorock;falda chino;falda beige;jupe longue chino;jupe longue chino;gonna chino lunga;lange chinorok;卡其长裙;卡其長裙;ロングチノスカート;롱 치노 스커트;длинная юбка из хлопка
 280;down skirt;down skirt;Thermorock;falda corta acolchada;falda corta acolchada;jupe doudoune;jupe doudoune;gonna imbottita;gewatteerde rok;羽绒短裙;羽絨裙;ダウンスカート;패딩 치마;юбка на пуху
-283;denim cutoffs;denim cutoffs;Jeans-Shorts;minipantalón tejano;minipantalón de jean;mini-short en jean;mini-short en jean;paio di jeans corti scuri;jeansshort;牛仔短裤;牛仔短褲;デニムショートパンツ;데님 숏팬츠;джинсовые шорты
+283;denim cutoffs;denim cutoffs;Jeans-Shorts;minipantalón tejano;minipantalón de jean;mini-short en jean;mini-short en jean;paio di jeans corti;jeansshort;牛仔短裤;牛仔短褲;デニムショートパンツ;데님 숏팬츠;джинсовые шорты
 287;sporty skirt;sporty skirt;Feierabend-Rock;falda corta sport;falda corta sport;jupe jogging;jupe jogging;gonna di tuta;sportief rokje;棉质短裙;棉裙;スウェットスカート;스웨트 치마;юбка из трикотажа
 295;corduroy skirt;corduroy skirt;Cordrock;falda corta de pana;falda corta de pana;jupe en velours côtelé;jupe en velours côtelé;gonna di velluto a coste;corduroy rokje;灯芯绒短裙;燈芯絨裙;コーデュロイスカート;코듀로이 치마;юбка из вельвета
 296;gaucho pants;gaucho pants;Gaucho-Hose;pantalón gaucho;pantalón gaucho;pantalon gaucho;pantalon gaucho;pantalone da gaucho;gauchobroek;阔腿裤;闊腿褲;ガウチョパンツ;와이드 팬츠;брюки-гаучо
@@ -88,9 +88,9 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 468;corduroy pants;corduroy pants;Cordhose;pantalón de pana;pantalón de pana;pantalon en velours côtelé;pantalon en velours côtelé;pantalone di velluto a coste;corduroy broek;灯芯绒裤;燈芯絨褲;コーデュロイボトム;코듀로이 바지;брюки из вельвета
 478;floral lace skirt;floral lace skirt;Blumenspitzenrock;falda encaje floral;falda encaje floral;jupe à fleurs en dentelle;jupe à fleurs en dentelle;gonna merlettata floreale;kanten bloemenrok;花朵图案蕾丝裙;花紋蕾絲裙;はながらレースのスカート;꽃무늬 레이스 치마;кружевная юбка с цветами
 480;flare skirt;flare skirt;Minirock;falda acampanada;falda campamento;jupe évasée;jupe évasée;gonna scampanata;uitlopend rokje;喇叭裙;喇叭裙;フレアスカート;플레어스커트;юбка-клеш
-648;wide chino pants;wide chino pants;Outdoor-Chino;pantalón chino holgado;pantalón beige holgado;pantalon large en toile;pantalon large en toile;pantalone beige largo;wijdepijpenchino;反折直筒裤;卡其寬褲;ワイドチノ;와이드 치노;широкие брюки из хлопка
+648;wide chino pants;wide chino pants;Outdoor-Chino;pantalón chino holgado;pantalón beige holgado;pantalon large en toile;pantalon large en toile;pantalone chino largo;wijdepijpenchino;反折直筒裤;卡其寬褲;ワイドチノ;와이드 치노;широкие брюки из хлопка
 649;acid-washed jeans;acid-washed jeans;Bleichjeanshose;tejano desteñido;pantalón desteñido;jean délavé;jean délavé;paio di jeans sbiaditi;gebleekte jeans;酸洗牛仔裤;化學洗牛仔褲;ケミカルウォッシュデニム;워싱 청바지;джинсы-варенки
-690;dance warm-up pants;dance warm-up pants;Tänzerhose;pantalón compañía de baile;pantalón compañía de baile;pantalon équipe de danse;pantalon équipe de danse;pantalone della tuta danza;streetdance-broek;舞蹈运动裤;舞蹈運動褲;ダンスジャージズボン;댄스 트레이닝복 바지;штаны для танцев
+690;dance warm-up pants;dance warm-up pants;Tänzerhose;pantalón compañía de baile;pantalón compañía de baile;pantalon équipe de danse;pantalon équipe de danse;pantalone della tuta danza;streetdance-broek;舞蹈运动裤;跳舞運動褲;ダンスジャージズボン;댄스 트레이닝복 바지;штаны для танцев
 726;comic shorts;comic shorts;Comic-Shorts;bermuda cómics;bermuda cómics;short bédé;short bédé;pantaloncino cartoonesco;stripboekshort;对话框短裤;對話框短褲;アメコミがらハーフパンツ;만화 무늬 반바지;шорты с комиксами
 727;traditional monpe pants;traditional monpe pants;Monpe-Arbeitshose;pantalón monpe;pantalón monpe;pantalon monpe;pantalon monpe;pantalone monpe;klassieke monpe-broek;花裤;束口燈籠褲;もんぺ;일 바지;шаровары
 728;rain pants;rain pants;Regenhose;pantalón impermeable;pantalón impermeable;pantalon imperméable;pantalon imperméable;pantalone impermeabile;regenbroek;防雨裤;防雨褲;レインパンツ;레인 팬츠;непромокаемые штаны
@@ -117,7 +117,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 844;striped shorts;striped shorts;Streifen-Shorts;pantalón corto franjas;pantalón corto franjas;short à rayures bariolé;short à rayures bariolé;pantaloncino a righe;gestreepte short;混色条纹热裤;混色條紋熱褲;マルチストライプのホットパンツ;스트라이프 핫팬츠;полосатые шорты
 845;knit pants;knit pants;Strickhose;pantalón de punto;pantalón tejido;pantalon en tricot;pantalon en tricot;pantalone di maglia;gebreide broek;针织裤;針織褲;ニットパンツ;니트 바지;вязаные штаны
 846;long denim skirt;long denim skirt;Maxi-Jeansrock;falda vaquera con cinturón;falda de jean con cinturón;jupe longue en jean;jupe longue en jean;gonna lunga di jeans;lange jeansrok;牛仔长裙;牛仔長裙;ロングデニムスカート;롱 데님 스커트;длинная джинсовая юбка
-847;apron skirt;apron skirt;Schürzenrock;falda corta con delantal;falda corta con delantal;jupe tablier;jupe tablier;gonna a grembiule;rok met schort;围裙连短裙;圍裙連短裙;エプロンつきスカート;에이프런 스커트;юбка с фартуком
+847;apron skirt;apron skirt;Schürzenrock;falda corta con delantal;falda corta con delantal;jupe tablier;jupe tablier;gonna a grembiule;rok met schort;围裙连短裙;圍裙連裙子;エプロンつきスカート;에이프런 스커트;юбка с фартуком
 848;terry-cloth shorts;terry-cloth shorts;Frottee-Shorts;minipantalón de felpa;minipantalón de felpa;short en tissu éponge;short en tissu éponge;pantaloncino di tela;badstoffen korte broek;毛毛睡裤;毛絨熱褲;もこもこホットパンツ;수면 잠옷 핫팬츠;махровые шорты
 849;basketball shorts;basketball shorts;Basketball-Shorts;bermuda básquet;bermuda de básquet;short de basketball;short de basketball;pantaloncino da basket;basketbalshort;篮球裤;籃球褲;バスケットパンツ;농구복 하의;баскетбольные шорты
 850;workout pants;workout pants;Workout-Hose;pantalón maratón;pantalón maratón;pantalon de fitness;pantalon de fitness;pantalone da allenamento;work-outlegging;运动裤;健身褲;ワークアウトパンツ;경기복 바지;штаны для аэробики
@@ -134,8 +134,8 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 884;cut-pleather skirt;cut-pleather skirt;Kunstleder-Bordürenrock;falda polipiel punta redonda;falda sintética recortada;jupe en similicuir ouvragée;jupe en similicuir ouvragée;gonna in ecopelle orlata;kunstleren motiefrok;麂皮镂空长裙;鏤空皮裙;カットレザースカート;펀칭 가죽 치마;юбка из кожзама с каймой
 885;pleather patch skirt;pleather patch skirt;Kunstleder-Flickenrock;falda corta recortes polipiel;falda corta sintética retazos;jupe en similicuir patchwork;jupe en similicuir patchwork;gonna mosaico in ecopelle;kunstleren patchworkrok;拼布皮裙;拼布皮裙;レザーパッチスカート;가죽 패치 스커트;юбка из кусков кожзама
 890;buttoned wraparound skirt;buttoned wraparound skirt;Knöpfe-Wickelrock;falda envolvente bicolor;falda envolvente bicolor;jupe portefeuille boutonnée;jupe portefeuille boutonnée;gonna portafoglio a bottoni;wikkelrok met knoopjes;纽扣裹裙;鈕扣一片裙;ボタンのまきスカート;단추 랩 스커트;юбка с запахом на кнопках
-896;tie-dye skirt;tie-dye skirt;Batikrock;falda hippy;falda teñida;jupe tie and dye;jupe tie and dye;gonna batik;tie-⁠dye-rok;扎染长裙;紮染短裙;タイダイスカート;타이다이 스커트;юбка из батика
-902;botanical shorts;botanical shorts;Botanik-Shorts;bermuda jardín botánico;bermuda jardín botánico;short botanique;short botanique;pantaloncino botanico;tropische short;植物图案短裤;植物圖案短褲;ボタニカルハーフパンツ;보타니컬 반바지;ботанические шорты
+896;tie-dye skirt;tie-dye skirt;Batikrock;falda hippy;falda teñida;jupe tie and dye;jupe tie and dye;gonna batik;tie-⁠dye-rok;扎染长裙;紮染裙子;タイダイスカート;타이다이 스커트;юбка из батика
+902;botanical shorts;botanical shorts;Botanik-Shorts;bermuda jardín botánico;bermuda jardín botánico;short botanique;short botanique;pantaloncino botanico;tropische short;植物图案短裤;植物圖案短褲;ボタニカルハーフパンツ;보태니컬 반바지;ботанические шорты
 905;school pants;school pants;Schulhose;pantalón escolar;pantalón escolar;pantalon d'écolier;pantalon d'écolier;pantalone da scolaro;schooluniformbroek;学生裤;學校制服褲;がくせいふくのズボン;학생복 바지;школьные брюки
 906;lemon skirt;lemon skirt;Zitronenrock;falda limones;falda limones;jupe citrons;jupe citrons;gonna con limoni;citroenenrok;柠檬图案长裙;檸檬裙子;レモンのスカート;레몬 스커트;юбка с лимонами
 907;dreamy pants;dreamy pants;Fantasiehose;pantalón fantasía;pantalón fantasía;pantalon joli rêve;pantalon joli rêve;pantalone sognante;dromerige broek;梦幻可爱裤子;夢幻可愛褲子;ゆめかわなズボン;아기자기한 바지;штаны с единорогами

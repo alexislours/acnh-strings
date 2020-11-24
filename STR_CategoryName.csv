@@ -7,7 +7,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 0018;Housewares;Housewares;Einrichtung;Muebles;Muebles;Mobilier;Mobilier;Complementi d'arredo;Huisraad;家具;家具;かぐ;가구;Предметы обстановки
 0006;Miscellaneous;Miscellaneous;Kleinkram;Enseres;Misceláneas;Divers;Divers;Soprammobili/Utensili;Hebbedingetjes;小物件;小物件;こもの;잡화;Разное
 0007;Wall-mounted;Wall-mounted;Wanddeko;Para colgar;Para colgar;Déco murale;Déco murale;Da muro;Voor aan de muur;壁挂物;壁掛物;かべかけ;벽걸이;Настенные
-0015;Rug;Rug;Teppiche;Alfombras;Alfombras;Tapis;Tapis;Tappeti;Tapijten;地垫;地毯;ラグ;러그;Ковры
+0015;Rugs;Rugs;Teppiche;Alfombras;Alfombras;Tapis;Tapis;Tappeti;Tapijten;地垫;地毯;ラグ;러그;Ковры
 0020;Floors;Floors;Böden;Suelos;Suelos;Sols;Sols;Pavimenti;Vloeren;地板;地板;ゆかいた;마루;Полы
 0021;Wallpaper;Wallpaper;Tapeten;Papel de pared;Papel de pared;Papiers peints;Papiers peints;Carta da parati;Wanden;壁纸;壁紙;かべがみ;벽지;Обои
 0026;Wallpaper/Floors/Rugs;Wallpaper/Floors/Rugs;Tapeten/Böden/Teppiche;Paredes y suelos;Paredes y suelos;Papiers peints/Sols/Tapis;Papiers peints/Sols/Tapis;Muri/Pavimenti/Tappeti;Wanden/vloeren/tapijten;墙壁·地板·地垫;牆壁‧地板‧地毯;かべ・ゆか・ラグ;벽지/바닥/러그;Обои/полы/ковры
@@ -21,7 +21,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 0051;Headwear;Headwear;Kopfbedeckungen;Sombrerería;Sombreros;Couvre-chefs/masques;Chapeaux/Masques;Copricapi/Maschere;Hoofddeksels;头戴物;頭戴物;かぶりもの;머리 장식;На голову
 0052;Accessories;Accessories;Accessoires;Complementos;Accesorios;Accessoires;Accessoires;Accessori;Accessoires;饰品;飾品;アクセサリー;액세서리;Аксессуары
 0053;Tops;Tops;Oberteile;Partes de arriba;Partes de arriba;Hauts;Hauts;Parte superiore;Bovenlichaam;上装;上身;トップス;상의;Верх
-0054;Dresses;Dresses;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
+0054;Dress-Up;Dress-Up;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
 0055;Bottoms;Bottoms;Unterteile;Partes de abajo;Partes de abajo;Pantalons/jupes;Pantalons/Jupes;Parte inferiore;Onderlichaam;下装;下身;ボトムス;하의;Низ
 0056;Socks;Socks;Socken;Calcetines;Calcetines;Chaussettes;Bas;Calze;Sokken;袜子;襪子;くつした;양말;Носки и чулки
 0057;Shoes;Shoes;Schuhe;Calzado;Calzado;Chaussures;Souliers;Calzature;Schoenen;鞋子;鞋子;くつ;신발;Обувь
@@ -30,18 +30,19 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 0202;Housewares;Housewares;Einrichtung;Muebles;Muebles;Mobilier;Mobilier;Complementi d'arredo;Huisraad;家具;家具;かぐ;가구;Предметы обстановки
 0203;Miscellaneous;Miscellaneous;Kleinkram;Enseres;Misceláneas;Divers;Divers;Soprammobili/Utensili;Hebbedingetjes;小物件;小物件;こもの;잡화;Разное
 0204;Wall-mounted;Wall-mounted;Wanddeko;Para colgar;Para colgar;Déco murale;Déco murale;Da muro;Voor aan de muur;壁挂物;壁掛物;かべかけ;벽걸이;Настенные
-0205;Rug;Rug;Teppiche;Alfombras;Alfombras;Tapis;Tapis;Tappeti;Tapijten;地垫;地毯;ラグ;러그;Ковры
+0205;Rugs;Rugs;Teppiche;Alfombras;Alfombras;Tapis;Tapis;Tappeti;Tapijten;地垫;地毯;ラグ;러그;Ковры
 0206;Floors;Floors;Böden;Suelos;Suelos;Sols;Sols;Pavimenti;Vloeren;地板;地板;ゆかいた;마루;Полы
 0207;Wallpaper;Wallpaper;Tapeten;Papel de pared;Papel de pared;Papiers peints;Papiers peints;Carta da parati;Wanden;壁纸;壁紙;かべがみ;벽지;Обои
 0208;Fashion Items;Fashion Items;Mode;Moda;Moda;Mode;Mode;Moda;Modeartikelen;服饰;時尚單品;ファッション;패션;Мода
 0209;Creatures;Creatures;Lebewesen;Seres vivos;Seres vivos;Créatures;Créatures;Esseri viventi;Insecten en vissen;生物;生物;いきもの;생물;Живность
 0210;Other;Other;Sonstiges;Otros;Otros;Autres;Autres;Altro;Overig;其他;其他;そのほか;기타;Прочее
 0211;Residents;Residents;Einwohner;Residentes;Residentes;Résidents;Résidents;Residenti;Eilandbewoners;居民;居民;じゅうみん;주민;Жители
+0215;Event;Event;Event;Evento;Evento;Événement;Événement;Evento;Evenement;活动;活動;イベント;이벤트;Мероприятие
 0301;Everything;Everything;Alles;Todos;Todos;Tous;Tous;Tutti;Alles;全部;全部;ぜんぶ;전부;Все
 0302;Headwear;Headwear;Kopfbedeckungen;Sombrerería;Sombreros;Couvre-chefs/masques;Chapeaux/Masques;Copricapi/Maschere;Hoofddeksels;头戴物;頭戴物;かぶりもの;머리 장식;На голову
 0303;Accessories;Accessories;Accessoires;Complementos;Accesorios;Accessoires;Accessoires;Accessori;Accessoires;饰品;飾品;アクセサリー;액세서리;Аксессуары
 0304;Tops;Tops;Oberteile;Partes de arriba;Partes de arriba;Hauts;Hauts;Parte superiore;Bovenlichaam;上装;上身;トップス;상의;Верх
-0305;Dresses;Dresses;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
+0305;Dress-Up;Dress-Up;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
 0306;Bottoms;Bottoms;Unterteile;Partes de abajo;Partes de abajo;Pantalons/jupes;Pantalons/Jupes;Parte inferiore;Onderlichaam;下装;下身;ボトムス;하의;Низ
 0307;Socks;Socks;Socken;Calcetines;Calcetines;Chaussettes;Bas;Calze;Sokken;袜子;襪子;くつした;양말;Носки и чулки
 0308;Shoes;Shoes;Schuhe;Calzado;Calzado;Chaussures;Souliers;Calzature;Schoenen;鞋子;鞋子;くつ;신발;Обувь
@@ -95,7 +96,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1902;Housewares;Housewares;Einrichtung;Muebles;Muebles;Mobilier;Mobilier;Complementi d'arredo;Huisraad;家具;家具;かぐ;가구;Предметы обстановки
 1903;Miscellaneous;Miscellaneous;Kleinkram;Enseres;Misceláneas;Divers;Divers;Soprammobili/Utensili;Hebbedingetjes;小物件;小物件;こもの;잡화;Разное
 1904;Wall-mounted;Wall-mounted;Wanddeko;Para colgar;Para colgar;Déco murale;Déco murale;Da muro;Voor aan de muur;壁挂物;壁掛物;かべかけ;벽걸이;Настенные
-1905;Rug;Rug;Teppiche;Alfombras;Alfombras;Tapis;Tapis;Tappeti;Tapijten;地垫;地毯;ラグ;러그;Ковры
+1905;Rugs;Rugs;Teppiche;Alfombras;Alfombras;Tapis;Tapis;Tappeti;Tapijten;地垫;地毯;ラグ;러그;Ковры
 1906;Floors;Floors;Böden;Suelos;Suelos;Sols;Sols;Pavimenti;Vloeren;地板;地板;ゆかいた;마루;Полы
 1907;Wallpaper;Wallpaper;Tapeten;Papel de pared;Papel de pared;Papiers peints;Papiers peints;Carta da parati;Wanden;壁纸;壁紙;かべがみ;벽지;Обои
 1908;Customizable;Customizable;Umgestaltbar;Personalizable;Personalizable;Personnalisables;Personnalisables;Personalizzabili;Aanpasbaar;可改造;可改造;リメイクできる;리폼 가능;Изменяемые
@@ -104,7 +105,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1911;Accessories;Accessories;Accessoires;Complementos;Accesorios;Accessoires;Accessoires;Accessori;Accessoires;饰品;飾品;アクセサリー;액세서리;Аксессуары
 1912;Tops;Tops;Oberteile;Partes de arriba;Partes de arriba;Hauts;Hauts;Parte superiore;Bovenlichaam;上装;上身;トップス;상의;Верх
 1913;Bottoms;Bottoms;Unterteile;Partes de abajo;Partes de abajo;Pantalons/jupes;Pantalons/Jupes;Parte inferiore;Onderlichaam;下装;下身;ボトムス;하의;Низ
-1914;Dresses;Dresses;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
+1914;Dress-Up;Dress-Up;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
 1915;Socks;Socks;Socken;Calcetines;Calcetines;Chaussettes;Bas;Calze;Sokken;袜子;襪子;くつした;양말;Носки и чулки
 1916;Shoes;Shoes;Schuhe;Calzado;Calzado;Chaussures;Souliers;Calzature;Schoenen;鞋子;鞋子;くつ;신발;Обувь
 1917;Bags;Bags;Taschen;Bolsos;Bolsas;Sacs;Sacs;Borse;Tassen;包包;包包;バッグ;가방;Сумки
@@ -115,7 +116,8 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1924;Umbrellas;Umbrellas;Schirme;Paraguas;Paraguas;Parapluies;Parapluies;Ombrelli;Paraplu's;伞;雨傘;かさ;우산;Зонты
 1950;Daily Selection;Daily Selection;Auswahl des Tages;Selección del día;Selección del día;Sélection du jour;Sélection du jour;Proposte del giorno;Aanbod van de dag;每日替换;每日精選;ひがわり;오늘의 상품;Выбор дня
 1951;Posters;Posters;Poster;Pósteres;Pósteres;Posters;Affiches;Poster;Posters;海报;海報;ポスター;포스터;Постеры
-1952;Promotion;Promotion;Aktionen;Artículos distribuidos;Artículos distribuidos;Articles promotionnels;Articles promotionnels;Articoli promozionali;Extraatjes;活动;活動;キャンペーン;이벤트;Промоакции
+1952;Promotion;Promotion;Aktionen;Artículos promocionales;Artículos promocionales;Articles promotionnels;Articles promotionnels;Articoli promozionali;Extraatjes;活动;活動;キャンペーン;이벤트;Промоакции
+1953;Seasonal;Seasonal;Saisonal;Artículos de temporada;Artículos de temporada;Articles temporaires;Articles temporaires;Articoli stagionali;Seizoensgebonden;季节;季節;シーズン;시즌;Сезонный доступ
 2001;All;All;Alle;Todos;Todos;Tous;Tous;Tutti;Iedereen;全部;全部;ぜんいん;모두;Все
 2002;Best Friends;Best Friends;Beste Freunde ;Mejores amigos;Mejores amigos;Meilleurs amis;Meilleurs amis;Migliori amici;Beste vrienden;最佳好友;最佳朋友;ベストフレンド;베스트 프렌드;Лучшие друзья
 2003;Best Friend Outbox;Best Friend Outbox;Gesendete Anfragen;Solicitudes enviadas;Solicitudes enviadas;Demandes envoyées;Demandes envoyées;Richieste inviate;Gestuurde verzoeken;正在申请最佳好友;正在申請的最佳朋友;ベストフレンド申請中;베스트 프렌드 신청 중;Запросы отправлены
@@ -126,7 +128,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 2202;Miscellaneous;Miscellaneous;Sonstiges;Utensilios;Misceláneas;Divers;Divers;Altro;Overig;杂货;雜貨;ざっか;잡화;Разное
 2203;Wallpaper/Flooring;Wallpaper/Flooring;Tapeten/Böden;Paredes y suelos;Paredes y suelos;Papiers peints/sols;Papiers peints/sols;Muri e pavimenti;Behang/vloeren;墙壁·地板;牆壁地板;かべ・ゆか;벽지/바닥;Стены/полы
 2301;Tops;Tops;Oberteile;Partes de arriba;Partes de arriba;Hauts;Hauts;Parte superiore;Bovenlichaam;上装;上身;トップス;상의;Верх
-2302;Dresses;Dresses;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
+2302;Dress-Up;Dress-Up;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
 2303;Headwear;Headwear;Kopfbedeckungen;Sombrerería;Sombreros;Couvre-chefs/masques;Chapeaux/Masques;Copricapi/Maschere;Hoofddeksels;头戴物;頭戴物;かぶりもの;머리 장식;На голову
 2401;Custom Designs;Custom Designs;Eigene Designs;Normal;Normal;Motifs persos;Motifs perso;Modelli personalizzati;Eigen ontwerpen;我的设计;我的設計;マイデザイン;마이 디자인;Индивид. рисунки
 2402;Pro Designs;Pro Designs;Profi-Designs;Pro;Pro;Motifs pro;Motifs pro;Modelli pro;Speciale ontwerpen;专业设计;專業設計;PROデザイン;PRO 디자인;Профи-рисунки
@@ -139,7 +141,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 2602;Headwear;Headwear;Kopfbedeckungen;Sombrerería;Sombreros;Couvre-chefs/masques;Chapeaux/Masques;Copricapi/Maschere;Hoofddeksels;头戴物;頭戴物;かぶりもの;머리 장식;На голову
 2603;Accessories;Accessories;Accessoires;Complementos;Accesorios;Accessoires;Accessoires;Accessori;Accessoires;饰品;飾品;アクセサリー;액세서리;Аксессуары
 2604;Tops;Tops;Oberteile;Partes de arriba;Partes de arriba;Hauts;Hauts;Parte superiore;Bovenlichaam;上装;上身;トップス;상의;Верх
-2605;Dresses;Dresses;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
+2605;Dress-Up;Dress-Up;Kleider;Cuerpo entero;Cuerpo entero;Robes/tenues;Robes/Tenues;Vestiti;Jurken;套装;套裝;ワンピース;원피스;Верх и низ
 2606;Bottoms;Bottoms;Unterteile;Partes de abajo;Partes de abajo;Pantalons/jupes;Pantalons/Jupes;Parte inferiore;Onderlichaam;下装;下身;ボトムス;하의;Низ
 2607;Socks;Socks;Socken;Calcetines;Calcetines;Chaussettes;Bas;Calze;Sokken;袜子;襪子;くつした;양말;Носки и чулки
 2608;Shoes;Shoes;Schuhe;Calzado;Calzado;Chaussures;Souliers;Calzature;Schoenen;鞋子;鞋子;くつ;신발;Обувь
@@ -155,3 +157,9 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 2710;Cool;Cool;Cool;Moderno;Moderno;Cool;Cool;Spavaldi;Cool;清新;清新;クール;쿨;Классный
 2801;Best Friends;Best Friends;Beste Freunde;Mejores amigos;Mejores amigos;Meilleurs amis;Meilleurs amis;Migliori amici;Beste vrienden;最佳好友;最佳朋友;ベストフレンド;베스트 프렌드;Лучшие друзья
 2802;Friends;Friends;Freunde;Amigos;Amigos;Amis;Amis;Amici;Vrienden;好友;朋友;フレンド;친구;Друзья
+3001;Everything;Everything;Alles;Todos;Todos;Tous;Tous;Tutti;Alles;全部;全部;ぜんぶ;전부;Все
+3002;Housewares;Housewares;Einrichtung;Muebles;Muebles;Mobilier;Mobilier;Complementi d'arredo;Huisraad;家具;家具;かぐ;가구;Предметы обстановки
+3003;Wallpaper;Wallpaper;Tapeten;Papel de pared;Papel de pared;Papiers peints;Papiers peints;Carta da parati;Wanden;壁纸;壁紙;かべがみ;벽지;Обои
+3004;Floors;Floors;Böden;Suelos;Suelos;Sols;Sols;Pavimenti;Vloeren;地板;地板;ゆかいた;마루;Полы
+3005;Rugs;Rugs;Teppiche;Alfombras;Alfombras;Tapis;Tapis;Tappeti;Tapijten;地垫;地毯;ラグ;러그;Ковры
+3006;Fashion Items;Fashion Items;Mode;Moda;Moda;Mode;Mode;Moda;Modeartikelen;服饰;時尚單品;ファッション;패션;Мода

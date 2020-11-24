@@ -154,7 +154,7 @@ Ftr_01870_5;Cheese;Cheese;Käse;Queso;Queso;Fromage;Fromage;Formaggio;Kaas;奶�
 Ftr_01899_0;Musician's signature;Musician's signature;Musiker;Músico;Músico;Musicien;Musicien;Autografo di musicista;Handtekening van muzikant;音乐家的签名;音樂家簽名;ミュージシャンのサイン;뮤지션 사인;Подпись музыканта
 Ftr_01899_1;Comedian's signature;Comedian's signature;Komiker;Humorista;Humorista;Comédien;Comédien;Autografo d'attore;Handtekening van komiek;喜剧演员的签名;喜劇演員簽名;コメディアンのサイン;코미디언 사인;Подпись юмориста
 Ftr_02020_0;Natural white;Natural white;Weiß;Blanco;Blanco;Blanc naturel;Blanc naturel;Bianco naturale;Natuurlijk wit;自然白色;自然白色;ナチュラルホワイト;내추럴 화이트;Натуральный белый
-Ftr_02020_1;Director black;Director black;Schwarz;Negro;Negro;Noir;Noir;Nero;Management zwart;直接黑色;導演黑色;ディレクターブラック;디렉터 블랙;Режиссерский черный
+Ftr_02020_1;Director black;Director black;Schwarz;Negro;Negro;Noir;Noir;Nero;Management zwart;导演黑色;導演黑色;ディレクターブラック;디렉터 블랙;Режиссерский черный
 Ftr_02020_2;Chic pleather;Chic pleather;Kunstleder;Polipiel;Cuero sintético;Similicuir luxueux;Similicuir luxueux;Ecopelle chic;Chic kunstleer;典雅皮革;典雅皮質;シックレザー;시크 레더;Шикарный кожзам
 Ftr_02561_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_02561_1;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
@@ -445,6 +445,8 @@ Ftr_08298_1;Striped;Striped;Streifen;Rayas;Rayas;Rayures;Rayures;Righe;Gestreept
 Ftr_08298_2;Checkered;Checkered;Karos;Cuadros;Cuadros;Carreaux;Carreaux;Scacchi;Geruit;格子;格紋;チェック;체크;Шахматный узор
 Ftr_08298_3;Space;Space;Weltraum;Espacio;Espacio;Cosmos;Cosmos;Spazio;Ruimte;宇宙;宇宙;コスモ;코스모;Космос
 Ftr_08298_4;Colorful lines;Colorful lines;Bunte Streifen;Líneas de colores;Líneas de colores;Rayures multicolores;Rayures multicolores;Righe multicolore;Gekleurde lijnen;彩条;彩色線條;カラフルライン;컬러풀 라인;Цветные полоски
+Ftr_12410_0;Message;Message;Gruß;Texto;Texto;Message;Message;Messaggio;Bericht;信息;訊息;メッセージ;메시지;Послание
+Ftr_12410_1;Reese & Cyrus;Reese & Cyrus;Rosina & Björn;Al y Paca;Al y Paca;Risette & Serge;Risette & Serge;Alpaca e Merino;Reese en Cyrus;莉咏＆健兆;莉詠＆健兆;リサ＆カイゾー;리사&리포;Риз и Сайрус
 SmartPhone_05397_0;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 SmartPhone_05397_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 SmartPhone_05397_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
