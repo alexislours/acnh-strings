@@ -1,26 +1,27 @@
 label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);Italian;Dutch;Chinese;Chinese (Traditional);Japanese;Korean;Russian
-001;iron;iron;Eisen;hierro;hierro;fer;fer;ferro;IJzer;铸铁;鑄鐵;アイアン;아이언;Железо
-002;ironwood;ironwood;Eisen-Holz;universidad;universidad;bois de fer;bois de fer;legno ferro;IJzer en hout;铸铁木;鑄鐵木;アイアンウッド;아이언 우드;ДСП и сталь
-003;diner;diner;Diner;años 50;años 50;années 50;années 50;anni '50;Jaren 50;美式复古;餐館;ダイナー;다이너;Бистро
-004;antique;antique;Antik;antigua;antigua;ancienne;ancienne;vecchio;Antiek;古董;古董;アンティーク;앤티크;Антиквариат
-005;golden;golden;Gold;dorada;dorada;d'or;d'or;oro;Goud;黄金;黃金;おうごん;황금;Золото
-006;zen;zen;Asiatisch;dinastía;dinastía;impériale;impériale;dinastia;Zen;东方风;東方風;オリエンタル;오리엔탈;Дзен
-007;shell;shell;Muschel;conchas marinas;conchas marinas;coquillage;coquillage;conchiglia;Schelpen;贝壳;貝殼;かいがら;조개;Ракушки
-008;mush;mush;Pilz;hongo;hongo;champi;champi;fungo;Paddenstoelen;蘑菇;蘑菇;キノコ;버섯;Грибы
-009;cute;cute;Bonbon;cuqui;adorable;mimi;cute;grazioso;Schattig;可爱;可愛;キュート;큐트;Милые предметы
-010;bamboo;bamboo;Bambus;bambú;bambú;bambou;bambou;bambù;Bamboe;竹子;竹子;たけ;대나무;Бамбук
-011;wooden block;wooden block;Bauklotz;construcciones;construcciones;blocs de bois;blocs de bois;blocchi di legno;Houtblokken;积木;積木;つみき;나무블록;Деревянные блоки
-012;spooky;spooky;Kürbis;calabaza;calabaza;Halloween;Halloween;brividi;Griezelig;万圣节;萬聖節;ハロウィン;할로윈;Страшилки
-013;fruits;fruits;Obst;frutal;frutal;fruit;fruit;frutta;Fruit;水果;水果;フルーツ;프루트;Фрукты
-014;log;log;Baumstamm;leño;troncos;tronc;tronc;tronco;Boomstammen;圆木;圓木;まるた;통나무;Бревна
-015;wooden;wooden;Holz;madera;madera;bois;bois;legno;Hout;木制;木製;もくせい;목제;Дерево
-016;rattan;rattan;Flecht;ratán;mimbre;jonc;rotin;rattan;Rotan;藤编;藤編;ラタン;라탄;Ротанг
-017;throwback;throwback;Nostalgie;fantasía;fantasía;nostalgie;nostalgie;fantasia;Nostalgie;玩具;TOY;TOY;TOY;Винтаж
-018;frozen;frozen;Eis;iceberg;iceberg;arctique;arctique;iceberg;IJzig;冰块;冰塊;こおり;얼음;Лед
-019;stars;stars;Stern;estrella;estrella;étoile;étoile;stella;Sterren;星星;星星;ほし;별;Звезды
-020;flowers;flowers;Blumen;flores;flores;fleur;fleur;fiori;Bloemen;花;花朵;はな;꽃;Цветы
-021;tree's bounty or leaves;tree's bounty or leaves;Baumfrucht;frutos del bosque y hojas;frutos del bosque y hojas;fruits des bois ou feuille;fruits des bois ou feuille;frutti del bosco e foglie;Bladeren en vruchten;树果·落叶;樹果‧落葉;きのみ・おちば;나무 열매/낙엽;Дары леса
-022;cherry blossoms;cherry blossoms;Kirschblüten;flor de cerezo;flor de cerezo;fleur de cerisier;fleur de cerisier;fiori di ciliegio;Kersenbloesem;樱花;櫻花;さくら;벚꽃;Вишня в цвету
-024;cardboard;cardboard;Karton;cartón;cartón;carton;carton;scatolone;Karton;纸箱;紙箱;ダンボール;박스;Картон
-025;motherly;motherly;Mama;mamá;mamá;de maman;de maman;mamma;Mama;妈妈;母親;はは;엄마;Мама
-026;festive;festive;Festtag;festiva;festiva;festive;festive;festivo;Kerstmis;圣诞节;聖誕節;クリスマス;크리스마스;Праздник
+001;iron;iron;Eisen;hierro;hierro;fer;fer;ferro;ijzeren stijl;铸铁;鑄鐵;アイアン;아이언;Железо
+002;ironwood;ironwood;Eisen-Holz;universidad;universidad;bois de fer;bois de fer;legno ferro;ijzeren-houten stijl;铸铁木;鑄鐵木;アイアンウッド;아이언 우드;ДСП и сталь
+003;diner;diner;Diner;años 50;años 50;années 50;années 50;anni '50;jaren 50-stijl;美式复古;餐館;ダイナー;다이너;Бистро
+004;antique;antique;Antik;antigua;antigua;ancienne;ancienne;vecchio;antieke stijl;古董;古董;アンティーク;앤티크;Антиквариат
+005;golden;golden;Gold;dorada;dorada;d'or;d'or;dorato;gouden stijl;黄金;黃金;おうごん;황금;Золото
+006;zen;zen;Asiatisch;dinastía;dinastía;impériale;impériale;dinastia;zenstijl;东方风;東方風;オリエンタル;오리엔탈;Дзен
+007;shell;shell;Muschel;conchas marinas;conchas marinas;coquillage;coquillage;conchiglia;schelpenstijl;贝壳;貝殼;かいがら;조개;Ракушки
+008;mush;mush;Pilz;hongo;hongo;champi;champi;fungo;paddenstoelenstijl;蘑菇;蘑菇;キノコ;버섯;Грибы
+009;cute;cute;Bonbon;cuqui;adorable;mimi;cute;grazioso;schattige stijl;可爱;可愛;キュート;큐트;Милые предметы
+010;bamboo;bamboo;Bambus;bambú;bambú;bambou;bambou;bambù;bamboestijl;竹子;竹子;たけ;대나무;Бамбук
+011;wooden block;wooden block;Bauklotz;construcciones;construcciones;blocs de bois;blocs de bois;blocchi di legno;houtblokstijl;积木;積木;つみき;나무블록;Деревянные блоки
+012;spooky;spooky;Kürbis;calabaza;calabaza;Halloween;Halloween;brividi;halloweenstijl;万圣节;萬聖節;ハロウィン;할로윈;Страшилки
+013;fruits;fruits;Obst;frutal;frutal;fruit;fruit;frutta;fruitstijl;水果;水果;フルーツ;프루트;Фрукты
+014;log;log;Baumstamm;leño;troncos;tronc;tronc;tronco;boomstamstijl;圆木;圓木;まるた;통나무;Бревна
+015;wooden;wooden;Holz;madera;madera;bois;bois;legno;houten stijl;木制;木製;もくせい;목제;Дерево
+016;rattan;rattan;Flecht;ratán;mimbre;jonc;rotin;rattan;rotanstijl;藤编;藤編;ラタン;라탄;Ротанг
+017;throwback;throwback;Nostalgie;fantasía;fantasía;nostalgie;nostalgie;fantasia;speelgoedstijl;玩具;TOY;TOY;TOY;Винтаж
+018;frozen;frozen;Eis;iceberg;iceberg;arctique;arctique;iceberg;ijsstijl;冰块;冰塊;こおり;얼음;Лед
+019;stars;stars;Stern;estrella;estrella;étoile;étoile;stella;sterrenstijl;星星;星星;ほし;별;Звезды
+020;flowers;flowers;Blumen;flores;flores;fleur;fleur;fiori;bloemenstijl;花;花朵;はな;꽃;Цветы
+021;tree's bounty or leaves;tree's bounty or leaves;Baumfrucht;frutos del bosque y hojas;frutos del bosque y hojas;fruits des bois ou feuille;fruits des bois ou feuille;frutti dell'albero e foglie;herfst- en bladerenstijl;树果·落叶;樹果‧落葉;きのみ・おちば;나무 열매/낙엽;Дары леса
+022;cherry blossoms;cherry blossoms;Kirschblüten;flor de cerezo;flor de cerezo;fleur de cerisier;fleur de cerisier;ciliegio;kersenbloesemstijl;樱花;櫻花;さくら;벚꽃;Вишня в цвету
+024;cardboard;cardboard;Karton;cartón;cartón;carton;carton;scatolone;kartonnen stijl;纸箱;紙箱;ダンボール;박스;Картон
+025;motherly;motherly;Mama;mamá;mamá;de maman;de maman;mamma;mama-stijl;妈妈;媽媽;はは;엄마;Мама
+026;festive;festive;Festtag;festiva;festiva;festive;festive;festivo;feeststijl;圣诞节;聖誕節;クリスマス;크리스마스;Праздник
+027;Bunny Day;Bunny Day;Häschentag;Caza del Huevo;Caza del Huevo;Fête des œufs;Fête des œufs;caccia all'uovo;eierstijl;复活节;復活節;イースター;이스터;День зайцев

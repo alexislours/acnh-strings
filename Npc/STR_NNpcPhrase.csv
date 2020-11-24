@@ -62,17 +62,17 @@ cat18;bonbon;bonbon;kratz;purrrr;purrrr;ron-ron;ron-ron;purrrr;zuurtje;娜个;�
 cat19;me meow;me meow;mi-miau;marramius;marramius;mi-i-i-ouh;mi-i-i-ouh;miao miao;sfinx;尼罗;尼羅;クフフ;파트라;ми-мяу
 cat20;mush;mush;katzaaa;cachusco;cachusco;alatienne;mouah;ron ron;robijn;之类的;之類的;とかナ;그러거나;шмяк
 cat21;purrty;purrty;zischel;salmonete;purrrs;miaouille;miaouille;fffz;prrrachtig;掰掰;掰掰;じゃね;휘리릭;хор-р-рошо
-cat23;crisp;crisp;weeßte;atilda;atilda;panache;panache;rrricooo;netjes;正经;正經;キリッ;우쭐;стильненько
+cat23;crisp;crisp;weeßte;atilda;atilda;panache;panache;rrricooo;netjes;严肃;嚴肅;キリッ;우쭐;стильненько
 cbr00;peach;peach;früchtchen;cielito;melí-melá;prune;prune;pepè;perzik;怦怦;怦怦;キュン;두근;персик
 cbr01;honey;honey;darling;caramelito;mielmiel;chouchou;chouchou;miele;zoeterd;熊仔;熊仔;だベア;저기요;лапушка
 cbr02;li'l bear;li'l bear;bärli;bolita;pruah;nounours;nounours;babà;beertje;萌;萌;モン;몽;медвежонок
-cbr03;pudgy;pudgy;griesgram;rebollos;bruah;louloute;louloute;pulcino;mollig;真是的;真是的;んもう;아이참;карапуз
+cbr03;golly;golly;griesgram;rebollos;bruah;louloute;louloute;pulcino;pudding;真是的;真是的;んもう;아이참;карапуз
 cbr04;grah grah;grah grah;okeydokey;mola;graaau;grih grih;grih grih;oki-doki;okidoki;精神;精神;のこころ;나는나야;гррр
 cbr05;stuffin';stuffin';brummm;peluche;paguahhh;ou bien;ou bien;ohilà;pluche;玩玩;玩玩;なのれす;그런거죠;плюш-плюш
 cbr06;nyet;nyet;nastrovje;nyet;nyet;niet;niet;nyet;njet;唉唷;唉唷;やんけ;참말로;ну не-е-ет
 cbr07;malarkey;malarkey;liebelein;pelusita;heee;canaille;fait que;grizzel;spruit;罢了;罷了;ですばい;샐리;товарищ
 cbr09;sweet pea;sweet pea;honigtopf;panalito;panipof;trognon;trognon;fagiolino;honingkelkje;马克杯;馬克杯;マグ;오잉;милашка
-cbr10;tralala;tralala;tralala;tralará;tralará;tralala;tralala;trallalà;tralala;说说的;說說的;なんてね;어쩜이래;тра-ля-ля
+cbr10;tralala;tralala;tralala;tralará;tralará;tralala;tralala;trallalà;tralala;开玩笑的;開玩笑的;なんてね;어쩜이래;тра-ля-ля
 cbr13;rainbow;rainbow;schönheit;cielo;lurilá;cacou;cacou;grrande;wolkje;有耶;有耶;アルネ;있죠;радуга-дуга
 cbr14;bud;bud;flüster;pitiminí;pitiminí;linou;linou;purrrimba;bloempje;佳佳;佳佳;チャ;띵호아;цветочек
 cbr15;rookie;rookie;baaambus;ahivá;ahivá;pla-pla;pla-pla;brupp;bamboe;竹子;竹子;だバンブ;부끄;бамбук
@@ -88,7 +88,7 @@ chn10;chicky-poo;chicky-poo;hühnermist;tesorito;corocó;galine;galine;zampoli;k
 chn11;cluckling;cluckling;knusprig;mazorca;cocorocó;ra-ta-tak;ra-ta-tak;uovole;nestei;等待;等待;せいッ;하앗;короко
 chn12;cluckadoo;cluckadoo;eieiei;pitas;kiriquicó;mon œuf;mon œuf;ovodè;kakel;咯咯;咯咯;ケッコー;오싹오싹;ки-ки-ки
 chn13;no doubt;no doubt;gockgock;kirrí;kirrí;pôt pôt;chicken;quiriqui;eiteraard;骨鸡;骨雞;コッケイ;깜깜;это точно
-cow00;how-now;how-now;muuhna;muuuu;muuuu;allez;oui oui;truuulà;koebeest;哞;牟;だモー;음메;му-му
+cow00;how-now;how-now;muuhna;muuuu;muuuu;allez;oui oui;truuulà;koebeest;牟;牟;だモー;음메;му-му
 cow01;pushy;pushy;dingdong;cuernitos;muamuuu;choupette;choupette;sì sì sì;boelala;牛奶;牛奶;ミルミル;우유우유;теленок
 cow06;hoof hoo;hoof hoo;muuuhi;mu-mu;mu-mu;meuh nan;meuh nan;mu muuu;boehoe;微笑;微笑;うふ;에헤;до-ре-му
 cow07;moolah;moolah;joggi;merengue;mumumu;pistouille;merengue;moumou;loei;这样很好;這樣很好;セボーン;메르시;муля
@@ -262,7 +262,7 @@ mus10;cannoli;cannoli;piepser;cloricló;cloricló;dis donc;dis donc;cippoli;cann
 mus12;eat it;eat it;knabba;dientes;flinflán;flim-flam;flim-flam;squikko;smakelijk;微微;微微;ピコ;앗차;ням-ням
 mus14;shorty;shorty;käääse;atiza;atiza;bééléé;bééléé;quink;kleintje;可恶;可惡;にゃろ;짜샤;коротышка
 mus15;eekers;eekers;achja;piruleta;escui-cui;skouik-ik;skouik-ik;zink zink;piepers;就说吧;就說吧;ですよね;내말이요;пи-пи-пи
-mus16;yelp;yelp;nagnag;bocadito;ñiñi-ñiá;téma;hiiiii;rattaplan;piepzak;呵呵呵;呵呵呵;おほほ;오호호;писк
+mus16;yelp;yelp;nagnag;bocadito;ñiñi-ñiá;téma;okka;rattaplan;piepzak;呵呵呵;呵呵呵;おほほ;오호호;писк
 mus17;oh bow;oh bow;bling;migas;brillilí;grugru;grugru;cheeese;strikje;啾啾;啾啾;でちゅの;그러찍;бантик
 mus18;fromage;fromage;hoho;fundifún;fundifún;frometon;cheese;iiik;cheese;也是啦;也是啦;まあね;꼬리꼬리;сырок
 ocp00;sucker;sucker;schling;chupatinta;glop-glop;chenapan;chenapan;perdindi;zuignap;章鱼;章魚;タコ;쭉쭉;все пропало
@@ -323,7 +323,7 @@ rbt04;mon chou;mon chou;herzblatt;mon chou;mon chou;cahuète;cahuète;cherie;mon
 rbt05;honeybun;honeybun;liebling;mari;reboing;mon lièvre;mon lièvre;mielito;honnepon;琪他;琪他;だっち;꺄오;зайчик мой
 rbt06;li'l hare;li'l hare;hihi;pipita;requeboing;ti’ lièvre;ti’ lièvre;gnaf;haasje;就这样啦;就這樣啦;なのサ;울랄라;зайчишка
 rbt07;bunbun;bunbun;öhrchen;pompón;toin-lalá;pinpin;pinpin;bunbun;knijnelijn;我说呀;我說呀;ってさ;라던데;зайчонок
-rbt08;otaku;otaku;goseimas;otaku;otaku;otaku;otaku;otaku;otaku;臣;臣;まろ;땡글;отаку
+rbt08;mochi;mochi;goseimas;mochi;mochi;mochi;mochi;mochi;mochi;臣;臣;まろ;땡글;зайпончик
 rbt09;li'l ears;li'l ears;paffpaff;orejitas;orejí;n'oreille;n'oreille;orecchine;hangoor;普通;普通;フツーに;보통이지;ушки
 rbt10;old bunny;old bunny;hasi;y tal;bingboing;morbleu;tout bleu;soufflé;ouwe reus;是啦;是啦;ですね;그렇잖아;зайчище
 rbt11;hopalong;hopalong;hüpfauf;hópala;hópala;sans rire;sans rire;hoppela;hopsala;酸酸;酸酸;ぶいぶい;아으셔;скок-поскок
@@ -369,7 +369,7 @@ squ11;WHEE;WHEE;huiii;macadamia;ñip-ñip;yeeeees;cacahuète;SCRUNCH;cashew;啦�
 squ13;nice nice;nice nice;tjaja;pincel;bi-buá;ptigri;ptigri;munch;jaja;做得好;做得好;やるわね;굿굿;ладно
 squ14;hubbub;hubbub;jammi;caldito;yupip;grignote;grignote;sgranocc;jammie;咻;咻;ひゅん;퓨우;хрум
 squ15;nutty;nutty;nussi;albricias;nutinú;scratchy;abajoue;squittole;nootje;甜甜;甜甜;デス;도톨도톨;чок-чок
-squ16;cardio;cardio;hoppi;zasca;zasca;toutouffe;noisette;flash;topfit;鼓栗鼓栗;鼓栗鼓栗;クリクリ;땡글땡글;треники
+squ16;cardio;cardio;hoppi;zasca;zasca;toutouffe;pacane;flash;topfit;鼓栗鼓栗;鼓栗鼓栗;クリクリ;땡글땡글;треники
 squ17;sulky;sulky;huschhusch;tecuén;tecuén;nanache;carpe diem;ardillà;knorrepot;不管怎样;不管怎樣;あながち;어차피;тихоня
 squ18;uni-wow;uni-wow;kekeke;castaña;tac-tac;tac tac;tac tac;blink;brauw;当然哦;當然囉;だもんね;알아알아;фундук
 tig00;grrrolf;grrrolf;brüll;grooorf;grooorf;grrrufff;grrrufff;grrrolf;grrrolf;王;王;だガー;근데;гр-р-рольф

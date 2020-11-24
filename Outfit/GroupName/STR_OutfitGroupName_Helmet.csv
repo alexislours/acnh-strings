@@ -1,6 +1,6 @@
 label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);Italian;Dutch;Chinese;Chinese (Traditional);Japanese;Korean;Russian
 1008;tiara hair;tiara hair;Diadem-Perücke;diadema de princesa;diadema de princesa;diadème;diadème;diadema;tiarapruik;公主假发;公主假髮;おひめさま;공주님 머리;парик с диадемой
-1009;headband;headband;Haarband;cinta para el pelo;cinta para el cabello;bandeau de sport;bandeau de sport;fascia;haarbandpruik;发带;髮帶;ヘアターバン;헤어밴드;парик с ленточкой
+1009;headband;headband;Haarband;cinta para el pelo;cinta para el cabello;bandeau;bandeau;fascia;haarbandpruik;发带;髮帶;ヘアターバン;헤어밴드;парик с ленточкой
 1010;coin headpiece;coin headpiece;Münzen-Stirnband;gorra de monedas;gorra de monedas;parure de sultane;parure de sultane;copricapo con monete;muntenpruik;金币头饰;金幣頭飾;コインヘッドピース;코인 헤드피스;парик с монетками
 1011;pigtail;pigtail;Khan-Perücke;coleta mongola;cola de caballo;natte;natte;codino cinese;paardenstaart;小辫子;小辮子;べんぱつ;변발;парик-косичка
 1012;visual-punk wig;visual-punk wig;Visual-Kei-Perücke;peluca punk;peluca punk;perruque visual kei;perruque visual kei;parrucca visual kei;Japanse punkpruik;视觉系假发;視覺系假髮;ヴィジュアルけいウィッグ;록 밴드 스타일 가발;панковский парик
@@ -28,7 +28,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 708;ninja hood;ninja hood;Ninjakapuze;caperuza de ninja;caperuza de ninja;cagoule de ninja;cagoule de ninja;cappuccio ninja;ninjamasker;忍者头巾;忍者頭巾;にんじゃずきん;닌자 두건;капюшон ниндзя
 709;batter's helmet;batter's helmet;Baseballhelm;casco de bateador;casco de bateador;casque de batteur;casque de batteur;elmetto da battitore;slagmanshelm;棒球头盔;棒球安全帽;やきゅうのヘルメット;야구 헬멧;шлем бейсболиста
 711;wrestling mask;wrestling mask;Wrestlingmaske;máscara de lucha libre;máscara de lucha libre;masque de catch;masque de catch;maschera da wrestling;worstelaarsmasker;职业摔角面具;職業摔角面具;プロレスのマスク;프로 레슬링 마스크;маска рестлера
-712;hot-dog hood;hot-dog hood;Hotdog-Kapuze;capucha salchicha;capucha salchicha;capuche saucisse;capuche saucisse;berretto hot dog;hotdogmuts;热狗头套;熱狗頭套;ホットドッグマスク;핫도그 마스크;шапка «хот-дог»
+712;hot-dog hood;hot-dog hood;Hotdog-Kapuze;capucha salchicha;capucha salchicha;capuche saucisse;capuche saucisse;berretto hot dog;hotdogmuts;热狗头套;熱狗頭套;ホットドッグマスク;핫도그 마스크;шапка «Хот-дог»
 713;knit cap with earflaps;knit cap with earflaps;Ohrenwärmer-Strickmütze;gorro de punto con orejeras;gorro tejido con orejas;bonnet cache-oreilles tricot;bonnet cache-oreilles tricot;cappello con paraorecchi;gebreide flapmuts;耳罩针织帽;耳罩針織帽;みみあてつきニット;귀마개 니트 모자;вязаная шапка с ушами
 717;space helmet;space helmet;Astronautenhelm;casco espacial;casco espacial;casque spatial;casque spatial;casco spaziale;ruimtehelm;宇航员头盔;太空人安全帽;アストロヘルメット;아스트로 헬멧;шлем космонавта
 718;paintball mask;paintball mask;Paintball-Maske;casco de paintball;casco de paintball;masque de paintball;masque de paintball;maschera da paintball;paintballmasker;漆弹面罩;漆彈面罩;ペイントボールマスク;페인트 볼 마스크;маска для пейнтбола
@@ -46,7 +46,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 829;matronly bun;matronly bun;Großmutterperücke;peluca señora mayor;peluca señora mayor;perruque de matrone;perruque de matrone;parrucca da matrona;omaknotpruik;丸子头;洋蔥頭;たまねぎヘアー;양파 머리;парик-кичка
 831;bun wig;bun wig;Doppel-Dutt;moño;moño;perruque beignet;perruque beigne;parrucca con chignon;knotjespruik;双丸子头;丸子頭;おだんごあたま;양갈래 머리;парик с чепцами
 832;DJ cap;DJ cap;DJ-Kappe;gorra de DJ;gorra de DJ;casque de DJ;casque de DJ;cappello con cuffie;dj-pet;头戴式耳机;頭戴式耳機;ヘッドホン;헤드폰;кепка диджея
-833;gothic headdress;gothic headdress;Gothic-Kopfputz;peluca con tocado;peluca con tocado;chevelure gothique;chevelure gothique;copricapo gotico;gothic haarband;头饰;頭飾;ヘッドドレス;헤드드레스;парик с аксессуаром
+833;gothic headdress;gothic headdress;Gothic-Kopfputz;peluca con tocado;peluca con tocado;chevelure gothique;chevelure gothique;copricapo gotico;victoriaanse haarband;头饰;頭飾;ヘッドドレス;헤드드레스;парик с аксессуаром
 834;veil;veil;1001-Nacht-Schleier;velo princesa desierto;velo princesa desierto;voile princesse du désert;voile princesse du désert;velo da mille e una notte;woestijnprinsessensluier;面纱;面紗;ベール;베일;парик с вуалью
 836;geisha wig;geisha wig;Geishaperücke;peluca de geisha;peluca de geisha;coiffe de geisha;coiffe de geisha;parrucca da geisha;geishapruik;艺伎假发;藝妓假髮;ゲイシャさん;게이샤 머리;парик гейши
 837;composer's wig;composer's wig;Komponistenperücke;pelucón;pelucón;perruque de compositeur;perruque de compositeur;parrucca da musicista;componistenpruik;音乐家假发;音樂家假髮;おんがくかのかつら;음악가 가발;парик композитора

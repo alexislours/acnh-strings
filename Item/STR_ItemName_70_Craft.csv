@@ -3,8 +3,8 @@ AutumnLeaf_07374;maple leaf;maple leaf;Herbstblatt;hoja de arce;hoja de arce;feu
 AutumnLeaf_07374_pl;maple leaves;maple leaves;Herbstblätter;hojas de arce;hojas de arce;feuilles d'érable;feuilles d'érable;foglie d'acero;esdoornbladeren;红叶;楓葉;もみじのはっぱ;단풍잎;кленовые листья
 CraftMaterial_02500;tree branch;tree branch;Ast;rama;rama;branche d'arbre;branche d'arbre;ramo;tak;树枝;樹枝;きのえだ;나뭇가지;ветка
 CraftMaterial_02500_pl;tree branches;tree branches;Äste;ramas;ramas;branches d'arbre;branches d'arbre;rami;takken;树枝;樹枝;きのえだ;나뭇가지;ветки
-CraftMaterial_02501;bamboo piece;bamboo piece;Bambus;caña de bambú;caña de bambú;morceau de bambou;morceau de bambou;pezzo di bambù;bamboestok;竹子材料;竹子;バンブー;대나무 토막;часть бамбука
-CraftMaterial_02501_pl;bamboo pieces;bamboo pieces;Bambus;cañas de bambú;cañas de bambú;morceaux de bambou;morceaux de bambou;pezzi di bambù;bamboestokken;竹子材料;竹子;バンブー;대나무 토막;части бамбука
+CraftMaterial_02501;bamboo piece;bamboo piece;Bambus;tallo de bambú;tallo de bambú;morceau de bambou;morceau de bambou;pezzo di bambù;bamboestok;竹子材料;竹子材料;バンブー;대나무 토막;часть бамбука
+CraftMaterial_02501_pl;bamboo pieces;bamboo pieces;Bambus;tallos de bambú;tallos de bambú;morceaux de bambou;morceaux de bambou;pezzi di bambù;bamboestokken;竹子材料;竹子材料;バンブー;대나무 토막;части бамбука
 CraftMaterial_02767;softwood;softwood;Weichholz;tabla flexible;tabla flexible;bois tendre;bois tendre;legno morbido;zachthout;软木材;軟木材;やわらかいもくざい;부드러운 목재;мягкая древесина
 CraftMaterial_02767_pl;softwood;softwood;Weichholz;tablas flexibles;tablas flexibles;bois tendre;bois tendre;legna morbida;zachthout;软木材;軟木材;やわらかいもくざい;부드러운 목재;мягкая древесина
 CraftMaterial_02768;wood;wood;Holz;tabla normal;tabla normal;bois;bois;legno normale;hout;木材;木材;もくざい;목재;древесина
@@ -13,17 +13,17 @@ CraftMaterial_02769;hardwood;hardwood;Hartholz;tabla rígida;tabla rígida;bois 
 CraftMaterial_02769_pl;hardwood;hardwood;Hartholz;tablas rígidas;tablas rígidas;bois dur;bois dur;legna dura;hardhout;硬木材;硬木材;かたいもくざい;단단한 목재;твердая древесина
 CraftMaterial_05727;acorn;acorn;Eichel;bellota;bellota;gland;gland;ghianda;eikel;橡栗;橡栗;どんぐり;도토리;желудь
 CraftMaterial_05727_pl;acorns;acorns;Eicheln;bellotas;bellotas;glands;glands;ghiande;eikels;橡栗;橡栗;どんぐり;도토리;желуди
-CraftMaterial_05728;pinecone;pinecone;Zapfen;piña;piña;pomme de pin;pomme de pin;pigna;dennenappel;松果;松果;まつぼっくり;솔방울;шишка
-CraftMaterial_05728_pl;pinecones;pinecones;Zapfen;piñas;piñas;pommes de pin;pommes de pin;pigne;dennenappels;松果;松果;まつぼっくり;솔방울;шишки
-CraftMaterial_05729;young spring bamboo;young spring bamboo;Frühlingsbambus;tallo de bambú;tallo de bambú;jeune bambou printemps;jeune bambou printemps;bambù giovane primavera;jonge lentebamboe;春笋;春筍;はるのわかたけ;봄의 대나무;весенний бамбук
-CraftMaterial_05729_pl;young spring bamboo;young spring bamboo;Frühlingsbambus;tallos de bambú;tallos de bambú;jeunes bambous printemps;jeunes bambous printemps;bambù giovani primavera;jonge lentebamboe;春笋;春筍;はるのわかたけ;봄의 대나무;весенний бамбук
+CraftMaterial_05728;pine cone;pine cone;Zapfen;piña;piña;pomme de pin;pomme de pin;pigna;dennenappel;松果;松果;まつぼっくり;솔방울;шишка
+CraftMaterial_05728_pl;pine cones;pine cones;Zapfen;piñas;piñas;pommes de pin;pommes de pin;pigne;dennenappels;松果;松果;まつぼっくり;솔방울;шишки
+CraftMaterial_05729;young spring bamboo;young spring bamboo;Frühlingsbambus;tallo de bambú primaveral;tallo de bambú primaveral;jeune bambou printemps;jeune bambou printemps;bambù giovane primavera;jonge lentebamboe;春笋;春筍;はるのわかたけ;봄의 대나무;весенний бамбук
+CraftMaterial_05729_pl;young spring bamboo;young spring bamboo;Frühlingsbambus;tallos de bambú primaveral;tallos de bambú primaveral;jeunes bambous printemps;jeunes bambous printemps;bambù giovani primavera;jonge lentebamboe;春笋;春筍;はるのわかたけ;봄의 대나무;весенний бамбук
 CraftMaterial_05730;red ornament;red ornament;Rotschmuck;adorno rojo;adorno rojo;boule rouge;boule rouge;decorazione rossa;rode versiering;红色装饰品;紅色裝飾品;あかいオーナメント;빨간 오너먼트;красное украшение
 CraftMaterial_05730_pl;red ornaments;red ornaments;Rotschmuck;adornos rojos;adornos rojos;boules rouges;boules rouges;decorazioni rosse;rode versieringen;红色装饰品;紅色裝飾品;あかいオーナメント;빨간 오너먼트;красные украшения
 CraftMaterial_05731;blue ornament;blue ornament;Blauschmuck;adorno azul;adorno azul;boule bleue;boule bleue;decorazione blu;blauwe versiering;蓝色装饰品;藍色裝飾品;あおいオーナメント;파란 오너먼트;синее украшение
 CraftMaterial_05731_pl;blue ornaments;blue ornaments;Blauschmuck;adornos azules;adornos azules;boules bleues;boules bleues;decorazioni blu;blauwe versieringen;蓝色装饰品;藍色裝飾品;あおいオーナメント;파란 오너먼트;синие украшения
 CraftMaterial_05732;gold ornament;gold ornament;Goldschmuck;adorno dorado;adorno dorado;boule dorée;boule dorée;decorazione dorata;gouden versiering;金色装饰品;金色裝飾品;きんのオーナメント;금 오너먼트;золотое украшение
 CraftMaterial_05732_pl;gold ornaments;gold ornaments;Goldschmuck;adornos dorados;adornos dorados;boules dorées;boules dorées;decorazioni dorate;gouden versieringen;金色装饰品;金色裝飾品;きんのオーナメント;금 오너먼트;золотые украшения
-CraftPhoneCase_08760;phone case;phone case;Smartphone-Hülle;funda para móvil;funda de teléfono;coque de smartphone;coque de cellulaire;custodia per smartphone;telefoonhoesje;手机壳;手機殼;スマホケース;스마트폰 케이스;футляр для смартфона
+CraftPhoneCase_08760;customizable phone case kit;customizable phone case kit;NookPhone-Gestaltungskit;funda móvil personalizable;kit de funda personalizable;kit coque personnalisable;kit coque personnalisable;kit personaliz. Nook Phone;NookPhone-hoesje;手机壳改造工具组;手機殼改造工具組;スマホケースリメイクキット;스마트폰 케이스 리폼 키트;набор: переделка чехла
 CraftRemake_02513;customization kit;customization kit;Umgestaltungsset;kit de personalización;kit de personalización;kit de personnalisation;kit de personnalisation;kit di personalizzazione;aanpassingspakket;改造工具组;改造工具組;リメイクキット;리폼 키트;набор для переделки
 CraftRemake_02513_pl;customization kits;customization kits;Umgestaltungssets;kits de personalización;kits de personalización;kits de personnalisation;kits de personnalisation;kit di personalizzazione;aanpassingspakketten;改造工具组;改造工具組;リメイクキット;리폼 키트;наборы для переделки
 Ore_02502;stone;stone;Stein;piedra;piedra;pierre;pierre;pietra;steen;石头;石頭;いし;돌;камень

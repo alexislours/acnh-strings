@@ -1,20 +1,20 @@
 label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);Italian;Dutch;Chinese;Chinese (Traditional);Japanese;Korean;Russian
-002;stone;stone;Stein;piedra;piedra;pierre;pierre;pietra;Steen;石头;石頭;いし;돌;Камень
-003;office;office;Büro;oficina;oficina;pro;pro;ufficio;Kantoor;办公室;辦公室;オフィス;오피스;Офис
-004;writing;writing;Autor;aprendizaje;aprendizaje;études;études;studio;Schrijvers;学习;學習;がくしゅう;학습;Письменность
-005;lecture hall;lecture hall;Hörsaal;aula;aula;amphi;salle de lecture;aula;Collegezaal;大讲堂;大講堂;こうぎしつ;강의실;Аудитория
-006;den;den;Arbeitszimmer;notario;notario;ministre;ministre;presidente;Notaris;书房;書房;しょさい;서재;Кабинет
-007;birthday;birthday;Geburtstag;cumpleaños;cumpleaños;anniversaire;fête;compleanno;Verjaardag;生日;生日;バースデー;생일;Именины
-008;apple;apple;Apfel;manzana;manzana;pomme;pomme;mela;Appel;苹果;蘋果;リンゴ;사과;Яблоко
-009;peach;peach;Pfirsich;melocotón;durazno;pêche;pêche;pesca;Perzik;桃子;桃子;モモ;복숭아;Персик
-010;cherry;cherry;Kirsch;cereza;cereza;cerise;cerise;ciliegia;Kersen;樱桃;櫻桃;さくらんぼ;체리;Вишня
-011;orange;orange;Orange;naranja;naranja;orange;orange;arancia;Sinaasappel;橘子;橘子;オレンジ;오렌지;Апельсин
-012;pear;pear;Birne;pera;pera;poire;poire;pera;Peer;梨子;梨子;ナシ;배;Груша
-013;school;school;Schule;escuela;escuela;école;école;scuola;School;学校;學校;がっこう;학교;Школа
-014;imperial dining;imperial dining;Fernost;restaurante oriental;restaurante oriental;restaurant chinois;impérial;ristorante cinese;Keizerlijk eten;中华;中華;ちゅうか;중국풍;Обед в азиатском стиле
-015;panda;panda;Panda;panda;panda;panda;panda;panda;Panda;熊猫;熊貓;パンダ;판다;Панды
-016;bear;bear;Bär;osito;osito;ours;ours;orso;Beer;熊;熊;クマ;곰;Медведи
-017;standee;standee;Aufsteller;atrezo;utilería;décor en carton;décor en carton;sagoma;Papieren decoratie;纸扎;佈景板;ハリボテ;종이 공예;Бутафория
-018;natural;natural;Natur;pino;pino;naturelle;naturelle;naturale;Natuurlijk;自然;自然;ナチュラル;내추럴;Обычный садовый
-019;pet;pet;Haustier;mascota;mascota;animal;animal;animali;Huisdier;宠物;寵物;ペット;펫;Все для питомца
-020;sports ring;sports ring;Boxring;ring de boxeo;ring de boxeo;ring de boxe;ring de boxe;ring da boxe;Boxring;圆环;圓環;リング;링;Ринг
+002;stone;stone;Stein;piedra;piedra;pierre;pierre;pietra;stenen set;石头;石頭;いし;돌;Камень
+003;office;office;Büro;oficina;oficina;pro;pro;ufficio;kantoorset;办公室;辦公室;オフィス;오피스;Офис
+004;writing;writing;Lernen;aprendizaje;aprendizaje;études;études;studio;huiswerkset;学习;學習;がくしゅう;학습;Письменность
+005;lecture hall;lecture hall;Hörsaal;aula;aula;amphi;salle de lecture;aula;collegezaalset;大讲堂;大講堂;こうぎしつ;강의실;Аудитория
+006;den;den;Studierzimmer;notario;notario;ministre;ministre;presidente;notarisset;书房;書房;しょさい;서재;Кабинет
+007;birthday;birthday;Geburtstag;cumpleaños;cumpleaños;anniversaire;fête;compleanno;verjaardagsset;生日;生日;バースデー;생일;Именины
+008;apple;apple;Apfel;manzana;manzana;pomme;pomme;mela;appelset;苹果;蘋果;リンゴ;사과;Яблоко
+009;peach;peach;Pfirsich;melocotón;durazno;pêche;pêche;pesca;perzikset;桃子;桃子;モモ;복숭아;Персик
+010;cherry;cherry;Kirsch;cereza;cereza;cerise;cerise;ciliegia;kersenset;樱桃;櫻桃;さくらんぼ;체리;Вишня
+011;orange;orange;Orange;naranja;naranja;orange;orange;arancia;sinaasappelset;橘子;橘子;オレンジ;오렌지;Апельсин
+012;pear;pear;Birne;pera;pera;poire;poire;pera;perenset;梨子;梨子;ナシ;배;Груша
+013;school;school;Schule;escuela;escuela;école;école;scuola;schoolset;学校;學校;がっこう;학교;Школа
+014;imperial dining;imperial dining;Asia-Restaurant;restaurante oriental;restaurante oriental;restaurant chinois;impérial;ristorante cinese;keizerlijke eetset;中华;中華;ちゅうか;중국풍;Обед в азиатском стиле
+015;panda;panda;Panda;panda;panda;panda;panda;panda;pandaset;熊猫;熊貓;パンダ;판다;Панды
+016;bear;bear;Bär;osito;osito;ours;ours;orso;berenset;熊;熊;クマ;곰;Медведи
+017;standee;standee;Pappaufsteller;atrezo;utilería;décor en carton;décor en carton;sagoma;kartonnen decoratieset;纸扎;佈景板;ハリボテ;종이 공예;Бутафория
+018;natural;natural;Funktional;madera natural;madera natural;naturelle;naturelle;naturale;natuurlijke set;自然;自然;ナチュラル;내추럴;Обычный садовый
+019;pet;pet;Haustier;mascota;mascota;animal;animal;animali;huisdierenset;宠物;寵物;ペット;펫;Все для питомца
+020;sports ring;sports ring;Boxring;ring de boxeo;ring de boxeo;ring de boxe;ring de boxe;ring da boxe;boksringset;圆环;圓環;リング;링;Ринг

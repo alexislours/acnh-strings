@@ -8,14 +8,14 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 022;three-ball tee;three-ball tee;3er-Shirt;camiseta bola 3;camiseta bola 3;t-⁠shirt nº 3;t-⁠shirt nº 3;maglietta palla 3;3-⁠bal-T-⁠shirt;3号球上衣;3號球衣服;３ばんだまのふく;3번공 옷;футболка «3»
 023;two-ball tee;two-ball tee;2er-Shirt;camiseta bola 2;camiseta bola 2;t-⁠shirt nº 2;t-⁠shirt nº 2;maglietta palla 2;2-⁠bal-T-⁠shirt;2号球上衣;2號球衣服;２ばんだまのふく;2번공 옷;футболка «2»
 025;layered tank;layered tank;Lagentop;top con volantes;top con volados;débardeur à volants;camisole à volants;canotta a strati;laagjeshemdje;简约波浪边细肩带背心;簡約荷葉邊細肩帶背心;シンプルフリルキャミソール;심플 프릴 캐미솔;многослойный топ
-026;silk shirt;silk shirt;Asia-Hemd;blusa de seda;blusa de seda;veste chinoise;manteau de soie;giacca cinese;zijden shirt;中国风上衣;中華風衣服;チャイナふく;중국풍 옷;шелковая рубашка
+026;silk shirt;silk shirt;Asia-Hemd;blusa de seda;blusa de seda;veste chinoise;manteau de soie;giacca di seta;zijden shirt;中国风上衣;中華風衣服;チャイナふく;중국풍 옷;шелковая рубашка
 027;raglan tee;raglan tee;Raglan-Shirt;camiseta manga raglán;camiseta manga raglán;t-⁠shirt raglan;t-⁠shirt raglan;maglietta raglan;raglanshirt;插肩T恤;插肩T恤;ラグランＴシャツ;래글런 티셔츠;лонгслив реглан
 033;basketball tank;basketball tank;Basketballtrikot;top básquet;top básquet;débardeur basketball;camisole de basketball;canotta da basket;basketbalshirt;篮球衣;籃球衣;バスケシャツ;농구복 상의;баскетбольный топ
 035;hand-knit tank;hand-knit tank;Stricktop;chaleco de punto;chaleco tejido;débardeur tricoté main;débardeur tricoté main;maglione smanicato;handgebreide tanktop;无袖针织衫;無袖針織衫;ノースリーブのニット;민소매 니트;вязаный топ
 037;down jacket;down jacket;Thermojacke;chaqueta acolchada;abrigo acolchado;doudoune;doudoune;piumino;gewatteerde jas;羽绒外套;羽絨外套;ダウンジャケット;다운재킷;пуховая куртка
-040;dress shirt;dress shirt;Anzughemd;camisa de vestir;camisa de vestir;chemise habillée;chemise habillée;camicia elegante;overhemd;衬衫;襯衫;ワイシャツ;와이셔츠;классическая рубашка
+040;dress shirt;dress shirt;Anzughemd;camisa de vestir;camisa de vestir;chemise habillée;chemise habillée;camicia classica;net overhemd;衬衫;襯衫;ワイシャツ;와이셔츠;классическая рубашка
 042;sailor's tee;sailor's tee;Marineshirt;camiseta marinera;camiseta marinera;t-⁠shirt matelot;t-⁠shirt matelot;maglietta da marinaio;matrozenshirt;短袖水手服;短袖水手服;はんそでセーラーふく;세일러복;майка моряка
-043;simple parka;simple parka;Kapuzenpulli;sudadera informal;sudadera informal;sweat à capuche simple;coton ouaté simple;felpa semplice;hoody;简约连帽上衣;簡約連帽上衣;シンプルなパーカー;심플한 파카;простая толстовка
+043;simple parka;simple parka;Kapuzenpulli;sudadera con capucha;sudadera con capucha;sweat à capuche simple;coton ouaté simple;felpa semplice;hoody;简约连帽上衣;簡約連帽上衣;シンプルなパーカー;심플한 파카;простая толстовка
 044;kids' smock;kids' smock;Malkittel;jersey parvulario;bata de kínder;blouse enfant;blouse enfant;maglia da scolaro;kinderjakje;儿童罩衣;兒童罩衣;スモック;유치원생 옷;детская кофточка
 056;graduation gown;graduation gown;Uni-Robe;túnica graduación;túnica graduación;tenue remise de diplôme;tenue remise de diplôme;toga da laurea;afstudeertoga;学士服;學士服;がくしのふく;학사 가운;одеяние магистра
 059;short-sleeve dress shirt;short-sleeve dress shirt;Kurzarmhemd;camisa de manga corta;camisa de manga corta;chemisette habillée;chemisette habillée;camicia a maniche corte;kortemouwenoverhemd;短袖衬衫;短袖襯衫;はんそでワイシャツ;반팔 와이셔츠;легкая рубашка
@@ -23,30 +23,30 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 064;hanten jacket;hanten jacket;Hanten-Jacke;bata de invierno gruesa;bata de invierno gruesa;veste hanten;gilet hanten;giacca hanten;hanten-jas;和服外套;日式棉襖外套;はんてん;방한복;куртка хантен
 070;raincoat;raincoat;Regenmantel;impermeable;impermeable;imperméable;imperméable;impermeabile;regenjas;雨衣;雨衣;レインコート;우비;дождевик
 071;noble coat;noble coat;Adelsrobe;casaca nobiliaria;casaca nobiliaria;redingote;redingote;redingote;aristocratenjas;贵族大衣;貴族大衣;きぞくのコート;귀족 코트;сюртук вельможи
-072;polo shirt;polo shirt;Polohemd;polo de dependiente;camiseta polo;polo;polo;polo;poloshirt;Polo衫;Polo衫;ポロシャツ;폴로 셔츠;поло
+072;polo shirt;polo shirt;Polohemd;polo de dependiente;camiseta polo;polo;polo;polo;poloshirt;Polo衫;Polo衫;ポロシャツ;폴로 셔츠;тенниска
 073;doctor's coat;doctor's coat;Arztkittel;bata médica;bata médica;blouse de docteur;sarrau;camice da medico;doktersjas;医生袍;醫生袍;はくい;백의;халат врача
-074;chef's outfit;chef's outfit;Koch-Outfit;uniforme de chef;uniforme de chef;tenue de chef;tenue de chef;divisa da cuoco;koksoutfit;厨师服;廚師衣服;コックさんのふく;요리사 옷;одежда повара
-075;café uniform;café uniform;Kellnerkleidung;uniforme de camarero;uniforme de camarero;tenue de barista;tenue de barista;gilet da barista;kelnersoutfit;咖啡店制服;咖啡店制服;カフェのせいふく;카페 유니폼;форма официанта
+074;chef's outfit;chef's outfit;Koch-Outfit;uniforme de chef;uniforme de chef;tenue de chef;tenue de chef;divisa da cuoco;koksbuis;厨师服;廚師衣服;コックさんのふく;요리사 옷;одежда повара
+075;café uniform;café uniform;Kellnerkleidung;uniforme de camarero;uniforme de camarero;tenue de barista;tenue de barista;gilet da barista;kelnersgilet;咖啡店制服;咖啡店制服;カフェのせいふく;카페 유니폼;форма официанта
 076;gym tee;gym tee;Gymnastikshirt;camiseta sport;camiseta sport;t-⁠shirt sport;t-⁠shirt sport;maglietta sportiva;gymnastiekshirt;体操服;體操服;たいそうふく;체육복;спортивная футболка
 077;tank;tank;Tanktop;top básico;top básico;débardeur;camisole;canotta;tanktop;坦克背心;坦克背心;タンクトップ;탱크톱;топ
 078;comedian's outfit;comedian's outfit;Komikerjacke;chaqueta de humorista;saco de humorista;tenue de comique;tenue d'humoriste;giacca da umorista;komiekenjasje;喜剧演员服;諧星衣服;コメディアンなふく;코미디언 옷;пиджак юмориста
 079;biker jacket;biker jacket;Bikerjacke;chaqueta rock;chamarra rock;veste de motard;manteau de motard;giacca da motociclista;motorjack;机车皮外套;騎士皮外套;ライダースジャケット;라이더 재킷;косуха
 080;garden tank;garden tank;Gartentop;top flores;top flores;débardeur jardin;camisole jardin;canotta millefiori;gebloemd hemdje;花朵图案细肩带背心;花紋圖案細肩帶背心;はながらのプリントキャミ;꽃무늬 캐미솔;летний топ
 081;denim jacket;denim jacket;Bluejeansjacke;chaqueta vaquera;chamarra de jean;veste en jean;manteau en jean;giacca di jeans;spijkerjasje;牛仔外套;牛仔外套;デニムジャケット;데님 재킷;джинсовая куртка
-082;rubber apron;rubber apron;Kunststoffschürze;delantal rígido;delantal rígido;tablier caoutchouc;tablier caoutchouc;grembiule di gomma;rubberen schort;橡胶围裙;橡膠圍裙;ゴムエプロン;고무 앞치마;резиновый фартук
+082;rubber apron;rubber apron;Kunststoffschürze;delantal rígido;delantal rígido;tablier caoutchouc;tablier caoutchouc;grembiule di gomma;rubber schort;橡胶围裙;橡膠圍裙;ゴムエプロン;고무 앞치마;резиновый фартук
 083;fishing vest;fishing vest;Angelweste;chaleco de pesca;chaleco de pesca;veste de pêcheur;veste de pêcheur;giubbotto da pesca;vissersvest;钓鱼背心;釣魚背心;つりジャケット;낚시 재킷;жилет рыбака
 084;faux-shearling coat;faux-shearling coat;Kunstfelljacke;trenca sherpa;abrigo piel sintética;manteau fourré;manteau fourré;giacca di finto montone;winterjas;麂皮大衣;麂皮大衣;ムートンコート;양가죽 코트;пальто «под овчину»
 085;flannel shirt;flannel shirt;Flanellhemd;camisa de franela;camisa de franela;chemise en flanelle;gilet en flanelle;camicia di flanella;houthakkershemd;法兰绒衬衫;法蘭絨襯衫;ネルシャツ;플란넬 셔츠;шотландка
 086;denim vest;denim vest;Jeansweste;chaleco vaquero;chaleco de jean;veston en jean;veste en jean;gilet di jeans;mouwloos spijkerjasje;牛仔背心;牛仔背心;そでなしＧジャン;민소매 데님 재킷;джинсовый жилет
 087;apron;apron;Kittelschürze;delantal;delantal;tablier;tablier;grembiule;schort;围裙;圍裙;エプロン;앞치마;фартук
-088;military uniform;military uniform;Militärjacke;chaqueta militar;uniforme militar;veste militaire;manteau militaire;giacca militare;paleiswachtersuniform;骑兵队制服;騎兵隊衣服;へいたいのふく;군인 옷;военная форма
+088;military uniform;military uniform;Militärjacke;chaqueta militar;uniforme militar;veste militaire;manteau militaire;giacca militare;paleiswachtersjas;骑兵队制服;騎兵隊衣服;へいたいのふく;군인 옷;военная форма
 090;cavalier shirt;cavalier shirt;Edelmann-Hemd;jersey de mosquetero;suéter mosquetero;tenue de mousquetaire;tenue de mousquetaire;giubba da moschettiere;musketierstuniek;候补骑士服;騎士衣服;じゅうきしのふく;기사 옷;форма кавалериста
 091;pineapple aloha shirt;pineapple aloha shirt;Ananas-Hawaiihemd;camisa aloha piñas;camisa aloha piñas;chemisette Hawaï ananas;chemise aloha ananas;camicia aloha con ananas;ananas-hawaïshirt;凤梨夏威夷衬衫;鳳梨圖案夏威夷襯衫;パインがらアロハシャツ;파인애플 알로하 셔츠;ананасная гавайка
 092;lacy tank;lacy tank;Spitzentop;top encaje;top encaje;débardeur en mousseline;camisole en mousseline;canotta merlettata;kanten hemdje;蕾丝细肩带背心;蕾絲細肩帶背心;レースのキャミソール;레이스 캐미솔;легкий топ
 093;athletic jacket;athletic jacket;Sportjacke;sudadera sport;sudadera sport;veste survêt;haut de sport;maglia da jogging;atletiekjasje;运动服;運動服;ジャージ;트레이닝복;спортивная куртка
 094;western shirt;western shirt;Western-Hemd;jersey de vaquero;camisa de vaquero;chemise western;gilet western;camicia da cowboy;westernshirt;西部牛仔装;西部牛仔衣服;ウェスタンなふく;웨스턴풍 옷;рубашка из вестерна
-095;relay tank;relay tank;Staffellauf-Top;top maratón;top maratón;débardeur marathon;camisole marathon;canotta da maratona;hardloopshirt;接力赛服;接力賽衣服;えきでんなふく;마라토너 옷;эстафетный топ
-096;silk floral-print shirt;silk floral-print shirt;Asia-Bluse;camiseta de seda;camiseta flores;chemisette chinoise;chemisette florale de soie;maglietta cinese;zijden kortemouwenshirt;短袖中国风上衣;短袖中華風衣服;はんそでチャイナふく;중국풍 반팔 옷;легкая шелковая рубашка
+095;relay tank;relay tank;Staffellauf-Top;top maratón;top maratón;débardeur marathon;camisole marathon;canotta da maratona;marathonshirt;接力赛服;接力賽衣服;えきでんなふく;마라토너 옷;эстафетный топ
+096;silk floral-print shirt;silk floral-print shirt;Asia-Bluse;camiseta de seda exótica;camiseta flores;chemisette chinoise;chemisette florale de soie;maglietta di seta esotica;gebloemd zijden shirt;短袖中国风上衣;短袖中華風衣服;はんそでチャイナふく;중국풍 반팔 옷;легкая шелковая рубашка
 097;soccer-uniform top;soccer-uniform top;Fußballtrikot;camiseta equipo de fútbol;camiseta equipo de fútbol;maillot de foot;chandail de soccer;maglietta da calcio;voetbalshirt;足球队服;足球隊服;サッカーのユニフォーム;축구 유니폼;футболка
 098;tiger jacket;tiger jacket;Tigerjacke;cazadora tigre;chamarra tigre;veste tigre;manteau tigre;giacca tigre;tijgerjasje;虎纹飞行外套;虎紋飛行外套;トラのスカジャン;호랑이 점퍼;куртка с тигром
 099;happi tee;happi tee;Happi-Jacke;chaqueta festival;camisa festival;happi;happi;maglietta da festa;happi-jasje;祭典和服;祭典和服;はっぴ;일본풍 축제 가운;кимоно хаппи
@@ -70,7 +70,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1032;simple-dots tee;simple-dots tee;Unipünktchenshirt;camiseta topos;camiseta a lunares;t-⁠shirt à pois simples;t-⁠shirt à pois simples;maglietta a pois semplici;T-⁠shirt met stippen;简约波点T恤;簡約點點T恤;シンプルドットのＴシャツ;심플 도트 티셔츠;футболка в горох
 1033;zigzag shirt;zigzag shirt;Zickzackpulli;jersey zigzag;suéter zigzag;pull zigzag;pull zigzag;maglietta zigzag;kartelshirt;锯齿纹T恤;鋸齒紋T恤;ギザギザのＴシャツ;뾰족뾰족 티셔츠;лонгслив с зигзагом
 1034;blossom tee;blossom tee;Blumenshirt;camiseta florida;camiseta florida;t-⁠shirt à imprimé floral;t-⁠shirt fleuri;maglietta floreale;T-⁠shirt met bloemopdruk;花朵T恤;花紋T恤;はながらのＴシャツ;꽃무늬 티셔츠;футболка в цветочек
-1035;bold aloha shirt;bold aloha shirt;Aloha-Hemd;camisa aloha polinesia;camisa aloha polinesia;chemise aloha;chemise aloha;camicia aloha sgargiante;bontgekleurd hawaïshirt;波利尼西亚夏威夷衬衫;玻里尼西亞夏威夷襯衫;ポリネシアンなアロハ;폴리네시안 알로하셔츠;полинезийская гавайка
+1035;bold aloha shirt;bold aloha shirt;Aloha-Hemd;camisa aloha polinesia;camisa aloha polinesia;chemise aloha;chemise aloha;camicia aloha sgargiante;bontgekleurd hawaïshirt;波利尼西亚夏威夷衬衫;玻里尼西亞夏威夷襯衫;ポリネシアンなアロハ;폴리네시안 알로하셔츠;цветастая гавайка
 1036;spider-web tee;spider-web tee;Spinnwebenshirt;camiseta telaraña;camiseta telaraña;t-⁠shirt toile d'araignée;t-⁠shirt toile d'araignée;maglietta ragnatela;spinnenweb-T-⁠shirt;蜘蛛网T恤;蜘蛛T恤;スパイダーなＴシャツ;스파이더 티셔츠;футболка с паутиной
 1037;skull tee;skull tee;Schädelshirt;camiseta calavera;camiseta calavera;t-⁠shirt crâne;t-⁠shirt crâne;maglietta teschio;schedel-T-⁠shirt;骷髅T恤;骷髏T恤;ドクロＴシャツ;해골 티셔츠;футболка с черепом
 1038;A tee;A tee;A-Shirt;camiseta A;camiseta A;t-⁠shirt A;t-⁠shirt A;maglietta A;A-⁠shirt;A字T恤;A字T恤;エースのＴシャツ;에이스 티셔츠;футболка «А»
@@ -91,9 +91,9 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 108;flashy jacket;flashy jacket;Imponierblazer;chaqueta cruzada llamativa;saco cruzado llamativo;veste tape-à-l'œil;manteau tape-à-l'œil;giacchetta vistosa;glanzend jasje;华丽外套;鮮艷外套;ハデなジャケット;화려한 재킷;броский пиджак
 1081;work apron;work apron;Arbeitsschürze;delantal de trabajo;delantal de trabajo;tablier de travail;tablier de travail;grembiule da lavoro;werkschort;工作围裙;工作圍裙;ワークエプロン;작업용 앞치마;рабочий фартук
 1082;botanical tee;botanical tee;Botanik-Shirt;camiseta jardín botánico;camiseta jardín botánico;t-shirt botanique;t-shirt botanique;maglietta botanica;tropisch T-shirt;植物图案T恤;植物圖案T恤;ボタニカルＴシャツ;보타니컬 티셔츠;ботаническая футболка
-1083;groovy shirt;groovy shirt;Hippie-Hemd;camisa psicodelia;camisa psicodelia;chemise groovy;chemise groovy;maglia hippy;groovy overhemd;迷幻T恤;迷幻T恤;サイケデリックシャツ;사이키델릭 셔츠;хипповая рубашка
+1083;groovy shirt;groovy shirt;Hippie-Hemd;camisa psicodelia;camisa psicodelia;chemise groovy;chemise groovy;maglia hippy;groovy overhemd;迷幻T恤;迷幻T恤;サイケデリックシャツ;사이키델릭 셔츠;экстравагантная рубашка
 109;work shirt;work shirt;Bürohemd;camisa con corbata;camisa con corbata;chemise de bureau;chemise bureau;camicia da ufficio;kantooroverhemd;配领带衬衫;領帶配襯衫;ネクタイつきワイシャツ;넥타이&와이셔츠;офисная рубашка
-110;sushi chef's outfit;sushi chef's outfit;Sushikochjacke;chaqueta de chef de sushi;uniforme de chef sushi;tenue de chef sushi;tenue de chef sushi;giacca da chef di sushi;sushikoksuniform;日本料理厨师服;日本料理廚師衣服;いたまえのふく;일식 주방장 옷;одежда мастера суши
+110;sushi chef's outfit;sushi chef's outfit;Sushikochjacke;chaqueta de chef de sushi;uniforme de chef sushi;tenue de chef sushi;tenue de chef sushi;giacca da chef di sushi;sushikoksbuis;日本料理厨师服;日本料理廚師衣服;いたまえのふく;일식 주방장 옷;одежда мастера суши
 111;emblem blazer;emblem blazer;Blazer;americana;saco uniforme;blazer emblème;blazer emblème;giacca con stemma;blazer;制服外套;制服外套;ブレザー;블레이저;блейзер с эмблемой
 112;royal shirt;royal shirt;Königswams;jersey real;saco real;manteau royal;manteau royal;maglia reale;koninklijke mantel;国王服;國王衣服;おうさまのふく;임금님 옷;королевская мантия
 1126;Labelle knit shirt;Labelle knit shirt;Samthea-Jerseyhemd;camiseta de punto Trini;camiseta tejida Trini;t-shirt tricoté Maria;t-shirt tricoté Maria;maglietta Bice;gebreid Labelle-T-shirt;凯丝的针织衫;凱絲針織衫;ケイトのカットソー;케이트의 니트 티셔츠;вязаная майка «Лэйблеск»
@@ -123,6 +123,8 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1179;DAL tee;DAL tee;DAL-Shirt;camiseta de DAL;camiseta de DAL;t-shirt Dodo Airlines;t-shirt Dodo Airlines;maglietta DAL;DAL-T-shirt;DAL T恤;DAL T恤;ＤＡＬのＴシャツ;DAL 티셔츠;футболка DAL
 1180;DAL apron;DAL apron;DAL-Schürze;delantal de DAL;delantal de DAL;tablier Dodo Airlines;tablier Dodo Airlines;grembiule DAL;DAL-schort;DAL围裙;DAL圍裙;ＤＡＬエプロン;DAL 앞치마;фартук DAL
 1181;DAL pilot jacket;DAL pilot jacket;DAL-Pilotenjacke;chaqueta de piloto de DAL;chamarra comandante DAL;bomber Dodo Airlines;bomber Dodo Airlines;bomber da pilota DAL;DAL-pilotenjasje;DAL MA-1;DAL MA-1飛行外套;ＤＡＬのＭＡ‐１;DAL MA-1;бомбер DAL
+1193;OK Motors jacket;OK Motors jacket;OK-Motors-Shirt;camisa de OK Motors;camisa de OK Motors;uniforme OK Motors;chemisette OK Motors;giacchetta OK Motors;OK Motors-overhemd;OK车业夹克;OK車業外套;OKモータースジャケット;OK 모터즈 재킷;рубашка OK Motors
+1194;camper tee;camper tee;Camper-Shirt;camiseta de campista;camiseta de campista;t-shirt camping-car;t-shirt camping-car;maglietta da camperista;⁠kampeer-T-⁠shirt;露营车T恤;露營者T恤;キャンパーのTシャツ;캠퍼 티셔츠;футболка туриста
 130;color-block dress shirt;color-block dress shirt;Zweifarbenhemd;camisa bicolor;camisa bicolor;chemise bicolore;chemise bicolore;camicia bicolore;tweekleurig overhemd;撞色有领衬衫;撞色有領襯衫;ツートンのエリつきシャツ;투톤 셔츠;двуцветная рубашка
 131;one-ball tee;one-ball tee;1er-Shirt;camiseta bola 1;camiseta bola 1;t-⁠shirt nº 1;t-⁠shirt nº 1;maglietta palla 1;1-⁠bal-T-⁠shirt;1号球上衣;1號球衣服;１ばんだまのふく;1번공 옷;футболка «1»
 132;four-ball tee;four-ball tee;4er-Shirt;camiseta bola 4;camiseta bola 4;t-⁠shirt nº 4;t-⁠shirt nº 4;maglietta palla 4;4-⁠bal-T-⁠shirt;4号球上衣;4號球衣服;４ばんだまのふく;4번공 옷;футболка «4»
@@ -132,7 +134,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 136;eight-ball tee;eight-ball tee;8er-Shirt;camiseta bola 8;camiseta bola 8;t-⁠shirt nº 8;t-⁠shirt nº 8;maglietta palla 8;8-⁠bal-T-⁠shirt;8号球上衣;8號球衣服;８ばんだまのふく;8번공 옷;футболка «8»
 137;nine-ball tee;nine-ball tee;9er-Shirt;camiseta bola 9;camiseta bola 9;t-⁠shirt nº 9;t-⁠shirt nº 9;maglietta palla 9;9-⁠bal-T-⁠shirt;9号球上衣;9號球衣服;９ばんだまのふく;9번공 옷;футболка «9»
 138;sweater on shirt;sweater on shirt;Umhängepullover;camisa con jersey;camisa con suéter;pull distingué;gilet distingué;camicia precisina;blouse met omgeslagen trui;时髦上装;時髦衣服;トレンディーなふく;트렌디 옷;свитер на рубашке
-139;track jacket;track jacket;Aufwärmjacke;sudadera urbana;sudadera atletismo;veste survêt de sport;veste de survêtement;maglia da ginnastica;hardloopjack;健身运动服;健身運動服;スポーツジャージ;스포츠 트레이닝복;куртка для бега
+139;track jacket;track jacket;Aufwärmjacke;sudadera urbana;sudadera atletismo;veste survêt de sport;veste de survêtement;maglia da ginnastica;atletiekjack;健身运动服;健身運動服;スポーツジャージ;스포츠 트레이닝복;куртка для бега
 143;waistcoat;waistcoat;Weste mit Hemd;chaleco fino;chaleco fino;gilet de smoking;veste de smoking;gilet classico;gilet;配西装背心衬衫;西裝背心配襯衫;ベストつきワイシャツ;베스트&와이셔츠;жилет
 147;nurse's jacket;nurse's jacket;Klinikkittel;chaqueta auxiliar de clínica;bata de auxiliar de clínica;blouse d'infirmier;blouse d'infirmier;blusa da infermiere;verplegersjas;护士外套;護士外套;かんごしのジャケット;간호사 재킷;спецодежда медсестры
 151;striped tank;striped tank;Ringeltop;top rayas;top a rayas;débardeur rayé;camisole rayée;canotta a righe;gestreepte tanktop;粗横纹坦克背心;粗橫紋坦克背心;ボーダーのタンクトップ;줄무늬 탱크톱;полосатый топ
@@ -174,10 +176,10 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 249;young-royal shirt;young-royal shirt;Prinzenhemd;camisa de aristócrata;camisa de aristócrata;chemise princière;chemise princière;camicia principesca;koninklijk overhemd;王子衬衫;王子襯衫;おうじさまシャツ;왕자님 셔츠;королевская рубашка
 250;fitness tank;fitness tank;Fitness-Top;top gimnasio;top gimnasio;débardeur de fitness;camisole d'exercice;canotta da fitness;fitnesstanktop;健身坦克背心;運動坦克背心;フィットネスタンクトップ;피트니스 탱크톱;фитнес-топ
 251;flight jacket;flight jacket;Fliegerjacke;chaqueta de aviación;chamarra de aviación;veste d'aviation;veste d'aviation;giacca da aviatore;pilotenjack;飞行外套;飛行外套;フライトジャケット;항공 점퍼;летная куртка
-252;tie-dye shirt;tie-dye shirt;Schnurbatikshirt;camiseta teñida;camiseta teñida;t-⁠shirt spirale tie and dye;t-⁠shirt spirale tie and dye;maglietta batik;regenboogspiraalshirt;扎染T恤;紮染T恤;タイダイＴシャツ;타이다이 티셔츠;футболка-варенка
-253;fuzzy vest;fuzzy vest;Flauschweste;chaleco mullido;chaleco mullido;veston en polaire;veston en polar;gilet boa;pluizig gilet;绒毛背心;絨毛背心;ボアベスト;털 조끼;бархатный жилет
+252;tie-dye shirt;tie-dye shirt;Schnurbatikshirt;camiseta teñida;camiseta teñida;t-⁠shirt spirale tie and dye;t-⁠shirt spirale tie and dye;maglietta batik;tie-dye-shirt;扎染T恤;紮染T恤;タイダイＴシャツ;타이다이 티셔츠;футболка-варенка
+253;fuzzy vest;fuzzy vest;Flauschweste;chaleco mullido;chaleco mullido;veston en polaire;veston en polar;gilet boa;pluizig gilet;绒毛背心;絨毛背心;ボアベスト;털 조끼;ворсистый жилет
 254;quilted down jacket;quilted down jacket;Thermo-Steppjacke;abrigo acolchado;abrigo acolchonado;doudoune matelassée;doudoune matelassée;piumino trapuntato;dichte gewatteerde jas;菱格缝线羽绒外套;菱格縫線羽絨外套;キルティングダウン;퀼팅 점퍼;стеганый пуховик
-266;peasant blouse;peasant blouse;Landhausbluse;blusa campesina;blusa campesina;blouse campagnarde;blouse campagnarde;blusa bucolica;folkloristische blouse;民族风刺绣罩衫;民族風刺繡罩衫;ペザントブラウス;페전트 블라우스;сельская блузка
+266;peasant blouse;peasant blouse;Landhausbluse;blusa campesina;blusa campesina;blouse campagnarde;blouse campagnarde;blusa bucolica;plattelandsblouse;民族风刺绣罩衫;民族風刺繡罩衫;ペザントブラウス;페전트 블라우스;сельская блузка
 271;tube top;tube top;Bandeau-Top;top palabra de honor;top tubo;haut tube;haut tube;top a fascia;bandeautop;无肩带背心;無肩帶背心;チューブトップ;튜브탑;топ без бретелей
 281;muscle tank;muscle tank;Muskelshirt;top pesas;top pesas;marcel de muscu;camisole de musculation;canotta da palestra;sportieve tanktop;运动坦克背心;健身坦克背心;マッスルタンクトップ;머슬 탱크톱;топ культуриста
 284;striped tee;striped tee;Ringelshirt;camiseta rayas gruesas;camiseta rayas gruesas;t-⁠shirt à rayures;t-⁠shirt à rayures;maglietta a righe;gestreept T-shirt;短袖粗横纹T恤;短袖粗橫紋T恤;はんそでボーダーＴシャツ;반팔 줄무늬 티셔츠;полосатая футболка
@@ -192,19 +194,19 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 306;gold-print tee;gold-print tee;Goldprintshirt;camiseta GOLD;camiseta GOLD;t-⁠shirt GOLD;t-⁠shirt GOLD;maglietta logo GOLD;T-⁠shirt met goudprint;烫金图案T恤;燙金圖案T恤;ゴールドプリントＴシャツ;골드 프린트 티셔츠;футболка GOLD
 316;text shirt;text shirt;Textprintpulli;camiseta tipografía;camiseta tipografía;t-⁠shirt à texte;t-⁠shirt à texte;maglietta con scritte;shirt met tekstopdruk;英文字母T恤;英文字母T恤;えいじＴシャツ;영어 티셔츠;футболка с текстом
 319;hawk jacket;hawk jacket;Falkenjacke;cazadora halcón;chamarra halcón;veste faucon;manteau faucon;giacca falco;havikjasje;鹰纹飞行外套;鷹紋飛行外套;タカのスカジャン;매 점퍼;куртка с ястребом
-326;business suitcoat;business suitcoat;Business-Jackett;americana de negocios;saco de negocios;veste élégante;manteau élégant;giacca da impiegato;directeursjasje;西装;西裝;スーツ;정장;деловой пиджак
+326;business suitcoat;business suitcoat;Business-Jackett;americana de negocios;saco de negocios;veste sobre;manteau sobre;giacca da impiegato;directeursjasje;西装;西裝;スーツ;정장;деловой пиджак
 328;school jacket;school jacket;Streber-Schuljacke;chaqueta escolar;chamarra escolar;veste d'écolier;veston d'écolier;giacca da scolaro;schooljas;学生服;學生服;がくせいふく;학생복;куртка «На уроке»
 329;after-school jacket;after-school jacket;Rowdy-Schuljacke;chaqueta abierta;chamarra abierta;veste décontractée;manteau décontracté;giacca da scolaro aperta;openhangende schooljas;叛逆学生服;叛逆學生服;ヤンチャながくせいふく;불량한 학생복;куртка «На перемене»
 330;poncho coat;poncho coat;Ponchomantel;abrigo pompones;abrigo pompones;manteau poncho;manteau poncho;cappotto poncho;ponchojas;斗篷大衣;斗篷大衣;ポンチョコート;판초 코트;пальто-пончо
-337;vampire costume;vampire costume;Vampirkostüm;chaqué de vampiro;disfraz de vampiro;costume de vampire;costume de vampire;costume da vampiro;vampierkostuum;吸血鬼服;吸血鬼服;ヴァンパイアのふく;뱀파이어 옷;костюм вампира
+337;vampire costume;vampire costume;Vampirkostüm;chaqué de vampiro;disfraz de vampiro;costume de vampire;costume de vampire;costume da vampiro;vampierjacquet;吸血鬼服;吸血鬼服;ヴァンパイアのふく;뱀파이어 옷;костюм вампира
 341;bomber-style jacket;bomber-style jacket;Bomberjacke;cazadora militar lisa;chamarra militar lisa;bomber;manteau d'aviateur;bomber;bomberjack;MA-1飞行外套;MA-1飛行外套;ＭＡ‐１;MA-1;бомбер
 342;camo bomber-style jacket;camo bomber-style jacket;Tarnfarbenjacke;cazadora militar camuflaje;chamarra militar camuflaje;bomber camouflage;manteau d'aviateur camo;bomber mimetico;camouflagejack;迷彩MA-1飞行外套;迷彩MA-1飛行外套;めいさいのＭＡ‐１;밀리터리 MA-1;камуфляжный бомбер
 346;sea hanten shirt;sea hanten shirt;Ozean-Hanten-Jacke;abrigo hanten;bata de playa;chemise hanten de marin;chemise hanten de marin;giacca giapponese da mare;hanten-jas met ceintuur;海浪和服外套;海浪日式棉襖外套;うみのはんてん;바다 무늬 방한복;морская куртка хантен
-350;faux-hair sweater;faux-hair sweater;Kunstmohair-Pullover;jersey de angora;suéter de angora sintético;pull en mohair;gilet en mohair;maglione mohair sintetico;imitatiemohairtrui;马海毛针织衫;仿馬海毛針織衫;モヘアふうニット;모헤어풍 니트;синтетический свитер
+350;faux-hair sweater;faux-hair sweater;Kunstmohair-Pullover;jersey de punto a franjas;suéter de angora sintético;pull en laine synthétique;gilet en fausse laine;maglione in finto mohair;imitatiemohairtrui;马海毛针织衫;仿馬海毛針織衫;モヘアふうニット;모헤어풍 니트;синтетический свитер
 351;space parka;space parka;Galaxien-Parka;sudadera espacial;sudadera espacial;parka nébuleuse;parka nébuleux;felpa spaziale;jas met ruimteprint;太空连帽上衣;太空連帽上衣;スペースパーカー;우주 파카;парка с космосом
-352;baseball shirt;baseball shirt;Baseballshirt;camiseta de béisbol;camiseta de béisbol;maillot de baseball;chemise de baseball;camicia da baseball;honkbalshirt;棒球衬衫;棒球襯衫;ベースボールシャツ;야구 셔츠;бейсбольная рубашка
+352;baseball shirt;baseball shirt;Baseballshirt;camiseta de béisbol;camiseta de béisbol;maillot de base-ball;chemise de baseball;camicia da baseball;honkbalshirt;棒球衬衫;棒球襯衫;ベースボールシャツ;야구 셔츠;бейсбольная рубашка
 353;parka undercoat;parka undercoat;Pulli-Mantel-Kombi;parka sobre sudadera;saco con sudadera;manteau sur sweat capuche;parka doublé;giacca con felpa;trui met jas;连帽上衣配外套;連帽上衣配外套;パーカーオンコート;후드티와 코트;парка под плащом
-354;workout top;workout top;Workout-Top;top corto gimnasio;top corto gimnasio;débardeur court;camisole courte;top da ginnastica;turntop;运动上衣;運動上衣;ワークアウトトップス;경기복 상의;топ для аэробики
+354;workout top;workout top;Workout-Top;top corto gimnasio;top corto gimnasio;débardeur court;camisole courte;top da ginnastica;work-outtop;运动上衣;運動上衣;ワークアウトトップス;경기복 상의;топ для аэробики
 355;mod parka;mod parka;Mod-Parka;parka larga;sudadera larga;parka simple;parka simple;parka mod;vintagejas;军装风派克大衣;摩斯大衣;モッズコート;야상 점퍼;стильная парка
 356;tee-parka combo;tee-parka combo;Kapuzenpulli-Shirt-Kombi;sudadera con camiseta;sudadera con camiseta;t-⁠shirt sur sweat à capuche;t-shirt et parka;set maglietta e felpa;laagjestrui;连帽上衣配T恤;連帽上衣配T恤;パーカーオンＴシャツ;티셔츠와 후드 집업;парка с футболкой
 360;heart apron;heart apron;Herzschürze;delantal corazón;delantal corazón;tablier cœur;tablier cœur;grembiule con cuore;hartenschort;爱心围裙;愛心圍裙;ハートのエプロン;하트 앞치마;фартук с сердечком
@@ -217,7 +219,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 388;animal-print coat;animal-print coat;Leopardenprintmantel;abrigo de leopardo;abrigo de leopardo;manteau motif animalier;manteau motif léopard;cappotto maculato;gevlekte jas;仿皮草大衣;仿皮草大衣;フェイクアニマルコート;인조 털 코트;пятнистое пальто
 392;retro coat;retro coat;Vintage-Mantel;abrigo añejo;abrigo vintage;manteau vintage;manteau vintage;cappotto rétro;retrojas;复古大衣;復古大衣;レトロなコート;복고풍 코트;ретро-пальто
 400;hula top;hula top;Hula-Top;top isla tropical;top isla tropical;haut de danse hula;haut de danse hula;top hula;topje met bloemenkrans;草裙舞上衣;草裙舞上衣;フラダンスなトップス;훌라 댄스 상의;гавайский топ
-402;groovy tunic;groovy tunic;Hippie-Tunika;chaleco paz y amor;chaleco paz y amor;tunique hippie;tunique hippie;tunica hippy;groovy tuniek;嬉皮风上装;嘻皮風衣服;ヒッピーなふく;히피 옷;хипповая туника
+402;groovy tunic;groovy tunic;Hippie-Tunika;chaleco paz y amor;chaleco paz y amor;tunique hippie;tunique hippie;tunica hippy;groovy tuniek;嬉皮风上装;嘻皮風衣服;ヒッピーなふく;히피 옷;экстравагантная туника
 410;career jacket;career jacket;Business-Blazer;americana de oficina;chamarra de oficina;veste professionnelle;veste professionnelle;giacca da ufficio;zakelijk jasje;职业西装外套;西裝外套;キャリアなジャケット;정장 재킷;офисный пиджак
 414;Chimayo vest;Chimayo vest;Chimayo-Weste;chaleco Chimayó;chaleco Chimayó;veston Chimayo;veston Chimayo;gilet Chimayo;Chimayo-gilet;奇马约背心;奇馬約圖騰背心;チマヨベスト;치마요 베스트;абстрактный свитер
 423;kurta;kurta;Kurta;kurta;kurta;kurta;kurta;kurta;kurta;印度传统长版上衣;印度傳統長版上衣;クルタ;쿠르타;курта
@@ -226,18 +228,18 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 434;checkered muffler;checkered muffler;Pullover-Schal-Kombi;jersey con bufanda;suéter con bufanda;pull avec écharpe écossaise;gilet et écharpe écossaise;maglione con sciarpa;trui met geruite sjaal;配格纹围巾毛衣;格紋圍巾配毛衣;チェックマフラーつきセーター;체크 목도리와 스웨터;свитер с шарфом в клетку
 438;hip-wrap shirt;hip-wrap shirt;Grunge-Outfit;camiseta con camisa atada;camiseta con camisa atada;chemise sur les hanches;t-⁠shirt jupe portefeuille;camicia legata in vita;shirt met omgeknoopt hemd;绑腰衬衫;綁腰襯衫;こしまきシャツ;허리에 두른 셔츠;футболка вокруг пояса
 440;sparkly embroidered tank;sparkly embroidered tank;Lamé-Top;top labio de lentejuelas;top labios de lentejuelas;débardeur brodé sequins;camisole brodée sequins;canotta con lustrini;geborduurd glitterhemdje;亮片刺绣无袖上衣;亮片刺繡無袖上衣;ラメししゅうノースリーブ;반짝이 자수 민소매 원피스;топ с блестящим мотивом
-443;pleather trench coat;pleather trench coat;Kunstleder-Trenchcoat;abrigo de polipiel;gabardina cuero sintético;trench-coat en similicuir;manteau long en similicuir;trench in ecopelle;kunstleren trenchcoat;皮风衣;皮風衣;レザートレンチ;가죽 트렌치코트;тренчкот из кожзама
+443;pleather trench coat;pleather trench coat;Kunstleder-Trenchcoat;abrigo de polipiel;abrigo de cuero sintético;trench-coat en similicuir;trench-coat en similicuir;trench in ecopelle;kunstleren trenchcoat;皮风衣;皮風衣;レザートレンチ;가죽 트렌치코트;тренчкот из кожзама
 444;reindeer sweater;reindeer sweater;Rentierpulli;cárdigan renos;cárdigan renos;pull tricoté rennes;gilet tricoté rennes;maglione con renne;rendiertrui;驯鹿毛衣;馴鹿毛衣;トナカイセーター;루돌프 스웨터;кофта с оленями
 445;front-tie button-down shirt;front-tie button-down shirt;Knotenhemd;camisa anudada;camisa anudada;chemise nouée devant;chemise nouée devant;camicia legata davanti;geknoopt shirt;前绑结衬衫;前綁結襯衫;まえむすびＹシャツ;매듭 와이셔츠;легкая рубашка с бантом
 447;top coat;top coat;Übergangsmantel;abrigo ligero;abrigo ligero;surveste;surveste;cappotto classico;overjas;立式折领大衣;立領大衣;ステンカラーコート;스텐 칼라 코트;пальто
-448;retro sweater;retro sweater;Design-Pulli;jersey pop;suéter pop;pull art déco;chandail rétro;maglione variopinto;artistieke trui;品位高雅毛衣;品味高尚毛衣;ハイセンスなセーター;하이센스 스웨터;модный свитер
+448;retro sweater;retro sweater;Design-Pulli;jersey pop;suéter pop;pull art déco;chandail rétro;maglione variopinto;trui met print;品位高雅毛衣;品味高尚毛衣;ハイセンスなセーター;하이센스 스웨터;модный свитер
 449;cowboy shirt;cowboy shirt;Cowboyshirt;camisa del Oeste;camisa del Oeste;chemise de cow-boy;chemise de cow-boy;camicia western;cowboyshirt;西部牛仔衬衫;西部牛仔襯衫;カウボーイシャツ;카우보이 셔츠;ковбойская рубашка
 451;sweetheart tank and shirt;sweetheart tank and shirt;Trägertop-Pulli-Kombi;jersey con top tartán;suéter con top escocés;haut col en cœur;haut col en cœur;maglioncino con top tartan;shirt met hemdje;格纹细肩带背心;馬甲細肩帶背心;ビスチェキャミ;뷔스티에;камисоль с лонгсливом
 461;rainbow sweater;rainbow sweater;Regenbogenpulli;jersey arcoíris;suéter arcoíris;pull arc-en-ciel;gilet arc-en-ciel;maglione arcobaleno;regenboogtrui;彩虹针织衫;彩虹針織衫;レインボーなニット;무지개 니트;разноцветный свитер
 464;boa blouson;boa blouson;Fleeceblouson;sudadera mullida;sudadera mullida;blouson en polaire;blouson en flanelle;giubbino boa;zacht vest;绒毛外套;絨毛外套;ボアブルゾン;보아 하트 집업;пушистый блузон
 465;sleeveless tunic;sleeveless tunic;Einfarbentunika;túnica sin mangas;túnica sin mangas;tunique sans manches;tunique sans manches;tunica senza maniche;mouwloze tuniek;长版衬衫;長版襯衫;チュニックシャツ;튜닉 셔츠;туника-безрукавка
 467;coatigan;coatigan;Strickmantel;cárdigan largo;cárdigan largo;manteau cardigan;manteau cardigan;giaccone di maglia;vestjas;长版针织罩衫;長版針織罩衫;コーディガン;코트 가디건;пальто-кардиган
-471;patchwork coat;patchwork coat;Patchwork-Mantel;abrigo recortes;abrigo retazos;manteau patchwork;manteau patchwork;cappotto patchwork;lappendekenjas;拼布大衣;拼布大衣;パッチワークコート;패치워크 코트;лоскутное пальто
+471;patchwork coat;patchwork coat;Patchwork-Mantel;abrigo recortes;abrigo retazos;manteau patchwork;manteau patchwork;cappotto patchwork;patchworkjas;拼布大衣;拼布大衣;パッチワークコート;패치워크 코트;лоскутное пальто
 476;earbuds combo;earbuds combo;Pulli mit Kopfhörern;jersey con auriculares;suéter con auriculares;pull avec écouteurs;gilet avec écouteurs;maglione con auricolari;oortelefoonshirt;连耳机上衣;耳機穿搭;イヤフォンコーデ;이어폰과 티셔츠;джемпер с наушниками
 479;colorful striped sweater;colorful striped sweater;Buntringelpulli;jersey rayas de colores;suéter rayas de colores;pull à bandes colorées;gilet à bandes colorées;maglione a righe colorate;kleurrijke gestreepte trui;多色粗横纹针织衫;多色粗橫紋針織衫;マルチボーダーニット;줄무늬 니트;свитер в цветную полоску
 481;madras plaid shirt;madras plaid shirt;Madras-Karohemd;camisa tartán de madrás;camisa escocesa de madrás;chemisette madras;chemisette madras;camicia madras;madrasshirt;马德拉斯格纹衬衫;馬德拉斯格紋襯衫;マドラスチェックシャツ;마드라스 체크 셔츠;легкая рубашка в клетку
@@ -249,10 +251,10 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 513;baggy shirt;baggy shirt;Schlabbershirt;jersey holgado;suéter holgado;pull déformé;gilet déformé;maglia larga;oversized shirt;皱衬衫;皺襯衫;ヨレヨレなシャツ;헐렁한 셔츠;свободный лонгслив
 516;open-collar shirt;open-collar shirt;Reverskragenhemd;camisa de cuello abierto;camisa de cuello abierto;chemise à revers cranté;chemise à revers cranté;camicia con colletto aperto;shirt met open kraag;翻领衬衫;開襟襯衫;かいきんシャツ;오픈 칼라 셔츠;рубашка с лацканами
 518;meme shirt;meme shirt;Meme-Shirt;camiseta gato sideral;camiseta gato sideral;t-⁠shirt chat yeux laser;t-⁠shirt mème;maglietta meme;meme-T-⁠shirt;迷幻猫咪上衣;迷幻貓咪衣服;ミームなふく;밈 옷;футболка с мемом
-524;quilted jacket;quilted jacket;Steppjacke;chaquetón acolchado;abrigo acolchonado;veste matelassée;manteau matelassé;giacca trapuntata;open gewatteerde jas;菱格缝线外套;菱格縫線外套;キルティングジャケット;퀼트 재킷;стеганая куртка
+524;quilted jacket;quilted jacket;Steppjacke;chaquetón acolchado;chamarra acolchonada;veste matelassée;manteau matelassé;giacca trapuntata;open gewatteerde jas;菱格缝线外套;菱格縫線外套;キルティングジャケット;퀼트 재킷;стеганая куртка
 531;down ski jacket;down ski jacket;Thermoskijacke;chaquetón de esquí;abrigo de esquí;doudoune de ski;doudoune de ski;piumino da sci;gewatteerd ski-jack;滑雪羽绒外套;滑雪羽絨外套;スキーダウンジャケット;스키 다운 재킷;пуховая лыжная куртка
 544;worker's jacket;worker's jacket;Arbeitsjacke;chaqueta de trabajo;chamarra de trabajo;veste d'usine;manteau d'usine;giacca da operaio;arbeidersjasje;工作服;工作服;さぎょうふく;작업복;куртка рабочего
-545;pom-pom sweater;pom-pom sweater;Puschel-Pulli;jersey de pompones;suéter de pompones;pull à pompons;gilet à pompons;maglione con pon-pon;ponpontrui;毛球毛衣;毛球毛衣;ポンポンセーター;폼폼 스웨터;свитер с помпонами
+545;pom-pom sweater;pom-pom sweater;Puschel-Pulli;jersey de pompones;suéter de pompones;pull à pompons;gilet à pompons;maglione con pon-pon;pompontrui;毛球毛衣;毛球毛衣;ポンポンセーター;폼폼 스웨터;свитер с помпонами
 547;humble sweater;humble sweater;Strickweste;rebeca modesta;suéter modesto;gilet sobre;gilet sobre;felpa modesta;sobere trui;朴素针织衫;樸素針織衫;つつましいニット;수수한 니트;скромный свитер
 548;anorak jacket;anorak jacket;Anorak;anorak;anorak;anorak;anorak;anorak;anorak;派克大衣;派克大衣;アノラック;아노락;анорак
 549;multipurpose vest;multipurpose vest;Multifunktionsweste;chaleco multiusos;chaleco multiusos;gilet multi-poches;débardeur multi-poches;gilet multifunzione;praktisch gilet;多功能背心;多功能背心;たきのうベスト;작업용 조끼;жилет с карманами
@@ -265,21 +267,21 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 652;acid-washed jacket;acid-washed jacket;Bleichjeansjacke;chaqueta desteñida;chamarra desteñida;veste délavée;manteau délavé;giacca sbiadita;gebleekt spijkerjack;刷白牛仔外套;刷白牛仔外套;ケミカルデニムジャケット;물빠진 데님 재킷;куртка-варенка
 653;music-fest shirt;music-fest shirt;Festivalshirt;camiseta festival de música;camiseta festival de música;t-⁠shirt festival de musique;t-⁠shirt festival de musique;maglia musicale;festivalshirt;音乐节上装;音樂節衣服;ミュージックフェスなふく;뮤직 페스티벌 옷;фестивальный лонгслив
 654;traditional straw coat;traditional straw coat;Strohmantel;abrigo de paja;abrigo de paja;manteau en paille;manteau en paille;giacca di paglia tradizionale;traditionele strojas;蓑衣;蓑衣;みの;도롱이;соломенная накидка
-655;old-school jacket;old-school jacket;Rapperjacke;chaqueta urbana;chamarra urbana;blouson rappeur;blouson rappeur;giacca hip hop;respect-jack;嘻哈风上装;嘻哈風衣服;レペゼンなふく;힙합 스타일 재킷;куртка с блингом
-673;dance-team jacket;dance-team jacket;Tänzerjacke;sudadera compañía de baile;sudadera compañía de baile;veste d'équipe de danse;manteau d'équipe de danse;felpa danza;hiphopjasje;舞蹈运动服;跳舞運動服;ダンスジャージ;댄스 트레이닝복;куртка для подтанцовки
+655;old-school jacket;old-school jacket;Rapperjacke;chaqueta urbana;chamarra urbana;blouson rappeur;blouson rappeur;giacca hip hop;respect-jack;嘻哈风上装;嘻哈風衣服;レペゼンなふく;힙합 스타일 재킷;куртка с цепью
+673;dance-team jacket;dance-team jacket;Tänzerjacke;sudadera compañía de baile;sudadera compañía de baile;veste d'équipe de danse;manteau d'équipe de danse;felpa danza;streetdance-jasje;舞蹈运动服;跳舞運動服;ダンスジャージ;댄스 트레이닝복;куртка для подтанцовки
 694;puffy-sleeve blouse;puffy-sleeve blouse;Puffärmelbluse;blusa manga abullonada;blusa manga abullonada;chemisier à manches ballon;blouse à manches ballons;camicia maniche a sbuffo;pofmouwenblouse;蓬蓬袖罩衫;蓬蓬袖罩衫;フリルパフブラウス;퍼프 소매 블라우스;блузка с «фонариками»
 700;holiday sweater;holiday sweater;Festtagspulli;jersey árbol festivo;suéter árbol festivo;pull sapin festif;gilet sapin festif;maglia festiva;feestboomtrui;圣诞毛衣;聖誕毛衣;クリスマスセーター;크리스마스 스웨터;праздничный свитер
-743;vest with binoculars;vest with binoculars;Weste mit Fernglas;chaleco con prismáticos;chaleco con binoculares;chemise avec jumelles;chemise avec jumelles;gilet con binocolo;koekeloeroutfit;连望远镜背心;背心連望遠鏡;そうがんきょうつきベスト;쌍안경과 조끼;жилет с биноклем
-745;shirt with camera;shirt with camera;Hemd mit Kamera;camisa con cámara;camisa con cámara;chemise appareil-photo;chemise appareil-photo;camicia con fotocamera;overhemd met fototoestel;连照相机衬衫;襯衫連照相機;カメラつきワイシャツ;카메라와 와이셔츠;рубашка с фотоаппаратом
+743;vest with binoculars;vest with binoculars;Weste mit Fernglas;chaleco con prismáticos;chaleco con binoculares;chemise avec jumelles;chemise avec jumelles;gilet con binocolo;koekeloeroverhemd;连望远镜背心;背心連望遠鏡;そうがんきょうつきベスト;쌍안경과 조끼;жилет с биноклем
+745;shirt with camera;shirt with camera;Hemd mit Kamera;camisa con cámara;camisa con cámara;chemise appareil photo;chemise appareil photo;camicia con fotocamera;overhemd met fototoestel;连照相机衬衫;襯衫連照相機;カメラつきワイシャツ;카메라와 와이셔츠;рубашка с фотоаппаратом
 746;embroidered tank;embroidered tank;Spitzenträgertop;top bordado;top bordado;débardeur brodé;débardeur brodé;canotta ricamata;geborduurd hemdje;刺绣细肩带背心;刺繡細肩帶背心;ししゅうのキャミソール;자수 캐미솔;топ с вышивкой
 807;sailor-style shirt;sailor-style shirt;Matrosenhemd;jersey marinero;suéter marinero;chemise à col marin;chemise à col marin;camicia da marinaio;matrozentrui;水手衬衫;水手襯衫;セーラーシャツ;세일러 셔츠;фланелевка
 813;fischerhemd;fischerhemd;Fischerhemd;camisa fischerhemd;camisa fischerhemd;fischerhemd;fischerhemd;camicia fischerhemd;visserskiel;西欧渔夫衬衫;漁夫襯衫;フィッシャーヘムト;어부 셔츠;рубашка рыбака
-823;flashy cardigan;flashy cardigan;Imponierjacke;rebeca llamativa;cárdigan llamativo;gilet bariolé;gilet bariolé;cardigan vistoso;knallend vest;鲜艳针织罩衫;鮮艷針織罩衫;ハデなカーディガン;화려한 가디건;яркий кардиган
+823;flashy cardigan;flashy cardigan;Imponierjacke;rebeca llamativa;cárdigan llamativo;gilet bariolé;gilet bariolé;cardigan multicolore;knallend vest;鲜艳针织罩衫;鮮艷針織罩衫;ハデなカーディガン;화려한 가디건;яркий кардиган
 866;sleeveless parka;sleeveless parka;Kapuzenweste;sudadera sin mangas;sudadera sin mangas;parka sans manches;parka sans manches;felpa senza maniche;mouwloze jas;无袖连帽上衣;無袖連帽上衣;ノースリーブパーカー;민소매 파카;парка-безрукавка
 901;staff uniform;staff uniform;Mitarbeitershirt;camiseta de personal;camiseta de personal;t-⁠shirt STAFF;t-⁠shirt STAFF;uniforme da staff;personeels-T-⁠shirt;工作人员制服;工作人員衣服;スタッフのふく;스태프 옷;футболка для персонала
 903;oilskin coat;oilskin coat;Öljacke;impermeable de trabajo;impermeable de trabajo;manteau huilé;manteau huilé;giacca cerata;oliejas;油布外套;油布外套;オイルスキンのジャケット;방수 재킷;плащ-дождевик
 909;guide shirt;guide shirt;Armbindenhemd;camisa con brazalete;camisa con brazalete;chemise de guide;chemise de guide;camicia da guida;gidsoverhemd;服务人员制服;服務人員衣服;あんないがかりのふく;안내원 옷;рубашка экскурсовода
 911;bulldog jacket;bulldog jacket;Bulldoggenjacke;cazadora bulldog;chamarra bulldog;blouson bulldog;blouson bulldog;giacca bulldog;bulldogjasje;斗牛犬运动服;鬥牛犬運動服;ブルドッグジャージ;불독 프린트 재킷;куртка «Бульдог»
 916;doublet;doublet;Kiltjackett;chaqueta de gala para kilt;saco de gala para kilt;veste avec veston;manteau avec veston;giacca da kilt;Schots jasje;苏格兰道布莱特外套;蘇格蘭道布萊特外套;ダブレット;더블릿;пиджак с жилетом
-939;gingham picnic shirt;gingham picnic shirt;Karohemd;camisa vichy;camisa vichy;chemise vichy;chemise vichy;camicia a quadri;geruit shirt;嘉顿格纹衬衫;嘉頓格紋襯衫;ギンガムチェックのシャツ;깅엄 체크 셔츠;клетчатая рубашка
+939;gingham picnic shirt;gingham picnic shirt;Karohemd;camisa vichy;camisa vichy;chemise vichy;chemise vichy;camicia a quadri;picknickshirt;嘉顿格纹衬衫;嘉頓格紋襯衫;ギンガムチェックのシャツ;깅엄 체크 셔츠;клетчатая рубашка
 948;sports tank;sports tank;Leichtathletiktrikot;top carrera;top carrera;maillot d'athlétisme;maillot d'athlétisme;pettorina;sporttanktop;号码背心;號碼衣;ビブス;연습복;стартовая майка

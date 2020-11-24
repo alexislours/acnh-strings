@@ -110,7 +110,7 @@ FishingRod_08472_4;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;�
 FishingRod_08472_5;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 FishingRod_08472_6;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 FishingRod_08472_7;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
-FishingRod_08473_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Avocat;Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+FishingRod_08473_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 FishingRod_08473_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 FishingRod_08473_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 FishingRod_08473_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -160,7 +160,7 @@ Ftr_00146_3;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色
 Ftr_00146_4;Red stripes;Red stripes;Rote Streifen;Rayas rojas;Rayas rojas;Rayures rouges;Rayures rouges;Strisce rosse;Rode strepen;红色条纹;紅色條紋;レッドストライプ;레드 스트라이프;Красные полосы
 Ftr_00146_5;Green stripes;Green stripes;Grüne Streifen;Rayas verdes;Rayas verdes;Rayures vertes;Rayures vertes;Strisce verdi;Groene strepen;绿色条纹;綠色條紋;グリーンストライプ;그린 스트라이프;Зеленые полосы
 Ftr_00146_6;Reflective stripes;Reflective stripes;Reflektorstreifen;Rayas reflectantes;Rayas reflectantes;Bandes réfléchissantes;Bandes réfléchissantes;Strisce riflettenti;Reflecterende strepen;带反射板;附反射板;反射板つき;반사판;Светоотражающие полосы
-Ftr_00146_7;Caution stripes;Caution stripes;Gefahrenwarnung;Peligro;Peligro;Danger;Danger;Pericolo;Gevaar;危险;危險;デンジャー;데인저;Опасно!
+Ftr_00146_7;Caution stripes;Caution stripes;Gefahrenwarnung;Peligro;Peligro;Danger;Danger;Strisce di avvertimento;Gevaar;危险;危險;デンジャー;데인저;Опасно!
 Ftr_00287_0;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_00287_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_00287_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
@@ -853,7 +853,7 @@ Ftr_01797_0;Natural;Natural;Natur;Sin pintar;Sin pintar;Naturel;Naturel;Naturale
 Ftr_01797_1;Mallard;Mallard;Stockente;Ánade real;Ánade real;Colvert;Colvert;Germano reale;Wilde eend;绿头鸭;綠頭鴨;マガモ;청둥오리;Дикая утка
 Ftr_01797_2;Spot-billed;Spot-billed;Fleckschnabelente;Picopinto;Picopinto;Canard à bec tacheté;Canard à bec tacheté;Germano beccomacchiato;Vlekbekeend;斑嘴鸭;花嘴鴨;カルガモ;흰뺨검둥오리;Утка с пятнами на клюве
 Ftr_01797_3;Greater scaup;Greater scaup;Bergente;Porrón moñudo;Porrón moñudo;Fuligule milouinan;Fuligule milouinan;Anatra tuffatrice;Toppereend;斑背潜鸭;斑背潛鴨;スズガモ;검은머리흰죽지;Морская чернеть
-Ftr_01797_4;Common pochard;Common pochard;Tafelente;Porrón común;Porrón común;Fuligule milouin;Fuligule milouin;Moriglione;Tafeleend ;红头潜鸭;紅頭潛鴨;ホシハジロ;흰죽지;Нырок
+Ftr_01797_4;Common pochard;Common pochard;Tafelente;Porrón común;Porrón común;Fuligule milouin;Fuligule milouin;Moriglione;Tafeleend;红头潜鸭;紅頭潛鴨;ホシハジロ;흰죽지;Нырок
 Ftr_01797_5;Steamer duck;Steamer duck;Dampfschiffente;Pato vapor austral;Pato vapor austral;Brassemer cendré;Brassemer cendré;Anatra vaporiera;Booteend;灰船鸭;灰船鴨;オオフナガモ;큰붕어오리;Утка-пароход
 Ftr_01797_6;Duck;Duck;Hausente;Pato común;Pato común;Canard domestique;Canard domestique;Anatra;Tamme eend;鸭子;鴨子;アヒル;집오리;Утка
 Ftr_01799_0;Natural;Natural;Natur;Natural;Natural;Naturel;Naturel;Naturale;Naturel;自然色;自然色;ナチュラル;내추럴;Натуральный
@@ -927,11 +927,11 @@ Ftr_01850_6;Gold;Gold;Gold;Dorado;Dorado;Or;Or;Dorato;Goud;金色;金色;ゴー�
 Ftr_01851_0;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_01851_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_01851_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_01851_3;Turquoise;Turquoise;Smaragd;Verde esmeralda;Turquesa;Vert émeraude;Turquoise;Verde smeraldo;Smaragd;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
+Ftr_01851_3;Turquoise;Turquoise;Smaragd;Turquesa;Turquesa;Aigue-marine;Turquoise;Turchese;Turquoise;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
 Ftr_01851_4;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_01851_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_01851_6;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
-Ftr_01852_0;Turquoise;Turquoise;Smaragd;Verde esmeralda;Turquesa;Vert émeraude;Turquoise;Verde smeraldo;Smaragd;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
+Ftr_01852_0;Turquoise;Turquoise;Smaragd;Turquesa;Turquesa;Aigue-marine;Turquoise;Turchese;Turquoise;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
 Ftr_01852_1;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_01852_2;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Ftr_01852_3;Navy blue;Navy blue;Marineblau;Azul marino;Azul marino;Bleu marine;Bleu marine;Blu marino;Marineblauw;海军蓝;海軍藍;ネイビー;네이비;Черно-синий
@@ -939,7 +939,7 @@ Ftr_01852_4;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;
 Ftr_01852_5;Magenta;Magenta;Magenta;Magenta;Magenta;Magenta;Magenta;Magenta;Magenta;品红色;洋紅色;マゼンタ;마젠타;Малиновый
 Ftr_01852_6;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_01852_7;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
-Ftr_01853_0;Turquoise;Turquoise;Smaragd;Verde esmeralda;Turquesa;Vert émeraude;Turquoise;Verde smeraldo;Smaragd;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
+Ftr_01853_0;Turquoise;Turquoise;Smaragd;Turquesa;Turquesa;Aigue-marine;Turquoise;Turchese;Turquoise;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
 Ftr_01853_1;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_01853_2;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Ftr_01853_3;Navy blue;Navy blue;Marineblau;Azul marino;Azul marino;Bleu marine;Bleu marine;Blu marino;Marineblauw;海军蓝;海軍藍;ネイビー;네이비;Черно-синий
@@ -964,7 +964,7 @@ Ftr_01870_2;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド
 Ftr_01870_3;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_01870_4;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_01870_5;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
-Ftr_01870_6;Turquoise;Turquoise;Smaragd;Verde esmeralda;Turquesa;Vert émeraude;Turquoise;Verde smeraldo;Smaragd;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
+Ftr_01870_6;Turquoise;Turquoise;Smaragd;Turquesa;Turquesa;Aigue-marine;Turquoise;Turchese;Turquoise;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
 Ftr_01870_7;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_01875_0;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_01875_1;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
@@ -984,7 +984,7 @@ Ftr_01889_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド
 Ftr_01889_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_01889_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_01889_3;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_01889_4;Turquoise;Turquoise;Smaragd;Verde esmeralda;Turquesa;Vert émeraude;Turquoise;Verde smeraldo;Smaragd;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
+Ftr_01889_4;Turquoise;Turquoise;Smaragd;Turquesa;Turquesa;Aigue-marine;Turquoise;Turchese;Turquoise;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
 Ftr_01889_5;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_01889_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_01889_7;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
@@ -998,7 +998,7 @@ Ftr_01899_2;Illustration;Illustration;Zeichnungen;Ilustraciones;Ilustraciones;Il
 Ftr_01899_3;Words of wisdom;Words of wisdom;Weise Worte;Citas célebres;Citas célebres;Citations;Citations;Parole sagge;Wijze woorden;名言;名言;名言;명언;Афоризмы
 Ftr_01913_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_01913_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_01913_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_01913_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_01913_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_01913_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_01913_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -1038,7 +1038,7 @@ Ftr_02326_3;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕
 Ftr_02329_0;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_02329_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_02329_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_02329_3;Turquoise;Turquoise;Smaragd;Verde esmeralda;Turquesa;Vert émeraude;Turquoise;Verde smeraldo;Smaragd;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
+Ftr_02329_3;Turquoise;Turquoise;Smaragd;Turquesa;Turquesa;Aigue-marine;Turquoise;Turchese;Turquoise;祖母绿;祖母綠;エメラルド;에메랄드;Бирюзовый
 Ftr_02329_4;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_02329_5;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_02333_0;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
@@ -1075,7 +1075,7 @@ Ftr_02559_3;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;�
 Ftr_02559_4;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
 Ftr_02560_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_02560_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_02560_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_02560_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_02560_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_02560_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_02560_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -1097,7 +1097,7 @@ Ftr_02596_0;Red apple;Red apple;Roter Apfel;Manzana roja;Manzana roja;Pomme roug
 Ftr_02596_1;Green apple;Green apple;Grüner Apfel;Manzana verde;Manzana verde;Pomme verte;Pomme verte;Mela verde;Groene appel;青苹果;青蘋果;青リンゴ;초록색 사과;Зеленое яблоко
 Ftr_02605_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_02605_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_02605_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_02605_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_02605_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_02605_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_02605_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -1311,7 +1311,7 @@ Ftr_03407_4;Gold;Gold;Gold;Dorado;Dorado;Or;Or;Dorato;Goud;金色;金色;金;금
 Ftr_03416_0;Vanilla;Vanilla;Vanille;Vainilla;Vainilla;Vanille;Vanille;Vaniglia;Vanille;香草;香草;バニラ;바닐라;Ваниль
 Ftr_03416_1;Purple sweet potato;Purple sweet potato;Lila Süßkartoffel;Mora;Mora;Myrtille;Bleuet;Patata dolce viola;Bramen;香芋;紫薯;むらさきいも;고구마;Фиолетовый картофель
 Ftr_03416_2;Mango;Mango;Mango;Mango;Mango;Mangue;Mangue;Mango;Mango;芒果;芒果;マンゴー;망고;Манго
-Ftr_03416_3;Pale sky;Pale sky;Limo;Tropical;Arándano;Menthe;Menthe;Cedrata;Pistache;柠檬水;檸檬汽水;ラムネ;소다;Лимонад
+Ftr_03416_3;Pale sky;Pale sky;Limo;Tropical;Arándano;Menthe;Menthe;Celeste;Pistache;柠檬水;檸檬汽水;ラムネ;소다;Голубая пастель
 Ftr_03416_4;Green tea;Green tea;Grüntee;Té verde;Té verde;Matcha;Matcha;Tè verde;Groene thee;抹茶;抹茶;まっちゃ;녹차;Зеленый чай
 Ftr_03416_5;Chocolate swirl;Chocolate swirl;Schokoladen-Mix;Nata y chocolate;Nata y chocolate;Tornade chocolat;Tornade chocolat;Variegato al cioccolato;Chocoladesaus;巧克力混合;巧克力MIX;チョコレートMIX;초콜릿 믹스;Шоколадные завитки
 Ftr_03416_6;Strawberry swirl;Strawberry swirl;Erdbeer-Mix;Nata y fresa;Nata y fresa;Tornade fraise;Tornade fraise;Variegato alla fragola;Aardbeiensaus;草莓混合;草莓MIX;ストロベリーMIX;스트로베리 믹스;Клубничные завитки
@@ -1336,7 +1336,7 @@ Ftr_03431_6;Silver;Silver;Silber;Plateado;Plateado;Argent;Argent;Argentato;Zilve
 Ftr_03431_7;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03436_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_03436_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_03436_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_03436_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_03436_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_03436_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03436_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -1344,7 +1344,7 @@ Ftr_03436_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_03436_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_03438_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_03438_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_03438_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_03438_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_03438_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_03438_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03438_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -1352,7 +1352,7 @@ Ftr_03438_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_03438_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_03439_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_03439_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_03439_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_03439_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_03439_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_03439_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03439_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -1381,7 +1381,7 @@ Ftr_03446_3;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕
 Ftr_03446_4;Mossy;Mossy;Bemoost;Con musgo;Con musgo;Moussu;Moussu;Muschioso;Mossig;苔石色;青苔石;苔石;이끼 낀 돌;Замшелый
 Ftr_03449_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_03449_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_03449_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_03449_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_03449_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_03449_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03449_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -1397,7 +1397,7 @@ Ftr_03471_2;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色
 Ftr_03471_3;Wood grain;Wood grain;Holzmaserung;Madera veteada;Madera veteada;Grain de bois;Grain de bois;Simil-legno;Houtnerf;木纹色调;木紋;木目調;나뭇결;Текстура древесины
 Ftr_03490_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_03490_1;Natural wood;Natural wood;Naturholz;Madera natural;Madera natural;Bois naturel;Bois naturel;Legno naturale;Naturel hout;自然木色;自然木色;ナチュラルウッド;내추럴 우드;Натуральное дерево
-Ftr_03490_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_03490_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_03490_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_03490_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_03490_5;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
@@ -1580,7 +1580,7 @@ Ftr_03619_0;Corn soup;Corn soup;Maissuppe;Sopa de maíz;Sopa de maíz;Soupe de m
 Ftr_03619_1;Cream stew;Cream stew;Eintopf;Estofado;Estofado;Ragoût crémeux;Ragoût crémeux;Stufato;Romige stoofpot;奶油炖菜;奶油燉菜;クリームシチュー;크림 스튜;Суп со сливками
 Ftr_03619_2;Curry;Curry;Curry;Curry;Curry;Curry;Curry;Curry;Curry;咖喱;咖哩;カレー;카레;Карри
 Ftr_03619_3;Minestrone;Minestrone;Minestrone;Sopa minestrone;Sopa minestrone;Minestrone;Minestrone;Minestrone;Minestronesoep;意式蔬菜汤;義式蔬菜湯;ミネストローネ;미네스트로네;Минестроне
-Ftr_03619_4;Borscht;Borscht;Borschtsch;Sopa de remolacha;Sopa de remolacha;Bortsch;Bortsch;Borscht;Borsjtsj ;罗宋汤;羅宋湯;ボルシチ;보르시치;Борщ
+Ftr_03619_4;Borscht;Borscht;Borschtsch;Sopa de remolacha;Sopa de remolacha;Bortsch;Bortsch;Borscht;Borsjtsj;罗宋汤;羅宋湯;ボルシチ;보르시치;Борщ
 Ftr_03619_5;Green curry;Green curry;Grünes Curry;Curry verde;Curry verde;Curry vert;Curry vert;Curry verde;Groene curry;绿咖喱;綠咖哩;グリーンカレー;그린 카레;Зеленый карри
 Ftr_03619_6;Hot-and-sour soup;Hot-and-sour soup;Scharf-saure Suppe;Sopa agripicante;Sopa agripicante;Potage pékinois;Potage pékinois;Zuppa agropiccante;Scherpzure soup;中式汤;中式羹湯;中華スープ;중화 스프;Кисло-острый суп
 Ftr_03619_7;Congee;Congee;Reisbrei;Sopa de arroz;Sopa de arroz;Congee;Congee;Zuppa di riso;Hartige rijstebrij;粥;粥;お粥;죽;Рисовая каша
@@ -1783,7 +1783,7 @@ Ftr_03960_0;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_03960_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_03960_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_03960_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_03960_4;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Avocat;Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Ftr_03960_4;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Ftr_03960_5;Plaid;Plaid;Karomuster;Cuadros;Cuadros;Écossais;Écossais;Plaid;Geruit;格子图案;格子圖案;チェック柄;체크무늬;В клетку
 Ftr_03961_0;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_03961_1;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
@@ -1834,43 +1834,43 @@ Ftr_03975_1;Blood orange;Blood orange;Blutorange;Naranja sanguina;Naranja sangui
 Ftr_03976_0;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancia;Oranje;橘色;橘色;オレンジ;오렌지;Апельсин
 Ftr_03976_1;Blood orange;Blood orange;Blutorange;Naranja sanguina;Naranja sanguina;Orange sanguine;Orange sanguine;Arancia rossa;Bloedsinaasappel;血橘色;血橘色;ブラッドオレンジ;블러드 오렌지;Красный апельсин
 Ftr_03977_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_03977_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin ;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_03977_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03977_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红色;粉紅色;ピンク;핑크;Розовый
 Ftr_03977_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_03977_4;Purple;Purple;Lila;Morado;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_03977_5;Pearl;Pearl;Perlmutt;Perlado;Perlado;Perle;Perle;Perla;Parelmoer;珍珠;珍珠;パール;펄;Жемчужный
 Ftr_03978_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_03978_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin ;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_03978_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03978_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红色;粉紅色;ピンク;핑크;Розовый
 Ftr_03978_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_03978_4;Purple;Purple;Lila;Morado;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_03978_5;Pearl;Pearl;Perlmutt;Perlado;Perlado;Perle;Perle;Perla;Parelmoer;珍珠;珍珠;パール;펄;Жемчужный
 Ftr_03979_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_03979_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin ;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_03979_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03979_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红色;粉紅色;ピンク;핑크;Розовый
 Ftr_03979_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_03979_4;Purple;Purple;Lila;Morado;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_03979_5;Pearl;Pearl;Perlmutt;Perlado;Perlado;Perle;Perle;Perla;Parelmoer;珍珠;珍珠;パール;펄;Жемчужный
 Ftr_03980_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_03980_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin ;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_03980_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03980_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红色;粉紅色;ピンク;핑크;Розовый
 Ftr_03980_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_03980_4;Purple;Purple;Lila;Morado;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_03980_5;Pearl;Pearl;Perlmutt;Perlado;Perlado;Perle;Perle;Perla;Parelmoer;珍珠;珍珠;パール;펄;Жемчужный
 Ftr_03982_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_03982_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin ;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_03982_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03982_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红色;粉紅色;ピンク;핑크;Розовый
 Ftr_03982_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_03982_4;Purple;Purple;Lila;Morado;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_03982_5;Pearl;Pearl;Perlmutt;Perlado;Perlado;Perle;Perle;Perla;Parelmoer;珍珠;珍珠;パール;펄;Жемчужный
 Ftr_03983_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_03983_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin ;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_03983_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03983_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红色;粉紅色;ピンク;핑크;Розовый
 Ftr_03983_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_03983_4;Purple;Purple;Lila;Morado;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_03983_5;Pearl;Pearl;Perlmutt;Perlado;Perlado;Perle;Perle;Perla;Parelmoer;珍珠;珍珠;パール;펄;Жемчужный
 Ftr_03984_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_03984_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin ;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_03984_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_03984_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红色;粉紅色;ピンク;핑크;Розовый
 Ftr_03984_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_03984_4;Purple;Purple;Lila;Morado;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
@@ -1964,9 +1964,9 @@ Ftr_04009_4;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle
 Ftr_04009_5;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04009_6;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_04011_0;Cherry;Cherry;Kirsche;Cereza;Cereza;Rouge;Rouge;Ciliegia;Kers;樱桃;櫻桃;チェリー;체리;Вишня
-Ftr_04011_1;Black cherry;Black cherry;Süßkirsche;Picota;Picota;Bordeaux;Bordeaux;Ciliegia americana;Zoete kers ;美国樱桃;美國櫻桃;アメリカンチェリー;아메리칸 체리;Черешня
+Ftr_04011_1;Black cherry;Black cherry;Süßkirsche;Picota;Picota;Bordeaux;Bordeaux;Ciliegia dolce;Zoete kers;美国樱桃;美國櫻桃;アメリカンチェリー;아메리칸 체리;Черешня
 Ftr_04012_0;Cherry;Cherry;Kirsche;Cereza;Cereza;Rouge;Rouge;Ciliegia;Kers;樱桃;櫻桃;チェリー;체리;Вишня
-Ftr_04012_1;Black cherry;Black cherry;Süßkirsche;Picota;Picota;Bordeaux;Bordeaux;Ciliegia americana;Zoete kers ;美国樱桃;美國櫻桃;アメリカンチェリー;아메리칸 체리;Черешня
+Ftr_04012_1;Black cherry;Black cherry;Süßkirsche;Picota;Picota;Bordeaux;Bordeaux;Ciliegia dolce;Zoete kers;美国樱桃;美國櫻桃;アメリカンチェリー;아메리칸 체리;Черешня
 Ftr_04013_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_04013_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04013_2;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
@@ -2300,21 +2300,21 @@ Ftr_04135_3;Silver;Silver;Silber;Plateado;Plateado;Argent;Argent;Argentato;Zilve
 Ftr_04137_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_04137_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04137_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_04137_3;Sapphire;Sapphire;Smaragd;Zafiro;Zafiro;Aigue-marine;Aigue-marine;Acquamarina;Saffier;祖母绿;祖母綠;エメラルド;에메랄드;Сапфир
+Ftr_04137_3;Aquamarine;Aquamarine;Smaragd;Aguamarina;Aguamarina;Aigue-marine;Aigue-marine;Acquamarina;Aquamarijn;祖母绿;祖母綠;エメラルド;에메랄드;Аквамарин
 Ftr_04137_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04137_5;Cream;Cream;Cremefarben;Crema;Crema;Crème;Crème;Crema;Crème;奶油色;奶油色;クリーム;크림;Кремовый
 Ftr_04137_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_04138_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_04138_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04138_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_04138_3;Sapphire;Sapphire;Smaragd;Zafiro;Zafiro;Aigue-marine;Aigue-marine;Acquamarina;Saffier;祖母绿;祖母綠;エメラルド;에메랄드;Сапфир
+Ftr_04138_3;Aquamarine;Aquamarine;Smaragd;Aguamarina;Aguamarina;Aigue-marine;Aigue-marine;Acquamarina;Aquamarijn;祖母绿;祖母綠;エメラルド;에메랄드;Аквамарин
 Ftr_04138_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04138_5;Cream;Cream;Cremefarben;Crema;Crema;Crème;Crème;Crema;Crème;奶油色;奶油色;クリーム;크림;Кремовый
 Ftr_04138_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_04139_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_04139_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04139_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_04139_3;Sapphire;Sapphire;Smaragd;Zafiro;Zafiro;Aigue-marine;Aigue-marine;Acquamarina;Saffier;祖母绿;祖母綠;エメラルド;에메랄드;Сапфир
+Ftr_04139_3;Aquamarine;Aquamarine;Smaragd;Aguamarina;Aguamarina;Aigue-marine;Aigue-marine;Acquamarina;Aquamarijn;祖母绿;祖母綠;エメラルド;에메랄드;Аквамарин
 Ftr_04139_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04139_5;Cream;Cream;Cremefarben;Crema;Crema;Crème;Crème;Crema;Crème;奶油色;奶油色;クリーム;크림;Кремовый
 Ftr_04139_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
@@ -2327,14 +2327,14 @@ Ftr_04140_5;Retro;Retro;Rostig;Viejo;Viejo;Vintage;Rétro;Ruggine;Retro;复古;�
 Ftr_04141_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_04141_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04141_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_04141_3;Sapphire;Sapphire;Smaragd;Zafiro;Zafiro;Aigue-marine;Aigue-marine;Acquamarina;Saffier;祖母绿;祖母綠;エメラルド;에메랄드;Сапфир
+Ftr_04141_3;Aquamarine;Aquamarine;Smaragd;Aguamarina;Aguamarina;Aigue-marine;Aigue-marine;Acquamarina;Aquamarijn;祖母绿;祖母綠;エメラルド;에메랄드;Аквамарин
 Ftr_04141_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04141_5;Cream;Cream;Cremefarben;Crema;Crema;Crème;Crème;Crema;Crème;奶油色;奶油色;クリーム;크림;Кремовый
 Ftr_04141_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_04142_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_04142_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04142_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_04142_3;Sapphire;Sapphire;Smaragd;Zafiro;Zafiro;Aigue-marine;Aigue-marine;Acquamarina;Saffier;祖母绿;祖母綠;エメラルド;에메랄드;Сапфир
+Ftr_04142_3;Aquamarine;Aquamarine;Smaragd;Aguamarina;Aguamarina;Aigue-marine;Aigue-marine;Acquamarina;Aquamarijn;祖母绿;祖母綠;エメラルド;에메랄드;Аквамарин
 Ftr_04142_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04142_5;Cream;Cream;Cremefarben;Crema;Crema;Crème;Crème;Crema;Crème;奶油色;奶油色;クリーム;크림;Кремовый
 Ftr_04142_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
@@ -2346,7 +2346,7 @@ Ftr_04143_4;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_04144_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_04144_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04144_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_04144_3;Sapphire;Sapphire;Smaragd;Zafiro;Zafiro;Aigue-marine;Aigue-marine;Acquamarina;Saffier;祖母绿;祖母綠;エメラルド;에메랄드;Сапфир
+Ftr_04144_3;Aquamarine;Aquamarine;Smaragd;Aguamarina;Aguamarina;Aigue-marine;Aigue-marine;Acquamarina;Aquamarijn;祖母绿;祖母綠;エメラルド;에메랄드;Аквамарин
 Ftr_04144_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04144_5;Cream;Cream;Cremefarben;Crema;Crema;Crème;Crème;Crema;Crème;奶油色;奶油色;クリーム;크림;Кремовый
 Ftr_04144_6;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
@@ -2393,7 +2393,7 @@ Ftr_04412_2;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;�
 Ftr_04441_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_04441_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04441_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_04441_3;Sapphire;Sapphire;Smaragd;Zafiro;Zafiro;Aigue-marine;Aigue-marine;Acquamarina;Saffier;祖母绿;祖母綠;エメラルド;에메랄드;Сапфир
+Ftr_04441_3;Aquamarine;Aquamarine;Smaragd;Aguamarina;Aguamarina;Aigue-marine;Aigue-marine;Acquamarina;Aquamarijn;祖母绿;祖母綠;エメラルド;에메랄드;Аквамарин
 Ftr_04441_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04441_5;Cream;Cream;Cremefarben;Crema;Crema;Crème;Crème;Crema;Crème;奶油色;奶油色;クリーム;크림;Кремовый
 Ftr_04441_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
@@ -2473,7 +2473,7 @@ Ftr_04760_3;Black & orange;Black & orange;Schwarz-orange;Negro y naranja;Negro y
 Ftr_04760_4;Black & yellow;Black & yellow;Schwarz-gelb;Negro y amarillo;Negro y amarillo;Noir et jaune;Noir et jaune;Nero e giallo;Zwart-geel;黑色×黄色;黑色×黃色;ブラック×イエロー;블랙×옐로;Черный с желтым
 Ftr_04760_5;White & blue;White & blue;Weiß-blau;Blanco y azul;Blanco y azul;Blanc et bleu;Blanc et bleu;Bianco e blu;Wit-blauw;白色×蓝色;白色×藍色;ホワイト×ブルー;화이트×블루;Белый с синим
 Ftr_04760_6;White & red;White & red;Weiß-rot;Blanco y rojo;Blanco y rojo;Blanc et rouge;Blanc et rouge;Bianco e rosso;Wit-rood;白色×红色;白色×紅色;ホワイト×レッド;화이트×레드;Белый с красным
-Ftr_04760_7;Baseball;Baseball;Baseball;Béisbol;Béisbol;Baseball;Baseball;Baseball;Honkbal;棒球;棒球;ベースボール;야구;Бейсбол
+Ftr_04760_7;Baseball;Baseball;Baseball;Béisbol;Béisbol;Base-ball;Baseball;Baseball;Honkbal;棒球;棒球;ベースボール;야구;Бейсбол
 Ftr_04761_0;Silver;Silver;Silber;Plateado;Plateado;Argent;Argent;Argentato;Zilver;银色;銀色;シルバー;실버;Серебряный
 Ftr_04761_1;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_04761_2;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -2488,7 +2488,7 @@ Ftr_04762_4;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle
 Ftr_04762_5;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_04762_6;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_05150_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
-Ftr_05150_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin ;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_05150_1;Brown;Brown;Braun;Marrón;Marrón;Marron;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_05150_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红色;粉紅色;ピンク;핑크;Розовый
 Ftr_05150_3;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_05150_4;Purple;Purple;Lila;Morado;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
@@ -2584,14 +2584,14 @@ Ftr_06831_1;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois cla
 Ftr_06832_0;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_06832_1;Pink-white;Pink-white;Rosa-weiß;Blanco rosado;Blanco rosado;Blanc rosé;Blanc rosé;Bianco rosato;Roze-wit;粉白色;粉白色;ピンクホワイト;핑크 화이트;Бело-розовый
 Ftr_07045_0;Unlabeled can;Unlabeled can;Ohne Etikett;Sin etiqueta;Sin etiqueta;Sans étiquette;Sans étiquette;Latta senza etichetta;Zonder etiket;无图案罐头;無圖案罐頭;無地の缶;라벨이 없는 캔;Без этикетки
-Ftr_07045_1;Canned olives;Canned olives;Oliven;Aceitunas;Aceitunas;Olives;Olives;Olive;Blik olijven;橄榄罐头;橄欖罐頭;オリーブの缶;올리브 통조림;Из-под овощей
+Ftr_07045_1;Canned olives;Canned olives;Oliven;Aceitunas;Aceitunas;Olives;Olives;Olive;Blik olijven;橄榄罐头;橄欖罐頭;オリーブの缶;올리브 통조림;Из-под оливок
 Ftr_07045_2;Canned fruit;Canned fruit;Obst;Fruta;Fruta;Fruits;Fruits;Frutta;Blik fruit;水果罐头;水果罐頭;フルーツの缶;과일 통조림;Из-под фруктов
 Ftr_07045_3;Canned fish;Canned fish;Fisch;Pescado;Pescado;Poisson;Poisson;Pesce;Blik vis;鱼罐头;魚罐頭;サカナの缶;생선 통조림;Из-под рыбы
 Ftr_07045_4;Canned pasta sauce;Canned pasta sauce;Nudelsoße;Salsa de tomate;Salsa de tomate;Sauce pour pâtes;Sauce pour pâtes;Sugo;Blik pastasaus;意大利面酱罐头;義大利麵醬罐頭;パスタソースの缶;파스타 소스 캔;Из-под томатного соуса
 Ftr_07045_5;Canned pet food;Canned pet food;Tiernahrung;Comida para mascotas;Comida para mascotas;Pâtée pour animaux;Pâtée pour animaux;Cibo per animali;Blik kattenvoer;宠物罐头;寵物罐頭;ペットフードの缶;펫 푸드 통조림;Из-под корма
 Ftr_07132_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_07132_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_07132_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_07132_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_07132_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_07132_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_07132_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -2599,7 +2599,7 @@ Ftr_07132_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_07132_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_07133_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_07133_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_07133_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_07133_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_07133_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_07133_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_07133_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -2607,7 +2607,7 @@ Ftr_07133_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_07133_7;Pink wood;Pink wood;Rosa Holz;Rosa;Madera rosada;Bois rose;Bois rose;Legno rosa;Roze hout;粉红木色;粉紅木色;ピンクウッド;핑크 우드;Розовое дерево
 Ftr_07134_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_07134_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_07134_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_07134_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_07134_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_07134_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_07134_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -2628,7 +2628,7 @@ Ftr_07136_3;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle
 Ftr_07136_4;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_07137_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_07137_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_07137_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_07137_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_07137_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_07137_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_07137_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -2834,7 +2834,7 @@ Ftr_07453_1;Gold bars;Gold bars;Goldbarren;Lingotes de oro;Lingotes de oro;Lingo
 Ftr_07454_0;Natural;Natural;Natur;Natural;Natural;Naturel;Naturel;Naturale;Naturel;自然色;自然色;ナチュラル;내추럴;Натуральный
 Ftr_07454_1;Dark brown;Dark brown;Dunkelbraun;Marrón oscuro;Marrón oscuro;Brun foncé;Brun foncé;Marrone scuro;Donkerbruin;深棕色;深棕色;ダークブラウン;다크 브라운;Темно-коричневый
 Ftr_07454_2;Pastel;Pastel;Pastell;Tonos pastel;Pastel;Pastel;Pastel;Pastello;Pastel;粉嫩色;粉嫩色;パステル;파스텔;Пастельный
-Ftr_07454_3;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Avocat;Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Ftr_07454_3;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Ftr_07525_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_07525_1;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_07525_2;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
@@ -2987,7 +2987,7 @@ Ftr_08419_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;�
 Ftr_08419_3;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_08826_0;Light wood;Light wood;Helles Holz;Madera clara;Madera clara;Bois clair;Bois clair;Legno chiaro;Blank;浅木色;淺木色;ライトウッド;라이트 우드;Светлое дерево
 Ftr_08826_1;White wood;White wood;Weißes Holz;Blanco;Blanco;Bois blanc;Bois blanc;Legno bianco;Wit;白木色;白木色;ホワイトウッド;화이트 우드;Белое дерево
-Ftr_08826_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Meurisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
+Ftr_08826_2;Cherry wood;Cherry wood;Kirschholz;Cereza;Cereza;Merisier;Merisier;Legno di ciliegio;Rood;樱桃木色;櫻桃木色;チェリーウッド;체리 우드;Вишневое дерево
 Ftr_08826_3;Dark wood;Dark wood;Dunkles Holz;Madera oscura;Madera oscura;Bois sombre;Bois sombre;Legno scuro;Bruin;深木色;深木色;ダークウッド;다크 우드;Темное дерево
 Ftr_08826_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный цвет
 Ftr_08826_5;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый цвет
@@ -3058,6 +3058,20 @@ Ftr_12207_2;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー
 Ftr_12332_0;Natural;Natural;Natur;Pino;Pino;Bois naturel;Bois naturel;Grezzo;Naturel;自然色;自然色;ナチュラル;내추럴;Натуральный
 Ftr_12332_1;Oak;Oak;Eiche;Roble;Roble;Chêne;Chêne;Quercia;Eikenhout;橡木色;橡木色;オーク;오크;Под дуб
 Ftr_12332_2;Shabby;Shabby;Verwittert;Madera desgastada;Madera desgastada;Bois abîmé;Bois abîmé;Logoro;Verweerd;做旧色;舊舊的顏色;シャビー;섀비;Состаренный
+Ftr_12372_0;Ketchup and mustard;Ketchup and mustard;Fast Food;Kétchup y mostaza;Cátsup y mostaza;Ketchup-mayo;Ketchup-moutarde;Ketchup e senape;Ketchup en mosterd;小吃店;小吃店;フードショップ;푸드숍;Кетчуп и горчица
+Ftr_12372_1;Lumberjack;Lumberjack;Rotkaro;Tartán;Escocés;Tartan;Tartan;Rosso a quadretti;Houthakkershemd;红色嘉顿格纹;紅色嘉頓格;レッドギンガム;레드 깅엄;Рубашка лесоруба
+Ftr_12372_2;Classic camo;Classic camo;Tarnfarbe;Camuflaje jungla;Camuflaje jungla;Camouflage;Camouflage;Mimetico da giungla;Klassieke camouflage;保护色;保護色;カモフラージュ;카무플라주;Классический камуфляж
+Ftr_12372_3;Playtime;Playtime;Kinderland;Puzle;Rompecabezas;Enfant;Enfant;Giocattolo colorato;Speelplaats;彩色玩具;彩色玩具;カラフル・トイ;컬러풀 토이;Детская расцветка
+Ftr_12372_4;Splatter up;Splatter up;Rostlaube;Callejón;Callejón;Décrépit;Décrépit;Macchie di vernice;Spetterlak;后街;噴漆;バックストリート;백스트리트;Заляпанный драндулет
+Ftr_12372_5;Hot dog;Hot dog;Hotdog;Perrito caliente;Perrito caliente;Hot-dog;Hot-dog;Hot dog;Hotdog;热狗;熱狗;ホットドッグ;핫도그;Хот-дог
+Ftr_12373_0;Polka-dot party;Polka-dot party;Pünktchen;Lunares;Lunares;À pois;À pois;Rosa a pois;Polkadot-party;粉红色圆点;粉紅色點點;ピンクドット;핑크 도트;Веселенький горошек
+Ftr_12373_1;Royal coach;Royal coach;Königskutsche;Palacio;Palacio;Royal;Royal;Regale;Koninklijk koetswerk;王室;皇室;ロイヤル;로열;Королевский стиль
+Ftr_12373_2;Patched together;Patched together;Flickwerk;Remaches;Remaches;Tôle assemblée;Rapiécé;Patchwork;Staalplaten;拼接;拼接;ツギハギ;누더기;Заплаты
+Ftr_12373_3;Painter's palette;Painter's palette;Pastelltraum;Tonos pastel;Tonos pastel;Pastel;Pastel;Pastello;Schilderspalet;粉嫩;粉嫩;パステル;파스텔;Палитра художника
+Ftr_12373_4;Retro ride;Retro ride;Retro;Años 70;Años 70;Rétro;Rétro;Motivo vintage;Retroritje;复古图案;復古圖案;レトロパターン;레트로 패턴;Ретро
+Ftr_12373_5;Southwestern flair;Southwestern flair;Kelim;Textil;Textil;Kilim;Désert;Kilim;Tapijtkunst;基里姆;基里姆;キリム;킬림;Кантри
+Ftr_12543_0;Neon blue & neon red;Neon blue & neon red;Neon-blau/neon-rot;Rojo neón / azul néon;Rojo neón y azul néon;Bleu néon et rouge néon;Bleu néon et rouge néon;Blu neon/rosso neon;Neonblauw-neonrood;电光蓝·电光红;電光藍‧電光紅;ネオンブルー・ネオンレッド;네온 블루&네온 레드;Неон. синий и красный
+Ftr_12543_1;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
 Net_05784_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Net_05784_1;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Net_05784_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
@@ -3082,7 +3096,7 @@ Net_08177_4;Green & blue;Green & blue;Grün-blau;Verde y azul;Verde y azul;Vert 
 Net_08177_5;Purple & pink;Purple & pink;Lila-rosa;Morado y rosa;Morado y rosa;Violet et rose;Mauve et rose;Viola e rosa;Paars-roze;紫色×粉红色;紫色×粉紅色;パープル×ピンク;퍼플×핑크;Фиолетово-розовый
 Net_08177_6;White & blue;White & blue;Weiß-blau;Blanco y azul;Blanco y azul;Blanc et bleu;Blanc et bleu;Bianco e blu;Wit-blauw;白色×蓝色;白色×藍色;ホワイト×ブルー;화이트×블루;Бело-синий
 Net_08177_7;Gray & green;Gray & green;Grau-grün;Gris y verde;Gris y verde;Gris et vert;Gris et vert;Grigio e verde;Grijs-groen;灰色×绿色;灰色×綠色;グレー×グリーン;그레이×그린;Серо-зеленый
-Net_08178_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Avocat;Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Net_08178_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Net_08178_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Net_08178_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Net_08178_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -3098,7 +3112,7 @@ Shovel_02099_4;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫�
 Shovel_02099_5;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Shovel_02099_6;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Shovel_02099_7;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
-Shovel_08575_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Avocat;Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Shovel_08575_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Shovel_08575_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Shovel_08575_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Shovel_08575_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -3130,7 +3144,7 @@ Slingshot_02822_4;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;�
 Slingshot_02822_5;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Slingshot_02822_6;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Slingshot_02822_7;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
-Slingshot_08579_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Avocat;Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Slingshot_08579_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Slingshot_08579_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Slingshot_08579_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Slingshot_08579_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -3170,7 +3184,7 @@ Watering_08535_4;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レ�
 Watering_08535_5;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Watering_08535_6;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Watering_08535_7;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
-Watering_08536_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Avocat;Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
+Watering_08536_0;Avocado;Avocado;Avocado;Verde bosque;Verde musgo;Vert kaki;Vert Kaki;Avocado;Avocadogroen;卡其色;卡其色;カーキ;카키;Защитный
 Watering_08536_1;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Watering_08536_2;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 Watering_08536_3;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный

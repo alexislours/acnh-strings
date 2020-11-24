@@ -146,7 +146,7 @@ Ftr_01861_4;Comics;Comics;Comics;Cómics;Cómics;People;Bédés;Fumetti;Strips;�
 Ftr_01861_5;Kids;Kids;Kinder;Infantiles;Infantiles;Enfants;Enfants;Per bambini;Kids;儿童;兒童;キッズ;아동;Дети
 Ftr_01861_6;Weekly news;Weekly news;Nachrichten;Actualidad;Actualidad;Actualité;Actualité;Settimanale;Wekelijks nieuws;周刊;週刊;週刊誌;주간지;Новости недели
 Ftr_01870_0;Plain;Plain;Schlicht;Sencillo;Sencillo;Uni;Uni;Senza niente;Kaal;无;無;なし;없음;Обычный
-Ftr_01870_1;Square logo;Square logo;Quadratisches Logo;Logo cuadrado;Logo cuadrado;Logo carré;Logo carré;Logo quadrato;Vierkant logo;方形标志;正方形Logo;しかくいロゴ;각진 로고;Квадратный логотип
+Ftr_01870_1;Square logo;Square logo;Quadratisches Logo;Logo cuadrado;Logo cuadrado;Logo carré;Logo carré;Logo quadrato;Vierkant logo;方形标志;四角形Logo;しかくいロゴ;각진 로고;Квадратный логотип
 Ftr_01870_2;Round logo;Round logo;Rundes Logo;Logo redondo;Logo redondo;Logo rond;Logo rond;Logo rotondo;Rond logo;圆形标志;圓形Logo;まるいロゴ;둥근 로고;Круглый логотип
 Ftr_01870_3;Fish;Fish;Fisch;Pez;Pez;Poisson;Poisson;Pesce;Vis;鱼;魚;サカナ;물고기;Рыба
 Ftr_01870_4;Carrot;Carrot;Karotte;Zanahoria;Zanahoria;Carotte;Carotte;Carota;Wortel;胡萝卜;胡蘿蔔;ニンジン;당근;Морковь
@@ -218,7 +218,7 @@ Ftr_03467_0;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;
 Ftr_03467_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_03467_2;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_03467_3;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
-Ftr_03468_0;Cyan zigzags;Cyan zigzags;Zickzack-Streifen;Líneas en zigzag;Líneas en zigzag;Bleue à zigzags;Bleu à zigzags;Righe marine;Zigzagstrepen;海洋色粗横纹;海軍風粗橫紋;マリンボーダー;마린 보더;Темно-синие полоски
+Ftr_03468_0;Cyan zigzags;Cyan zigzags;Zickzack-Streifen;Líneas en zigzag;Líneas en zigzag;Bleue à zigzags;Bleu à zigzags;Righe a zig-zag ciano;Zigzagstrepen;海洋色粗横纹;海軍風粗橫紋;マリンボーダー;마린 보더;Сине-зеленые зигзаги
 Ftr_03468_1;Red stripes;Red stripes;Rote Streifen;Rayas rojas;Rayas rojas;Rouge à rayures;Rouge à rayures;Righe rosse;Rode strepen;红色条纹;紅色條紋;レッドストライプ;레드 스트라이프;Красные полоски
 Ftr_03468_2;Colorful;Colorful;Bunt;Colorido;Colorido;Multicolore;Multicolore;Multicolore;Kleurrijk;彩色;彩色;カラフル;컬러풀;Пестрый
 Ftr_03468_3;Shells;Shells;Muscheln;Conchas;Conchas marinas;Coquillages;Coquillages;Conchiglie;Schelpen;贝壳色;貝殼色;シェル;조개 무늬;Ракушки
@@ -369,10 +369,10 @@ Ftr_04445_2;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色
 Ftr_04445_3;Natural wood;Natural wood;Naturholz;Madera natural;Madera natural;Bois naturel;Bois naturel;Legno naturale;Naturel hout;自然木色;自然木色;ナチュラルウッド;내추럴 우드;Натуральное дерево
 Ftr_05338_0;Plain panel;Plain panel;Uni;Sencillo;Sencillo;Panneau standard;Panneau standard;Pannello semplice;Eenvoudig;纯色壁板;無圖案板子;無地パネル;무지 패널;Простая панель
 Ftr_05338_1;Lined panel;Lined panel;Streben;Paneles;Paneles;Panneau renforcé;Panneau renforcé;Pannello rinforzato;Panelen;线条壁板;線條板子;ラインパネル;라인 패널;С полосками
-Ftr_05338_2;Pegboard;Pegboard;Lochplatte;Perforado;Perforado;Panneau perforé;Panneau perforé;Pannello forato;Geperforeerde plaat;冲孔板;洞洞板;パンチングボード;펀칭 보드;Штекерная панель
-Ftr_05338_3;Horizontal planks;Horizontal planks;Holzfurnier;Tablones;Tablones;Lattes horizontales;Lattes horizontales;Assi orizzontali;Houten planken;横条壁板;橫條板子;横板張り;가로 판자;Горизонтальная планка
+Ftr_05338_2;Pegboard;Pegboard;Lochplatte;Perforado;Perforado;Panneau perforé;Panneau perforé;Pannello forato;Geperforeerde plaat;冲孔板;洞洞板;パンチングボード;펀칭 보드;Перфорированная панель
+Ftr_05338_3;Horizontal planks;Horizontal planks;Holzfurnier;Tablones;Tablones;Lattes horizontales;Lattes horizontales;Assi orizzontali;Houten planken;横条壁板;橫條板子;横板張り;가로 판자;Дощатая панель
 Ftr_05338_4;Lattice;Lattice;Holzgitter;Celosía;Celosía;Treillis;Treillis;Reticolato;Rasterwerk;格子;格子;格子;격자무늬;Решетка
-Ftr_05338_5;Mud wall;Mud wall;Lehmwand;Barro;Barro;Terre crue;Terre crue;Muro di fango;Leem;土墙;土牆;土壁;토벽;Земля
+Ftr_05338_5;Mud wall;Mud wall;Lehmwand;Barro;Barro;Terre crue;Terre crue;Muro di fango;Leem;土墙;土牆;土壁;토벽;Глинобитная панель
 Ftr_05338_6;Concrete;Concrete;Beton;Cemento;Cemento;Béton;Béton;Cemento;Beton;水泥;水泥;コンクリート;콘크리트;Бетон
 Ftr_05338_7;Gold;Gold;Gold;Oro;Oro;Or;Or;Oro;Goud;金色;金色;ゴールド;골드;Золотой
 Ftr_07047_0;Deep blue;Deep blue;Tiefblau;Azul oscuro;Azul oscuro;Bleu roi;Bleu roi;Blu scuro;Diepblauw;蓝紫色;紫藍;紺;진청색;Темно-синий
