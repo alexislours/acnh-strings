@@ -72,8 +72,13 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1231;pirate outfit;pirate outfit;Piraten-Outfit;traje de pirata;traje de pirata;tenue de pirate;tenue de pirate;costume da mozzo pirata;piratenoutfit;海盗服;海盜服;かいぞくのふく;해적 옷;пиратский наряд
 1244;mermaid fishy dress;mermaid fishy dress;Nixen-Fischkleid;vestido cola de sirena;vestido cola de sirena;robe océane de sirène;robe océane de sirène;abito a scaglie sirena;meerminnenjurk;人鱼鱼儿洋装;人魚魚兒洋裝;マーメイドなおさかなドレス;머메이드 물고기 드레스;платье русалки «Рыбка»
 1245;mermaid princess dress;mermaid princess dress;Nixen-Prinzessinnenkleid;vestido princesa sirena;vestido princesa sirena;robe de princesse sirène;robe de princesse sirène;abito principessa sirena;meerminprinsessenjurk;人鱼公主洋装;人魚公主洋裝;マーメイドなプリンセスドレス;머메이드 공주 드레스;платье русалки «Царевна»
+1261;Jack's robe;Jack's robe;Jakob-Gewand;túnica de Soponcio;túnica de Soponcio;robe de Jacqu'O;robe de Jacqu'O;tunica di Fifonio;gewaad van Jack;南瓜王长袍;南瓜王長袍;パンプキングローブ;펌킹 로브;одеяние Джека
+1262;raggedy outfit;raggedy outfit;Landstreicher-Outfit;traje andrajoso;traje andrajoso;tenue haillons;tenue haillons;costume cencioso;haveloze outfit;破烂服;破舊服;ボロボロなふく;찢어진 옷;изношенный наряд
+1263;mage's dress;mage's dress;Hexenkleid;vestido de hechicería;vestido de hechicería;robe de mage;robe de mage;costume stregonesco;heksenjurk;魔法师洋装;魔法師洋裝;まほうつかいのドレス;마법사 드레스;платье колдуньи
+1264;flashy animal costume;flashy animal costume;Tierkostüm;disfraz de animal;disfraz de animal;costume d'animal flashy;costume d'animal flashy;costume da animale;dierenkostuum;鲜艳动物玩偶服;鮮豔動物玩偶裝;ハデなアニマルきぐるみ;화려한 동물 인형 옷;броский зверин. костюм
 1301;Orihime outfit;Orihime outfit;Orihime-Outfit;atuendo de Orihime;atuendo de Orihime;tenue d'Orihime;tenue d'Orihime;vestito Orihime;Orihime-kostuum;织女服;織女服;おりひめのふく;직녀 옷;наряд Орихимэ
 1302;Hikoboshi outfit;Hikoboshi outfit;Hikoboshi-Outfit;atuendo de Hikoboshi;atuendo de Hikoboshi;tenue d'Hikoboshi;tenue d'Hikoboshi;vestito Hikoboshi;Hikoboshi-kostuum;牛郎服;牛郎服;ひこぼしのふく;견우 옷;наряд Хикобоси
+1315;magic-academy robe;magic-academy robe;Zauberlehrlingsrobe;túnica escuela de magia;túnica escuela de magia;robe école de magie;robe école de magie;vestito da scuola di magia;tovenaarsleerlinggewaad;魔法学校长袍;魔法學校長袍;まほうスクールのローブ;마법 학교 로브;наряд академии магов
 141;wedding dress;wedding dress;Brautkleid;vestido nupcial;vestido nupcial;robe de mariée;robe de mariée;vestito da sposa;trouwjurk;纯白洋装;純白洋裝;じゅんぱくのドレス;순백 드레스;свадебное платье
 146;nurse's dress uniform;nurse's dress uniform;Schwesternkittel;bata auxiliar de clínica;bata auxiliar de clínica;blouse d'infirmière;tenue d'infirmière;uniforme da infermiera;verpleegstersuniform;护士连身裙;護士連身裙;かんごしのワンピース;간호사 원피스;форма медсестры
 150;PJ outfit;PJ outfit;Pyjama;pijama de dos piezas;pijama de dos piezas;pyjama;pyjama;pigiama;pyjama;睡衣;睡衣;パジャマ;파자마;пижама
@@ -95,7 +100,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 174;dragon suit;dragon suit;Drachen-Outfit;traje dragón;traje dragón;combinaison dragon;combinaison dragon;tuta drago;drakenpak;龙纹装;龍紋裝;ドラゴンスーツ;드래곤 옷;костюм с драконом
 176;concierge uniform;concierge uniform;Portier-Outfit;uniforme de conserje;uniforme de encargado;uniforme hôtel;uniforme hôtel;uniforme da portiere;portierspak;酒店服务生制服;飯店服務生衣服;ホテルマンなふく;호텔리어 옷;форма швейцара
 178;flight-crew uniform;flight-crew uniform;Stewardessuniform;uniforme de azafata;uniforme de azafata;uniforme d'hôtesse de l'air;uniforme d'hôtesse de l'air;uniforme da hostess;stewardessenuniform;空乘制服;空姐服;フライトアテンダントのふく;승무원 옷;форма стюардессы
-180;mage's robe;mage's robe;Zauberumhang;capa de hechicería;capa de hechicería;robe de sorcellerie;robe de sorcellerie;vestito da illusionista;heksengewaad;魔法师长袍;魔法師長袍;まほうつかいのローブ;마술사의 로브;чародейская мантия
+180;mage's robe;mage's robe;Zauberumhang;capa de hechicería;capa de hechicería;robe de sorcellerie;robe de sorcellerie;vestito stregonesco;heksengewaad;魔法师长袍;魔法師長袍;まほうつかいのローブ;마술사의 로브;чародейская мантия
 181;áo dài;áo dài;Áo dài;vestido vietnamita;vestido vietnamita;áo dài;áo dài;vestito vietnamita;áo dài;越南传统服装;越南傳統服裝;アオザイ;아오자이;аозай
 182;pinafore;pinafore;Küchenkleid;mandil añejo;delantal antiguo;robe tablier;robe tablier;vestito grembiulone;schortjurk;和风连袖围裙;和風連袖圍裙;かっぽうぎ;조리복;платье кухарки
 183;chima jeogori;chima jeogori;Hanbok-Kleid;vestido coreano;vestido coreano;chima chogori;chima chogori;vestito coreano;chima jeogori;韩服裙;韓服裙;チマチョゴリ;치마 한복;платье ханбок
@@ -197,7 +202,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 492;shell dress;shell dress;Muschelkleid;vestido conchas;vestido perfume de mar;robe coquillages;robe coquillages;vestito profumo di mare;watervaljurk;贝壳洋装;貝殼洋裝;かいがらのドレス;조개 드레스;платье с ракушками
 500;long chenille cardigan;long chenille cardigan;Chenille-Strickjacke;cárdigan de punto largo;cárdigan de chenilla largo;gilet long en chenille;gilet long en chenille;cardigan lungo di ciniglia;lang chenille vest;长款提花针织罩衫;長版雪尼爾針織罩衫;モールロングカーディガン;모직 롱 가디건;кофта из шенили
 512;sweet dress;sweet dress;Engelskleid;vestido adorable;vestido adorable;robe angélique;robe angélique;vestito dolce;schattige jurk;天使连身裙;天使連身裙;エンジェルなワンピース;천사 원피스;ангельское платье
-514;impish costume;impish costume;Koboldkostüm;disfraz de demonio;disfraz de demonio;costume de diablotin;costume de diablotin;costume birichino;duveltjespak;恶魔装;惡魔服;デビルなふく;악마 의상;костюм бесенка
+514;impish costume;impish costume;Koboldkostüm;disfraz de diablillo;disfraz de diablito;costume de diablotin;costume de diablotin;costume birichino;duveltjespak;恶魔装;惡魔服;デビルなふく;악마 의상;костюм бесенка
 525;striped maxi dress;striped maxi dress;Streifenmaxikleid;vestido largo a rayas;vestido largo a rayas;maxi robe à rayures;maxi robe à rayures;vestito lungo a righe;gestreepte maxi-jurk;条纹长连身裙;條紋連身長裙;ストライプのマキシワンピ;줄무늬 맥시 원피스;платье макси в полоску
 527;checkered jumper dress;checkered jumper dress;Pulli-Kleid-Kombi;vestido cuadros con jersey;vestido cuadros con suéter;robe tartan avec pull;robe tartan avec pull;vestito a scacchi con maglia;geruite jurk met trui;格纹背心裙;格紋背心裙;チェックのジャンパースカート;체크무늬 점퍼스커트;платье со свитером
 532;lacy dress;lacy dress;Spitzenkleid;vestido de tirantes encaje;vestido encaje sin mangas;robe à volants en dentelle;robe à volants en dentelle;vestito di merletto;kanten jurk;蕾丝连身裙;蕾絲連身裙;レースのワンピース;레이스 원피스;кружевное платье
