@@ -17,6 +17,14 @@ EasterEgg_12513;sky egg;sky egg;Luft-Glücksei;huevo celeste;huevo celeste;œuf 
 EasterEgg_12513_pl;sky eggs;sky eggs;Luft-Glückseier;huevos celestes;huevos celestes;œufs aériens;œufs aériens;uova celesti;luchteieren;飞天蛋;飛天蛋;そらとぶたまご;하늘을 나는 달걀;небесные яйца
 EasterEgg_12514;water egg;water egg;Wasser-Glücksei;huevo acuático;huevo acuático;œuf aquatique;œuf aquatique;uovo acquatico;waterei;鱼儿蛋;魚兒蛋;サカナのたまご;물고기 달걀;водяное яйцо
 EasterEgg_12514_pl;water eggs;water eggs;Wasser-Glückseier;huevos acuáticos;huevos acuáticos;œufs aquatiques;œufs aquatiques;uova acquatiche;watereieren;鱼儿蛋;魚兒蛋;サカナのたまご;물고기 달걀;водяные яйца
+Feather_03541;red feather;red feather;Rubinfeder;pluma roja;pluma roja;plume rouge;plume rouge;piuma rossa;rode veer;红色羽毛;紅色羽毛;あかいはね;빨간색 깃털;красное перо
+Feather_03541_pl;red feathers;red feathers;Rubinfedern;plumas rojas;plumas rojas;plumes rouges;plumes rouges;piume rosse;rode veren;红色羽毛;紅色羽毛;あかいはね;빨간색 깃털;красные перья
+Feather_03542;blue feather;blue feather;Azurfeder;pluma azul;pluma azul;plume bleue;plume bleue;piuma blu;blauwe veer;蓝色羽毛;藍色羽毛;あおいはね;파란색 깃털;синее перо
+Feather_03542_pl;blue feathers;blue feathers;Azurfedern;plumas azules;plumas azules;plumes bleues;plumes bleues;piume blu;blauwe veren;蓝色羽毛;藍色羽毛;あおいはね;파란색 깃털;синие перья
+Feather_03543;green feather;green feather;Smaragdfeder;pluma verde;pluma verde;plume verte;plume verte;piuma verde;groene veer;绿色羽毛;綠色羽毛;みどりのはね;초록색 깃털;зеленое перо
+Feather_03543_pl;green feathers;green feathers;Smaragdfedern;plumas verdes;plumas verdes;plumes vertes;plumes vertes;piume verdi;groene veren;绿色羽毛;綠色羽毛;みどりのはね;초록색 깃털;зеленые перья
+Feather_03545;purple feather;purple feather;Lilafeder;pluma morada;pluma morada;plume violette;plume mauve;piuma viola;paarse veer;紫色羽毛;紫色羽毛;むらさきのはね;보라색 깃털;фиолетовое перо
+Feather_03545_pl;purple feathers;purple feathers;Lilafedern;plumas moradas;plumas moradas;plumes violettes;plumes mauves;piume viola;paarse veren;紫色羽毛;紫色羽毛;むらさきのはね;보라색 깃털;фиолетовые перья
 HarvestDish_13779;fish meunière;fish meunière;Bratfisch;pescado a la molinera;pescado al limón;poisson meunière;poisson meunière;pesce alla mugnaia;vis met botersaus;法式煎鱼排;法式煎魚排;サカナのムニエル;생선 뫼니에르;жареная рыба
 HarvestDish_13780;gratin;gratin;Gratin;gratinado;gratinado;gratin;gratin;sformato;gegratineerde schotel;奶汁烤菜;焗烤;グラタン;그라탱;запеканка
 HarvestDish_13781;clam chowder;clam chowder;Muschelsuppe;sopa de almejas;sopa de almejas;potée de palourdes;chaudrée de palourdes;zuppa di vongole;vissoep;蛤蜊浓汤;蛤蜊巧達湯;クラムチャウダー;클램 차우더;похлебка из моллюсков
@@ -39,6 +47,7 @@ LoveCrystal_12546;heart crystal;heart crystal;Liebeskristall;joya amorosa;joya a
 LoveCrystal_12546_pl;heart crystals;heart crystals;Liebeskristalle;joyas amorosas;joyas amorosas;cristaux d'amour;cristaux d'amour;gemme dell'amore;hartkristallen;爱的结晶;愛的結晶;あいのけっしょう;사랑의 결정;кристаллы-сердца
 PirateQuest_13105;communicator;communicator;Fernsprecher;comunicador;comunicador;émetteur;émetteur;comunicatore;marifoon;通信装置;通訊裝置;つうしんそうち;통신 장치;коммуникатор
 PirateQuest_13105_pl;communicators;communicators;Fernsprecher;comunicadores;comunicadores;émetteurs;émetteurs;comunicatori;marifoons;通信装置;通訊裝置;つうしんそうち;통신 장치;коммуникаторы
+RainbowFeather_03548;rainbow feather;rainbow feather;Regenbogenfeder;pluma arcoíris;pluma arcoíris;plume irisée;plume irisée;piuma arcobaleno;regenboogveer;彩虹羽毛;彩虹羽毛;にじいろのはね;무지개 깃털;радужное перо
 RollanTicket_09261;Saharah Ticket;Saharah Ticket;Aziza-Coupon;cupón de Alcatifa;cupón de Alcatifa;ticket Sarah;ticket Sarah;coupon di Sahara;Saharah-kaartje;骆岚兑换券;駱嵐兌換券;ローランのひきかえけん;사하라 교환권;ваучер Сахары
 RollanTicket_09261_pl;Saharah Tickets;Saharah Tickets;Aziza-Coupons;cupones de Alcatifa;cupones de Alcatifa;tickets Sarah;tickets Sarah;coupon di Sahara;Saharah-kaartjes;骆岚兑换券;駱嵐兌換券;ローランのひきかえけん;사하라 교환권;ваучеры Сахары
 SequenceOnly_03076;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ;じぶんのスマホ

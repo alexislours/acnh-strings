@@ -58,6 +58,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1159;bingata dress;bingata dress;Bingata-Kleid;kimono bingata;kimono bingata;robe bingata;robe bingata;kimono bingata;bingatajurk;红型染服装;沖繩傳統服裝;びんがたいしょう;빈가타 의상;платье из бингата
 116;kiwi dress;kiwi dress;Kiwikleid;vestido kiwi;vestido kiwi;robe kiwi;robe kiwi;vestito kiwi;kiwi-jurk;奇异果服;奇異果服;キウイのふく;키위 옷;платье «Киви»
 1161;painter's coverall;painter's coverall;Maleranzug;mono de trabajo de pintor;overol de trabajo de pintor;combinaison de peintre;combinaison de peintre;tuta da pittore;schildersoverall;彩绘连体服;油漆連身工作服;ペイントつなぎ;페인트 점프 수트;комбинезон маляра
+1162;Festivale tank dress;Festivale tank dress;Karnevalskleid;vestido de Carnaval;vestido de Carnaval;robe d'été carnaval;robe d'été carnaval;scamiciato Carnevale;carnavalsjurk;狂欢节连身裙;狂歡節連身裙;カーニバルなワンピース;카니발 원피스;карнавальное платье
 117;grape dress;grape dress;Traubenkleid;vestido uvas;vestido uvas;robe raisin;robe raisin;vestito uva;druivenjurk;葡萄服;葡萄服;ぶどうのふく;포도 옷;платье «Виноград»
 118;pineapple dress;pineapple dress;Ananaskleid;vestido piña;vestido piña;robe ananas;robe ananas;vestito ananas;ananasjurk;凤梨服;鳳梨服;パイナップルのふく;파인애플 옷;платье «Ананас»
 1204;egg party dress;egg party dress;Glücksei-Abendkleid;vestido de fiesta huevo;vestido de fiesta huevo;robe de soirée œuf;robe de soirée œuf;abito uova da sera;eierfeestjurk;蛋派对连身裙;蛋派對連身裙;たまごのパーティーワンピ;달걀 파티 원피스;платье на День зайцев
@@ -79,6 +80,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1301;Orihime outfit;Orihime outfit;Orihime-Outfit;atuendo de Orihime;atuendo de Orihime;tenue d'Orihime;tenue d'Orihime;vestito Orihime;Orihime-kostuum;织女服;織女服;おりひめのふく;직녀 옷;наряд Орихимэ
 1302;Hikoboshi outfit;Hikoboshi outfit;Hikoboshi-Outfit;atuendo de Hikoboshi;atuendo de Hikoboshi;tenue d'Hikoboshi;tenue d'Hikoboshi;vestito Hikoboshi;Hikoboshi-kostuum;牛郎服;牛郎服;ひこぼしのふく;견우 옷;наряд Хикобоси
 1315;magic-academy robe;magic-academy robe;Zauberlehrlingsrobe;túnica escuela de magia;túnica escuela de magia;robe école de magie;robe école de magie;vestito da scuola di magia;tovenaarsleerlinggewaad;魔法学校长袍;魔法學校長袍;まほうスクールのローブ;마법 학교 로브;наряд академии магов
+1344;Festivale costume;Festivale costume;Karnevalstracht;traje de Carnaval;traje de Carnaval;costume de carnaval;costume de carnaval;costume Carnevale;carnavalskostuum;狂欢节服装;狂歡節服裝;カーニバルなコスチューム;카니발 의상;карнавальный костюм
 141;wedding dress;wedding dress;Brautkleid;vestido nupcial;vestido nupcial;robe de mariée;robe de mariée;vestito da sposa;trouwjurk;纯白洋装;純白洋裝;じゅんぱくのドレス;순백 드레스;свадебное платье
 146;nurse's dress uniform;nurse's dress uniform;Schwesternkittel;bata auxiliar de clínica;bata auxiliar de clínica;blouse d'infirmière;tenue d'infirmière;uniforme da infermiera;verpleegstersuniform;护士连身裙;護士連身裙;かんごしのワンピース;간호사 원피스;форма медсестры
 150;PJ outfit;PJ outfit;Pyjama;pijama de dos piezas;pijama de dos piezas;pyjama;pyjama;pigiama;pyjama;睡衣;睡衣;パジャマ;파자마;пижама
@@ -89,7 +91,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 163;bear costume;bear costume;Bären-Outfit;disfraz de oso;disfraz de oso;costume d'ours;costume d'ours;costume da orso;berenpak;熊熊装;熊熊裝;クマなふく;곰 의상;костюм медведя
 164;firefighter uniform;firefighter uniform;Feuerwehruniform;uniforme de bombero;uniforme de bombero;uniforme de pompier;uniforme de pompier;uniforme da pompiere;brandweeruniform;消防服;消防隊服;しょうぼうしのふく;소방관 제복;форма пожарного
 165;frog costume;frog costume;Froschkostüm;disfraz de rana;disfraz de rana;costume de grenouille;costume de grenouille;costume da anfibio;kikkerpak;青蛙装;青蛙裝;カエルなふく;개구리 의상;костюм лягушки
-166;kappa costume;kappa costume;Käpten-Kostüm;disfraz de kappa;disfraz de kappa;costume de kappa;costume de kappa;costume da tartaruga;kappa-pak;河童装;河童裝;カッパスーツ;거북이 의상;костюм каппы
+166;kappa costume;kappa costume;Käpten-Kostüm;disfraz de kappa;disfraz de kappa;costume de kappa;costume de kappa;costume da kappa;kappa-pak;河童装;河童裝;カッパスーツ;거북이 의상;костюм каппы
 167;fashionable royal dress;fashionable royal dress;Königinnenkleid;vestido de la realeza;vestido de la realeza;robe de reine;robe de reine;vestito regale;koninklijke jurk;安托瓦内特洋装;貴族風洋裝;アントワネットなドレス;앙투아네트 드레스;модное платье королевы
 168;palatial tank dress;palatial tank dress;Oasen-Trägerkleid;vestido del Nilo;vestido del Nilo;robe d'été Nil;robe d'été fraîcheur;scamiciato egizio;Egyptische jurk;尼罗河传统服装;尼羅河服;ナイルなふく;이집트풍 옷;восточное платье
 169;jumper work suit;jumper work suit;Arbeitsuniform;mono de trabajo;overol de trabajo;tenue d'ouvrier;tenue d'ouvrier;tuta da lavoro;overall;工作装;工作服;さぎょうぎ;작업복;спецодежда
@@ -173,7 +175,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 398;china poblana;china poblana;China-Poblana-Kleid;vestido china poblana;vestido china poblana;costume China poblana;costume China poblana;vestito china poblana;china poblana;墨西哥传统服装;墨西哥傳統服裝;チナポブラーナ;치나 포블라나;платье «Чина поблана»
 403;shawl-and-dress combo;shawl-and-dress combo;Schal-Kleid;vestido de punto con chal;vestido tejido con chal;robe avec écharpe;robe avec écharpe;vestito con scialle;jurk met sjaal;连身裙配披肩;披肩配連身裙;ショールコーデワンピ;숄을 두른 원피스;платье с шалью
 413;pintuck-pleated dress;pintuck-pleated dress;Plisseekleid;vestido cuco con lacito;vestido plisado con lacito;robe à fronces;robe à fronces;vestito plissettato;pofmouwenjurk;洋娃娃风连身裙;洋娃娃風連身裙;ドーリーワンピース;인형 같은 원피스;платье с мелким плиссе
-416;reindeer costume;reindeer costume;Rentierkostüm;disfraz de reno;disfraz de reno;costume de renne;costume de renne;costume da renna;rendierpak;驯鹿装;馴鹿服;トナカイなふく;루돌프 의상;костюм оленя
+416;reindeer costume;reindeer costume;Rentierkostüm;disfraz de reno;disfraz de reno;costume de renne;costume de renne;costume da renna;rendierpak;驯鹿装;馴鹿服;トナカイなふく;순록 의상;костюм оленя
 424;maxi shirtdress;maxi shirtdress;Karo-Hemdkleid;vestido camisero extralargo;vestido camisola extralargo;maxi robe chemise;maxi robe chemise;camicione maxi;maxi-overhemdjurk;长版衬衫连身裙;長版襯衫連身裙;ロングシャツワンピ;롱 셔츠 원피스;платье-рубашка в клетку
 435;long denim cardigan;long denim cardigan;Jeansmantel;cárdigan tejano largo;cárdigan de jean largo;gilet long en jean;veste longue en jean;cardigan lungo di jeans;lange outfit met spijkerjasje;长版牛仔针织罩衫;長版牛仔針織罩衫;ロングデニムカーディガン;데님 롱 가디건;джинсовое пальто
 436;oversized print dress;oversized print dress;Riesenblumenkleid;vestido ancho estampado;vestido ancho estampado;robe à larges motifs;robe à larges motifs;vestito a stampa grande;jurk met grote print;排列印花连身裙;滿版圖案連身裙;おおばんがらワンピ;큰 무늬 원피스;свободн. платье с узором
@@ -211,6 +213,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 546;elegant dress;elegant dress;Ballkleid;vestido de damisela;vestido de damisela;robe élégante stricte;robe élégante stricte;vestito elegante;elegante jurk;淑女连身裙;淑女連身裙;しゅくじょなワンピース;우아한 드레스;элегантное платье
 578;wrestling singlet;wrestling singlet;Ringer-Anzug;maillot de lucha deportiva;maillot de lucha deportiva;combinaison de lutte;combinaison de lutte;tuta da wrestling;worstelpakje;摔角手制服;摔角制服;レスリングのユニフォーム;레슬링 유니폼;трико для борьбы
 582;sleeveless silk dress;sleeveless silk dress;Asia-Kleid;vestido de seda sin mangas;vestido de seda sin mangas;qipao sans manches;qipao sans manches;vestito di seta smanicato;mouwloze zijden jurk;旗袍;旗袍;チャイナドレス;차이나 드레스;шелковое платье
+584;ogre costume;ogre costume;Ogerkostüm;disfraz de ogro;disfraz de ogro;costume d'ogre;costume d'ogre;costume da orco;boemanpak;鬼怪服;鬼怪服;オニのふく;도깨비 옷;костюм людоеда
 586;astro dress;astro dress;Astro-Kleid;vestido corto futurista;vestido corto futurista;robe astro;robe astro;vestito futuristico;astrojurk;未来感连身裙;太空連身裙;スペースワンピース;우주 원피스;космическое платье
 650;hot-dog costume;hot-dog costume;Hotdogkostüm;disfraz de perrito caliente;disfraz de perrito caliente;costume de hot-dog;costume de hot-dog;costume hot-dog;hotdogpak;热狗装;熱狗服;ホットドッグなふく;핫도그 의상;костюм «Хот-дог»
 651;coveralls with arm covers;coveralls with arm covers;Stulpenoverall;mono con protectores;overol con protectores;combinaison de ferme;combinaison de ferme;tuta con maniche rinforzate;boerenoverall;附袖套连体工作服;連身工作服搭袖套;うでカバーつきつなぎ;토시가 있는 작업복;рабочий комбинезон
