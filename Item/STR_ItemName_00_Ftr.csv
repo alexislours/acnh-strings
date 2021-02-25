@@ -67,6 +67,7 @@ Ftr_00849;amp;amp;Verstärker;amplificador;amplificador;ampli;ampli;amplificator
 Ftr_00863;billiard table;billiard table;Billardtisch;mesa de billar;mesa de billar;billard;billard;tavolo da biliardo;biljarttafel;撞球桌;撞球桌;ビリヤードのだい;당구대;бильярдный стол
 Ftr_00864;bingo wheel;bingo wheel;Zahlenkugel-Maschine;bombo de bingo;bolillero para bingo;sphère pour tirage;sphère à bingo;urna per estrazioni;bingomolen;摇奖机;搖獎機;ビンゴマシン;빙고 머신;лотерейный барабан
 Ftr_00865;birdcage;birdcage;Vogelkäfig;jaula de pájaros;jaula de pájaros;cage à oiseau;cage à oiseau;gabbia;vogelkooi;鸟笼;鳥籠;とりかご;새장;птичья клетка
+Ftr_00867;blossom lantern;blossom lantern;Blütenlampe;lámpara bonbori;lámpara bonbori;lampe fleurie;lampe fleurie;lanterna floreale;bloesemlamp;纸灯笼;紙燈籠;ぼんぼり;꽃그림 육면등;лампа с цветами
 Ftr_00870;book stands;book stands;Buchstütze;sujetalibros;sujetalibros;serre-livres;serre-livres;coppia di fermalibri;boekensteunen;书挡;書擋;ブックスタンド;북엔드;подставки для книг
 Ftr_00875;breaker;breaker;Sicherungskasten;interruptor;interruptor;disjoncteur;disjoncteur;quadro interruttori;zekeringkast;电源总开关;電源總開關;ブレーカー;전원 차단기;электрощит
 Ftr_00880;wooden bucket;wooden bucket;Holzeimer;cubo de madera;balde de madera;seau en bois;seau en bois;secchio di legno;houten emmer;木制水桶;木製水桶;もくせいのバケツ;나무 양동이;деревянное ведро
@@ -91,6 +92,7 @@ Ftr_00971;snack machine;snack machine;Verkaufsautomat;máquina expendedora;máqu
 Ftr_00975;fruit basket;fruit basket;Fruchtkorb;cesta de frutas;cesta de frutas;panier de fruits;panier de fruits;cestino di frutta;fruitmand;水果篮;水果籃;フルーツバスケット;과일 바구니;корзина с фруктами
 Ftr_00981;go board;go board;Go-Brett;tablero de go;tablero de go;table de go;table de go;tavola da go;go-bord;围棋桌;圍棋桌;ごばん;바둑판;доска для го
 Ftr_00987;harp;harp;Harfe;arpa;arpa;harpe;harpe;arpa;harp;竖琴;豎琴;ハープ;하프;арфа
+Ftr_00988;hinaningyo;hinaningyo;Puppenset;hinaningyo;hinaningyo;hinaningyo;hinaningyo;hinaningyo;hinaningyo-poppen;女儿节娃娃;女兒節娃娃;ひなにんぎょう;인형 장식;коллекция кукол
 Ftr_00997;incense burner;incense burner;Räucherstäbchen-Set;quemador de incienso;quemador de incienso;porte-encens;porte-encens;brucia incensi;wierookbrander;线香盘;線香盤;おこう;향;курильница
 Ftr_00998;kitchen island;kitchen island;Kücheninsel;isla de cocina;isla de cocina;îlot de cuisine;îlot de cuisine;isola da cucina;keukeneiland;岛式厨房;島式廚房;アイランドキッチン;아일랜드 키친;кухонный островок
 Ftr_01004;kadomatsu;kadomatsu;Kadomatsu;kadomatsu;kadomatsu;kadomatsu;kadomatsu;kadomatsu;bamboe-ornament;门松;門松;かどまつ;새해맞이 대나무;кадомацу
@@ -914,6 +916,24 @@ Ftr_13799;Olivier salad;Olivier salad;Olivier-Salat;ensalada Olivier;ensalada ru
 Ftr_13818;Turkey Day casserole;Turkey Day casserole;Schlemmfest-Bräter;cazuela Día del Pavo;cazuela Día del Pavo;plat à gratin fête du partage;plat à gratin fête du partage;casseruola primizie;smakenfestijnpan;感恩节砂锅炖菜;感恩節砂鍋燉菜;サンクスギビングなキャセロール;하베스트 캐서롤;утятница «День изобилия»
 Ftr_13819;Turkey Day wheat decor;Turkey Day wheat decor;Schlemmfest-Getreidedeko;adorno trigo Día del Pavo;adorno trigo Día del Pavo;décor de blé du partage;décor de blé du partage;ornamento primizie;smakenfestijn-tarwebundel;感恩节麦子装饰;感恩節麥子裝飾;サンクスギビングなむぎかざり;하베스트 밀 장식;пшеница ко Дню изобилия
 Ftr_13820;Turkey Day table setting;Turkey Day table setting;Schlemmfest-Tischgedeck;servicio mesa Día del Pavo;servicio mesa Día del Pavo;service fête du partage;service fête du partage;set da tavola primizie;smakenfestijnservies;感恩节桌上布置;感恩節桌上布置;サンクスギビングテーブルウェア;하베스트 테이블 세팅;посуда ко Дню изобилия
+Ftr_13821;? Block;? Block;?-Block;bloque ?;bloque ?;bloc ?;bloc ?;blocco ?;?-blok;？砖块;？磚塊;ハテナブロック;?블록;блок «?»
+Ftr_13822;block;block;Block;bloque;bloque;bloc;bloc;blocco;blok;砖块;磚塊;レンガブロック;블록;блок
+Ftr_13823;pipe;pipe;Röhre;tubería;tubería;tuyau;tuyau;tubo;buis;水管;水管;どかん;토관;труба
+Ftr_13824;Goal Pole;Goal Pole;Zielpfahl;banderín;banderín;drapeau Mario;drapeau d'arrivée;asta della bandiera;vlaggenstok;终点旗杆;終點旗桿;ゴールポール;골깃대;финальный флаг
+Ftr_13825;Super Star;Super Star;Superstern;superestrella;superestrella;super étoile;super étoile;super stella;superster;无敌星;無敵星;スーパースター;슈퍼스타;суперзвезда
+Ftr_13826;Fire Flower;Fire Flower;Feuerblume;flor de fuego;flor de fuego;fleur de feu;fleur de feu;fiore di fuoco;vuurbloem;火之花;火之花;ファイアフラワー;파이어플라워;огненный цветок
+Ftr_13827;Super Mushroom;Super Mushroom;Superpilz;superchampiñón;superchampiñón;super champignon;super champignon;super fungo;superpaddenstoel;超级蘑菇;超級蘑菇;スーパーキノコ;슈퍼버섯;супергриб
+Ftr_13828;1-Up Mushroom;1-Up Mushroom;1-Up-Pilz;champiñón vida extra;champiñón vida extra;champignon 1UP;champignon 1-UP;fungo 1-UP;1UP-paddenstoel;1UP蘑菇;1UP蘑菇;1UPキノコ;1UP버섯;гриб жизни
+Ftr_13829;Shell;Shell;Koopa-Panzer;caparazón;caparazón;carapace;carapace;guscio;schild;龟壳;龜殼;こうら;등껍질;панцирь
+Ftr_13830;coin;coin;Münze;moneda;moneda;pièce;pièce;moneta;munt;金币;金幣;コイン;코인;монетка
+Ftr_13831;large Mushroom Platform;large Mushroom Platform;Pilzplattform (L);plataforma champiñón XL;plataforma champiñón XL;plateforme champignon XL;plateforme champignon G;piattaforma fungo grande;groot paddenstoelplatform;蘑菇地形L;蘑菇地形L;キノコちけいL;버섯 지형 L;больш. гриб-платформа
+Ftr_13832;small Mushroom Platform;small Mushroom Platform;Pilzplattform (S);plataforma champiñón;plataforma champiñón;plateforme champignon;plateforme champignon P;piattaforma fungo piccola;klein paddenstoelplatform;蘑菇地形S;蘑菇地形S;キノコちけいS;버섯 지형 S;малый гриб-платформа
+Ftr_13833;Thwomp;Thwomp;Steinblock;Roca Picuda;Don Pisotón;Thwomp;Ka-Bang;Twomp;Thwomp;咚咚;咚咚;ドッスン;쿵쿵;бамс
 Ftr_13867;Resetti model;Resetti model;Resetti-Figur;mini Rese T. Ado;mini Rese T. Ado;figurine de Resetti;figurine de Resetti;modellino di Resetti;model-Resetti;土拨鼠模型;土撥鼠模型;グラウンドホッグのもけい;그라운드호그 모형;модель Ресетти
 Ftr_13930;set of stockings;set of stockings;Wunschsocken-Set;lote de calcetines de pared;set de calcetines de pared;lot de chaussettes déco;lot de bas décoratifs;set di calze per regali;sokkenset;壁挂式袜子;壁掛式襪子;かべかけソックス;벽걸이 양말;набор носков
+Ftr_14020;π pie;π pie;Pi-Kuchen;pastel de π;pastel de π;tarte π;tarte π;torta del Pi greco;π-taart;圆周率派;圓周率派;πパイ;π 파이;пирог π
 Ftr_14029;heart-shaped bouquet;heart-shaped bouquet;Herz-Bouquet;ramo de flores Enamorados;ramo de flores corazón;bouquet en forme de cœur;bouquet en forme de cœur;bouquet a cuore;hartvormig boeket;心形玫瑰花束;愛心玫瑰花束;ハートのバラブーケ;하트 장미 꽃다발;букет в форме сердца
+Ftr_14266;floating block;floating block;Schwebeblock;bloque elevado;bloque flotante;bloc flottant;bloc flottant;blocco fluttuante;zwevend blok;空中砖块;空中磚塊;くうちゅうのレンガブロック;떠 있는 블록;парящий блок
+Ftr_14300;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま;きゅうりのうま
+Ftr_14338;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご;つきみだんご
+Ftr_14339;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし;なすびのうし
