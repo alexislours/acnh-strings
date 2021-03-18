@@ -273,7 +273,7 @@ Ftr_00710_0;Green bamboo;Green bamboo;Grüner Bambus;Verde;Verde;Bambou vert;Bam
 Ftr_00710_1;Dried bamboo;Dried bamboo;Getrockneter Bambus;Seco;Seco;Bambou sec;Bambou sec;Bambù essiccato;Gedroogd;枯竹;枯竹;枯竹;마른 대나무;Сухой бамбук
 Ftr_00710_2;Smoke-cured bamboo;Smoke-cured bamboo;Rußbambus;Ahumado;Ahumado;Bambou fumé;Bambou fumé;Bambù affumicato;Gerookt;煤竹;燻竹;煤竹;그을은 대나무;Закопченный бамбук
 Ftr_00716_0;Bamboo;Bamboo;Bambus;Bambú;Bambú;Bambou;Bambou;Bambù;Bamboe;竹;竹;竹;대나무;Бамбук
-Ftr_00716_1;Plum;Plum;Pflaume;Ciruelo;Ciruelo;Prunes;Prunes;Susino;Pruim;梅;梅;梅;매화;Слива
+Ftr_00716_1;Plum;Plum;Pflaume;Ciruelo;Ciruelo;Prunes;Prunier;Susino;Pruim;梅;梅;梅;매화;Слива
 Ftr_00716_2;Pine;Pine;Kiefer;Pino;Pino;Pin;Pin;Pino;Den;松;松;松;소나무;Сосна
 Ftr_00716_3;Tiger;Tiger;Tiger;Tigre;Tigre;Tigre;Tigre;Tigre;Tijger;虎;虎;虎;호랑이;Тигр
 Ftr_00716_4;Dragon;Dragon;Drache;Dragón;Dragón;Dragon;Dragon;Drago;Draak;龙;龍;龍;용;Дракон
@@ -2447,7 +2447,7 @@ Ftr_04687_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド
 Ftr_04687_1;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_04687_2;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_04687_3;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
-Ftr_04687_4;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turkoois;绿松石色;綠松色;ターコイズ;터콰이즈;Бирюзовый
+Ftr_04687_4;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turquoise;绿松石色;綠松色;ターコイズ;터콰이즈;Бирюзовый
 Ftr_04687_5;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_04708_0;Ordinary mushroom;Ordinary mushroom;Gewöhnlicher Pilz;Común;Común;Champignon générique;Champignon générique;Fungo comune;Gewone paddenstoel;常见蘑菇;常見蘑菇;よくあるキノコ;흔한 버섯;Обычный гриб
 Ftr_04708_1;White mushroom;White mushroom;Weißer Pilz;Blanco;Blanco;Champignon blanc;Champignon blanc;Fungo bianco;Witte paddenstoel;白色蘑菇;白色蘑菇;しろキノコ;하얀색 버섯;Белый гриб
@@ -2874,7 +2874,7 @@ Ftr_07525_3;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;�
 Ftr_07526_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_07526_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_07526_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
-Ftr_07526_3;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turkoois;绿松石色;綠松色;ターコイズ;터콰이즈;Бирюзовый
+Ftr_07526_3;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turquoise;绿松石色;綠松色;ターコイズ;터콰이즈;Бирюзовый
 Ftr_07526_4;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
 Ftr_07526_5;Silver;Silver;Silber;Plateado;Plateado;Argent;Argent;Argentato;Zilver;银色;銀色;シルバー;실버;Серебряный
 Ftr_07527_0;Colorful;Colorful;Bunt;Multicolor;Multicolor;Multicolore;Multicolore;Variopinto;Veelkleurig;彩色;彩色;カラフル;컬러풀;Яркий
@@ -3291,6 +3291,10 @@ Ftr_13831_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;�
 Ftr_13832_0;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_13832_1;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_13832_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
+Ftr_13927_0;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turquoise;绿松石色;藍綠色;ターコイズ;터콰이즈;Бирюзовый
+Ftr_13927_1;Gray;Gray;Grau;Gris;Gris;Grise;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
+Ftr_13927_2;Coral;Coral;Koralle;Coral;Coral;Corail;Corail;Corallo;Koraalrood;珊瑚红;珊瑚色;コーラル;코럴;Коралловый
+Ftr_13927_3;Yellow;Yellow;Gelb;Amarilla;Amarilla;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Ftr_13930_0;Colorful;Colorful;Bunt;Multicolor;Multicolor;Multicolore;Multicolore;Variopinto;Veelkleurig;彩色;彩色;カラフル;컬러풀;Яркий
 Ftr_13930_1;Cute;Cute;Süß;Adorable;Adorable;Adorable;Adorable;Grazioso;Schattig;可爱色;可愛色;キュート;큐트;Милый
 Ftr_13930_2;Cool;Cool;Cool;Moderno;Moderno;Cool;Cool;Spavaldo;Cool;酷感色;酷感色;クール;쿨;Модный
@@ -3303,6 +3307,9 @@ Ftr_14029_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;
 Ftr_14029_3;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_14029_4;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
 Ftr_14029_5;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
+Ftr_14340_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
+Ftr_14340_1;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
+Ftr_14340_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Net_05784_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Net_05784_1;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Net_05784_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый

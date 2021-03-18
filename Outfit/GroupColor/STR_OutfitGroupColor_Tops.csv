@@ -363,7 +363,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1063_Tops_11922;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 1063_Tops_11923;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 1063_Tops_11924;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
-1063_Tops_11925;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turkoois;绿松石色;綠松色;ターコイズ;터콰이즈;Бирюзовый
+1063_Tops_11925;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turquoise;绿松石色;綠松色;ターコイズ;터콰이즈;Бирюзовый
 1063_Tops_11926;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
 1066_Tops_09815;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 1066_Tops_12086;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
@@ -467,15 +467,22 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1246_Tops_12959;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
 1256_Tops_12982;Coral;Coral;Koralle;Salmón;Salmón;Corail;Corail;Corallo;Koraalrood;珊瑚红;珊瑚紅;コーラル;코랄;Коралловый
 1257_Tops_12983;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
+1280_Tops_13166;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
+1285_Tops_13171;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
+1289_Tops_13176;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
+1291_Tops_13178;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
+1294_Tops_13181;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 130_Tops_03316;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 130_Tops_08489;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 130_Tops_08490;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 130_Tops_08491;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 130_Tops_08492;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 130_Tops_08493;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
+1305_Tops_13298;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle;Blu chiaro;Lichtblauw;浅蓝色;淺藍色;ライトブルー;라이트 블루;Голубой
 131_Tops_03320;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 132_Tops_03321;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 133_Tops_03322;Orange;Orange;Orange;Naranja;Naranja;Orange;Orange;Arancio;Oranje;橘色;橘色;オレンジ;오렌지;Оранжевый
+1333_Tops_13759;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 134_Tops_03323;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 135_Tops_03324;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 136_Tops_03325;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
@@ -847,7 +854,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 371_Tops_09399;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 371_Tops_09400;Berry red;Berry red;Weinrot;Burdeos;Granate;Bordeaux;Bordeaux;Rosso lampone;Bessenrood;酒红色;酒紅色;ワインレッド;와인 레드;Ягодно-красный
 371_Tops_09401;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
-371_Tops_09402;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turkoois;绿松石色;綠松色;ターコイズ;터콰이즈;Бирюзовый
+371_Tops_09402;Turquoise;Turquoise;Türkis;Turquesa;Turquesa;Turquoise;Turquoise;Turchese;Turquoise;绿松石色;綠松色;ターコイズ;터콰이즈;Бирюзовый
 371_Tops_09403;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 371_Tops_09404;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 372_Tops_04448;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий

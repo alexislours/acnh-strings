@@ -38,7 +38,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 083;fishing vest;fishing vest;Angelweste;chaleco de pesca;chaleco de pesca;veste de pêcheur;veste de pêcheur;giubbotto da pesca;vissersvest;钓鱼背心;釣魚背心;つりジャケット;낚시 재킷;жилет рыбака
 084;faux-shearling coat;faux-shearling coat;Kunstfelljacke;trenca sherpa;abrigo piel sintética;manteau fourré;manteau fourré;giacca di finto montone;winterjas;麂皮大衣;麂皮大衣;ムートンコート;양가죽 코트;пальто «под овчину»
 085;flannel shirt;flannel shirt;Flanellhemd;camisa de franela;camisa de franela;chemise en flanelle;gilet en flanelle;camicia di flanella;houthakkershemd;法兰绒衬衫;法蘭絨襯衫;ネルシャツ;플란넬 셔츠;шотландка
-086;denim vest;denim vest;Jeansweste;chaleco vaquero;chaleco de jean;veston en jean;veste en jean;gilet di jeans;mouwloos spijkerjasje;牛仔背心;牛仔背心;そでなしＧジャン;민소매 데님 재킷;джинсовый жилет
+086;denim vest;denim vest;Jeansweste;chaleco vaquero;chaleco de jean;veston en jean;veste en jean;gilet di jeans;spijkerhesje;牛仔背心;牛仔背心;そでなしＧジャン;민소매 데님 재킷;джинсовый жилет
 087;apron;apron;Kittelschürze;delantal;delantal;tablier;tablier;grembiule;schort;围裙;圍裙;エプロン;앞치마;фартук
 088;military uniform;military uniform;Militärjacke;chaqueta militar;uniforme militar;veste militaire;manteau militaire;giacca militare;paleiswachtersjas;骑兵队制服;騎兵隊衣服;へいたいのふく;군인 옷;военная форма
 090;cavalier shirt;cavalier shirt;Edelmann-Hemd;jersey de mosquetero;suéter mosquetero;tenue de mousquetaire;tenue de mousquetaire;giubba da moschettiere;musketierstuniek;候补骑士服;騎士衣服;じゅうきしのふく;기사 옷;форма кавалериста
@@ -130,10 +130,17 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1246;midwinter sweater;midwinter sweater;Mittwinterpulli;jersey invernal;suéter invernal;pull de plein hiver;pull de plein hiver;maglione cuore dell'inverno;midwintertrui;寒冬毛衣;寒冬毛衣;まふゆのセーター;한겨울 스웨터;зимний свитер
 1256;coral Nook Inc. aloha shirt;coral Nook Inc. aloha shirt;Nook-Inc.-Korallenhemd;cam. aloha Nook Inc. coral;cam. aloha Nook Inc. coral;chemis. Hawaï N. Inc. corail;chemis. Hawaï N. Inc. corail;cam. aloha Nook Inc. rosa;roze Nook Inc.-shirt;Nook Inc.夏威夷衬衫·珊瑚红;Nook Inc.珊瑚紅夏威夷襯衫;たぬきかいはつアロハ・コーラル;Nook Inc. 알로하 코럴;коралл. гавайка Nook Inc.
 1257;green Nook Inc. aloha shirt;green Nook Inc. aloha shirt;Nook-Inc.-Türkishemd;cam. aloha Nook Inc. verde;cam. aloha Nook Inc. verde;chemis. Hawaï N. Inc. verte;chemis. Hawaï N. Inc. verte;cam. aloha Nook Inc. verde;groen Nook Inc.-shirt;Nook Inc.夏威夷衬衫·绿色;Nook Inc.綠色夏威夷襯衫;たぬきかいはつアロハ・グリーン;Nook Inc. 알로하 그린;зеленая гавайка Nook Inc.
+1280;Hello Kitty tee;Hello Kitty tee;Hello-Kitty-Hemdchen;camiseta Hello Kitty;camiseta Hello Kitty;t-shirt Hello Kitty;t-shirt Hello Kitty;maglietta Hello Kitty;⁠Hello Kitty-⁠T-shirt;Hello Kitty T恤;Hello Kitty T恤;ハローキティなTシャツ;헬로키티 티셔츠;футболка Hello Kitty
+1285;Kiki & Lala tee;Kiki & Lala tee;Kiki-&-Lala-Shirt;camiseta Kiki & Lala;camiseta Kiki & Lala;t-shirt Kiki & Lala;t-shirt Kiki & Lala;maglietta Kiki & Lala;Kiki-&-Lala-⁠T-shirt;Kiki & Lala T恤;Kiki & LalaT恤;キキ&ララなTシャツ;리틀트윈스타 티셔츠;футболка Kiki & Lala
+1289;Pompompurin tee;Pompompurin tee;Pompompurin-Shirt;camiseta Pompompurin;camiseta Pompompurin;t-shirt Pompompurin;t-shirt Pompompurin;maglietta Pompompurin;⁠Pompompurin-⁠T-shirt;Pompompurin T恤;PompompurinT恤;ポムポムプリンなTシャツ;폼폼푸린 티셔츠;футболка Pompompurin
+1291;Cinnamoroll jacket;Cinnamoroll jacket;Cinnamoroll-Jacke;chaqueta Cinnamoroll;saco Cinnamoroll;veste Cinnamoroll;manteau Cinnamoroll;giacca Cinnamoroll;Cinnamoroll-⁠jasje;Cinnamoroll外套;Cinnamoroll外套;シナモロールなジャケット;시나모롤 재킷;пиджак Cinnamoroll
+1294;Kerokerokeroppi tank top;Kerokerokeroppi tank top;Kerokerokeroppi-Top;top Kerokerokeroppi;top Kerokerokeroppi;débardeur Kerokerokeroppi;débardeur Kerokerokeroppi;canotta Kerokerokeroppi;Kerokerokeroppi-tanktop;Kerokerokeroppi无袖上衣;Kerokerokeroppi無袖上衣;けろけろけろっぴなノースリーブ;케로케로케로피 민소매 셔츠;майка Kerokerokeroppi
 130;color-block dress shirt;color-block dress shirt;Zweifarbenhemd;camisa bicolor;camisa bicolor;chemise bicolore;chemise bicolore;camicia bicolore;tweekleurig overhemd;撞色有领衬衫;撞色有領襯衫;ツートンのエリつきシャツ;투톤 셔츠;двуцветная рубашка
+1305;Cinnamoroll puffy blouse;Cinnamoroll puffy blouse;Cinnamoroll-Puffärmelbluse;blusa Cinnamoroll;blusa Cinnamoroll;chemisier Cinnamoroll;blouse Cinnamoroll;camicetta Cinnamoroll;Cinnamoroll-blouse;Cinnamoroll蓬蓬袖上衣;Cinnamoroll蓬蓬袖上衣;シナモロールなパフブラウス;시나모롤 퍼프 블라우스;блузка Cinnamoroll
 131;one-ball tee;one-ball tee;1er-Shirt;camiseta bola 1;camiseta bola 1;t-⁠shirt nº 1;t-⁠shirt nº 1;maglietta palla 1;1-⁠bal-T-⁠shirt;1号球上衣;1號球衣服;１ばんだまのふく;1번공 옷;футболка «1»
 132;four-ball tee;four-ball tee;4er-Shirt;camiseta bola 4;camiseta bola 4;t-⁠shirt nº 4;t-⁠shirt nº 4;maglietta palla 4;4-⁠bal-T-⁠shirt;4号球上衣;4號球衣服;４ばんだまのふく;4번공 옷;футболка «4»
 133;five-ball tee;five-ball tee;5er-Shirt;camiseta bola 5;camiseta bola 5;t-⁠shirt nº 5;t-⁠shirt nº 5;maglietta palla 5;5-⁠bal-T-⁠shirt;5号球上衣;5號球衣服;５ばんだまのふく;5번공 옷;футболка «5»
+1333;My Melody shirt;My Melody shirt;My-Melody-Bluse;polo My Melody;camiseta polo My Melody;chemisette My Melody;chemisette My Melody;maglietta My Melody;My Melody-shirt;My Melody衬衫;My Melody襯衫;マイメロディなシャツ;마이멜로디 셔츠;блузка My Melody
 134;six-ball tee;six-ball tee;6er-Shirt;camiseta bola 6;camiseta bola 6;t-⁠shirt nº 6;t-⁠shirt nº 6;maglietta palla 6;6-⁠bal-T-⁠shirt;6号球上衣;6號球衣服;６ばんだまのふく;6번공 옷;футболка «6»
 135;seven-ball tee;seven-ball tee;7er-Shirt;camiseta bola 7;camiseta bola 7;t-⁠shirt nº 7;t-⁠shirt nº 7;maglietta palla 7;7-⁠bal-T-⁠shirt;7号球上衣;7號球衣服;７ばんだまのふく;7번공 옷;футболка «7»
 136;eight-ball tee;eight-ball tee;8er-Shirt;camiseta bola 8;camiseta bola 8;t-⁠shirt nº 8;t-⁠shirt nº 8;maglietta palla 8;8-⁠bal-T-⁠shirt;8号球上衣;8號球衣服;８ばんだまのふく;8번공 옷;футболка «8»
@@ -143,7 +150,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 143;waistcoat;waistcoat;Weste mit Hemd;chaleco fino;chaleco fino;gilet de smoking;veste de smoking;gilet classico;gilet;配西装背心衬衫;西裝背心配襯衫;ベストつきワイシャツ;베스트&와이셔츠;жилет
 147;nurse's jacket;nurse's jacket;Klinikkittel;chaqueta auxiliar de clínica;bata de auxiliar de clínica;blouse d'infirmier;blouse d'infirmier;blusa da infermiere;verplegersjas;护士外套;護士外套;かんごしのジャケット;간호사 재킷;спецодежда медсестры
 151;striped tank;striped tank;Ringeltop;top rayas;top a rayas;débardeur rayé;camisole rayée;canotta a righe;gestreepte tanktop;粗横纹坦克背心;粗橫紋坦克背心;ボーダーのタンクトップ;줄무늬 탱크톱;полосатый топ
-156;tuxedo jacket;tuxedo jacket;Smokingjackett;esmoquin;esmoquin;smoking;smoking;giacca dello smoking;smokingjasje;无尾礼服;晚禮服;タキシード;턱시도;смокинг
+156;tuxedo jacket;tuxedo jacket;Smokingjackett;esmoquin;esmoquin;smoking;smoking;giacca dello smoking;smokingjasje;无尾礼服;西裝禮服;タキシード;턱시도;смокинг
 157;Santa coat;Santa coat;Weihnachtsmannjacke;chaquetón Papá Noel;saco Papá Noel;manteau de père Noël;manteau de père Noël;maglia da Babbo Natale;kerstmanjas;圣诞老人外套;聖誕老人外套;サンタのジャケット;산타 재킷;куртка Санты
 159;morning coat;morning coat;Cutaway;chaqué;saco de traje;jaquette;jaquette;giacca del tight;jacquet;晨礼服;晨禮服;モーニングコート;모닝 코트;визитка
 177;tailored jacket;tailored jacket;Maßjacke;chaqueta entallada;saco entallado;veste sur mesure;veste sur mesure;giacca su misura;net jasje;休闲西装外套;休閒西裝外套;テーラードジャケット;테일러드 재킷;пиджак на заказ

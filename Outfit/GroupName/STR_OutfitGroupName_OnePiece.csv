@@ -68,7 +68,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1208;wood-egg outfit;wood-egg outfit;Holz-Glücksei-Outfit;traje de huevo leñoso;traje de huevo leñoso;tenue œuf boisé;tenue œuf boisé;abito a uovo boscoso;houtei-outfit;森林蛋衣服;森林蛋衣服;ウッディなたまごのふく;나무 달걀 옷;наряд «Лесное яйцо»
 1209;sky-egg outfit;sky-egg outfit;Luft-Glücksei-Outfit;traje de huevo celeste;traje de huevo celeste;tenue œuf aérien;tenue œuf aérien;abito a uovo celeste;luchtei-outfit;飞天蛋衣服;飛天蛋衣服;そらとぶたまごのふく;하늘을 나는 달걀 옷;наряд «Небесное яйцо»
 1210;water-egg outfit;water-egg outfit;Wasser-Glücksei-Outfit;traje de huevo acuático;traje de huevo acuático;tenue œuf aquatique;tenue œuf aquatique;abito a uovo acquatico;waterei-outfit;鱼儿蛋衣服;魚兒蛋衣服;サカナのたまごのふく;물고기 달걀 옷;наряд «Водяное яйцо»
-1219;wedding tuxedo;wedding tuxedo;Hochzeits-Smoking;esmoquin nupcial;esmoquin nupcial;smoking de mariage;habit de mariage;smoking nuziale;trouwsmoking;纯白晚礼服;純白晚禮服;じゅんぱくのタキシード;순백 턱시도;свадебный смокинг
+1219;wedding tuxedo;wedding tuxedo;Hochzeits-Smoking;esmoquin nupcial;esmoquin nupcial;smoking de mariage;habit de mariage;smoking nuziale;trouwsmoking;纯白晚礼服;純白西裝禮服;じゅんぱくのタキシード;순백 턱시도;свадебный смокинг
 1230;pirate-treasure robe;pirate-treasure robe;Piratenschatzgewand;casaca del tesoro pirata;casaca del tesoro pirata;tunique de butin pirate;tunique trésor pirate;costume tesoro pirata;piratenjas;海盗宝物长袍;海盜寶物長袍;かいぞくのおたからローブ;호화로운 해적 로브;пиратский камзол
 1231;pirate outfit;pirate outfit;Piraten-Outfit;traje de pirata;traje de pirata;tenue de pirate;tenue de pirate;costume da mozzo pirata;piratenoutfit;海盗服;海盜服;かいぞくのふく;해적 옷;пиратский наряд
 1244;mermaid fishy dress;mermaid fishy dress;Nixen-Fischkleid;vestido cola de sirena;vestido cola de sirena;robe océane de sirène;robe océane de sirène;abito a scaglie sirena;meerminnenjurk;人鱼鱼儿洋装;人魚魚兒洋裝;マーメイドなおさかなドレス;머메이드 물고기 드레스;платье русалки «Рыбка»
@@ -77,15 +77,21 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1262;raggedy outfit;raggedy outfit;Landstreicher-Outfit;traje andrajoso;traje andrajoso;tenue haillons;tenue haillons;costume cencioso;haveloze outfit;破烂服;破舊服;ボロボロなふく;찢어진 옷;изношенный наряд
 1263;mage's dress;mage's dress;Hexenkleid;vestido de hechicería;vestido de hechicería;robe de mage;robe de mage;costume stregonesco;heksenjurk;魔法师洋装;魔法師洋裝;まほうつかいのドレス;마법사 드레스;платье колдуньи
 1264;flashy animal costume;flashy animal costume;Tierkostüm;disfraz de animal;disfraz de animal;costume d'animal flashy;costume d'animal flashy;costume da animale;dierenkostuum;鲜艳动物玩偶服;鮮豔動物玩偶裝;ハデなアニマルきぐるみ;화려한 동물 인형 옷;броский зверин. костюм
+1293;Kerokerokeroppi outfit;Kerokerokeroppi outfit;Kerokerokeroppi-Kostüm;conjunto Kerokerokeroppi;conjunto Kerokerokeroppi;tenue Kerokerokeroppi;tenue Kerokerokeroppi;costume Kerokerokeroppi;Kerokerokeroppi-kostuum;Kerokerokeroppi套装;Kerokerokeroppi套裝;けろけろけろっぴなセットアップ;케로케로케로피 의상;наряд Kerokerokeroppi
 1301;Orihime outfit;Orihime outfit;Orihime-Outfit;atuendo de Orihime;atuendo de Orihime;tenue d'Orihime;tenue d'Orihime;vestito Orihime;Orihime-kostuum;织女服;織女服;おりひめのふく;직녀 옷;наряд Орихимэ
 1302;Hikoboshi outfit;Hikoboshi outfit;Hikoboshi-Outfit;atuendo de Hikoboshi;atuendo de Hikoboshi;tenue d'Hikoboshi;tenue d'Hikoboshi;vestito Hikoboshi;Hikoboshi-kostuum;牛郎服;牛郎服;ひこぼしのふく;견우 옷;наряд Хикобоси
+1303;Hello Kitty dress;Hello Kitty dress;Hello-Kitty-Kleid;vestido Hello Kitty;vestido Hello Kitty;robe Hello Kitty;robe Hello Kitty;vestito Hello Kitty;Hello Kitty-jurk;Hello Kitty连身裙;Hello Kitty連身裙;ハローキティなワンピース;헬로키티 원피스;платье Hello Kitty
 1315;magic-academy robe;magic-academy robe;Zauberlehrlingsrobe;túnica escuela de magia;túnica escuela de magia;robe école de magie;robe école de magie;vestito da scuola di magia;tovenaarsleerlinggewaad;魔法学校长袍;魔法學校長袍;まほうスクールのローブ;마법 학교 로브;наряд академии магов
+1316;Kiki & Lala dress;Kiki & Lala dress;Kiki-&-Lala-Kleid;vestido Kiki & Lala;vestido Kiki & Lala;robe Kiki & Lala;robe Kiki & Lala;vestito Kiki & Lala;Kiki-&-Lala-jurk;Kiki & Lala连身裙;Kiki & Lala連身裙;キキ&ララなワンピース;리틀트윈스타 원피스;платье Kiki & Lala
+1317;Pompompurin outfit;Pompompurin outfit;Pompompurin-Ensemble;conjunto Pompompurin;conjunto Pompompurin;tenue Pompompurin;tenue Pompompurin;completo Pompompurin;Pompompurin-kostuum;Pompompurin套装;Pompompurin套裝;ポムポムプリンなセットアップ;폼폼푸린 의상;наряд Pompompurin
 1321;Mario outfit;Mario outfit;Mario-Outfit;traje de Mario;traje de Mario;tenue de Mario;tenue de Mario;tuta di Mario;Mario-pak;马力欧服;瑪利歐服;マリオのふく;마리오 옷;наряд Марио
 1322;Luigi outfit;Luigi outfit;Luigi-Outfit;traje de Luigi;traje de Luigi;tenue de Luigi;tenue de Luigi;tuta di Luigi;Luigi-pak;路易吉服;路易吉服;ルイージのふく;루이지 옷;наряд Луиджи
 1323;Wario outfit;Wario outfit;Wario-Outfit;traje de Wario;traje de Wario;tenue de Wario;tenue de Wario;tuta di Wario;Wario-pak;瓦力欧服;瓦利歐服;ワリオのふく;와리오 옷;наряд Варио
 1330;Princess Peach dress;Princess Peach dress;Peach-Kleid;vestido de Peach;vestido de Peach;robe de Princesse Peach;robe de Princesse Peach;vestito di Peach;prinses-Peach-jurk;桃花公主洋装;碧姬公主洋裝;ピーチひめのドレス;피치공주 드레스;наряд принцессы Пич
+1332;My Melody dress;My Melody dress;My-Melody-Kleid;vestido My Melody;vestido My Melody;robe My Melody;robe My Melody;vestito My Melody;My Melody-jurk;My Melody连身裙;My Melody連身裙;マイメロディなワンピース;마이멜로디 원피스;платье My Melody
 1344;Festivale costume;Festivale costume;Karnevalstracht;traje de Carnaval;traje de Carnaval;costume de carnaval;costume de carnaval;costume Carnevale;carnavalskostuum;狂欢节服装;狂歡節服裝;カーニバルなコスチューム;카니발 의상;карнавальный костюм
 1352;shamrock suit;shamrock suit;Kleeblatt-Outfit;traje trébol;traje trébol;costume trèfle;costume trèfle;vestito trifoglio;klaverpak;三叶草装;三葉草裝;シャムロックスーツ;성 패트릭 의상;наряд «Трилистник»
+1361;vibrant tuxedo;vibrant tuxedo;Lebhaft-Smoking;esmoquin llamativo;esmoquin llamativo;smoking seyant;smoking seyant;smoking vivace;levendige smoking;彩色无尾礼服;彩色西裝禮服;カラータキシード;컬러 턱시도;яркий смокинг
 141;wedding dress;wedding dress;Brautkleid;vestido nupcial;vestido nupcial;robe de mariée;robe de mariée;vestito da sposa;trouwjurk;纯白洋装;純白洋裝;じゅんぱくのドレス;순백 드레스;свадебное платье
 146;nurse's dress uniform;nurse's dress uniform;Schwesternkittel;bata auxiliar de clínica;bata auxiliar de clínica;blouse d'infirmière;tenue d'infirmière;uniforme da infermiera;verpleegstersuniform;护士连身裙;護士連身裙;かんごしのワンピース;간호사 원피스;форма медсестры
 150;PJ outfit;PJ outfit;Pyjama;pijama de dos piezas;pijama de dos piezas;pyjama;pyjama;pigiama;pyjama;睡衣;睡衣;パジャマ;파자마;пижама
@@ -109,7 +115,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 178;flight-crew uniform;flight-crew uniform;Stewardessuniform;uniforme de azafata;uniforme de azafata;uniforme d'hôtesse de l'air;uniforme d'hôtesse de l'air;uniforme da hostess;stewardessenuniform;空乘制服;空姐服;フライトアテンダントのふく;승무원 옷;форма стюардессы
 180;mage's robe;mage's robe;Zauberumhang;capa de hechicería;capa de hechicería;robe de sorcellerie;robe de sorcellerie;vestito stregonesco;heksengewaad;魔法师长袍;魔法師長袍;まほうつかいのローブ;마술사의 로브;чародейская мантия
 181;áo dài;áo dài;Áo dài;vestido vietnamita;vestido vietnamita;áo dài;áo dài;vestito vietnamita;áo dài;越南传统服装;越南傳統服裝;アオザイ;아오자이;аозай
-182;pinafore;pinafore;Küchenkleid;mandil añejo;delantal antiguo;robe tablier;robe tablier;vestito grembiulone;schortjurk;和风连袖围裙;和風連袖圍裙;かっぽうぎ;조리복;платье кухарки
+182;pinafore;pinafore;Küchenkleid;mandil añejo;delantal antiguo;robe tablier;robe tablier;vestito con grembiulone;schortjurk;和风连袖围裙;和風連袖圍裙;かっぽうぎ;조리복;платье кухарки
 183;chima jeogori;chima jeogori;Hanbok-Kleid;vestido coreano;vestido coreano;chima chogori;chima chogori;vestito coreano;chima jeogori;韩服裙;韓服裙;チマチョゴリ;치마 한복;платье ханбок
 186;security uniform;security uniform;Polizeiuniform;uniforme de policía;uniforme de policía;tenue de policier;tenue de policier;uniforme di polizia;bewakersuniform;警服;警官服;けいかんのふく;경찰복;форма охранника
 187;toga;toga;Kaisertoga;toga;toga;toge romaine;toge romaine;toga;toga;罗马传统服装;羅馬服;ローマなふく;로마풍 옷;тога
@@ -128,6 +134,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 205;milkmaid dress;milkmaid dress;Trachtenkleid;vestido holandés;vestido holandés;robe hollandaise;robe de fermière;vestito olandese;melkmeisjesjurk;荷兰洋装;荷蘭洋裝;オランダなドレス;네덜란드풍 드레스;платье молочницы
 211;space suit;space suit;Raumanzug;traje espacial;traje espacial;combinaison spatiale;combinaison spatiale;tuta spaziale;ruimtepak;航天服;太空服;うちゅうふく;우주복;костюм космонавта
 213;racing outfit;racing outfit;Rennfahrer-Outfit;mono de carreras;overol de carreras;combinaison de pilote;combinaison de pilote;tuta da pilota;coureurspak;赛车服;賽車服;レーサーなふく;카레이서 옷;костюм гонщика
+214;sequin dress;sequin dress;Paillettenkleid;vestido de lentejuelas;vestido de lentejuelas;robe à sequins;robe à sequins;vestito con lustrini;jurk met pailletten;亮片连身裙;亮片連身裙;スパンコールのワンピース;스팽글 원피스;платье с пайетками
 215;skirt with suspenders;skirt with suspenders;Hosenträgerrock;falda con tirantes;falda con tirantes;jupe à bretelles;jupe à bretelles;gonna con bretelline;rokje met bretels;交叉背带裙;吊帶裙;つりスカート;멜빵치마;юбка на подтяжках
 216;box-skirt uniform;box-skirt uniform;Bundfaltenkleid;uniforme de recepción;uniforme de recepción;uniforme de réceptionniste;uniforme de réceptionniste;vestito con gonna a pieghe;overgooier met blouse;制服背心裙;制服背心裙;ジャンパースカートのせいふく;원피스 교복;форма с юбкой в складку
 219;denim overalls;denim overalls;Jeanslatzhose;peto tejano;overol de jean;salopette en jean;salopette en jean;salopette di jeans;denim tuinbroek met hemd;牛仔背带裤装;牛仔吊帶褲;デニムのサロペット;데님 멜빵 의상;джинсовый комбинезон
@@ -141,6 +148,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 267;nightgown;nightgown;Nachthemd;camisón con volantes;camisón con volados;chemise de nuit;chemise de nuit;camicia da notte;nachthemd;长睡袍;居家洋裝;ネグリジェ;네글리제;ночная сорочка
 268;judogi;judogi;Judogi;uniforme de judo;uniforme de judo;judogi;judogi;tenuta da judo;judopak;柔道服;柔道服;じゅうどうぎ;유도복;дзюдоги
 276;striped dress;striped dress;Ringelkleid;vestido a rayas;vestido a rayas;robe striée;robe striée;vestito a righe;gestreepte jurk;粗横纹连身裙;粗橫紋連身裙;ボーダーワンピース;줄무늬 원피스;платье в полоску
+278;bubble-skirt party dress;bubble-skirt party dress;Cocktailkleid;vestido de fiesta vistoso;vestido de fiesta vistoso;robe boule de soirée;robe boule de soirée;abito da sera vistoso;feestjurk met wijde rok;怀旧洋装;泡泡洋裝;バブルドレス;버블 드레스;платье с юбкой-баллоном
 279;linen dress;linen dress;Leinenkleid;vestido de lino;vestido de lino;robe en lin;robe en lin;vestito di lino;linnen jurk;棉麻连身裙;棉麻連身裙;リネンワンピース;리넨 원피스;льняное платье
 282;wizard's robe;wizard's robe;Zaubererumhang;túnica de mago;túnica de mago;tenue de magicien;tenue de magicien;tunica da mago;tovenaarsmantel;魔术师长袍;魔術師長袍;まじゅつしのローブ;마법사 로브;мантия волшебника
 291;striped halter dress;striped halter dress;Streifenträgerkleid;vestido a rayas sin mangas;vestido a rayas sin mangas;robe rayée sans manches;robe rayée sans manches;vestito a righe smanicato;mouwloze gestreepte jurk;绕颈连身裙;繞頸連身裙;ホルターネックのワンピース;홀터넥 원피스;платье с лямкой на шее
@@ -192,6 +200,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 452;house-print dress;house-print dress;Häuschenkleid;vestido casitas;vestido casitas;robe à motifs maisons;robe à motifs maisons;vestito con casette;jurk met huizenprint;小屋印花连身裙;小屋圖案連身裙;ハウスなプリントワンピ;집무늬 원피스;платье с рисунком «Дома»
 453;forest-print dress;forest-print dress;Waldkleid;vestido bosque;vestido bosque;robe à motifs forêt;robe à motifs forêt;vestito con alberelli;jurk met bomenprint;森林图案连身裙;森林圖案連身裙;フォレストなワンピース;나무무늬 원피스;платье с рисунком «Лес»
 454;rugby uniform;rugby uniform;Rugby-Outfit;uniforme de rugby;uniforme de rugby;tenue de rugby;tenue de rugby;uniforme da rugby;rugbytenue;橄榄球制服;橄欖球制服;ラグビーのユニフォーム;럭비 유니폼;форма для регби
+455;slip dress;slip dress;Satin-Abendkleid;vestido lencero;vestido largo satén;robe longue en satin;robe longue en satin;vestito di raso;cocktailjurk;吊带长裙;絲質洋裝;スリップドレス;슬립 원피스;платье-комбинация
 456;iron armor;iron armor;Eisenrüstung;armadura de hierro;armadura de hierro;armure en fer;armure en fer;armatura di ferro;ijzeren harnas;铁盔甲;鐵盔甲;アイアンアーマー;아이언 아머;железные доспехи
 457;long down coat;long down coat;Thermomantel;abrigo largo acolchado;abrigo largo acolchado;doudoune extra longue;doudoune extra longue;piumino lungo;lange gewatteerde jas;长羽绒外套;長羽絨大衣;ロングダウンコート;롱 패딩;длинное пуховое пальто
 458;gold armor;gold armor;Goldrüstung;armadura de oro;armadura de oro;armure en or;armure en or;armatura dorata;gouden harnas;金盔甲;金盔甲;ゴールデンアーマー;골든 아머;золотые доспехи
