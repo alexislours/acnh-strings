@@ -42,7 +42,7 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1064;kandoora;kandoora;Kandura;kandura;kandura;gandoura;gandoura;dishdasha;kaftan;阿拉伯大袍;阿拉伯傳統服裝;カンデューラ;칸두라;дишдаша
 1084;junihitoe kimono;junihitoe kimono;Hofkimono;kimono junihitoe;kimono junihitoe;kimono junihitoe;kimono junihitoe;kimono junihitoe;twaalflagige kimono;十二单和服;十二單和服;じゅうにひとえ;궁정 기모노;кимоно дзюни-хитоэ
 1085;Victorian dress;Victorian dress;Señorita-Kleid;vestido de época;vestido de época;robe victorienne;robe victorienne;abito d'epoca;saloonjurk;西班牙少女洋装;墨西哥少女洋裝;セニョリータなドレス;세뇨리따 드레스;викторианское платье
-1086;hakama with crest;hakama with crest;Wappen-Hakama;hakama con emblema;hakama con emblema;hakama à emblème;hakama à emblème;hakama con stemma;hakama met wapen;带家徽和服袴;羽織和服褶裙;もんつきはかま;가문 문양 하카마;наряд с хакамой
+1086;hakama with crest;hakama with crest;Wappen-Hakama;hakama con emblema;hakama con emblema;hakama à emblème;hakama à emblème;hakama con stemma;hakama met blazoen;带家徽和服袴;羽織和服褶裙;もんつきはかま;가문 문양 하카마;наряд с хакама
 1087;apple dress;apple dress;Apfelkleid;vestido manzana;vestido manzana;robe pomme;robe pomme;vestito mela;appeljurk;苹果服;蘋果服;リンゴのふく;사과 옷;платье «Яблоко»
 1088;pear dress;pear dress;Birnenkleid;vestido pera;vestido pera;robe poire;robe poire;vestito pera;perenjurk;梨子服;梨子服;ナシのふく;배 옷;платье «Груша»
 1089;cherry dress;cherry dress;Kirschkleid;vestido cerezas;vestido cerezas;robe cerise;robe cerise;vestito ciliegia;kersenjurk;樱桃服;櫻桃服;さくらんぼのふく;체리 옷;платье «Вишня»
@@ -92,6 +92,8 @@ label;English;English (Europe);German;Spanish;Spanish (US);French;French (US);It
 1344;Festivale costume;Festivale costume;Karnevalstracht;traje de Carnaval;traje de Carnaval;costume de carnaval;costume de carnaval;costume Carnevale;carnavalskostuum;狂欢节服装;狂歡節服裝;カーニバルなコスチューム;카니발 의상;карнавальный костюм
 1352;shamrock suit;shamrock suit;Kleeblatt-Outfit;traje trébol;traje trébol;costume trèfle;costume trèfle;vestito trifoglio;klaverpak;三叶草装;三葉草裝;シャムロックスーツ;성 패트릭 의상;наряд «Трилистник»
 1361;vibrant tuxedo;vibrant tuxedo;Lebhaft-Smoking;esmoquin llamativo;esmoquin llamativo;smoking seyant;smoking seyant;smoking vivace;levendige smoking;彩色无尾礼服;彩色西裝禮服;カラータキシード;컬러 턱시도;яркий смокинг
+1376;white hakama with crest;white hakama with crest;Weiß-Wappen-Hakama;hakama nupcial emblema;hakama nupcial emblema;hakama blanc à emblème;hakama blanc à emblème;hakama bianco con stemma;witte hakama met blazoen;白色带家徽和服袴;白色羽織和服褶裙;しろいもんつきはかま;하얀 가문 문양 하카마;белый наряд с хакама
+1377;shiromuku;shiromuku;Shiromuku;shiromuku nupcial;shiromuku nupcial;shiromuku;shiromuku;shiromuku;shiromuku;白无垢;白無垢;しろむく;일본 전통 신부복;кимоно сиромуку
 141;wedding dress;wedding dress;Brautkleid;vestido nupcial;vestido nupcial;robe de mariée;robe de mariée;vestito da sposa;trouwjurk;纯白洋装;純白洋裝;じゅんぱくのドレス;순백 드레스;свадебное платье
 146;nurse's dress uniform;nurse's dress uniform;Schwesternkittel;bata auxiliar de clínica;bata auxiliar de clínica;blouse d'infirmière;tenue d'infirmière;uniforme da infermiera;verpleegstersuniform;护士连身裙;護士連身裙;かんごしのワンピース;간호사 원피스;форма медсестры
 150;PJ outfit;PJ outfit;Pyjama;pijama de dos piezas;pijama de dos piezas;pyjama;pyjama;pigiama;pyjama;睡衣;睡衣;パジャマ;파자마;пижама

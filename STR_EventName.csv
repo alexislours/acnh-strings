@@ -8,8 +8,9 @@ InsectConvention2;Bug-Off;Bug-Off;Insektikus-Turnier;Caza de Bichos;Caza de Inse
 InsectConvention3;Bug-Off;Bug-Off;Insektikus-Turnier;Caza de Bichos;Caza de Insectos;Insectosafari;Insectosafari;Insettomania;Beestjesbeker;捕虫大赛;捕蟲大會;ムシとり大会;곤충채집대회;Турнир «Мастер сачка»
 InsectConvention4;Bug-Off;Bug-Off;Insektikus-Turnier;Caza de Bichos;Caza de Insectos;Insectosafari;Insectosafari;Insettomania;Beestjesbeker;捕虫大赛;捕蟲大會;ムシとり大会;곤충채집대회;Турнир «Мастер сачка»
 Countdown;Countdown;Countdown;Countdown;cuenta atrás;Cuenta regresiva;Compte à rebours;Compte à rebours;Conto alla rovescia;Aftellen;倒数;倒數;カウントダウン;카운트다운;Отсчет
-MothersDay;Mother's Day;Mother's Day;Muttertag;Día de la Madre;Día de la Madre;Fête des mères;Fête des mères;Festa della mamma;Moederdag;母亲节;母親節;母の日;어머니날;День матери
-FathersDay;Father's Day;Father's Day;Vatertag;Día del Padre;Día del Padre;Fête des pères;Fête des pères;Festa del papà;Vaderdag;父亲节;世界父親節;父の日;아버지날;День отца
+MothersDay;Mother's Day;Mother's Day;Muttertag;Día de la Madre;Día de la Madre;Fête des mères;Fête des Mères;Festa della mamma;Moederdag;母亲节;母親節;母の日;어머니날;День матери
+FathersDay;Father's Day;Father's Day;Vatertag;Día del Padre;Día del Padre;Fête des pères;Fête des Pères;Festa del papà;Vaderdag;父亲节;世界父親節;父の日;아버지날;День отца
+FathersDay2;Father's Day;Father's Day;Vatertag;Día del Padre;Día del Padre;Fête des pères;Fête des Pères;Festa del papà;Vaderdag;父亲节;世界父親節;父の日;아버지날;День отца
 WorldChild;International Children's Day;International Children's Day;Weltweiter Tag der Kinder;Día de la Infancia;Día de la Infancia;Jour mondial des enfants;Jour mondial des enfants;Giorno mondiale dei bambini;Internationale Kinderdag;国际儿童节;國際兒童節;国際こどもの日;국제 어린이날;Всемирный день детей
 SummerSolstice;Summer Solstice;Summer Solstice;Mittsommer;Solsticio de verano;Solsticio de verano;Solstice d'été;Solstice d'été;Solstizio d'estate;Midzomer;夏至;夏至;夏至;하지;Летнее солнцестояние
 SouthernMidwinter;Summer Solstice;Summer Solstice;Mittsommer;Solsticio de verano;Solsticio de verano;Solstice d'été;Solstice d'été;Solstizio d'estate;Midzomer;夏至;夏至;夏至;하지;Летнее солнцестояние
@@ -42,7 +43,15 @@ RegionHinamatsuri;Hinamatsuri;Hinamatsuri;Hinamatsuri;Hinamatsuri;Hinamatsuri;Hi
 RegionPiDay;π Day;π Day;Pi-Tag;Día de π;Día de π;Jour de π;Jour de π;Giorno del Pi greco;π-dag;圆周率日;圓周率日;πデー;π 데이;День числа π
 RegionShamrockDay;Shamrock Day;Shamrock Day;Kleeblatttag;Día del Trébol;Día del Trébol;Jour du trèfle;Jour du trèfle;Giorno del trifoglio;Klaverdag;三叶草日;三葉草日;シャムロックデー;성 패트릭 데이;День трилистника
 RegionEarthDay;Nature Day;Nature Day;Tag der Natur;Día de la Naturaleza;Día de la Naturaleza;Jour de la nature;Jour de la nature;Giorno della natura;Natuurdag;地球日;地球日;アースデー;지구의 날;День природы
-RegionAprilFool;April Fools' Day;April Fools' Day;1. April;Día de las Bromas;Día de las Bromas;1er avril;1er avril;Pesce d'aprile;1 april;愚人节;愚人節;エイプリルフール;만우절;День розыгрышей
+RegionAprilFool;April Fools' Day;April Fools' Day;1. April;Día de las Bromas;Día de las Bromas;1er avril;1 avril;Pesce d'aprile;1 april;愚人节;愚人節;エイプリルフール;만우절;День розыгрышей
 RegionProm;Prom;Prom;Abschlussball;Baile de fin de curso;Baile de fin de curso;Bal de promo;Bal des finissants;Ballo scolastico;Galadag;毕业舞会;畢業舞會;プロム;프롬;Выпускной вечер
 RegionProm2;Prom;Prom;Abschlussball;Baile de fin de curso;Baile de fin de curso;Bal de promo;Bal des finissants;Ballo scolastico;Galadag;毕业舞会;畢業舞會;プロム;프롬;Выпускной вечер
 RegionTreeDay;Singmogil;Singmogil;Singmogil;Singmogil;Singmogil;Singmogil;Singmogil;Singmogil;Singmogil;植木日;植木日;植木の日;식목일;Сингмогил
+RegionChildrensDay;Children's Day;Children's Day;Kodomo no Hi;Día del Niño;Día del Niño;Jour des enfants;Jour des enfants;Giorno dei bambini;Kodomo no Hi;日本儿童节;日本兒童節;こどもの日;단고노셋쿠;День ребенка
+RegionCheeseFestival;Cheese Rolling;Cheese Rolling;Käserollen;Festival del queso rodante;Festival del queso rodante;Course au fromage;Course au fromage;Cheeserolling;Kaasrollen;滚奶酪节;滾起司節;チーズ転がし;치즈 굴리기;Сырная гонка
+RegionDragonBoatFestival;Dano Festival;Dano Festival;Dano-Festival;Festival Dano;Festival Dano;Fête de Dano;Fête de Dano;Festival Dano;Danofestival;端午节;端午節;端午節;단오;Праздник Тано
+RegionDragonBoatFestivalCh;Dragon Boat Festival;Dragon Boat Festival;Drachenbootfest;Festival del bote del dragón;Festival del bote del dragón;Fête des bateaux-dragons;Fête des bateaux-dragons;Festa delle barche drago;Drakenbotenfestival;端午节;端午節;端午節;단오;Праздник драконьих лодок
+RegionMarineDay;Marine Day;Marine Day;Tag des Meeres;Día del Mar;Día del Mar;Jour de la mer;Jour de la mer;Giorno del mare;Oceaandag;海之日;海之日;海の日;바다의 날;День моря
+RegionParisFestival;Le 14 juillet;Le 14 juillet;14. Juli;14 de julio;14 de julio;Le 14 juillet;Le 14 juillet;Le 14 juillet;14 juillet;巴士底日;巴士底日;パリ祭;프랑스 혁명기념일;14 Июля
+RegionJuneBride;Wedding Season;Wedding Season;Hochzeitssaison;Temporada de bodas;Temporada de bodas;Saison des mariages;Saison des mariages;Stagione dei matrimoni;Trouwseizoen;六月新娘;六月新娘;ジューンブライド;6월의 신부;Свадебный сезон
+RegionJuneBride2;Wedding Season;Wedding Season;Hochzeitssaison;Temporada de bodas;Temporada de bodas;Saison des mariages;Saison des mariages;Stagione dei matrimoni;Trouwseizoen;六月新娘;六月新娘;ジューンブライド;6월의 신부;Свадебный сезон

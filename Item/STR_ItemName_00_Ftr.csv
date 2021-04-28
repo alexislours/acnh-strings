@@ -97,6 +97,7 @@ Ftr_00997;incense burner;incense burner;Räucherstäbchen-Set;quemador de incien
 Ftr_00998;kitchen island;kitchen island;Kücheninsel;isla de cocina;isla de cocina;îlot de cuisine;îlot de cuisine;isola da cucina;keukeneiland;岛式厨房;島式廚房;アイランドキッチン;아일랜드 키친;кухонный островок
 Ftr_01004;kadomatsu;kadomatsu;Kadomatsu;kadomatsu;kadomatsu;kadomatsu;kadomatsu;kadomatsu;bamboe-ornament;门松;門松;かどまつ;새해맞이 대나무;кадомацу
 Ftr_01005;kagamimochi;kagamimochi;Kagami-Mochi;kagamimochi;kagamimochi;kagamimochi;kagamimochi;kagamimochi;kagami-mochi;镜饼;鏡餅;かがみもち;새해맞이 찰떡;кагами моти
+Ftr_01016;carp banner;carp banner;Karpfenwimpel;koinobori;koinobori;bannière carpe;bannière carpe;pennone koinobori;karperwimpels;鲤鱼旗;鯉魚旗;こいのぼり;잉어 깃발;вымпелы коинобори
 Ftr_01023;pile of leaves;pile of leaves;Laubhaufen;montón de hojas;montón de hojas;tas de feuilles;tas de feuilles;mucchio di foglie;berg bladeren;落叶;落葉;おちば;낙엽;куча листьев
 Ftr_01029;low screen;low screen;Sichtschutz;cubrechimeneas;cubrechimeneas;panneau bas;panneau bas;separé basso;laag scherm;矮屏风;矮屏風;ひくいついたて;낮은 파티션;низкая ширма
 Ftr_01032;magazine rack;magazine rack;Zeitschriftenablage;revistero;revistero;porte-revues pliable;porte-revues pliable;portariviste;tijdschriftenrekje;杂志架;雜誌架;マガジンラック;잡지 꽂이;стоечка для журналов
@@ -540,7 +541,7 @@ Ftr_04087;spooky carriage;spooky carriage;Kürbiskutsche;carruaje calabaza;carru
 Ftr_04088;spooky lantern;spooky lantern;Kürbislaterne;farol calabaza;farol calabaza;lanterne Halloween;lanterne frisson;lanterna brividi;pompoenlantaarn;万圣节灯笼;萬聖節燈籠;ハロウィンなランタン;할로윈 랜턴;жуткий светильник
 Ftr_04089;spooky chair;spooky chair;Kürbisstuhl;taburete calabaza;taburete calabaza;siège Halloween;siège frisson;sedia brividi;pompoenkruk;万圣节椅;萬聖節椅;ハロウィンなチェア;할로윈 체어;жуткий табурет-тыква
 Ftr_04090;spooky table;spooky table;Kürbistisch;mesa grande calabaza;mesa grande calabaza;table Halloween;table frisson;tavolo brividi;pompoentafel;万圣节桌;萬聖節桌;ハロウィンなテーブル;할로윈 테이블;жуткий стол-тыква
-Ftr_04092;spooky lantern set;spooky lantern set;Kürbislaternenset;set de faroles calabaza;set de faroles calabaza;set de lanternes Halloween;lanternes frisson;set di lanterne brividi;pompoenlantaarns;万圣节灯笼组合;萬聖節燈籠組合;ハロウィンなランタンセット;할로윈 랜턴 세트;жуткие светильники
+Ftr_04092;spooky lantern set;spooky lantern set;Kürbislaternenset;set de faroles calabaza;set de faroles calabaza;set de lanternes Halloween;ensemble lanternes frisson;set di lanterne brividi;pompoenlantaarns;万圣节灯笼组合;萬聖節燈籠組合;ハロウィンなランタンセット;할로윈 랜턴 세트;жуткие светильники
 Ftr_04093;bamboo drum;bamboo drum;Bambustrommel;xilófono de bambú;xilofón de bambú;tambour à fentes bambou;tambour à fentes bambou;tamburo a fessura di bambù;bamboe-xylofoon;竹鼓;竹鼓;バンブードラム;대나무 드럼;барабаны из бамбука
 Ftr_04094;floating-biotope planter;floating-biotope planter;Balkonteich;minibiotopo flotante;minibiotopo flotante;biotope en pot;biotope en pot;mini biotopo galleggiante;minivijver;迷你生态池;迷你生態池;ビオトープ;비오톱;водный комнатный сад
 Ftr_04098;bidet;bidet;Bidet;bidé;bidet;bidet;bidet;bidet;bidet;坐浴桶;坐浴桶;ビデ;수동 비데;биде
@@ -974,9 +975,16 @@ Ftr_14008;Bunny Day planter box;Bunny Day planter box;Häschentag-Blumenkasten;m
 Ftr_14009;Bunny Day candy;Bunny Day candy;Häschentag-Naschteller;plato dulces Caza del Huevo;plato dulces Caza del Huevo;lot de chocos fête des œufs;lot chocolats fête des œufs;set dolci caccia all'uovo;konijn-en-eiersnoepgoed;复活节甜点;復活節甜點;イースターなおかし;이스터 디저트;сладости на День зайцев
 Ftr_14020;π pie;π pie;Pi-Kuchen;pastel de π;pastel de π;tarte π;tarte π;torta del Pi greco;π-taart;圆周率派;圓周率派;πパイ;π 파이;пирог π
 Ftr_14023;cool globe;cool globe;Globus (cool);globo terrestre;globo terrestre;globe cool;globe cool;globo girevole;ouderwetse wereldbol;帅气地球仪;帥氣地球儀;かっこいいちきゅうぎ;멋진 지구의;классный глобус
+Ftr_14024;carnations;carnations;Nelken-Bouquet;cesta de claveles;cesta de claveles;bouquet d'œillets;bouquet d'œillets;vaso di garofani;anjers;康乃馨;康乃馨;カーネーション;카네이션;гвоздики
 Ftr_14029;heart-shaped bouquet;heart-shaped bouquet;Herz-Bouquet;ramo de flores Enamorados;ramo de flores corazón;bouquet en forme de cœur;bouquet en forme de cœur;bouquet a cuore;hartvormig boeket;心形玫瑰花束;愛心玫瑰花束;ハートのバラブーケ;하트 장미 꽃다발;букет в форме сердца
 Ftr_14041;forsythia;forsythia;Forsythie;forsitia;forsitia;forsythia;forsythia;forsizia;forsythia;连翘;連翹花;レンギョウ;개나리;форзиция
-Ftr_14142;first-anniversary cake;first-anniversary cake;1.-Jubiläum-Kuchen;tarta primer aniversario;pastel primer aniversario;gâteau du 1er anniversaire;gâteau du 1er anniversaire;torta 1º anniversario;jubileumtaart;一周年蛋糕;一週年蛋糕;1stアニバーサリーケーキ;1주년 케이크;юбилейный торт «1 год»
+Ftr_14142;first-anniversary cake;first-anniversary cake;1.-Jubiläum-Kuchen;tarta primer aniversario;pastel primer aniversario;gâteau du 1er anniversaire;gâteau du 1 anniversaire;torta 1º anniversario;jubileumtaart;一周年蛋糕;一週年蛋糕;1stアニバーサリーケーキ;1주년 케이크;юбилейный торт «1 год»
 Ftr_14266;floating block;floating block;Schwebeblock;bloque elevado;bloque flotante;bloc flottant;bloc flottant;blocco fluttuante;zwevend blok;空中砖块;空中磚塊;くうちゅうのレンガブロック;떠 있는 블록;парящий блок
 Ftr_14298;aloha-edition carrying case;ACNH carrying case;ACNH-Edition-Tasche;funda edición ACNH;funda edición ACNH;pochette édition ACNH;étui ACNH édition Aloha;custodia edizione ACNH;etui van ACNH;Nook夏威夷花纹便携包;Nook夏威夷花紋便攜包;たぬきアロハSwitchケース;알로하 에디션 휴대용 케이스;чехол (версия ACNH)
 Ftr_14340;whoopee cushion;whoopee cushion;Pupskissen;cojín de broma;cojín de broma;coussin péteur;coussin péteur;petofono;scheetkussen;放屁坐垫;放屁坐墊;ブーブークッション;방귀 쿠션;подушка для розыгрыша
+Ftr_14355;festival zongzi;festival zongzi;Drachenbootfest-Zongzi;plato de zongzis;plato de zongzis;zongzi de festival;zongzi de festival;piatto di fagottini di riso;festivalzongzi;端午节粽子;端午節粽子;たんごせつのちまき;쭝쯔;цзунцзы к празднику
+Ftr_14356;surichwi tteok;surichwi tteok;Surichwi Tteok;plato de surichwi tteok;plato de surichwi tteok;surichwi tteok;surichwi tteok;piatto di surichwi tteok;surichwi-tteok;山牛蒡糕;山牛蒡糕;スリチトック;수리취떡;тток к празднику
+Ftr_14357;double Gloucester cheese;double Gloucester cheese;Double-Gloucester-Käse;queso Gloucester doble;queso Gloucester doble;double Gloucester;double Gloucester;forma di Double Gloucester;double Gloucester;双料格洛斯特硬干酪;雙倍格洛斯特起司;ダブルグロスターチーズ;더블 글로스터 치즈;сыр «Двойной глостер»
+Ftr_14476;nuptial bell;nuptial bell;Vermählungs-Glocke;campana nupcial;campana nupcial;cloche nuptiale;cloche nuptiale;campana sposini;liefdesbel;结婚钟;結婚鐘;ウェディングベル;결혼식 종;брачный колокол
+Ftr_14477;nuptial ring pillow;nuptial ring pillow;Vermählungs-Ringkissen;cojín con alianzas nupciales;cojín con anillos nupciales;coussin d'alliances nuptial;coussin d'alliances nuptial;portanelli sposini;liefdesringenkussentje;戒枕;戒枕;リングピロー;결혼식 링 필로;подушечка с кольцами
+Ftr_14532;art plaque;art plaque;Kunstwandschmuck;placa dorada de arte;placa dorada de arte;cartel;cartel;placca d'arte;kunstplaket;艺术挂饰;藝術壁飾;アートのかべかざり;아트 벽장식;доска «Искусство»

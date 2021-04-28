@@ -7,6 +7,9 @@ CraftPhoneCase_08760_4;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;�
 CraftPhoneCase_08760_5;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 CraftPhoneCase_08760_6;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 CraftPhoneCase_08760_7;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
+DoorDeco_14475_0;Gold;Gold;Gold;Dorado;Dorado;Or;Or;Dorato;Goud;金色;金色;ゴールド;골드;Золотой
+DoorDeco_14475_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
+DoorDeco_14475_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 Ftr_00725_0;Plain;Plain;Schlicht;Sencillo;Sencillo;Uni;Uni;Semplice;Kaal;无图案;無圖案;無地;무지;Стандарт
 Ftr_00725_1;Spring;Spring;Frühling;Primavera;Primavera;Printemps;Printemps;Primavera;Lente;春;春;春;봄;Весна
 Ftr_00725_2;Summer;Summer;Sommer;Verano;Verano;Été;Été;Estate;Zomer;夏;夏;夏;여름;Лето
@@ -446,7 +449,7 @@ Ftr_08298_2;Checkered;Checkered;Karos;Cuadros;Cuadros;Carreaux;Carreaux;Scacchi;
 Ftr_08298_3;Space;Space;Weltraum;Espacio;Espacio;Cosmos;Cosmos;Spazio;Ruimte;宇宙;宇宙;コスモ;코스모;Космос
 Ftr_08298_4;Colorful lines;Colorful lines;Bunte Streifen;Líneas de colores;Líneas de colores;Rayures multicolores;Rayures multicolores;Righe multicolore;Gekleurde lijnen;彩条;彩色線條;カラフルライン;컬러풀 라인;Цветные полоски
 Ftr_12410_0;Message;Message;Gruß;Texto;Texto;Message;Message;Messaggio;Bericht;信息;訊息;メッセージ;메시지;Послание
-Ftr_12410_1;Reese & Cyrus;Reese & Cyrus;Rosina & Björn;Al y Paca;Al y Paca;Risette & Serge;Risette & Serge;Alpaca e Merino;Reese en Cyrus;莉咏＆健兆;莉詠＆健兆;リサ＆カイゾー;리사&리포;Риз и Сайрус
+Ftr_12410_1;Reese & Cyrus;Reese & Cyrus;Rosina & Björn;Al y Paca;Al y Paca;Risette & Serge;Risette et Serge;Alpaca e Merino;Reese en Cyrus;莉咏＆健兆;莉詠＆健兆;リサ＆カイゾー;리사&리포;Риз и Сайрус
 SmartPhone_05397_0;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 SmartPhone_05397_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 SmartPhone_05397_2;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый

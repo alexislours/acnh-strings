@@ -86,6 +86,9 @@ DoorDeco_05718_6;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブ�
 DoorDeco_05718_7;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
 DoorDeco_05719_0;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
 DoorDeco_05719_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
+DoorDeco_14475_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
+DoorDeco_14475_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
+DoorDeco_14475_2;Red & white;Red & white;Rot-weiß;Blanco y rojo;Blanco y rojo;Rouge & blanc;Rouge et blanc;Rosso e bianco;Rood en wit;红色×白色;紅色×白色;レッド×ホワイト;레드×화이트;Красный с белым
 FishingRod_02377_0;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 FishingRod_02377_1;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 FishingRod_02377_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
@@ -3164,13 +3167,13 @@ Ftr_13242_5;Light blue;Light blue;Hellblau;Celeste;Celeste;Bleu clair;Bleu pâle
 Ftr_13242_6;Purple;Purple;Lila;Púrpura;Morado;Violet;Mauve;Viola;Paars;紫色;紫色;パープル;퍼플;Фиолетовый
 Ftr_13243_0;Beige;Beige;Beige;Beis;Beige;Beige;Beige;Beige;Beige;米色;米色;ベージュ;베이지;Бежевый
 Ftr_13243_1;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
-Ftr_13243_2;Lemon & white;Lemon & white;Gelb-weiß;Pardo y blanco;Marroncito y blanco;Rousse & blanche;Jaune citron & blanche;Bianco e marroncino;Geel-wit;柠檬黄＆白色;檸檬黃＆白色;レモン＆ホワイト;레몬&화이트;Лимон с белым
+Ftr_13243_2;Lemon & white;Lemon & white;Gelb-weiß;Pardo y blanco;Marroncito y blanco;Rousse & blanche;Jaune citron et blanche;Bianco e marroncino;Geel-wit;柠檬黄＆白色;檸檬黃＆白色;レモン＆ホワイト;레몬&화이트;Лимон с белым
 Ftr_13243_3;Spotted;Spotted;Gepunktet;A topos;A lunares;Tachetée;Tachetée;Punteggiato;Gevlekt;斑点;斑點;スポット;점박이;Пятнистый
 Ftr_13243_4;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;ブラック;블랙;Черный
 Ftr_13243_5;Tricolored;Tricolored;Dreifarbig;Tricolor;Tricolor;Tricolore;Tricolore;Tre colori;Driekleurig;三色;三色;トライカラー;삼색;Трехцветный
-Ftr_13243_6;Gray & white;Gray & white;Grau-weiß;Gris y blanco;Gris y blanco;Grise & blanche;Grise & blanche;Grigio e bianco;Grijs-wit;灰色＆白色;灰色＆白色;グレー＆ホワイト;그레이&화이트;Серый с белым
+Ftr_13243_6;Gray & white;Gray & white;Grau-weiß;Gris y blanco;Gris y blanco;Grise & blanche;Grise et blanche;Grigio e bianco;Grijs-wit;灰色＆白色;灰色＆白色;グレー＆ホワイト;그레이&화이트;Серый с белым
 Ftr_13243_7;Pink;Pink;Rosa;Rosa;Rosa;Rose;Rose;Rosa;Roze;粉红;粉紅色;ピンク;핑크;Розовый
-Ftr_13244_0;Red & green;Red & green;Rot-grün;Rojo y verde;Rojo y verde;Rouge & vert;Rouge & vert;Rosso e verde;Rood-groen;红色×绿色;紅色×綠色;レッド×グリーン;레드×그린;Красный с зеленым
+Ftr_13244_0;Red & green;Red & green;Rot-grün;Rojo y verde;Rojo y verde;Rouge & vert;Rouge et vert;Rosso e verde;Rood-groen;红色×绿色;紅色×綠色;レッド×グリーン;레드×그린;Красный с зеленым
 Ftr_13244_1;Colorful;Colorful;Bunt;Multicolor;Multicolor;Multicolore;Multicolore;Variopinto;Veelkleurig;彩色;彩色;カラフル;컬러풀;Яркий
 Ftr_13244_2;Cute;Cute;Süß;Adorable;Adorable;Adorable;Adorable;Grazioso;Schattig;可爱色;可愛色;キュート;큐트;Милый
 Ftr_13244_3;Cool;Cool;Cool;Moderno;Moderno;Cool;Cool;Spavaldo;Cool;酷感色;酷感色;クール;쿨;Модный
@@ -3202,10 +3205,10 @@ Ftr_13249_4;Floral;Floral;Blumen;Floral;Floral;À fleurs;À fleurs;Floreale;Gebl
 Ftr_13249_5;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
 Ftr_13249_6;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_13249_7;Colorful;Colorful;Bunt;Multicolor;Multicolor;Multicolore;Multicolore;Variopinto;Veelkleurig;彩色;彩色;カラフル;컬러풀;Яркий
-Ftr_13250_0;Red & white;Red & white;Rot-weiß;Rojo y blanco;Rojo y blanco;Rouge & blanc;Rouge & blanc;Rosso e bianco;Rood en wit;红色＆白色;紅色＆白色;レッド＆ホワイト;레드&화이트;Красный с белым
-Ftr_13250_1;Blue & yellow;Blue & yellow;Blau-gelb;Azul y amarillo;Azul y amarillo;Bleu & jaune;Bleu & jaune;Blu e giallo;Blauw en geel;蓝色＆黄色;藍色＆黃色;ブルー＆イエロー;블루&옐로;Синий с желтым
+Ftr_13250_0;Red & white;Red & white;Rot-weiß;Rojo y blanco;Rojo y blanco;Rouge & blanc;Rouge et blanc;Rosso e bianco;Rood en wit;红色＆白色;紅色＆白色;レッド＆ホワイト;레드&화이트;Красный с белым
+Ftr_13250_1;Blue & yellow;Blue & yellow;Blau-gelb;Azul y amarillo;Azul y amarillo;Bleu & jaune;Bleu et jaune;Blu e giallo;Blauw en geel;蓝色＆黄色;藍色＆黃色;ブルー＆イエロー;블루&옐로;Синий с желтым
 Ftr_13250_2;Black & silver;Black & silver;Schwarz-silber;Negro y plateado;Negro y plateado;Noir et argenté;Noir et argenté;Nero e argento;Zwart en zilver;黑色＆银色;黑色＆銀色;ブラック＆シルバー;블랙&실버;Черный с серебром
-Ftr_13250_3;Pink & purple;Pink & purple;Rosa-lila;Rosa y morado;Rosa y morado;Rose & violet;Rose & mauve;Rosa e viola;Roze en paars;粉红色＆紫色;粉紅色＆紫色;ピンク＆パープル;핑크&퍼플;Розовый с фиолетовым
+Ftr_13250_3;Pink & purple;Pink & purple;Rosa-lila;Rosa y morado;Rosa y morado;Rose & violet;Rose et mauve;Rosa e viola;Roze en paars;粉红色＆紫色;粉紅色＆紫色;ピンク＆パープル;핑크&퍼플;Розовый с фиолетовым
 Ftr_13251_0;Gray;Gray;Grau;Gris;Gris;Gris;Gris;Grigio;Grijs;灰色;灰色;グレー;그레이;Серый
 Ftr_13251_1;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
 Ftr_13251_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
@@ -3310,6 +3313,12 @@ Ftr_14029_5;Black;Black;Schwarz;Negro;Negro;Noir;Noir;Nero;Zwart;黑色;黑色;�
 Ftr_14340_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Ftr_14340_1;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
 Ftr_14340_2;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
+Ftr_14476_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
+Ftr_14476_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
+Ftr_14476_2;Brown;Brown;Braun;Marrón;Marrón;Brun;Brun;Marrone;Bruin;棕色;棕色;ブラウン;브라운;Коричневый
+Ftr_14477_0;White;White;Weiß;Blanco;Blanco;Blanc;Blanc;Bianco;Wit;白色;白色;ホワイト;화이트;Белый
+Ftr_14477_1;Blue;Blue;Blau;Azul;Azul;Bleu;Bleu;Blu;Blauw;蓝色;藍色;ブルー;블루;Синий
+Ftr_14477_2;Red & white;Red & white;Rot-weiß;Blanco y rojo;Blanco y rojo;Rouge & blanc;Rouge et blanc;Rosso e bianco;Rood en wit;红色×白色;紅色×白色;レッド×ホワイト;레드×화이트;Красный с белым
 Net_05784_0;Red;Red;Rot;Rojo;Rojo;Rouge;Rouge;Rosso;Rood;红色;紅色;レッド;레드;Красный
 Net_05784_1;Yellow;Yellow;Gelb;Amarillo;Amarillo;Jaune;Jaune;Giallo;Geel;黄色;黃色;イエロー;옐로;Желтый
 Net_05784_2;Green;Green;Grün;Verde;Verde;Vert;Vert;Verde;Groen;绿色;綠色;グリーン;그린;Зеленый
